@@ -1,0 +1,337 @@
+[
+  {
+    "id": 3266,
+    "automobile_id": 750,
+    "name": "M40i 8AT AWD (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2998 Cm3",
+        "Power:": "264.8 Kw @ 5500-6500 Rpm\r\n360 Hp @ 5500-6500 Rpm\r\n355 Bhp @ 5500-6500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1520-4800 Rpm\r\n500 Nm @ 1520-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R20 103W Xl || 275/40 R20 106W Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "112.8 In (2865 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4156 Lbs (1885 Kg)",
+        "Gross Weight Limit:": "5412 Lbs (2455 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions:": "193 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3267,
+    "automobile_id": 750,
+    "name": "sDrive20i RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "214 Lb-Ft @ 1350-4600 Rpm\r\n290 Nm @ 1350-4600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R18 104W Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "112.8 In (2865 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3268,
+    "automobile_id": 750,
+    "name": "xDrive20i 8AT AWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "214 Lb-Ft @ 1350-4600 Rpm\r\n290 Nm @ 1350-4600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R18 104W Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "112.8 In (2865 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "165 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3269,
+    "automobile_id": 750,
+    "name": "xDrive30i 8AT AWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "185.4 Kw @ 5200 Rpm\r\n252 Hp @ 5200 Rpm\r\n249 Bhp @ 5200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1450-4800 Rpm\r\n350 Nm @ 1450-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R18 104W Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "112.8 In (2865 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3270,
+    "automobile_id": 750,
+    "name": "xDrive20d 8AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R18 104W Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "112.8 In (2865 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4023 Lbs (1825 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "47 Mpg Us (5 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "142 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3271,
+    "automobile_id": 750,
+    "name": "xDrive30d 8AT AWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "194.9 Kw @ 4000 Rpm\r\n265 Hp @ 4000 Rpm\r\n261 Bhp @ 4000 Rpm",
+        "Torque:": "457 Lb-Ft @ 2000-2500 Rpm\r\n620 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R18 104W Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "112.8 In (2865 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4178 Lbs (1895 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "158 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3272,
+    "automobile_id": 750,
+    "name": "xDrive20d 8AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R18 104W Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "112.8 In (2865 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4045 Lbs (1835 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Highway:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "126 G/Km"
+      }
+    }
+  }
+]

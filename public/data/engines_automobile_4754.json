@@ -1,0 +1,90 @@
+[
+  {
+    "id": 18817,
+    "automobile_id": 4754,
+    "name": "1.6L 5MT FWD (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "89.7 Kw @ 6000 Rpm\r\n122 Hp @ 6000 Rpm\r\n120 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4400 Rpm\r\n155 Nm @ 4400 Rpm",
+        "Fuel System:": "Sequential Multi-Port Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65R15"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "59.8X60.2 In (1519 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "6.8 In (173 Mm)",
+        "Cargo Volume:": "14.7 Cuft (416 L)",
+        "Aerodynamics (Cd):": "0.319"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2599 Lbs (1179 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)",
+        "Combined:": "30 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18818,
+    "automobile_id": 4754,
+    "name": "1.6L CVT FWD (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "89.7 Kw @ 6000 Rpm\r\n122 Hp @ 6000 Rpm\r\n120 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4400 Rpm\r\n155 Nm @ 4400 Rpm",
+        "Fuel System:": "Sequential Multi-Port Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Ctv Xtronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65R15"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "59.8X60.2 In (1519 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "6.8 In (173 Mm)",
+        "Cargo Volume:": "14.7 Cuft (416 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2650 Lbs (1202 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "35 Mpg Us (6.7 L/100Km)"
+      }
+    }
+  }
+]

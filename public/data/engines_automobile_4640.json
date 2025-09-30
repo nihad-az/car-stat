@@ -1,0 +1,102 @@
+[
+  {
+    "id": 18509,
+    "automobile_id": 4640,
+    "name": "2.4L 5MT FWD (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2378 Cm3",
+        "Power:": "121 Kw @ 6000 Rpm\r\n165 Hp @ 6000 Rpm\r\n162 Bhp @ 6000 Rpm",
+        "Torque:": "160 Lb-Ft @ 4000 Rpm\r\n217 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60/R16"
+      },
+      "Dimensions": {
+        "Length:": "187.4 In (4760 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "65.3 In (1659 Mm)",
+        "Front/Rear Track:": "61/61.4 In (1,549/1,560 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "11.3 Cuft (320 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571.5 Lbs (1620 Kg)",
+        "Gross Weight Limit:": "4960.4 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "223 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18510,
+    "automobile_id": 4640,
+    "name": "2.0L DI-D 6MT FWD (134 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "229 Lb-Ft @ 1750 Rpm\r\n310 Nm @ 1750 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60/R16"
+      },
+      "Dimensions": {
+        "Length:": "187.4 In (4760 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "65.3 In (1659 Mm)",
+        "Front/Rear Track:": "61/61.4 In (1,549/1,560 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "11.3 Cuft (320 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3714.8 Lbs (1685 Kg)",
+        "Gross Weight Limit:": "5147.8 Lbs (2335 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  }
+]

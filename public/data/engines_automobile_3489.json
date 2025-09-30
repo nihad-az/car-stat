@@ -1,0 +1,60 @@
+[
+  {
+    "id": 14196,
+    "automobile_id": 3489,
+    "name": "4.4L V8 MHEV 8AT AWD (635 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4395 Cm3",
+        "Power:": "467 Kw @ - Rpm\r\n635 Hp @ - Rpm\r\n626 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 14197,
+    "automobile_id": 3489,
+    "name": "P550e 3.0L 8AT AWD (550 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Power:": "404.5 Kw @ - Rpm\r\n550 Hp @ - Rpm\r\n542 Bhp @ - Rpm",
+        "Torque:": "590 Lb-Ft @ - Rpm\r\n800 Nm @ - Rpm",
+        "Total Maximum Power:": "404.5 Kw (550 Hp)",
+        "Total Maximum Torque:": "590 Lb-Ft (800 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Plug-In Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Range:": "75 Miles (120.7 Km)"
+      }
+    }
+  }
+]

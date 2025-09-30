@@ -1,0 +1,86 @@
+[
+  {
+    "id": 14706,
+    "automobile_id": 3652,
+    "name": "3.5L AWD 6AT (262 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3496 Cm3",
+        "Power:": "193 Kw @ 6250 Rpm\r\n262 Hp @ 6250 Rpm\r\n259 Bhp @ 6250 Rpm",
+        "Torque:": "249 Lb-Ft @ 4500 Rpm\r\n338 Nm @ 4500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Automatic, 6 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "190.5 In (4839 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "61.6/61.3 In (1,565/1,557 Mm)",
+        "Wheelbase:": "107.4 In (2728 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "15.8 Cuft (447 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3645 Lbs (1653 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14707,
+    "automobile_id": 3652,
+    "name": "3.5L FWD 6AT (262 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3496 Cm3",
+        "Power:": "193 Kw @ 6250 Rpm\r\n262 Hp @ 6250 Rpm\r\n259 Bhp @ 6250 Rpm",
+        "Torque:": "249 Lb-Ft @ 4500 Rpm\r\n338 Nm @ 4500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic, 6 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "190.5 In (4839 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "61.6/61.3 In (1,565/1,557 Mm)",
+        "Wheelbase:": "107.4 In (2728 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "15.8 Cuft (447 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3469 Lbs (1574 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  }
+]

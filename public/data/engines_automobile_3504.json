@@ -1,0 +1,624 @@
+[
+  {
+    "id": 14257,
+    "automobile_id": 3504,
+    "name": "P 250 2.0L 8AT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "183.9 Kw @ 5500 Rpm\r\n250 Hp @ 5500 Rpm\r\n247 Bhp @ 5500 Rpm",
+        "Torque:": "269 Lb-Ft @ 1200 Rpm\r\n365 Nm @ 1200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3977 Lbs (1804 Kg)",
+        "Gross Weight Limit:": "5445 Lbs (2470 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "173 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14258,
+    "automobile_id": 3504,
+    "name": "P 380 3.0L V6 8AT AWD (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "279.5 Kw @ 6500 Rpm\r\n380 Hp @ 6500 Rpm\r\n375 Bhp @ 6500 Rpm",
+        "Torque:": "332 Lb-Ft @ 3500 Rpm\r\n450 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4154 Lbs (1884 Kg)",
+        "Gross Weight Limit:": "5600 Lbs (2540 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.5 Mpg Us (12.7 L/100Km)",
+        "Highway:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "214 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14259,
+    "automobile_id": 3504,
+    "name": "P250 8AT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "183.9 Kw @ 5000 Rpm\r\n250 Hp @ 5000 Rpm\r\n247 Bhp @ 5000 Rpm",
+        "Torque:": "269 Lb-Ft @ 1300-4500 Rpm\r\n365 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4299 Lbs (1950 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions (Combined):": "174 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14260,
+    "automobile_id": 3504,
+    "name": "D 180 2.0L 8AT AWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "132.4 Kw @ 4000 Rpm\r\n180 Hp @ 4000 Rpm\r\n178 Bhp @ 4000 Rpm",
+        "Torque:": "317 Lb-Ft @ 1500 Rpm\r\n430 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4032 Lbs (1829 Kg)",
+        "Gross Weight Limit:": "5490 Lbs (2490 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "142 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14261,
+    "automobile_id": 3504,
+    "name": "D 200 2.0L 8AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "150 Kw @ 4250 Rpm\r\n204 Hp @ 4250 Rpm\r\n201 Bhp @ 4250 Rpm",
+        "Torque:": "317 Lb-Ft @ 1750-2500 Rpm\r\n430 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4290 Lbs (1946 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14262,
+    "automobile_id": 3504,
+    "name": "D 240 2.0L 8AT AWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "176.5 Kw @ 4000 Rpm\r\n240 Hp @ 4000 Rpm\r\n237 Bhp @ 4000 Rpm",
+        "Torque:": "369 Lb-Ft @ 1500 Rpm\r\n500 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4059 Lbs (1841 Kg)",
+        "Gross Weight Limit:": "5534 Lbs (2510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14263,
+    "automobile_id": 3504,
+    "name": "D 300 3.0L 8AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "220.6 Kw @ 4000 Rpm\r\n300 Hp @ 4000 Rpm\r\n296 Bhp @ 4000 Rpm",
+        "Torque:": "479 Lb-Ft @ 1500-2500 Rpm\r\n650 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4559 Lbs (2068 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14264,
+    "automobile_id": 3504,
+    "name": "P 340 3.0L V6 8AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "220.7 Kw @ 4000 Rpm\r\n300 Hp @ 4000 Rpm\r\n296 Bhp @ 4000 Rpm",
+        "Torque:": "516 Lb-Ft @ 1500 Rpm\r\n700 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4319 Lbs (1959 Kg)",
+        "Gross Weight Limit:": "5754 Lbs (2610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "167 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14265,
+    "automobile_id": 3504,
+    "name": "D 200 2.0L 8AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "150 Kw @ 4250 Rpm\r\n204 Hp @ 4250 Rpm\r\n201 Bhp @ 4250 Rpm",
+        "Torque:": "317 Lb-Ft @ 1750-2500 Rpm\r\n430 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4416 Lbs (2003 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions (Combined):": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14266,
+    "automobile_id": 3504,
+    "name": "D 300 3.0L 8AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "220.6 Kw @ 4000 Rpm\r\n300 Hp @ 4000 Rpm\r\n296 Bhp @ 4000 Rpm",
+        "Torque:": "479 Lb-Ft @ 1500-2500 Rpm\r\n650 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4683 Lbs (2124 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions (Combined):": "183 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14267,
+    "automobile_id": 3504,
+    "name": "P340 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "250.1 Kw @ 5500-6500 Rpm\r\n340 Hp @ 5500-6500 Rpm\r\n335 Bhp @ 5500-6500 Rpm",
+        "Torque:": "354 Lb-Ft @ 1500-4500 Rpm\r\n480 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      }
+    }
+  },
+  {
+    "id": 14268,
+    "automobile_id": 3504,
+    "name": "P400 8AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "294.2 Kw @ 5500-6500 Rpm\r\n400 Hp @ 5500-6500 Rpm\r\n395 Bhp @ 5500-6500 Rpm",
+        "Torque:": "406 Lb-Ft @ 2000-5000 Rpm\r\n550 Nm @ 2000-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18 110V"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4597 Lbs (2085 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions (Combined):": "202 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14269,
+    "automobile_id": 3504,
+    "name": "P400e 8AT AWD (404 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "297.1 Kw @ 5500 Rpm\r\n404 Hp @ 5500 Rpm\r\n398 Bhp @ 5500 Rpm",
+        "Torque:": "472 Lb-Ft @ 1500-4400 Rpm\r\n640 Nm @ 1500-4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "18.2 Gallons (68.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "64.7/65.5 In (1,643/1,664 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.4 Cuft (748 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4758 Lbs (2158 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "102.3 Mpg Us (2.3 L/100Km)",
+        "Co2 Emissions (Combined):": "202 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 11144,
+    "automobile_id": 2606,
+    "name": "3.8L V6 4AT RWD (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3791 Cm3",
+        "Power:": "169.2 Kw @ 5200 Rpm\r\n230 Hp @ 5200 Rpm\r\n227 Bhp @ 5200 Rpm",
+        "Torque:": "277 Lb-Ft @ 3000 Rpm\r\n375 Nm @ 3000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R 15"
+      },
+      "Dimensions": {
+        "Length:": "198.7 In (5047 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "61.8/62.4 In (1,570/1,585 Mm)",
+        "Wheelbase:": "115.7 In (2939 Mm)",
+        "Cargo Volume:": "93.9 Cuft (2659 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571 Lbs (1620 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11145,
+    "automobile_id": 2606,
+    "name": "5.7L V8 5MT RWD (300 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5665 Cm3",
+        "Power:": "220.6 Kw @ 5000 Rpm\r\n300 Hp @ 5000 Rpm\r\n296 Bhp @ 5000 Rpm",
+        "Torque:": "329 Lb-Ft @ 4400 Rpm\r\n446 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "1456 Mph (2343 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R 15"
+      },
+      "Dimensions": {
+        "Length:": "198.7 In (5047 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Wheelbase:": "115.7 In (2939 Mm)",
+        "Cargo Volume:": "93.9 Cuft (2659 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3616 Lbs (1640 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.1 Mpg Us (13 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)"
+      }
+    }
+  }
+]

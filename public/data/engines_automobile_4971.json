@@ -1,0 +1,46 @@
+[
+  {
+    "id": 19473,
+    "automobile_id": 4971,
+    "name": "1.2L MHEV 6AT (100 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "73.5 Kw @ - Rpm\r\n100 Hp @ - Rpm\r\n99 Bhp @ - Rpm",
+        "Electrical Motor Power:": "20.6 Kw (28 Hp)",
+        "Total Maximum Power:": "73.5 Kw (100 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "6-Speed Dual Clutch"
+      },
+      "Dimensions": {
+        "Cargo Volume:": "15.9 Cuft (450 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  },
+  {
+    "id": 19474,
+    "automobile_id": 4971,
+    "name": "1.2L Turbo Hybrid (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "100 Kw @ - Rpm\r\n136 Hp @ - Rpm\r\n134 Bhp @ - Rpm",
+        "Total Maximum Power:": "100 Kw (136 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Dimensions": {
+        "Cargo Volume:": "15.9 Cuft (450 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  }
+]

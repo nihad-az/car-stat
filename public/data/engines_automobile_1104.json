@@ -1,0 +1,97 @@
+[
+  {
+    "id": 5425,
+    "automobile_id": 1104,
+    "name": "3.6L V6 6AT (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "225 Kw @ 6300 Rpm\r\n306 Hp @ 6300 Rpm\r\n302 Bhp @ 6300 Rpm",
+        "Torque:": "272 Lb-Ft @ 5200 Rpm\r\n369 Nm @ 5200 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142 Mph (229 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P255/45R18"
+      },
+      "Dimensions": {
+        "Length:": "196.3 In (4986 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Front/Rear Track:": "61.8/62.3 In (1,570/1,582 Mm)",
+        "Wheelbase:": "116.4 In (2957 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3940 Lbs (1787 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5426,
+    "automobile_id": 1104,
+    "name": "4.6L V8 6AT (325 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4565 Cm3",
+        "Power:": "239 Kw @ 6400 Rpm\r\n325 Hp @ 6400 Rpm\r\n321 Bhp @ 6400 Rpm",
+        "Torque:": "315 Lb-Ft @ 5200 Rpm\r\n427 Nm @ 5200 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.3 In (4986 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Front/Rear Track:": "61.8/62.3 In (1,570/1,582 Mm)",
+        "Wheelbase:": "116.4 In (2957 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3940 Lbs (1787 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

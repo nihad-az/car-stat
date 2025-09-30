@@ -1,0 +1,806 @@
+[
+  {
+    "id": 2857,
+    "automobile_id": 682,
+    "name": "318i 8AT RWD (156 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "114.7 Kw @ 4500-6500 Rpm\r\n156 Hp @ 4500-6500 Rpm\r\n154 Bhp @ 4500-6500 Rpm",
+        "Torque:": "184 Lb-Ft @ 1300-4300 Rpm\r\n250 Nm @ 1300-4300 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.25 M2",
+        "Aerodynamics (Cd):": "0.23",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3307 Lbs (1500 Kg)",
+        "Gross Weight Limit:": "4530 Lbs (2055 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions (Combined):": "162 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2858,
+    "automobile_id": 682,
+    "name": "320i 8AT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000-6500 Rpm\r\n184 Hp @ 5000-6500 Rpm\r\n181 Bhp @ 5000-6500 Rpm",
+        "Torque:": "221 Lb-Ft @ 1350-4000 Rpm\r\n300 Nm @ 1350-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.25 M2",
+        "Aerodynamics (Cd):": "0.23",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3340 Lbs (1515 Kg)",
+        "Gross Weight Limit:": "4564 Lbs (2070 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions (Combined):": "162 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2859,
+    "automobile_id": 682,
+    "name": "320i xDrive 8AT AWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000-6500 Rpm\r\n184 Hp @ 5000-6500 Rpm\r\n181 Bhp @ 5000-6500 Rpm",
+        "Torque:": "221 Lb-Ft @ 1350-4000 Rpm\r\n300 Nm @ 1350-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.25 M2",
+        "Aerodynamics (Cd):": "0.23",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3483 Lbs (1580 Kg)",
+        "Gross Weight Limit:": "4707 Lbs (2135 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions (Combined):": "171 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2860,
+    "automobile_id": 682,
+    "name": "330i 8AT RWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "180.2 Kw @ 4500-6500 Rpm\r\n245 Hp @ 4500-6500 Rpm\r\n242 Bhp @ 4500-6500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1600-4000 Rpm\r\n400 Nm @ 1600-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.25 M2",
+        "Aerodynamics (Cd):": "0.23",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions (Combined):": "166 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2861,
+    "automobile_id": 682,
+    "name": "330i xDrive 8AT AWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "180.2 Kw @ 4500-6500 Rpm\r\n245 Hp @ 4500-6500 Rpm\r\n242 Bhp @ 4500-6500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1600-4000 Rpm\r\n400 Nm @ 1600-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.25 M2",
+        "Aerodynamics (Cd):": "0.23",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3516 Lbs (1595 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions (Combined):": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2862,
+    "automobile_id": 682,
+    "name": "318d 8AT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "110.3 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1500-2750 Rpm\r\n320 Nm @ 1500-2750 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)",
+        "Fuel Capacity (Optional):": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3428 Lbs (1555 Kg)",
+        "Gross Weight Limit:": "4685 Lbs (2125 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions (Combined):": "145 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2863,
+    "automobile_id": 682,
+    "name": "320d 8AT RWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)",
+        "Fuel Capacity (Optional):": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)",
+        "Gross Weight Limit:": "4718 Lbs (2140 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions (Combined):": "144 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2864,
+    "automobile_id": 682,
+    "name": "320d xDrive 8AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)",
+        "Fuel Capacity (Optional):": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142 Mph (229 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4850 Lbs (2200 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions (Combined):": "153 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2865,
+    "automobile_id": 682,
+    "name": "330d 8AT RWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2993 Cm3",
+        "Power:": "210.4 Kw @ 4000 Rpm\r\n286 Hp @ 4000 Rpm\r\n282 Bhp @ 4000 Rpm",
+        "Torque:": "479 Lb-Ft @ 1500-2500 Rpm\r\n650 Nm @ 1500-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3770 Lbs (1710 Kg)",
+        "Gross Weight Limit:": "4993 Lbs (2265 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions (Combined):": "152 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2866,
+    "automobile_id": 682,
+    "name": "330d xDrive 8AT AWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2993 Cm3",
+        "Power:": "210.4 Kw @ 4000 Rpm\r\n286 Hp @ 4000 Rpm\r\n282 Bhp @ 4000 Rpm",
+        "Torque:": "479 Lb-Ft @ 1500-2500 Rpm\r\n650 Nm @ 1500-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3880 Lbs (1760 Kg)",
+        "Gross Weight Limit:": "5104 Lbs (2315 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions (Combined):": "158 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2867,
+    "automobile_id": 682,
+    "name": "M340d xDrive 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "250.1 Kw @ 4400 Rpm\r\n340 Hp @ 4400 Rpm\r\n335 Bhp @ 4400 Rpm",
+        "Torque:": "516 Lb-Ft @ 1750-2250 Rpm\r\n700 Nm @ 1750-2250 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3968 Lbs (1800 Kg)",
+        "Gross Weight Limit:": "5159 Lbs (2340 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions (Combined):": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2868,
+    "automobile_id": 682,
+    "name": "320e 8AT RWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "119.9 Kw @ 5000-6500 Rpm\r\n163 Hp @ 5000-6500 Rpm\r\n161 Bhp @ 5000-6500 Rpm",
+        "Torque:": "221 Lb-Ft @ 1350-3700 Rpm\r\n300 Nm @ 1350-3700 Rpm",
+        "Electrical Motor Power:": "80.2 Kw (109 Hp)",
+        "Electrical Motor Torque:": "195.5 Lb-Ft (265 Nm)",
+        "Total Maximum Power:": "150 Kw (204 Hp)",
+        "Total Maximum Torque:": "258.1 Lb-Ft (350 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Top Speed (Electrical):": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "5049 Lbs (2290 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "12 Kwh"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "130.7 Mpg Us (1.8 L/100Km)",
+        "Co2 Emissions (Combined):": "40 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2869,
+    "automobile_id": 682,
+    "name": "330e 8AT RWD (292 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000-6500 Rpm\r\n184 Hp @ 5000-6500 Rpm\r\n181 Bhp @ 5000-6500 Rpm",
+        "Torque:": "221 Lb-Ft @ 1350-4000 Rpm\r\n300 Nm @ 1350-4000 Rpm",
+        "Electrical Motor Power:": "80.2 Kw (109 Hp)",
+        "Electrical Motor Torque:": "195.5 Lb-Ft (265 Nm)",
+        "Total Maximum Power:": "214.8 Kw (292 Hp)",
+        "Total Maximum Torque:": "309.8 Lb-Ft (420 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Top Speed (Electrical):": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "5049 Lbs (2290 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "12 Kwh",
+        "Range:": "33.6 Miles (54.1 Km)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "130.7 Mpg Us (1.8 L/100Km)",
+        "Co2 Emissions (Combined):": "40 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2870,
+    "automobile_id": 682,
+    "name": "330e xDrive 8AT AWD (292 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000-6500 Rpm\r\n184 Hp @ 5000-6500 Rpm\r\n181 Bhp @ 5000-6500 Rpm",
+        "Torque:": "221 Lb-Ft @ 1350-4000 Rpm\r\n300 Nm @ 1350-4000 Rpm",
+        "Electrical Motor Power:": "80.2 Kw (109 Hp)",
+        "Electrical Motor Torque:": "195.5 Lb-Ft (265 Nm)",
+        "Total Maximum Power:": "214.8 Kw (292 Hp)",
+        "Total Maximum Torque:": "309.8 Lb-Ft (420 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Top Speed (Electrical):": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4023 Lbs (1825 Kg)",
+        "Gross Weight Limit:": "5170 Lbs (2345 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "12 Kwh",
+        "Range:": "33.6 Miles (54.1 Km)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "130.7 Mpg Us (1.8 L/100Km)",
+        "Co2 Emissions (Combined):": "40 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2871,
+    "automobile_id": 682,
+    "name": "M340i xDrive 8AT AWD (374 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2998 Cm3",
+        "Power:": "275.1 Kw @ 5500-6500 Rpm\r\n374 Hp @ 5500-6500 Rpm\r\n369 Bhp @ 5500-6500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1900-5000 Rpm\r\n500 Nm @ 1900-5000 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18 95Y Xl // 255/40 R18 99Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "185.6 In (4714 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "61.9/61.7 In (1,572/1,567 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Frontal Area):": "2.23 M2",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3803 Lbs (1725 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions (Combined):": "192 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 25573,
+    "automobile_id": 6285,
+    "name": "2.0L 5MT AWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1993 Cm3",
+        "Power:": "110.4 Kw @ 6200 Rpm\r\n150.1 Hp @ 6200 Rpm\r\n148 Bhp @ 6200 Rpm",
+        "Torque:": "145 Lb-Ft @ 4200 Rpm\r\n197 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55R17 95H"
+      },
+      "Dimensions": {
+        "Length:": "175.2 In (4450 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "63.6 In (1615 Mm)",
+        "Wheelbase:": "103.7 In (2634 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)",
+        "Cargo Volume:": "22.3 Cuft (631 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25574,
+    "automobile_id": 6285,
+    "name": "2.0L CVT AWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1993 Cm3",
+        "Power:": "110.4 Kw @ 6200 Rpm\r\n150.1 Hp @ 6200 Rpm\r\n148 Bhp @ 6200 Rpm",
+        "Torque:": "145 Lb-Ft @ 4200 Rpm\r\n197 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55R17 95H"
+      },
+      "Dimensions": {
+        "Length:": "175.2 In (4450 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "63.6 In (1615 Mm)",
+        "Wheelbase:": "103.7 In (2634 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)",
+        "Cargo Volume:": "22.3 Cuft (631 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)"
+      }
+    }
+  }
+]

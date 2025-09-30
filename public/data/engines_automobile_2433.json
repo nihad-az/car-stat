@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10536,
+    "automobile_id": 2433,
+    "name": "1.3L 4MT (64 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1298 Cm3",
+        "Power:": "47 Kw @ 5300 Rpm\r\n64 Hp @ 5300 Rpm\r\n63 Bhp @ 5300 Rpm",
+        "Torque:": "72 Lb-Ft @ 2500 Rpm\r\n98 Nm @ 2500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "82 Mph (132 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "168 In (4267 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "54.8 In (1392 Mm)",
+        "Front/Rear Track:": "52.5/53 In (1,334/1,346 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1905 Lbs (864 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10537,
+    "automobile_id": 2433,
+    "name": "1.6L 4MT (76 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1599 Cm3",
+        "Power:": "56 Kw @ 5000 Rpm\r\n76 Hp @ 5000 Rpm\r\n75 Bhp @ 5000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.00-13"
+      },
+      "Dimensions": {
+        "Length:": "168 In (4267 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "54.8 In (1392 Mm)",
+        "Front/Rear Track:": "52.5/53 In (1,334/1,346 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      }
+    }
+  }
+]

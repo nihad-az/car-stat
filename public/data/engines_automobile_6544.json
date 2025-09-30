@@ -1,0 +1,84 @@
+[
+  {
+    "id": 26411,
+    "automobile_id": 6544,
+    "name": "1.5L 4AT FWD (109 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "80 Kw @ 6000 Rpm\r\n109 Hp @ 6000 Rpm\r\n107 Bhp @ 6000 Rpm",
+        "Torque:": "104 Lb-Ft @ 4200 Rpm\r\n141 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs Or Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60R15"
+      },
+      "Dimensions": {
+        "Length:": "173.6 In (4409 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "58.1 In (1476 Mm)",
+        "Front/Rear Track:": "57.3/56.9 In (1,455/1,445 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2370 Lbs (1075 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "147 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26412,
+    "automobile_id": 6544,
+    "name": "1.5L 5MT FWD (109 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "80 Kw @ 6000 Rpm\r\n109 Hp @ 6000 Rpm\r\n107 Bhp @ 6000 Rpm",
+        "Torque:": "104 Lb-Ft @ 4200 Rpm\r\n141 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Manual Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.6 In (4409 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "58.1 In (1476 Mm)",
+        "Front/Rear Track:": "57.3/56.9 In (1,455/1,445 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2282 Lbs (1035 Kg)"
+      }
+    }
+  }
+]

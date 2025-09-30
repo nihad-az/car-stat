@@ -1,0 +1,102 @@
+[
+  {
+    "id": 14383,
+    "automobile_id": 3535,
+    "name": "4.0 V8",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3950 Cm3",
+        "Power:": "136 Kw @ 4750 Rpm\r\n185 Hp @ 4750 Rpm\r\n182 Bhp @ 4750 Rpm",
+        "Torque:": "251 Lb-Ft @ 2600 Rpm\r\n340 Nm @ 2600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Automatic, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/75R16"
+      },
+      "Dimensions": {
+        "Length:": "185 In (4699 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "74.8 In (1900 Mm)",
+        "Front/Rear Track:": "60.6/61.4 In (1,539/1,560 Mm)",
+        "Wheelbase:": "100 In (2540 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4795.1 Lbs (2175 Kg)",
+        "Gross Weight Limit:": "6228.1 Lbs (2825 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.3 Mpg Us (22.8 L/100Km)",
+        "Highway:": "18 Mpg Us (13.1 L/100Km)",
+        "Combined:": "14.1 Mpg Us (16.7 L/100Km)",
+        "Co2 Emissions:": "397 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14384,
+    "automobile_id": 3535,
+    "name": "2.5 Td5",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2495 Cm3",
+        "Power:": "101 Kw @ 4200 Rpm\r\n137 Hp @ 4200 Rpm\r\n135 Bhp @ 4200 Rpm",
+        "Torque:": "251 Lb-Ft @ 1950 Rpm\r\n340 Nm @ 1950 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "97.6 Mph (157 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/75R16"
+      },
+      "Dimensions": {
+        "Length:": "185 In (4699 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "74.8 In (1900 Mm)",
+        "Front/Rear Track:": "60.6/61.4 In (1,539/1,560 Mm)",
+        "Wheelbase:": "100 In (2540 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4795.1 Lbs (2175 Kg)",
+        "Gross Weight Limit:": "6349.3 Lbs (2880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "262 G/Km"
+      }
+    }
+  }
+]

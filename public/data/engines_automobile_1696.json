@@ -1,0 +1,88 @@
+[
+  {
+    "id": 7663,
+    "automobile_id": 1696,
+    "name": "GT 2.0L 9AT AWD (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "199.8 Kw @ - Rpm\r\n271.7 Hp @ - Rpm\r\n268 Bhp @ - Rpm",
+        "Torque:": "295 Lb-Ft @ - Rpm\r\n400 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.5 Gallons (51.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "82 In (2083 Mm)",
+        "Height:": "63.8 In (1621 Mm)",
+        "Wheelbase:": "103.8 In (2637 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "27 Cuft (765 L)",
+        "Turning Circle:": "38 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527 Lbs (1600 Kg)"
+      }
+    }
+  },
+  {
+    "id": 7664,
+    "automobile_id": 1696,
+    "name": "R/T PHEV 1.3L Turbo 6AT AWD (",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1332 Cm3",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Electrical Motor Torque:": "184 Lb-Ft (249 Nm)",
+        "Total Maximum Power:": "214.8 Kw (292 Hp)",
+        "Total Maximum Torque:": "383 Lb-Ft (519 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "11.1 Gallons (42.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "82 In (2083 Mm)",
+        "Height:": "63 In (1600 Mm)",
+        "Wheelbase:": "103.8 In (2637 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Turning Circle:": "37.9 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4134 Lbs (1875 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "15.5 Kwh"
+      }
+    }
+  }
+]

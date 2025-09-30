@@ -1,0 +1,136 @@
+[
+  {
+    "id": 11271,
+    "automobile_id": 2653,
+    "name": "1.5L CVT FWD (174 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "128 Kw @ 6000 Rpm\r\n174 Hp @ 6000 Rpm\r\n172 Bhp @ 6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 1700-5500 Rpm\r\n220 Nm @ 1700-5500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.2 Gallons (46.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17 91H"
+      },
+      "Dimensions": {
+        "Length:": "182.3 In (4630 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "60.9/61.5 In (1,547/1,562 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Cargo Volume:": "15.1 Cuft (428 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2910 Lbs (1320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31 Mpg Us (7.6 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "35 Mpg Us (6.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11272,
+    "automobile_id": 2653,
+    "name": "2.0L 6MT FWD (158 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "117.8 Kw @ 6500 Rpm\r\n160 Hp @ 6500 Rpm\r\n158 Bhp @ 6500 Rpm",
+        "Torque:": "138 Lb-Ft @ 4200 Rpm\r\n187 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.2 Gallons (46.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17 91H"
+      },
+      "Dimensions": {
+        "Length:": "182.3 In (4630 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "60.9/61.5 In (1,547/1,562 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.1 Cuft (428 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2743 Lbs (1244 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "40 Mpg Us (5.9 L/100Km)",
+        "Combined:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11273,
+    "automobile_id": 2653,
+    "name": "2.0L CVT FWD (158 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "117.8 Kw @ 6500 Rpm\r\n160 Hp @ 6500 Rpm\r\n158 Bhp @ 6500 Rpm",
+        "Torque:": "138 Lb-Ft @ 4200 Rpm\r\n187 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.2 Gallons (46.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17 91H"
+      },
+      "Dimensions": {
+        "Length:": "182.3 In (4630 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "60.9/61.5 In (1,547/1,562 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.1 Cuft (428 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2795 Lbs (1268 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31 Mpg Us (7.6 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)",
+        "Combined:": "35 Mpg Us (6.7 L/100Km)"
+      }
+    }
+  }
+]

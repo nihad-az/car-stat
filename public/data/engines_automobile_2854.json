@@ -1,0 +1,86 @@
+[
+  {
+    "id": 11891,
+    "automobile_id": 2854,
+    "name": "Long-Range 64 kWh (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "150 Kw (204 Hp)",
+        "Electrical Motor Torque:": "291.3 Lb-Ft (395 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "104 Mph (167 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55R17"
+      },
+      "Dimensions": {
+        "Length:": "165.6 In (4206 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "61.2 In (1554 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "11.7 Cuft (331 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Polymer",
+        "Nominal Capacity:": "39.2 Kwh",
+        "Charging Time (Normal):": "9 Hours",
+        "Charging Time (Quick):": "6.5 Hours",
+        "Range:": "300.7 Miles (483.9 Km)"
+      }
+    }
+  },
+  {
+    "id": 11892,
+    "automobile_id": 2854,
+    "name": "Standard- Range 39.2 kWh (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "100 Kw (136 Hp)",
+        "Electrical Motor Torque:": "291.3 Lb-Ft (395 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55R17"
+      },
+      "Dimensions": {
+        "Length:": "165.6 In (4206 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "61.2 In (1554 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "11.7 Cuft (331 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Polymer",
+        "Nominal Capacity:": "39.2 Kwh",
+        "Charging Time (Normal):": "6 Hours",
+        "Charging Time (Quick):": "4.2 Hours",
+        "Range:": "220.6 Miles (355.0 Km)"
+      }
+    }
+  }
+]

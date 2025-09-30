@@ -1,0 +1,92 @@
+[
+  {
+    "id": 10428,
+    "automobile_id": 2409,
+    "name": "2.3L 5MT (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2301 Cm3",
+        "Power:": "139.7 Kw @ - Rpm\r\n190 Hp @ - Rpm\r\n187 Bhp @ - Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "198.7 In (5047 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "52.7 In (1339 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)"
+      }
+    }
+  },
+  {
+    "id": 10429,
+    "automobile_id": 2409,
+    "name": "3.8 (142 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3797 Cm3",
+        "Power:": "104 Kw @ 3800 Rpm\r\n142 Hp @ 3800 Rpm\r\n139 Bhp @ 3800 Rpm",
+        "Torque:": "215 Lb-Ft @ 2400 Rpm\r\n292 Nm @ 2400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "198.7 In (5047 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "52.7 In (1339 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3541 Lbs (1606 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10430,
+    "automobile_id": 2409,
+    "name": "3.8 (213 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "3797 Cm3",
+        "Power:": "157 Kw @ 4000 Rpm\r\n213 Hp @ 4000 Rpm\r\n211 Bhp @ 4000 Rpm",
+        "Torque:": "315 Lb-Ft @ 2600 Rpm\r\n427 Nm @ 2600 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Dimensions": {
+        "Length:": "198.7 In (5047 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "52.7 In (1339 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)"
+      }
+    }
+  }
+]

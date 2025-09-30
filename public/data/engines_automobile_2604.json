@@ -1,0 +1,208 @@
+[
+  {
+    "id": 11136,
+    "automobile_id": 2604,
+    "name": "2.2L 4AT RWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "100 Kw @ 5200 Rpm\r\n136 Hp @ 5200 Rpm\r\n134 Bhp @ 5200 Rpm",
+        "Torque:": "148 Lb-Ft @ 4000 Rpm\r\n200 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.8 In (4516 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "66.4 In (1687 Mm)",
+        "Front/Rear Track:": "59.6/59.8 In (1,514/1,519 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3671.3 Lbs (1665 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11137,
+    "automobile_id": 2604,
+    "name": "3.2L V6 5MT AWD (189 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3165 Cm3",
+        "Power:": "139 Kw @ 5400 Rpm\r\n189 Hp @ 5400 Rpm\r\n186 Bhp @ 5400 Rpm",
+        "Torque:": "196 Lb-Ft @ 4200 Rpm\r\n265 Nm @ 4200 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.8 In (4516 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "66.4 In (1687 Mm)",
+        "Front/Rear Track:": "59.6/59.8 In (1,514/1,519 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3704.4 Lbs (1680 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Co2 Emissions:": "276 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11138,
+    "automobile_id": 2604,
+    "name": "3.2L V6 5MT RWD (205 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3165 Cm3",
+        "Power:": "151 Kw @ 5400 Rpm\r\n205 Hp @ 5400 Rpm\r\n202 Bhp @ 5400 Rpm",
+        "Torque:": "213 Lb-Ft @ 3000 Rpm\r\n289 Nm @ 3000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225-245/70-75R16"
+      },
+      "Dimensions": {
+        "Length:": "177.8 In (4516 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "66.4 In (1687 Mm)",
+        "Front/Rear Track:": "59.6/59.8 In (1,514/1,519 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3882.3 Lbs (1761 Kg)",
+        "Gross Weight Limit:": "5401.3 Lbs (2450 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Combined:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Co2 Emissions:": "316 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11139,
+    "automobile_id": 2604,
+    "name": "3.5L V6 4AT AWD (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3494 Cm3",
+        "Power:": "165 Kw @ 5600 Rpm\r\n224 Hp @ 5600 Rpm\r\n221 Bhp @ 5600 Rpm",
+        "Torque:": "247 Lb-Ft @ 3000 Rpm\r\n335 Nm @ 3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70R16"
+      },
+      "Dimensions": {
+        "Length:": "177.8 In (4516 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "66.4 In (1687 Mm)",
+        "Front/Rear Track:": "59.6/59.8 In (1,514/1,519 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)"
+      }
+    }
+  },
+  {
+    "id": 11140,
+    "automobile_id": 2604,
+    "name": "3.0L TD 5MT AWD (146 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2999 Cm3",
+        "Power:": "107 Kw @ 4100 Rpm\r\n145 Hp @ 4100 Rpm\r\n143 Bhp @ 4100 Rpm",
+        "Torque:": "217 Lb-Ft @ 2000 Rpm\r\n294 Nm @ 2000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.8 In (4516 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "66.4 In (1687 Mm)",
+        "Front/Rear Track:": "59.6/59.8 In (1,514/1,519 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4101.3 Lbs (1860 Kg)"
+      }
+    }
+  }
+]

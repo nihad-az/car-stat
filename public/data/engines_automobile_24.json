@@ -1,0 +1,100 @@
+[
+  {
+    "id": 42,
+    "automobile_id": 24,
+    "name": "3.5L V6 FWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "257 Kw @ 6500 Rpm\r\n350 Hp @ 6500 Rpm\r\n345 Bhp @ 6500 Rpm",
+        "Torque:": "272 Lb-Ft @ 2000-6000 Rpm\r\n369 Nm @ 2000-6000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R18 69V"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "74.7 In (1897 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "64.3/64.2 In (1,633/1,631 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3933 Lbs (1784 Kg)",
+        "Gross Weight Limit:": "4993 Lbs (2265 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "automobile_id": 24,
+    "name": "3.5L V6 AWD (377 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "231 Kw @ 6500 Rpm\r\n314 Hp @ 6500 Rpm\r\n310 Bhp @ 6500 Rpm",
+        "Torque:": "273 Lb-Ft @ 4500 Rpm\r\n370 Nm @ 4500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R18 69V"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "74.7 In (1897 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "64.3/64.2 In (1,633/1,631 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "11.6 Cuft (328 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4312 Lbs (1956 Kg)",
+        "Gross Weight Limit:": "5379 Lbs (2440 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)",
+        "Combined:": "30 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  }
+]

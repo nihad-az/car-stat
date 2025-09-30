@@ -1,0 +1,266 @@
+[
+  {
+    "id": 719,
+    "automobile_id": 306,
+    "name": "1.5L 35 TFSI 6MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "110.3 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n250 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91V"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "61.2/60 In (1,554/1,524 Mm)",
+        "Wheelbase:": "103.8 In (2637 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.4 Cuft (379 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2822 Lbs (1280 Kg)",
+        "Gross Weight Limit:": "4034 Lbs (1830 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "116 G/Km"
+      }
+    }
+  },
+  {
+    "id": 720,
+    "automobile_id": 306,
+    "name": "2.0L 30 TDI 6MT FWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "85.3 Kw @ 2750-4250 Rpm\r\n116 Hp @ 2750-4250 Rpm\r\n114 Bhp @ 2750-4250 Rpm",
+        "Torque:": "221 Lb-Ft @ 1600-2500 Rpm\r\n300 Nm @ 1600-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R 16 91 V"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "60.7/59.6 In (1,542/1,514 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.4 Cuft (379 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2965 Lbs (1345 Kg)",
+        "Gross Weight Limit:": "4200 Lbs (1905 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Highway:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Combined:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Co2 Emissions:": "96 G/Km"
+      }
+    }
+  },
+  {
+    "id": 721,
+    "automobile_id": 306,
+    "name": "2.0L 35 TDI S tronic 7AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "110.3 Kw @ 3000-4200 Rpm\r\n150 Hp @ 3000-4200 Rpm\r\n148 Bhp @ 3000-4200 Rpm",
+        "Torque:": "266 Lb-Ft @ 1600-2750 Rpm\r\n360 Nm @ 1600-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R 16 91 V"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "60.7/59.6 In (1,542/1,514 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.4 Cuft (379 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3109 Lbs (1410 Kg)",
+        "Gross Weight Limit:": "4321 Lbs (1960 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Co2 Emissions:": "103 G/Km"
+      }
+    }
+  },
+  {
+    "id": 722,
+    "automobile_id": 306,
+    "name": "30 g-tron 1.5L TFSI 7AT (131 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "96.4 Kw @ 5000-6000 Rpm\r\n131 Hp @ 5000-6000 Rpm\r\n129 Bhp @ 5000-6000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1400-4000 Rpm\r\n200 Nm @ 1400-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Natural Gas",
+        "Fuel Capacity:": "2.4 Gallons (9.1 L)",
+        "Cng Cylinder Capacity:": "38 Lb (38 Kg)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131 Mph (211 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7- Automatic Speed S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91V"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "61.2/60 In (1,554/1,524 Mm)",
+        "Wheelbase:": "103.8 In (2637 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "9.9 Cuft (280 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "36.4 Ft (11.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4156 Lbs (1885 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City (Cng):": "4.5 Kg/100Km",
+        "Highway (Cng):": "3.1 Kg/100Km",
+        "Combined (Cng):": "3.6 Kg/100Km",
+        "Co2 Emissions:": "-"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low (Cng):": "5.9 Kg/100Km",
+        "Medium (Cng):": "4.1 Kg/100Km",
+        "High (Cng):": "3.5 Kg/100Km",
+        "Extra High (Cng):": "3.9 Kg/100Km",
+        "Combined (Cng):": "4.1 Kg/100Km"
+      }
+    }
+  },
+  {
+    "id": 723,
+    "automobile_id": 306,
+    "name": "1.5L 35 TFSI 6MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "110.3 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n250 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91V"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "61.2/60 In (1,554/1,524 Mm)",
+        "Wheelbase:": "103.8 In (2637 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.4 Cuft (379 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2910 Lbs (1320 Kg)",
+        "Gross Weight Limit:": "4123 Lbs (1870 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "115 G/Km"
+      }
+    }
+  }
+]

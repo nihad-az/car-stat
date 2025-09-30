@@ -1,0 +1,540 @@
+[
+  {
+    "id": 25112,
+    "automobile_id": 6165,
+    "name": "1.2L MPI 5MT FWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1198 Cm3",
+        "Power:": "55 Kw @ 5400 Rpm\r\n75 Hp @ 5400 Rpm\r\n74 Bhp @ 5400 Rpm",
+        "Torque:": "83 Lb-Ft @ 3750 Rpm\r\n113 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2502 Lbs (1135 Kg)",
+        "Gross Weight Limit:": "3516 Lbs (1595 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "137 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25113,
+    "automobile_id": 6165,
+    "name": "1.2L TSI 5MT FWD (86 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "63 Kw @ 4800 Rpm\r\n86 Hp @ 4800 Rpm\r\n84 Bhp @ 4800 Rpm",
+        "Torque:": "118 Lb-Ft @ 1500-3000 Rpm\r\n160 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2560 Lbs (1161 Kg)",
+        "Gross Weight Limit:": "3574 Lbs (1621 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25114,
+    "automobile_id": 6165,
+    "name": "1.2L TSI 6MT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "77 Kw @ 5000 Rpm\r\n105 Hp @ 5000 Rpm\r\n103 Bhp @ 5000 Rpm",
+        "Torque:": "129 Lb-Ft @ 1550–4100 Rpm\r\n175 Nm @ 1550–4100 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2590 Lbs (1175 Kg)",
+        "Gross Weight Limit:": "3605 Lbs (1635 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "125 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25115,
+    "automobile_id": 6165,
+    "name": "1.2L TSI Green Tec 5MT FWD (86 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "63 Kw @ 4800 Rpm\r\n86 Hp @ 4800 Rpm\r\n84 Bhp @ 4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2560 Lbs (1161 Kg)",
+        "Gross Weight Limit:": "3574 Lbs (1621 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25116,
+    "automobile_id": 6165,
+    "name": "1.2L TSI Green Tec 6MT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "77 Kw @ 5000 Rpm\r\n105 Hp @ 5000 Rpm\r\n103 Bhp @ 5000 Rpm",
+        "Torque:": "129 Lb-Ft @ 1550–4100 Rpm\r\n175 Nm @ 1550–4100 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2590 Lbs (1175 Kg)",
+        "Gross Weight Limit:": "3605 Lbs (1635 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "116 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25117,
+    "automobile_id": 6165,
+    "name": "1.4L TSI 7AT FWD (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "90 Kw @ 5000 Rpm\r\n122 Hp @ 5000 Rpm\r\n121 Bhp @ 5000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1500-4000 Rpm\r\n201 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic 7-Speed, Dsg, With  Tiptronic Manual Gear Changing"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2725 Lbs (1236 Kg)",
+        "Gross Weight Limit:": "3739 Lbs (1696 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25118,
+    "automobile_id": 6165,
+    "name": "1.4L TSI Green Tec 7AT FWD (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "90 Kw @ 5000 Rpm\r\n122 Hp @ 5000 Rpm\r\n121 Bhp @ 5000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1500-4000 Rpm\r\n201 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic 7-Speed, Dsg, With  Tiptronic Manual Gear Changing"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2725 Lbs (1236 Kg)",
+        "Gross Weight Limit:": "3739 Lbs (1696 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25119,
+    "automobile_id": 6165,
+    "name": "1.6L TDI 5MT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "77 Kw @ 4400 Rpm\r\n105 Hp @ 4400 Rpm\r\n103 Bhp @ 4400 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-2500 Rpm\r\n249 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2765 Lbs (1254 Kg)",
+        "Gross Weight Limit:": "3779 Lbs (1714 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42 Mpg Us (5.6 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25120,
+    "automobile_id": 6165,
+    "name": "1.6L TDI 5MT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "66 Kw @ 4200 Rpm\r\n90 Hp @ 4200 Rpm\r\n89 Bhp @ 4200 Rpm",
+        "Torque:": "170 Lb-Ft @ 1500-2500 Rpm\r\n230 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "56 Mpg Us (4.2 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25121,
+    "automobile_id": 6165,
+    "name": "1.6L TDI 7AT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "66 Kw @ 4200 Rpm\r\n90 Hp @ 4200 Rpm\r\n89 Bhp @ 4200 Rpm",
+        "Torque:": "170 Lb-Ft @ 1500-2500 Rpm\r\n230 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic 7-Speed, Dsg, With Tiptronic Manual  Gear Changing"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25122,
+    "automobile_id": 6165,
+    "name": "1.6L TDI Green Tec 5MT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "77 Kw @ 4400 Rpm\r\n105 Hp @ 4400 Rpm\r\n103 Bhp @ 4400 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-2500 Rpm\r\n249 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc With Inner Cooling, With Single/Piston Floating Caliper",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "57.4/58.8 In (1,458/1,494 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2765 Lbs (1254 Kg)",
+        "Gross Weight Limit:": "3779 Lbs (1714 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "49 Mpg Us (4.8 L/100Km)",
+        "Highway:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Combined:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Co2 Emissions:": "104 G/Km"
+      }
+    }
+  }
+]

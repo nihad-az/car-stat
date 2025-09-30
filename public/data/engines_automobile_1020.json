@@ -1,0 +1,131 @@
+[
+  {
+    "id": 5231,
+    "automobile_id": 1020,
+    "name": "2.0 6AT AWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "187.9 Kw @ 5500 Rpm\r\n255.5 Hp @ 5500 Rpm\r\n252 Bhp @ 5500 Rpm",
+        "Torque:": "260 Lb-Ft @ 2000 Rpm\r\n353 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/50R19"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.8 In (1697 Mm)",
+        "Front/Rear Track:": "62/62 In (1,575/1,575 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4083 Lbs (1852 Kg)",
+        "Gross Weight Limit:": "5247 Lbs (2380 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5232,
+    "automobile_id": 1020,
+    "name": "2.5 6AT AWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2457 Cm3",
+        "Power:": "146.9 Kw @ 6300 Rpm\r\n199.7 Hp @ 6300 Rpm\r\n197 Bhp @ 6300 Rpm",
+        "Torque:": "192 Lb-Ft @ 4400 Rpm\r\n260 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60R18"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.8 In (1697 Mm)",
+        "Front/Rear Track:": "62/0 In (1,575/0 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3929 Lbs (1782 Kg)",
+        "Gross Weight Limit:": "5247 Lbs (2380 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5233,
+    "automobile_id": 1020,
+    "name": "2.5 6AT FWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2457 Cm3",
+        "Power:": "146.9 Kw @ 6300 Rpm\r\n199.7 Hp @ 6300 Rpm\r\n197 Bhp @ 6300 Rpm",
+        "Torque:": "192 Lb-Ft @ 4400 Rpm\r\n260 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60R18"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.8 In (1697 Mm)",
+        "Front/Rear Track:": "62/62 In (1,575/1,575 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3754 Lbs (1703 Kg)",
+        "Gross Weight Limit:": "5247 Lbs (2380 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  }
+]

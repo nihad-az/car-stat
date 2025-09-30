@@ -1,0 +1,158 @@
+[
+  {
+    "id": 3276,
+    "automobile_id": 753,
+    "name": "27 kWh with range extender (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L2",
+        "Displacement:": "647 Cm3",
+        "Power:": "28 Kw @ 5000 Rpm\r\n38 Hp @ 5000 Rpm\r\n38 Bhp @ 5000 Rpm",
+        "Torque:": "41 Lb-Ft @ 4500 Rpm\r\n56 Nm @ 4500 Rpm",
+        "Electrical Motor Power:": "75 Kw (102 Hp)",
+        "Total Maximum Power:": "135.3 Kw (184 Hp)",
+        "Total Maximum Torque:": "199.1 Lb-Ft (270 Nm)",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/55 R20"
+      },
+      "Dimensions": {
+        "Length:": "157.7 In (4006 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "62.6 In (1590 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3053 Lbs (1385 Kg)",
+        "Gross Weight Limit:": "3924 Lbs (1780 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "336 Mpg Us (0.7 L/100Km)",
+        "Co2 Emissions:": "14 G/Km"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "27.2 Kwh",
+        "Range:": "205.1 Miles (330.1 Km)"
+      }
+    }
+  },
+  {
+    "id": 3277,
+    "automobile_id": 753,
+    "name": "42 KWh (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "75 Kw (102 Hp)",
+        "Total Maximum Power:": "135.3 Kw (184 Hp)",
+        "Total Maximum Torque:": "199.1 Lb-Ft (270 Nm)",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/55 R20"
+      },
+      "Dimensions": {
+        "Length:": "157.7 In (4006 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "62.6 In (1590 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2844 Lbs (1290 Kg)",
+        "Gross Weight Limit:": "3814 Lbs (1730 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "336 Mpg Us (0.7 L/100Km)",
+        "Co2 Emissions:": "14 G/Km"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "42.2 Kwh",
+        "Range:": "167.8 Miles (270.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 3278,
+    "automobile_id": 753,
+    "name": "27 kWh (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "135.3 Kw @ - Rpm\r\n184 Hp @ - Rpm\r\n181 Bhp @ - Rpm",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Electrical Motor Power:": "75 Kw (102 Hp)",
+        "Total Maximum Power:": "135.3 Kw (184 Hp)",
+        "Total Maximum Torque:": "199.1 Lb-Ft (270 Nm)",
+        "Fuel System:": "27.2 Kwh Lithium-Ion Battery",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/55 R20"
+      },
+      "Dimensions": {
+        "Length:": "157.7 In (4006 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "62.6 In (1590 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "33.8 Ft (10.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2789 Lbs (1265 Kg)",
+        "Gross Weight Limit:": "3748 Lbs (1700 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "27.2 Kwh",
+        "Range:": "124.3 Miles (200.0 Km)"
+      }
+    }
+  }
+]

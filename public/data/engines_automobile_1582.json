@@ -1,0 +1,120 @@
+[
+  {
+    "id": 7302,
+    "automobile_id": 1582,
+    "name": "TCe 130 (6MT (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "95.6 Kw @ - Rpm\r\n130 Hp @ - Rpm\r\n128 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      }
+    }
+  },
+  {
+    "id": 7303,
+    "automobile_id": 1582,
+    "name": "TCe 150 6AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "110.3 Kw @ - Rpm\r\n150 Hp @ - Rpm\r\n148 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      }
+    }
+  },
+  {
+    "id": 7304,
+    "automobile_id": 1582,
+    "name": "TCe 150 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "110.3 Kw @ - Rpm\r\n150 Hp @ - Rpm\r\n148 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      }
+    }
+  },
+  {
+    "id": 7305,
+    "automobile_id": 1582,
+    "name": "TCe 90 6MT (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 7306,
+    "automobile_id": 1582,
+    "name": "dCi 115 6MT (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "84.6 Kw @ - Rpm\r\n115 Hp @ - Rpm\r\n113 Bhp @ - Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      }
+    }
+  },
+  {
+    "id": 7307,
+    "automobile_id": 1582,
+    "name": "dCi 115 6MT AWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "84.6 Kw @ - Rpm\r\n115 Hp @ - Rpm\r\n113 Bhp @ - Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      }
+    }
+  },
+  {
+    "id": 7308,
+    "automobile_id": 1582,
+    "name": "ECO-G 100 6MT (100 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "73.5 Kw @ - Rpm\r\n100 Hp @ - Rpm\r\n99 Bhp @ - Rpm",
+        "Fuel:": "Liquefied Petroleum Gas (Lpg)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      }
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": 18389,
+    "automobile_id": 4602,
+    "name": "1.5L T-MIVEC 6MT FWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "119.9 Kw @ - Rpm\r\n163 Hp @ - Rpm\r\n161 Bhp @ - Rpm",
+        "Torque:": "184 Lb-Ft @ - Rpm\r\n250 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "151 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18390,
+    "automobile_id": 4602,
+    "name": "1.5L T-MIVEC CVT AWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "119.9 Kw @ - Rpm\r\n163 Hp @ - Rpm\r\n161 Bhp @ - Rpm",
+        "Torque:": "184 Lb-Ft @ - Rpm\r\n250 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "33.6 Mpg Us (7 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18391,
+    "automobile_id": 4602,
+    "name": "1.5L T-MIVEC CVT FWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "119.9 Kw @ - Rpm\r\n163 Hp @ - Rpm\r\n161 Bhp @ - Rpm",
+        "Torque:": "184 Lb-Ft @ - Rpm\r\n250 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  }
+]

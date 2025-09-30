@@ -1,0 +1,473 @@
+[
+  {
+    "id": 9729,
+    "automobile_id": 2273,
+    "name": "2.3L 5AT (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2294 Cm3",
+        "Power:": "107 Kw @ 5250 Rpm\r\n145 Hp @ 5250 Rpm\r\n143 Bhp @ 5250 Rpm",
+        "Torque:": "154 Lb-Ft @ 3750 Rpm\r\n209 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3135 Lbs (1422 Kg)",
+        "Gross Weight Limit:": "4380 Lbs (1987 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9730,
+    "automobile_id": 2273,
+    "name": "2.3L 5MT (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2294 Cm3",
+        "Power:": "107 Kw @ 5250 Rpm\r\n145 Hp @ 5250 Rpm\r\n143 Bhp @ 5250 Rpm",
+        "Torque:": "154 Lb-Ft @ 3750 Rpm\r\n209 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3120 Lbs (1415 Kg)",
+        "Gross Weight Limit:": "4380 Lbs (1987 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "23.5 Mpg Us (10 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9731,
+    "automobile_id": 2273,
+    "name": "3.0L V6 5AT AWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2986 Cm3",
+        "Power:": "110 Kw @ 4900 Rpm\r\n150 Hp @ 4900 Rpm\r\n148 Bhp @ 4900 Rpm",
+        "Torque:": "180 Lb-Ft @ 3950 Rpm\r\n244 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3600 Lbs (1633 Kg)",
+        "Gross Weight Limit:": "4840 Lbs (2195 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9732,
+    "automobile_id": 2273,
+    "name": "3.0L V6 5MT (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2986 Cm3",
+        "Power:": "110 Kw @ 4900 Rpm\r\n150 Hp @ 4900 Rpm\r\n148 Bhp @ 4900 Rpm",
+        "Torque:": "180 Lb-Ft @ 3950 Rpm\r\n244 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3440 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4700 Lbs (2132 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9733,
+    "automobile_id": 2273,
+    "name": "3.0L V6 5MT AWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2986 Cm3",
+        "Power:": "110 Kw @ 4900 Rpm\r\n150 Hp @ 4900 Rpm\r\n148 Bhp @ 4900 Rpm",
+        "Torque:": "180 Lb-Ft @ 3950 Rpm\r\n244 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3580 Lbs (1624 Kg)",
+        "Gross Weight Limit:": "4840 Lbs (2195 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9734,
+    "automobile_id": 2273,
+    "name": "4.0L V6 5AT (207 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4014 Cm3",
+        "Power:": "154 Kw @ 5250 Rpm\r\n209 Hp @ 5250 Rpm\r\n207 Bhp @ 5250 Rpm",
+        "Torque:": "238 Lb-Ft @ 3000 Rpm\r\n323 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3175 Lbs (1440 Kg)",
+        "Gross Weight Limit:": "4420 Lbs (2005 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9735,
+    "automobile_id": 2273,
+    "name": "4.0L V6 5AT AWD (207 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4014 Cm3",
+        "Power:": "154 Kw @ 5250 Rpm\r\n209 Hp @ 5250 Rpm\r\n207 Bhp @ 5250 Rpm",
+        "Torque:": "238 Lb-Ft @ 3000 Rpm\r\n323 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3543 Lbs (1607 Kg)",
+        "Gross Weight Limit:": "4780 Lbs (2168 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "17 Mpg Us (13.8 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9736,
+    "automobile_id": 2273,
+    "name": "4.0L V6 5MT (207 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4014 Cm3",
+        "Power:": "154 Kw @ 5250 Rpm\r\n209 Hp @ 5250 Rpm\r\n207 Bhp @ 5250 Rpm",
+        "Torque:": "238 Lb-Ft @ 3000 Rpm\r\n323 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3160 Lbs (1433 Kg)",
+        "Gross Weight Limit:": "4420 Lbs (2005 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9737,
+    "automobile_id": 2273,
+    "name": "4.0L V6 5MT AWD (207 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4014 Cm3",
+        "Power:": "154 Kw @ 5250 Rpm\r\n209 Hp @ 5250 Rpm\r\n207 Bhp @ 5250 Rpm",
+        "Torque:": "238 Lb-Ft @ 3000 Rpm\r\n323 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3520 Lbs (1597 Kg)",
+        "Gross Weight Limit:": "4780 Lbs (2168 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9738,
+    "automobile_id": 2273,
+    "name": "3.0L 5AT (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2986 Cm3",
+        "Power:": "110 Kw @ 4900 Rpm\r\n150 Hp @ 4900 Rpm\r\n148 Bhp @ 4900 Rpm",
+        "Torque:": "180 Lb-Ft @ 3950 Rpm\r\n244 Nm @ 3950 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "66.2 In (1681 Mm)",
+        "Front/Rear Track:": "58.5/57.3 In (1,486/1,455 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "37.4 Cuft (1059 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)",
+        "Gross Weight Limit:": "4700 Lbs (2132 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  }
+]

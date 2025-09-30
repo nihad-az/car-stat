@@ -1,0 +1,330 @@
+[
+  {
+    "id": 5543,
+    "automobile_id": 1159,
+    "name": "2.7L 8AT AWD (314 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2726 Cm3",
+        "Power:": "231.2 Kw @ 5600 Rpm\r\n314 Hp @ 5600 Rpm\r\n310 Bhp @ 5600 Rpm",
+        "Torque:": "349 Lb-Ft @ 1500-4000 Rpm\r\n473 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5011 Lbs (2273 Kg)",
+        "Gross Weight Limit:": "6971 Lbs (3162 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5544,
+    "automobile_id": 1159,
+    "name": "2.7L 8AT RWD (314 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2726 Cm3",
+        "Power:": "231.2 Kw @ 5600 Rpm\r\n314 Hp @ 5600 Rpm\r\n310 Bhp @ 5600 Rpm",
+        "Torque:": "349 Lb-Ft @ 1500-4000 Rpm\r\n473 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4810 Lbs (2182 Kg)",
+        "Gross Weight Limit:": "6632 Lbs (3008 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5545,
+    "automobile_id": 1159,
+    "name": "5.3L V8 10AT AWD (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5328 Cm3",
+        "Power:": "264.7 Kw @ 5600 Rpm\r\n360 Hp @ 5600 Rpm\r\n355 Bhp @ 5600 Rpm",
+        "Torque:": "383 Lb-Ft @ 4100 Rpm\r\n519 Nm @ 4100 Rpm",
+        "Fuel System:": "Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5130 Lbs (2327 Kg)",
+        "Gross Weight Limit:": "7070 Lbs (3207 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "19.9 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5546,
+    "automobile_id": 1159,
+    "name": "5.3L V8 10AT RWD (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5328 Cm3",
+        "Power:": "264.7 Kw @ 5600 Rpm\r\n360 Hp @ 5600 Rpm\r\n355 Bhp @ 5600 Rpm",
+        "Torque:": "383 Lb-Ft @ 4100 Rpm\r\n519 Nm @ 4100 Rpm",
+        "Fuel System:": "Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4930 Lbs (2236 Kg)",
+        "Gross Weight Limit:": "6859 Lbs (3111 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5547,
+    "automobile_id": 1159,
+    "name": "6.2L V8 10AT AWD (426 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "313.2 Kw @ 5600 Rpm\r\n426 Hp @ 5600 Rpm\r\n420 Bhp @ 5600 Rpm",
+        "Torque:": "460 Lb-Ft @ 4100 Rpm\r\n623 Nm @ 4100 Rpm",
+        "Fuel System:": "Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5300 Lbs (2404 Kg)",
+        "Gross Weight Limit:": "7059 Lbs (3202 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "19.9 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5548,
+    "automobile_id": 1159,
+    "name": "3.0L Duramax TD 10AT AWD (281 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3000 Cm3",
+        "Power:": "206.6 Kw @ 3750 Rpm\r\n281 Hp @ 3750 Rpm\r\n277 Bhp @ 3750 Rpm",
+        "Torque:": "460 Lb-Ft @ 1500 Rpm\r\n623 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "22 Gallons (83.3 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5549,
+    "automobile_id": 1159,
+    "name": "3.0L Duramax TD 10AT AWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3000 Cm3",
+        "Power:": "227.4 Kw @ 3750 Rpm\r\n309 Hp @ 3750 Rpm\r\n305 Bhp @ 3750 Rpm",
+        "Torque:": "495 Lb-Ft @ 1500 Rpm\r\n671 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "22 Gallons (83.3 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5351 Lbs (2427 Kg)",
+        "Gross Weight Limit:": "7161 Lbs (3248 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5550,
+    "automobile_id": 1159,
+    "name": "3.0L Duramax TD 10AT RWD (281 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3000 Cm3",
+        "Power:": "206.6 Kw @ 3750 Rpm\r\n280.8 Hp @ 3750 Rpm\r\n277 Bhp @ 3750 Rpm",
+        "Torque:": "460 Lb-Ft @ 1500 Rpm\r\n623 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "22 Gallons (83.3 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "241.4 In (6132 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "75.4 In (1915 Mm)",
+        "Wheelbase:": "157 In (3988 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  }
+]

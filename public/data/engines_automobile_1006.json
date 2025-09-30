@@ -1,0 +1,36 @@
+[
+  {
+    "id": 5197,
+    "automobile_id": 1006,
+    "name": "2.5L Turbo 8AT AWD (333 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "244.6 Kw @ - Rpm\r\n333 Hp @ - Rpm\r\n328 Bhp @ - Rpm",
+        "Torque:": "326 Lb-Ft @ - Rpm\r\n442 Nm @ - Rpm",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      }
+    }
+  },
+  {
+    "id": 5198,
+    "automobile_id": 1006,
+    "name": "2.5L Turbo 8AT FWD (333 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "244.6 Kw @ - Rpm\r\n333 Hp @ - Rpm\r\n328 Bhp @ - Rpm",
+        "Torque:": "326 Lb-Ft @ - Rpm\r\n442 Nm @ - Rpm",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      }
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 21258,
+    "automobile_id": 5240,
+    "name": "1.6L 5MT FWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1600 Cm3",
+        "Power:": "80 Kw @ 5600 Rpm\r\n110 Hp @ 5600 Rpm\r\n107 Bhp @ 5600 Rpm",
+        "Torque:": "112 Lb-Ft @ 4000 Rpm\r\n152 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115.5 Mph (186 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "602 In (15291 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2998 Lbs (1360 Kg)"
+      }
+    }
+  },
+  {
+    "id": 21259,
+    "automobile_id": 5240,
+    "name": "2.0L 5MT FWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2000 Cm3",
+        "Power:": "105 Kw @ 6000 Rpm\r\n143 Hp @ 6000 Rpm\r\n141 Bhp @ 6000 Rpm",
+        "Torque:": "145 Lb-Ft @ 4000 Rpm\r\n196 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126.7 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3044 Lbs (1381 Kg)"
+      }
+    }
+  }
+]

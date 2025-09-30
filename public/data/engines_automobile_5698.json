@@ -1,0 +1,162 @@
+[
+  {
+    "id": 22422,
+    "automobile_id": 5698,
+    "name": "3.6L V6 24V VVT 8AT (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3604 Cm3",
+        "Power:": "224.3 Kw @ 6400 Rpm\r\n305 Hp @ 6400 Rpm\r\n301 Bhp @ 6400 Rpm",
+        "Torque:": "269 Lb-Ft @ 4175 Rpm\r\n365 Nm @ 4175 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "231 In (5867 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "77.2 In (1961 Mm)",
+        "Front/Rear Track:": "68.1/67.5 In (1,730/1,715 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Cargo Volume:": "116.6 Cuft (3302 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4610 Lbs (2091 Kg)",
+        "Gross Weight Limit:": "7599 Lbs (3447 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22423,
+    "automobile_id": 5698,
+    "name": "3.6L V6 24V VVT 8AT AWD (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3604 Cm3",
+        "Power:": "224.3 Kw @ 6400 Rpm\r\n305 Hp @ 6400 Rpm\r\n301 Bhp @ 6400 Rpm",
+        "Torque:": "269 Lb-Ft @ 4175 Rpm\r\n365 Nm @ 4175 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "231 In (5867 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "77.8 In (1976 Mm)",
+        "Front/Rear Track:": "68.2/67.5 In (1,732/1,715 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Cargo Volume:": "116.6 Cuft (3302 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4429 Lbs (2009 Kg)",
+        "Gross Weight Limit:": "7430 Lbs (3370 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22424,
+    "automobile_id": 5698,
+    "name": "3.0L\tEcoDiesel\tV6 8AT 4x2 (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2987 Cm3",
+        "Power:": "176.5 Kw @ 3600 Rpm\r\n240 Hp @ 3600 Rpm\r\n237 Bhp @ 3600 Rpm",
+        "Torque:": "420 Lb-Ft @ 2000 Rpm\r\n570 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharge Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "229 In (5817 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "76.9 In (1953 Mm)",
+        "Front/Rear Track:": "68/68.2 In (1,727/1,732 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Cargo Volume:": "116.6 Cuft (3302 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4970 Lbs (2254 Kg)",
+        "Gross Weight Limit:": "6800 Lbs (3084 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22425,
+    "automobile_id": 5698,
+    "name": "3.0L\tEcoDiesel\tV6 8AT 4x4 (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2987 Cm3",
+        "Power:": "176.5 Kw @ 3600 Rpm\r\n240 Hp @ 3600 Rpm\r\n237 Bhp @ 3600 Rpm",
+        "Torque:": "420 Lb-Ft @ 2000 Rpm\r\n570 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharge Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "229 In (5817 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "77.5 In (1969 Mm)",
+        "Front/Rear Track:": "68/68.2 In (1,727/1,732 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Cargo Volume:": "116.6 Cuft (3302 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4970 Lbs (2254 Kg)",
+        "Gross Weight Limit:": "6800 Lbs (3084 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  }
+]

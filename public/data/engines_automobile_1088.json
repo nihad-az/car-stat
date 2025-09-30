@@ -1,0 +1,92 @@
+[
+  {
+    "id": 5362,
+    "automobile_id": 1088,
+    "name": "6.2L V8 EcoTec3 FlexFuel  6AT RWD (426 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6200 Cm3",
+        "Power:": "313 Kw @ 5600 Rpm\r\n426 Hp @ 5600 Rpm\r\n420 Bhp @ 5600 Rpm",
+        "Torque:": "460 Lb-Ft @ 4100 Rpm\r\n624 Nm @ 4100 Rpm",
+        "Fuel System:": "Direct Fuel Injection With Active Fuel Management",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "30.9 Gallons (117.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Hydra-Matic 6L80 8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/55 R20"
+      },
+      "Dimensions": {
+        "Length:": "224.3 In (5697 Mm)",
+        "Width:": "80.5 In (2045 Mm)",
+        "Height:": "74 In (1880 Mm)",
+        "Front/Rear Track:": "68.7/68.7 In (1,745/1,745 Mm)",
+        "Wheelbase:": "130 In (3302 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "76.5 Cuft (2166 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5795 Lbs (2629 Kg)",
+        "Gross Weight Limit:": "7300 Lbs (3311 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)",
+        "Co2 Emissions:": "302 G/Km"
+      }
+    }
+  },
+  {
+    "id": 5363,
+    "automobile_id": 1088,
+    "name": "6.2L V8 EcoTec3 FlexFuel AWD 6AT (426 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6200 Cm3",
+        "Power:": "313 Kw @ 5600 Rpm\r\n426 Hp @ 5600 Rpm\r\n420 Bhp @ 5600 Rpm",
+        "Torque:": "460 Lb-Ft @ 4100 Rpm\r\n624 Nm @ 4100 Rpm",
+        "Fuel System:": "Direct Fuel Injection With Active Fuel Management",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "30.9 Gallons (117.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Hydra-Matic 6L80 6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/55 R20"
+      },
+      "Dimensions": {
+        "Length:": "224.3 In (5697 Mm)",
+        "Width:": "80.5 In (2045 Mm)",
+        "Height:": "74 In (1880 Mm)",
+        "Front/Rear Track:": "68.7/68.7 In (1,745/1,745 Mm)",
+        "Wheelbase:": "130 In (3302 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "76.5 Cuft (2166 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6040 Lbs (2740 Kg)",
+        "Gross Weight Limit:": "7500 Lbs (3402 Kg)"
+      }
+    }
+  }
+]

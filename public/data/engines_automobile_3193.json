@@ -1,0 +1,83 @@
+[
+  {
+    "id": 13266,
+    "automobile_id": 3193,
+    "name": "3.8L 3MT AWD (147 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3801 Cm3",
+        "Power:": "108 Kw @ 4300 Rpm\r\n147 Hp @ 4300 Rpm\r\n145 Bhp @ 4300 Rpm",
+        "Torque:": "215 Lb-Ft @ 1600 Rpm\r\n292 Nm @ 1600 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "89 Mph (143 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R 17"
+      },
+      "Dimensions": {
+        "Length:": "183.5 In (4661 Mm)",
+        "Width:": "75.5 In (1918 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "57/57 In (1,448/1,448 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)",
+        "Aerodynamics (Cd):": "0.654"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3801 Lbs (1724 Kg)",
+        "Gross Weight Limit:": "4500 Lbs (2041 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.9 Mpg Us (19.8 L/100Km)",
+        "Highway:": "12.3 Mpg Us (19.1 L/100Km)",
+        "Combined:": "13.7 Mpg Us (17.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13267,
+    "automobile_id": 3193,
+    "name": "5.9L V8 4AT AWD (299 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "220 Kw @ - Rpm\r\n299.1 Hp @ - Rpm\r\n295 Bhp @ - Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R 17"
+      },
+      "Dimensions": {
+        "Length:": "186.2 In (4729 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "57/57 In (1,448/1,448 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Aerodynamics (Cd):": "0.654"
+      }
+    }
+  }
+]

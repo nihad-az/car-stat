@@ -1,0 +1,96 @@
+[
+  {
+    "id": 11480,
+    "automobile_id": 2718,
+    "name": "1.5L CVT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1496 Cm3",
+        "Power:": "81 Kw @ 5800 Rpm\r\n110 Hp @ 5800 Rpm\r\n109 Bhp @ 5800 Rpm",
+        "Torque:": "106 Lb-Ft @ 4800 Rpm\r\n143 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.1 Gallons (42.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "104 Mph (167 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65R14 86S"
+      },
+      "Dimensions": {
+        "Length:": "171.3 In (4351 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.3 In (1506 Mm)",
+        "Front/Rear Track:": "57.3/56.9 In (1,455/1,445 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2557.8 Lbs (1160 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "133 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11481,
+    "automobile_id": 2718,
+    "name": "1.5L CVT AWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1496 Cm3",
+        "Power:": "81 Kw @ 5800 Rpm\r\n110 Hp @ 5800 Rpm\r\n109 Bhp @ 5800 Rpm",
+        "Torque:": "106 Lb-Ft @ 4800 Rpm\r\n143 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.1 Gallons (42.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65R14 86S"
+      },
+      "Dimensions": {
+        "Length:": "171.3 In (4351 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.3 In (1506 Mm)",
+        "Front/Rear Track:": "57.3/56.9 In (1,455/1,445 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2690 Lbs (1220 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "138 G/Km"
+      }
+    }
+  }
+]

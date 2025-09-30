@@ -1,0 +1,83 @@
+[
+  {
+    "id": 10932,
+    "automobile_id": 2564,
+    "name": "1.6L 5MT (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "85 Kw @ 6000 Rpm\r\n116 Hp @ 6000 Rpm\r\n114 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4000 Rpm\r\n155 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.2 Gallons (46.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.2 In (4399 Mm)",
+        "Width:": "68.3 In (1735 Mm)",
+        "Height:": "59.7 In (1516 Mm)",
+        "Front/Rear Track:": "58.9/58.9 In (1,496/1,496 Mm)",
+        "Wheelbase:": "99.4 In (2525 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2564 Lbs (1163 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "35 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "162 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10933,
+    "automobile_id": 2564,
+    "name": "1.6L 6AT (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "85 Kw @ 6000 Rpm\r\n116 Hp @ 6000 Rpm\r\n114 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4000 Rpm\r\n155 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.2 Gallons (46.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.2 In (4399 Mm)",
+        "Width:": "68.3 In (1735 Mm)",
+        "Height:": "59.7 In (1516 Mm)",
+        "Front/Rear Track:": "58.9/58.9 In (1,496/1,496 Mm)",
+        "Wheelbase:": "99.4 In (2525 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "35 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "162 G/Km"
+      }
+    }
+  }
+]

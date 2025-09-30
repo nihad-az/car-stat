@@ -1,0 +1,96 @@
+[
+  {
+    "id": 14708,
+    "automobile_id": 3653,
+    "name": "3.5L 6AT AWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3496 Cm3",
+        "Power:": "195 Kw @ 6250 Rpm\r\n265 Hp @ 6250 Rpm\r\n261 Bhp @ 6250 Rpm",
+        "Torque:": "250 Lb-Ft @ 4500 Rpm\r\n339 Nm @ 4500 Rpm",
+        "Fuel System:": "Sequential Multi-Port Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.1 Gallons (76.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60/R18"
+      },
+      "Dimensions": {
+        "Length:": "186.5 In (4737 Mm)",
+        "Width:": "75.8 In (1925 Mm)",
+        "Height:": "67.2 In (1707 Mm)",
+        "Front/Rear Track:": "65/64.4 In (1,651/1,636 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "32.3 Cuft (915 L)",
+        "Aerodynamics (Cd):": "0.36",
+        "Turning Circle:": "38.5 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4420 Lbs (2005 Kg)",
+        "Gross Weight Limit:": "5397 Lbs (2448 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14709,
+    "automobile_id": 3653,
+    "name": "3.5L 6AT FWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3496 Cm3",
+        "Power:": "195 Kw @ 6250 Rpm\r\n265 Hp @ 6250 Rpm\r\n261 Bhp @ 6250 Rpm",
+        "Torque:": "250 Lb-Ft @ 4500 Rpm\r\n339 Nm @ 4500 Rpm",
+        "Fuel System:": "Sequential Multi-Port Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.1 Gallons (76.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60/R18"
+      },
+      "Dimensions": {
+        "Length:": "186.5 In (4737 Mm)",
+        "Width:": "75.8 In (1925 Mm)",
+        "Height:": "67.2 In (1707 Mm)",
+        "Front/Rear Track:": "65/64.4 In (1,651/1,636 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "31.8 Cuft (900 L)",
+        "Aerodynamics (Cd):": "0.36",
+        "Turning Circle:": "38.5 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4210 Lbs (1910 Kg)",
+        "Gross Weight Limit:": "5159 Lbs (2340 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

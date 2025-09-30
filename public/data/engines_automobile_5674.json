@@ -1,0 +1,82 @@
+[
+  {
+    "id": 22363,
+    "automobile_id": 5674,
+    "name": "1.3L 5MT FWD (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1332 Cm3",
+        "Power:": "69.9 Kw @ 5750 Rpm\r\n95 Hp @ 5750 Rpm\r\n94 Bhp @ 5750 Rpm",
+        "Torque:": "89 Lb-Ft @ 4000 Rpm\r\n120 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R13"
+      },
+      "Dimensions": {
+        "Length:": "170.5 In (4331 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "97 In (2464 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2277 Lbs (1033 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22364,
+    "automobile_id": 5674,
+    "name": "1.3L CVT FWD (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1332 Cm3",
+        "Power:": "69.9 Kw @ 5750 Rpm\r\n95 Hp @ 5750 Rpm\r\n94 Bhp @ 5750 Rpm",
+        "Torque:": "89 Lb-Ft @ 4000 Rpm\r\n120 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R13"
+      },
+      "Dimensions": {
+        "Length:": "170.5 In (4331 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "97 In (2464 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2277 Lbs (1033 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "42 Mpg Us (5.6 L/100Km)"
+      }
+    }
+  }
+]

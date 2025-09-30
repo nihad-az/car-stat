@@ -1,0 +1,101 @@
+[
+  {
+    "id": 5673,
+    "automobile_id": 1200,
+    "name": "6.2L V8 7MT (460 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "343 Kw @ 6000 Rpm\r\n466 Hp @ 6000 Rpm\r\n460 Bhp @ 6000 Rpm",
+        "Torque:": "460 Lb-Ft @ 4600 Rpm\r\n624 Nm @ 4600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40R18 // 285/35R19"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "73.9 In (1877 Mm)",
+        "Height:": "48.6 In (1234 Mm)",
+        "Front/Rear Track:": "62.8/61.6 In (1,595/1,565 Mm)",
+        "Wheelbase:": "106.7 In (2710 Mm)",
+        "Ground Clearance:": "4 In (102 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3393 Lbs (1539 Kg)",
+        "Gross Weight Limit:": "3966 Lbs (1799 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.4 Mpg Us (19 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "19.6 Mpg Us (12 L/100Km)",
+        "Co2 Emissions:": "279 G/Km"
+      }
+    }
+  },
+  {
+    "id": 5674,
+    "automobile_id": 1200,
+    "name": "6.2L V8 8AT (460 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "343 Kw @ 6000 Rpm\r\n466 Hp @ 6000 Rpm\r\n460 Bhp @ 6000 Rpm",
+        "Torque:": "460 Lb-Ft @ 4600 Rpm\r\n624 Nm @ 4600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40R18 // 285/35R19"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "73.9 In (1877 Mm)",
+        "Height:": "48.6 In (1234 Mm)",
+        "Front/Rear Track:": "62.8/61.6 In (1,595/1,565 Mm)",
+        "Wheelbase:": "106.7 In (2710 Mm)",
+        "Ground Clearance:": "4 In (102 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "3966 Lbs (1799 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13 Mpg Us (18.1 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  }
+]

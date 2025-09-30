@@ -1,0 +1,94 @@
+[
+  {
+    "id": 20556,
+    "automobile_id": 5109,
+    "name": "3.2L V6 24V 5MT (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3165 Cm3",
+        "Power:": "130 Kw @ 5200 Rpm\r\n177 Hp @ 5200 Rpm\r\n174 Bhp @ 5200 Rpm",
+        "Torque:": "192 Lb-Ft @ 3750 Rpm\r\n260 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "162.2 In (4120 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "72.4 In (1839 Mm)",
+        "Front/Rear Track:": "57.5 In (1461 Mm)",
+        "Wheelbase:": "91.7 In (2329 Mm)",
+        "Cargo Volume:": "47.3 Cuft (1339 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3957.3 Lbs (1795 Kg)",
+        "Gross Weight Limit:": "5732 Lbs (2600 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16.3 Mpg Us (14.4 L/100Km)",
+        "Co2 Emissions:": "342.7 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20557,
+    "automobile_id": 5109,
+    "name": "3.1L TD 5MT (114 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "3059 Cm3",
+        "Power:": "84 Kw @ 3600 Rpm\r\n114 Hp @ 3600 Rpm\r\n113 Bhp @ 3600 Rpm",
+        "Torque:": "192 Lb-Ft @ 2000 Rpm\r\n260 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93.2 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "162.2 In (4120 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "72.4 In (1839 Mm)",
+        "Front/Rear Track:": "57.5 In (1461 Mm)",
+        "Wheelbase:": "91.7 In (2329 Mm)",
+        "Cargo Volume:": "47.3 Cuft (1339 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4277 Lbs (1940 Kg)",
+        "Gross Weight Limit:": "5732 Lbs (2600 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Co2 Emissions:": "551.2 G/Km"
+      }
+    }
+  }
+]

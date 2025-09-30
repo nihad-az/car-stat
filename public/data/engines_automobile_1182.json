@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5616,
+    "automobile_id": 1182,
+    "name": "1.4L 5MT FWD (99 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1399 Cm3",
+        "Power:": "72.8 Kw @ 6200 Rpm\r\n99 Hp @ 6200 Rpm\r\n98 Bhp @ 6200 Rpm",
+        "Torque:": "94 Lb-Ft @ 4000 Rpm\r\n128 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9 Gallons (34.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P 175/70 R 14"
+      },
+      "Dimensions": {
+        "Length:": "143.1 In (3635 Mm)",
+        "Width:": "62.8 In (1595 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "54.5/54.5 In (1,384/1,384 Mm)",
+        "Wheelbase:": "93.9 In (2385 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "11.1 Cuft (314 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2247 Lbs (1019 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30 Mpg Us (7.8 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5617,
+    "automobile_id": 1182,
+    "name": "1.4L CVT FWD (99 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1399 Cm3",
+        "Power:": "72.8 Kw @ 6200 Rpm\r\n99 Hp @ 6200 Rpm\r\n98 Bhp @ 6200 Rpm",
+        "Torque:": "94 Lb-Ft @ 4000 Rpm\r\n128 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9 Gallons (34.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P 175/70 R 14"
+      },
+      "Dimensions": {
+        "Length:": "143.1 In (3635 Mm)",
+        "Width:": "62.8 In (1595 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "54.5/54.5 In (1,384/1,384 Mm)",
+        "Wheelbase:": "93.9 In (2385 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "11.1 Cuft (314 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2277 Lbs (1033 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31 Mpg Us (7.6 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)"
+      }
+    }
+  }
+]

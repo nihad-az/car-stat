@@ -1,0 +1,168 @@
+[
+  {
+    "id": 483,
+    "automobile_id": 143,
+    "name": "1.3L 5MT FWD (87 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1290 Cm3",
+        "Power:": "64 Kw @ 6000 Rpm\r\n87 Hp @ 6000 Rpm\r\n86 Bhp @ 6000 Rpm",
+        "Torque:": "77 Lb-Ft @ 4800 Rpm\r\n104 Nm @ 4800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165Hr14"
+      },
+      "Dimensions": {
+        "Length:": "162.2 In (4120 Mm)",
+        "Width:": "64.1 In (1628 Mm)",
+        "Height:": "50.7 In (1288 Mm)",
+        "Front/Rear Track:": "51.9/50 In (1,318/1,270 Mm)",
+        "Wheelbase:": "88.5 In (2248 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)",
+        "Aerodynamics (Cd):": "0.4"
+      }
+    }
+  },
+  {
+    "id": 484,
+    "automobile_id": 143,
+    "name": "1.6L 5MT FWD (109 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1570 Cm3",
+        "Power:": "80.2 Kw @ 6000 Rpm\r\n109 Hp @ 6000 Rpm\r\n108 Bhp @ 6000 Rpm",
+        "Torque:": "115 Lb-Ft @ 4400 Rpm\r\n156 Nm @ 4400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165Hr14"
+      },
+      "Dimensions": {
+        "Length:": "162.2 In (4120 Mm)",
+        "Width:": "64.1 In (1628 Mm)",
+        "Height:": "50.7 In (1288 Mm)",
+        "Front/Rear Track:": "51.9/50 In (1,318/1,270 Mm)",
+        "Wheelbase:": "88.5 In (2248 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2292.8 Lbs (1040 Kg)",
+        "Gross Weight Limit:": "2954.1 Lbs (1340 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)",
+        "Co2 Emissions:": "271 G/Km"
+      }
+    }
+  },
+  {
+    "id": 485,
+    "automobile_id": 143,
+    "name": "1.8L 5MT FWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "83.1 Kw @ - Rpm\r\n113 Hp @ - Rpm\r\n111 Bhp @ - Rpm",
+        "Torque:": "136 Lb-Ft @ - Rpm\r\n185 Nm @ - Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165Hr14"
+      },
+      "Dimensions": {
+        "Length:": "162.2 In (4120 Mm)",
+        "Width:": "64.1 In (1628 Mm)",
+        "Height:": "50.7 In (1288 Mm)",
+        "Front/Rear Track:": "51.9/50 In (1,318/1,270 Mm)",
+        "Wheelbase:": "88.5 In (2248 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)",
+        "Aerodynamics (Cd):": "0.4"
+      }
+    }
+  },
+  {
+    "id": 486,
+    "automobile_id": 143,
+    "name": "2.0L 5MT FWD (126 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "92.7 Kw @ 5400 Rpm\r\n126 Hp @ 5400 Rpm\r\n124 Bhp @ 5400 Rpm",
+        "Torque:": "131 Lb-Ft @ 4200 Rpm\r\n177 Nm @ 4200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165Hr14"
+      },
+      "Dimensions": {
+        "Length:": "162.2 In (4120 Mm)",
+        "Width:": "64.1 In (1628 Mm)",
+        "Height:": "50.7 In (1288 Mm)",
+        "Front/Rear Track:": "51.9/50 In (1,318/1,270 Mm)",
+        "Wheelbase:": "88.5 In (2248 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2822 Lbs (1280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)"
+      }
+    }
+  }
+]

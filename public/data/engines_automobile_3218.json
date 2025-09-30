@@ -1,0 +1,88 @@
+[
+  {
+    "id": 13323,
+    "automobile_id": 3218,
+    "name": "3.8L V6 8AT AWD (291 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3778 Cm3",
+        "Power:": "214 Kw @ 6000 Rpm\r\n291 Hp @ 6000 Rpm\r\n287 Bhp @ 6000 Rpm",
+        "Torque:": "262 Lb-Ft @ 5200 Rpm\r\n355 Nm @ 5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.9 In (5001 Mm)",
+        "Width:": "78.3 In (1989 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "67.2/67.6 In (1,707/1,717 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4354 Lbs (1975 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13324,
+    "automobile_id": 3218,
+    "name": "3.8L V6 8AT FWD (291 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3778 Cm3",
+        "Power:": "214 Kw @ 6000 Rpm\r\n291 Hp @ 6000 Rpm\r\n287 Bhp @ 6000 Rpm",
+        "Torque:": "262 Lb-Ft @ 5200 Rpm\r\n355 Nm @ 5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.9 In (5001 Mm)",
+        "Width:": "78.3 In (1989 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "67.2/67.6 In (1,707/1,717 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4211 Lbs (1910 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  }
+]

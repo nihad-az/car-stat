@@ -1,0 +1,102 @@
+[
+  {
+    "id": 18490,
+    "automobile_id": 4633,
+    "name": "1.5L 16V 5MT FWD (109 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "80 Kw @ 6000 Rpm\r\n109 Hp @ 6000 Rpm\r\n107 Bhp @ 6000 Rpm",
+        "Torque:": "107 Lb-Ft @ 4000 Rpm\r\n145 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50R15"
+      },
+      "Dimensions": {
+        "Length:": "152.7 In (3879 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "57.5/56.7 In (1,461/1,440 Mm)",
+        "Wheelbase:": "98.4 In (2499 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "6.7 Cuft (190 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2447.1 Lbs (1110 Kg)",
+        "Gross Weight Limit:": "3218.7 Lbs (1460 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "43.5 Mpg Us (5.4 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "157 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18491,
+    "automobile_id": 4633,
+    "name": "1.5L 16V Turbo 5MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1468 Cm3",
+        "Power:": "110 Kw @ 6000 Rpm\r\n150 Hp @ 6000 Rpm\r\n148 Bhp @ 6000 Rpm",
+        "Torque:": "155 Lb-Ft @ 3500 Rpm\r\n210 Nm @ 3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.3 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/45R16"
+      },
+      "Dimensions": {
+        "Length:": "152.7 In (3879 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "57.5/56.7 In (1,461/1,440 Mm)",
+        "Wheelbase:": "98.4 In (2499 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "6.7 Cuft (190 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2645.5 Lbs (1200 Kg)",
+        "Gross Weight Limit:": "3373.1 Lbs (1530 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  }
+]

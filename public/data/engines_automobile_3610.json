@@ -1,0 +1,103 @@
+[
+  {
+    "id": 14600,
+    "automobile_id": 3610,
+    "name": "200 6MT RWD (155 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "1988 Cm3",
+        "Power:": "114 Kw @ 6200 Rpm\r\n155 Hp @ 6200 Rpm\r\n153 Bhp @ 6200 Rpm",
+        "Torque:": "144 Lb-Ft @ 4400 Rpm\r\n195 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "133.6 Mph (215 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45/R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "67.7 In (1720 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59/58.3 In (1,499/1,481 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "12.1 Cuft (343 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3097.5 Lbs (1405 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.29 Mpg Us (13.6 L/100Km)",
+        "Highway:": "30.15 Mpg Us (7.8 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "233 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14601,
+    "automobile_id": 3610,
+    "name": "300 5AT RWD (214 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2997 Cm3",
+        "Power:": "157 Kw @ 5800 Rpm\r\n213 Hp @ 5800 Rpm\r\n211 Bhp @ 5800 Rpm",
+        "Torque:": "212 Lb-Ft @ 3800 Rpm\r\n288 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142.9 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45/R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "67.7 In (1720 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59/58.3 In (1,499/1,481 Mm)",
+        "Wheelbase:": "105.11 In (2670 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "12.9 Cuft (365 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3340 Lbs (1515 Kg)",
+        "Gross Weight Limit:": "4387.2 Lbs (1990 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.6 Mpg Us (16.1 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "265 G/Km"
+      }
+    }
+  }
+]

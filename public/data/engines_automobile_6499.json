@@ -1,0 +1,308 @@
+[
+  {
+    "id": 26249,
+    "automobile_id": 6499,
+    "name": "2.0L 6MT FWD (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1987 Cm3",
+        "Power:": "128.7 Kw @ 6600 Rpm\r\n175 Hp @ 6600 Rpm\r\n173 Bhp @ 6600 Rpm",
+        "Torque:": "153 Lb-Ft @ 4300-5200 Rpm\r\n208 Nm @ 4300-5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "61.8X67.1 In (1570 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "35.6 Cuft (1008 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3197 - 3450 Lbs (1450 - 1565 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "138 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26250,
+    "automobile_id": 6499,
+    "name": "TRD 2.5L 8AT AWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2487 Cm3",
+        "Power:": "149.3 Kw @ 6600 Rpm\r\n203 Hp @ 6600 Rpm\r\n200 Bhp @ 6600 Rpm",
+        "Torque:": "184 Lb-Ft @ 5000 Rpm\r\n249 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "61.8X67.1 In (1570 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "35.6 Cuft (1008 L)",
+        "Turning Circle (Curb To Curb):": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3655 Lbs (1658 Kg)",
+        "Gross Weight Limit:": "4705 Lbs (2134 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26251,
+    "automobile_id": 6499,
+    "name": "2.5L VVT-i CVT-i FWD (194 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2494 Cm3",
+        "Power:": "142.7 Kw @ 5700 Rpm\r\n194 Hp @ 5700 Rpm\r\n191 Bhp @ 5700 Rpm",
+        "Torque:": "152 Lb-Ft @ 4400 Rpm\r\n206 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt-I"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "61.8X67.1 In (1570 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "35.6 Cuft (1008 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "8653 Lbs (3925 Kg)",
+        "Gross Weight Limit:": "10935 Lbs (4960 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "6.9 Mpg Us (34.1 L/100Km)",
+        "Highway:": "7.8 Mpg Us (30.2 L/100Km)",
+        "Combined:": "7.4 Mpg Us (31.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26252,
+    "automobile_id": 6499,
+    "name": "2.5L D-4S PHEV AWD (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2487 Cm3",
+        "Power:": "136.1 Kw @ 6000 Rpm\r\n185 Hp @ 6000 Rpm\r\n183 Bhp @ 6000 Rpm",
+        "Torque:": "167 Lb-Ft @ 3200-3700 Rpm\r\n227 Nm @ 3200-3700 Rpm",
+        "Electrical Motor Power:": "133.9 Kw (182 Hp)",
+        "Electrical Motor Torque:": "199.1 Lb-Ft (270 Nm)",
+        "Total Maximum Power:": "225.1 Kw (306 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Planetary Gear System"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "61.8X67.1 In (1570 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "35.6 Cuft (1008 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4211 - 4409 Lbs (1910 - 2000 Kg)",
+        "Gross Weight Limit:": "5534 Lbs (2510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "196 Mpg Us (1.2 L/100Km)",
+        "Co2 Emissions:": "26 G/Km"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "18.1 Kwh",
+        "Range:": "46.6 Miles (75.0 Km)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "235.2 Mpg Us (1 L/100Km)",
+        "Co2 Emissions (Combined):": "22 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26253,
+    "automobile_id": 6499,
+    "name": "2.5L VVT-i CVT AWD (218 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2494 Cm3",
+        "Power:": "130.2 Kw @ 6000 Rpm\r\n177 Hp @ 6000 Rpm\r\n175 Bhp @ 6000 Rpm",
+        "Torque:": "163 Lb-Ft @ 4400 Rpm\r\n221 Nm @ 4400 Rpm",
+        "Electrical Motor Power:": "88.3 Kw (120 Hp)",
+        "Electrical Motor Torque:": "149 Lb-Ft (202 Nm)",
+        "Total Maximum Power:": "160.3 Kw (218 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "61.8X67.1 In (1570 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "35.6 Cuft (1008 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3627 - 3814 Lbs (1645 - 1730 Kg)",
+        "Gross Weight Limit:": "4905 Lbs (2225 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Co2 Emissions:": "102 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26254,
+    "automobile_id": 6499,
+    "name": "2.5L VVT-i eCVT AWD (218 HP) US",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2487 Cm3",
+        "Power:": "129.4 Kw @ 5700 Rpm\r\n176 Hp @ 5700 Rpm\r\n174 Bhp @ 5700 Rpm",
+        "Torque:": "163 Lb-Ft @ 3600-5200 Rpm\r\n221 Nm @ 3600-5200 Rpm",
+        "Electrical Motor Power:": "86.8 Kw (118 Hp)",
+        "Electrical Motor Torque:": "149 Lb-Ft (202 Nm)",
+        "Total Maximum Power:": "161.1 Kw (219 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Ecvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "2.4/2.4 In (61/61 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "38.4 Cuft (1087 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3455 Lbs (1567 Kg)",
+        "Gross Weight Limit:": "4525 Lbs (2053 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Sealed Nickel-Metal Hydride (Ni-Mh)"
+      }
+    }
+  }
+]

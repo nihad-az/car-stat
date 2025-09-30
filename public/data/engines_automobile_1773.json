@@ -1,0 +1,133 @@
+[
+  {
+    "id": 7951,
+    "automobile_id": 1773,
+    "name": "PureTech 8AT (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "165.5 Kw @ - Rpm\r\n225 Hp @ - Rpm\r\n222 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "194.1 In (4930 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)"
+      }
+    }
+  },
+  {
+    "id": 7952,
+    "automobile_id": 1773,
+    "name": "E-TENSE PureTech 8AT (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "80.9 Kw (110 Hp)",
+        "Total Maximum Power:": "165.5 Kw (225 Hp)",
+        "Total Maximum Torque:": "236 Lb-Ft (320 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Dimensions": {
+        "Length:": "194.1 In (4930 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity:": "11.9 Kwh",
+        "Range:": "24.9 Miles (40.1 Km)"
+      }
+    }
+  },
+  {
+    "id": 7953,
+    "automobile_id": 1773,
+    "name": "E-TENSE PureTech 8AT (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "183.9 Kw @ - Rpm\r\n250 Hp @ - Rpm\r\n247 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "194.1 In (4930 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)"
+      }
+    }
+  },
+  {
+    "id": 7954,
+    "automobile_id": 1773,
+    "name": "E-TENSE PureTech 8AT AWD (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "147.1 Kw @ 6000 Rpm\r\n200 Hp @ 6000 Rpm\r\n197 Bhp @ 6000 Rpm",
+        "Torque:": "221 Lb-Ft @ 3000 Rpm\r\n300 Nm @ 3000 Rpm",
+        "Electrical Motor Power:": "80.9 Kw (110 Hp)",
+        "Electrical Motor Torque:": "236 Lb-Ft (320 Nm)",
+        "Total Maximum Power:": "264.8 Kw (360 Hp)",
+        "Total Maximum Torque:": "383.5 Lb-Ft (520 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Plug-In Hybrid",
+        "Fuel Capacity:": "11.1 Gallons (42.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Top Speed (Electrical):": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.4/61.7 In (1,585/1,567 Mm)",
+        "Wheelbase:": "114 In (2896 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4209 Lbs (1909 Kg)",
+        "Gross Weight Limit:": "5280 Lbs (2395 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "11.9 Kwh",
+        "Range:": "31.7 Miles (51.0 Km)"
+      }
+    }
+  }
+]

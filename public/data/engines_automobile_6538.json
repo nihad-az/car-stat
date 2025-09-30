@@ -1,0 +1,136 @@
+[
+  {
+    "id": 26380,
+    "automobile_id": 6538,
+    "name": "1.0L 5MT FWD (69 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "51 Kw @ 6000 Rpm\r\n69 Hp @ 6000 Rpm\r\n68 Bhp @ 6000 Rpm",
+        "Torque:": "70 Lb-Ft @ 4300 Rpm\r\n95 Nm @ 4300 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P175/65R15"
+      },
+      "Dimensions": {
+        "Length:": "155.5 In (3950 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "58.5/57.9 In (1,486/1,471 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2227 Lbs (1010 Kg)",
+        "Gross Weight Limit:": "3197 Lbs (1450 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42 Mpg Us (5.6 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26381,
+    "automobile_id": 6538,
+    "name": "1.5L VVT-i 4AT FWD (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "79 Kw @ 6000 Rpm\r\n107 Hp @ 6000 Rpm\r\n106 Bhp @ 6000 Rpm",
+        "Torque:": "103 Lb-Ft @ 4200 Rpm\r\n140 Nm @ 4200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P175/65R15"
+      },
+      "Dimensions": {
+        "Length:": "155.5 In (3950 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "58.5/57.9 In (1,486/1,471 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2335 Lbs (1059 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30 Mpg Us (7.8 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "32 Mpg Us (7.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26382,
+    "automobile_id": 6538,
+    "name": "1.5L VVT-i 5MT FWD (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "79 Kw @ 6000 Rpm\r\n107 Hp @ 6000 Rpm\r\n106 Bhp @ 6000 Rpm",
+        "Torque:": "103 Lb-Ft @ 4200 Rpm\r\n140 Nm @ 4200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P175/65R15"
+      },
+      "Dimensions": {
+        "Length:": "155.5 In (3950 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "58.5/57.9 In (1,486/1,471 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2315 Lbs (1050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30 Mpg Us (7.8 L/100Km)",
+        "Highway:": "37 Mpg Us (6.4 L/100Km)",
+        "Combined:": "33 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  }
+]

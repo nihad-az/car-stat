@@ -1,0 +1,87 @@
+[
+  {
+    "id": 10607,
+    "automobile_id": 2472,
+    "name": "1.5L 5MT FWD (92 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "69 Kw @ 6000 Rpm\r\n94 Hp @ 6000 Rpm\r\n93 Bhp @ 6000 Rpm",
+        "Torque:": "94 Lb-Ft @ 3400 Rpm\r\n127 Nm @ 3400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Disks",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "66.6 In (1692 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "57.1/56.3 In (1,450/1,430 Mm)",
+        "Wheelbase:": "98.5 In (2502 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2293 Lbs (1040 Kg)",
+        "Gross Weight Limit:": "3219 Lbs (1460 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10608,
+    "automobile_id": 2472,
+    "name": "1.6L 5MT FWD (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1587 Cm3",
+        "Power:": "79 Kw @ 6000 Rpm\r\n106 Hp @ 6000 Rpm\r\n106 Bhp @ 6000 Rpm",
+        "Torque:": "101 Lb-Ft @ 4400 Rpm\r\n137 Nm @ 4400 Rpm",
+        "Fuel System:": "Mpi",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Disks",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "66.6 In (1692 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Wheelbase:": "98.5 In (2502 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  }
+]

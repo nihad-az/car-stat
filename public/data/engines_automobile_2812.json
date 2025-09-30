@@ -1,0 +1,98 @@
+[
+  {
+    "id": 11784,
+    "automobile_id": 2812,
+    "name": "1.3L 3AT (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1298 Cm3",
+        "Power:": "58.8 Kw @ 6500 Rpm\r\n80 Hp @ 6500 Rpm\r\n79 Bhp @ 6500 Rpm",
+        "Torque:": "74 Lb-Ft @ 4000 Rpm\r\n100 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.20 X 13"
+      },
+      "Dimensions": {
+        "Length:": "153 In (3886 Mm)",
+        "Width:": "57.7 In (1466 Mm)",
+        "Height:": "53 In (1346 Mm)",
+        "Front/Rear Track:": "49/48 In (1,245/1,219 Mm)",
+        "Wheelbase:": "88.6 In (2250 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Aerodynamics (Cd):": "0.45"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2006 Lbs (910 Kg)",
+        "Gross Weight Limit:": "2866 Lbs (1300 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "23.5 Mpg Us (10 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11785,
+    "automobile_id": 2812,
+    "name": "1.3L 4MT (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1298 Cm3",
+        "Power:": "69.9 Kw @ 7000 Rpm\r\n95 Hp @ 7000 Rpm\r\n94 Bhp @ 7000 Rpm",
+        "Torque:": "77 Lb-Ft @ 4000 Rpm\r\n104 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.20 X 13"
+      },
+      "Dimensions": {
+        "Length:": "153 In (3886 Mm)",
+        "Width:": "57.7 In (1466 Mm)",
+        "Height:": "53 In (1346 Mm)",
+        "Front/Rear Track:": "49/48 In (1,245/1,219 Mm)",
+        "Wheelbase:": "88.6 In (2250 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Aerodynamics (Cd):": "0.45"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1973 Lbs (895 Kg)",
+        "Gross Weight Limit:": "2756 Lbs (1250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)"
+      }
+    }
+  }
+]

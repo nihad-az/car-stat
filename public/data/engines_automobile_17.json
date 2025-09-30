@@ -1,0 +1,90 @@
+[
+  {
+    "id": 28,
+    "automobile_id": 17,
+    "name": "3.5L V6 10AT (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "231.2 Kw @ 6500 Rpm\r\n314 Hp @ 6500 Rpm\r\n310 Bhp @ 6500 Rpm",
+        "Torque:": "272 Lb-Ft @ 4500 Rpm\r\n369 Nm @ 4500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "198.1 In (5032 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Front/Rear Track:": "64.3/64.2 In (1,633/1,631 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3977 Lbs (1804 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "automobile_id": 17,
+    "name": "3.5L V6 Sport Hybrid 7AT (377 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "228 Kw @ 6500 Rpm\r\n310 Hp @ 6500 Rpm\r\n306 Bhp @ 6500 Rpm",
+        "Torque:": "272 Lb-Ft @ 4500 Rpm\r\n369 Nm @ 4500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "15.1 Gallons (57.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Dct)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "198.1 In (5032 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Front/Rear Track:": "64.3/64.2 In (1,633/1,631 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4380 Lbs (1987 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  }
+]

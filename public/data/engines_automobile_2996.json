@@ -1,0 +1,86 @@
+[
+  {
+    "id": 12550,
+    "automobile_id": 2996,
+    "name": "3.5L V6 Twin-Turbo 9AT AWD (456 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3492 Cm3",
+        "Power:": "335.6 Kw @ 5600 Rpm\r\n456.2 Hp @ 5600 Rpm\r\n450 Bhp @ 5600 Rpm",
+        "Torque:": "516 Lb-Ft @ 3600 Rpm\r\n700 Nm @ 3600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.5 Gallons (89.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/60 R20"
+      },
+      "Dimensions": {
+        "Length:": "211.2 In (5364 Mm)",
+        "Width:": "83.3 In (2116 Mm)",
+        "Height:": "76.6 In (1946 Mm)",
+        "Front/Rear Track:": "68/68.1 In (1,727/1,730 Mm)",
+        "Wheelbase:": "121 In (3073 Mm)",
+        "Ground Clearance:": "9.6 In (244 Mm)",
+        "Cargo Volume:": "22 Cuft (623 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12551,
+    "automobile_id": 2996,
+    "name": "3.5L V6 Twin-Turbo 9AT RWD (456 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3492 Cm3",
+        "Power:": "335.6 Kw @ 5600 Rpm\r\n456 Hp @ 5600 Rpm\r\n450 Bhp @ 5600 Rpm",
+        "Torque:": "516 Lb-Ft @ 3600 Rpm\r\n700 Nm @ 3600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.5 Gallons (89.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/60 R20"
+      },
+      "Dimensions": {
+        "Length:": "211.2 In (5364 Mm)",
+        "Width:": "83.3 In (2116 Mm)",
+        "Height:": "76.6 In (1946 Mm)",
+        "Front/Rear Track:": "68/68.1 In (1,727/1,730 Mm)",
+        "Wheelbase:": "121 In (3073 Mm)",
+        "Ground Clearance:": "9.6 In (244 Mm)",
+        "Cargo Volume:": "22 Cuft (623 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  }
+]

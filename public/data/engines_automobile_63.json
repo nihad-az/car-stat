@@ -1,0 +1,94 @@
+[
+  {
+    "id": 119,
+    "automobile_id": 63,
+    "name": "2.7L V6 5AT FWD (161 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2675 Cm3",
+        "Power:": "120 Kw @ 5900 Rpm\r\n163 Hp @ 5900 Rpm\r\n161 Bhp @ 5900 Rpm",
+        "Torque:": "162 Lb-Ft @ 4500 Rpm\r\n220 Nm @ 4500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.7 In (1745 Mm)",
+        "Height:": "53.9 In (1369 Mm)",
+        "Front/Rear Track:": "59.1/59.1 In (1,501/1,501 Mm)",
+        "Wheelbase:": "106.1 In (2695 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "14.7 Cuft (416 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3183 Lbs (1444 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "10.7 Mpg Us (22 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 120,
+    "automobile_id": 63,
+    "name": "2.7L V6 5MT FWD (161 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2675 Cm3",
+        "Power:": "120 Kw @ 5900 Rpm\r\n161 Hp @ 5900 Rpm\r\n161 Bhp @ 5900 Rpm",
+        "Torque:": "162 Lb-Ft @ 4500 Rpm\r\n220 Nm @ 4500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "133 Mph (214 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.7 In (1745 Mm)",
+        "Height:": "53.9 In (1369 Mm)",
+        "Front/Rear Track:": "59.1/59.1 In (1,501/1,501 Mm)",
+        "Wheelbase:": "106.1 In (2695 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "14.7 Cuft (416 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3089 Lbs (1401 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "267 G/Km"
+      }
+    }
+  }
+]

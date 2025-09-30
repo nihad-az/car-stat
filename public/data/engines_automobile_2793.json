@@ -1,0 +1,128 @@
+[
+  {
+    "id": 11722,
+    "automobile_id": 2793,
+    "name": "1.5i 5MT (102 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1488 Cm3",
+        "Power:": "75 Kw @ 5750 Rpm\r\n102 Hp @ 5750 Rpm\r\n101 Bhp @ 5750 Rpm",
+        "Torque:": "96 Lb-Ft @ 4500 Rpm\r\n130 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "148 In (3759 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "50 In (1270 Mm)",
+        "Front/Rear Track:": "57.1/57.5 In (1,450/1,461 Mm)",
+        "Wheelbase:": "90.6 In (2301 Mm)",
+        "Cargo Volume:": "6.9 Cuft (195 L)"
+      }
+    }
+  },
+  {
+    "id": 11723,
+    "automobile_id": 2793,
+    "name": "1.6i 5MT (131 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1590 Cm3",
+        "Power:": "96 Kw @ 6800 Rpm\r\n131 Hp @ 6800 Rpm\r\n129 Bhp @ 6800 Rpm",
+        "Torque:": "151 Lb-Ft @ 5700 Rpm\r\n204 Nm @ 5700 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131.7 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60Vr14"
+      },
+      "Dimensions": {
+        "Length:": "148 In (3759 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "50 In (1270 Mm)",
+        "Front/Rear Track:": "57.1/57.5 In (1,450/1,461 Mm)",
+        "Wheelbase:": "90.6 In (2301 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "6.9 Cuft (195 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1982 Lbs (899 Kg)",
+        "Gross Weight Limit:": "2844 Lbs (1290 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11724,
+    "automobile_id": 2793,
+    "name": "1.6i VTEC 5MT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1590 Cm3",
+        "Power:": "110 Kw @ 7600 Rpm\r\n150 Hp @ 7600 Rpm\r\n148 Bhp @ 7600 Rpm",
+        "Torque:": "106 Lb-Ft @ 7100 Rpm\r\n144 Nm @ 7100 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137.9 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/60Vr15"
+      },
+      "Dimensions": {
+        "Length:": "148 In (3759 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "50 In (1270 Mm)",
+        "Front/Rear Track:": "57.1/57.5 In (1,450/1,461 Mm)",
+        "Wheelbase:": "90.6 In (2301 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "6.9 Cuft (195 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2226.7 Lbs (1010 Kg)",
+        "Gross Weight Limit:": "3240.8 Lbs (1470 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "174 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "id": 5275,
+    "automobile_id": 1035,
+    "name": "3.8",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3791 Cm3",
+        "Power:": "149 Kw @ 5200 Rpm\r\n203 Hp @ 5200 Rpm\r\n200 Bhp @ 5200 Rpm",
+        "Torque:": "229 Lb-Ft @ 4000 Rpm\r\n310 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121.2 Mph (195 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "56.6 In (1438 Mm)",
+        "Front/Rear Track:": "62/61.3 In (1,575/1,557 Mm)",
+        "Wheelbase:": "109 In (2769 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "16.6 Cuft (470 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3435.4 Lbs (1558 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "233 G/Km"
+      }
+    }
+  },
+  {
+    "id": 5276,
+    "automobile_id": 1035,
+    "name": "3.8 Supercharged",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3781 Cm3",
+        "Power:": "179 Kw @ 5200 Rpm\r\n243 Hp @ 5200 Rpm\r\n240 Bhp @ 5200 Rpm",
+        "Torque:": "280 Lb-Ft @ 3600 Rpm\r\n380 Nm @ 3600 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R 16"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "56.6 In (1438 Mm)",
+        "Front/Rear Track:": "62/61.3 In (1,575/1,557 Mm)",
+        "Wheelbase:": "109 In (2769 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "16.6 Cuft (470 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3510.4 Lbs (1592 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "254 G/Km"
+      }
+    }
+  }
+]

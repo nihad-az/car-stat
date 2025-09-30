@@ -1,0 +1,495 @@
+[
+  {
+    "id": 17696,
+    "automobile_id": 4316,
+    "name": "170 S",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1767 Cm3",
+        "Power:": "38 Kw @ 4000 Rpm\r\n52 Hp @ 4000 Rpm\r\n51 Bhp @ 4000 Rpm",
+        "Torque:": "83 Lb-Ft @ 1800 Rpm\r\n112 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "75 Mph (121 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "32 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.40-15"
+      },
+      "Dimensions": {
+        "Length:": "175.4 In (4455 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.8/55.9 In (1,316/1,420 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2689 Lbs (1220 Kg)",
+        "Gross Weight Limit:": "3395 Lbs (1540 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17697,
+    "automobile_id": 4316,
+    "name": "170 S-V",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1767 Cm3",
+        "Power:": "33 Kw @ 3600 Rpm\r\n45 Hp @ 3600 Rpm\r\n44 Bhp @ 3600 Rpm",
+        "Torque:": "80 Lb-Ft @ 1800 Rpm\r\n108 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "72 Mph (116 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "39 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "175.2 In (4450 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "62.6 In (1590 Mm)",
+        "Front/Rear Track:": "51.6/56.5 In (1,311/1,435 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2711 Lbs (1230 Kg)",
+        "Gross Weight Limit:": "3637 Lbs (1650 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Co2 Emissions:": "226 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17698,
+    "automobile_id": 4316,
+    "name": "170 Sb",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1767 Cm3",
+        "Power:": "38 Kw @ 4000 Rpm\r\n52 Hp @ 4000 Rpm\r\n51 Bhp @ 4000 Rpm",
+        "Torque:": "83 Lb-Ft @ 1800 Rpm\r\n112 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "75 Mph (121 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "32 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.40-15"
+      },
+      "Dimensions": {
+        "Length:": "174.8 In (4440 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.8/56.5 In (1,316/1,435 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2778 Lbs (1260 Kg)",
+        "Gross Weight Limit:": "3582 Lbs (1625 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17699,
+    "automobile_id": 4316,
+    "name": "170 V",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "28 Kw @ 3600 Rpm\r\n38 Hp @ 3600 Rpm\r\n38 Bhp @ 3600 Rpm",
+        "Torque:": "74 Lb-Ft @ 1800 Rpm\r\n100 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "67 Mph (108 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "168.7 In (4285 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.6/51 In (1,311/1,295 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2557 Lbs (1160 Kg)",
+        "Gross Weight Limit:": "3263 Lbs (1480 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17700,
+    "automobile_id": 4316,
+    "name": "170 Va",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "33 Kw @ 3600 Rpm\r\n45 Hp @ 3600 Rpm\r\n44 Bhp @ 3600 Rpm",
+        "Torque:": "80 Lb-Ft @ 1800 Rpm\r\n108 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "72 Mph (116 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "34 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "168.7 In (4285 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.6/52.8 In (1,311/1,341 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2612 Lbs (1185 Kg)",
+        "Gross Weight Limit:": "3318 Lbs (1505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17701,
+    "automobile_id": 4316,
+    "name": "170 Vb",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "33 Kw @ 3600 Rpm\r\n45 Hp @ 3600 Rpm\r\n44 Bhp @ 3600 Rpm",
+        "Torque:": "80 Lb-Ft @ 1800 Rpm\r\n108 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "72 Mph (116 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "34 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "169.1 In (4295 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.6/53.5 In (1,311/1,359 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2612 Lbs (1185 Kg)",
+        "Gross Weight Limit:": "3318 Lbs (1505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17702,
+    "automobile_id": 4316,
+    "name": "170 D",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "28 Kw @ 3200 Rpm\r\n38 Hp @ 3200 Rpm\r\n38 Bhp @ 3200 Rpm",
+        "Torque:": "72 Lb-Ft @ 2000 Rpm\r\n98 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "62 Mph (100 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "168.7 In (4285 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.6/51 In (1,311/1,295 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2689 Lbs (1220 Kg)",
+        "Gross Weight Limit:": "3395 Lbs (1540 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17703,
+    "automobile_id": 4316,
+    "name": "170 Da",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "29 Kw @ 3200 Rpm\r\n40 Hp @ 3200 Rpm\r\n39 Bhp @ 3200 Rpm",
+        "Torque:": "75 Lb-Ft @ 2000 Rpm\r\n102 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "62 Mph (100 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "50 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "168.7 In (4285 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.6/52.8 In (1,311/1,341 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2744 Lbs (1245 Kg)",
+        "Gross Weight Limit:": "3450 Lbs (1565 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17704,
+    "automobile_id": 4316,
+    "name": "170 Db",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "29 Kw @ 3200 Rpm\r\n40 Hp @ 3200 Rpm\r\n39 Bhp @ 3200 Rpm",
+        "Torque:": "75 Lb-Ft @ 2000 Rpm\r\n102 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "62 Mph (100 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "50 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "169.1 In (4295 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.6/53.5 In (1,311/1,359 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2744 Lbs (1245 Kg)",
+        "Gross Weight Limit:": "3450 Lbs (1565 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17705,
+    "automobile_id": 4316,
+    "name": "170 Ds",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1767 Cm3",
+        "Power:": "29 Kw @ 3200 Rpm\r\n40 Hp @ 3200 Rpm\r\n39 Bhp @ 3200 Rpm",
+        "Torque:": "75 Lb-Ft @ 2000 Rpm\r\n102 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "62 Mph (100 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "56 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "174.8 In (4440 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "51.8/56.5 In (1,316/1,435 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2811 Lbs (1275 Kg)",
+        "Gross Weight Limit:": "3615 Lbs (1640 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17706,
+    "automobile_id": 4316,
+    "name": "170 S-D",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1767 Cm3",
+        "Power:": "29 Kw @ 3200 Rpm\r\n40 Hp @ 3200 Rpm\r\n39 Bhp @ 3200 Rpm",
+        "Torque:": "75 Lb-Ft @ 2000 Rpm\r\n102 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "62 Mph (100 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "56 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.50-16"
+      },
+      "Dimensions": {
+        "Length:": "175.2 In (4450 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "62.6 In (1590 Mm)",
+        "Front/Rear Track:": "51.6/56.5 In (1,311/1,435 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2822 Lbs (1280 Kg)",
+        "Gross Weight Limit:": "3748 Lbs (1700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  }
+]

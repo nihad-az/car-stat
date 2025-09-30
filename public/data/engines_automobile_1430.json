@@ -1,0 +1,143 @@
+[
+  {
+    "id": 6453,
+    "automobile_id": 1430,
+    "name": "1.2L PureTech 8AT (131 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1199 Cm3",
+        "Power:": "96.4 Kw @ 5500 Rpm\r\n131 Hp @ 5500 Rpm\r\n129 Bhp @ 5500 Rpm",
+        "Torque:": "170 Lb-Ft @ 1750 Rpm\r\n230 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Dimensions": {
+        "Length:": "189.2 In (4806 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "58.5 In (1486 Mm)",
+        "Front/Rear Track:": "Nan/Nan In (0 Mm)",
+        "Wheelbase:": "109.6 In (2784 Mm)",
+        "Cargo Volume:": "19.2 Cuft (544 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3292 Lbs (1493 Kg)",
+        "Gross Weight Limit:": "4200 Lbs (1905 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Medium:": "39.2 Mpg Us (6 L/100Km)",
+        "High:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Extra High:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions (Combined):": "136 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6454,
+    "automobile_id": 1430,
+    "name": "1.6L PureTech 8AT (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "128.7 Kw @ 5500 Rpm\r\n175 Hp @ 5500 Rpm\r\n173 Bhp @ 5500 Rpm",
+        "Torque:": "184 Lb-Ft @ 1750-4500 Rpm\r\n250 Nm @ 1750-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "189.2 In (4806 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "58.5 In (1486 Mm)",
+        "Front/Rear Track:": "63/63.1 In (1,600/1,603 Mm)",
+        "Wheelbase:": "109.6 In (2784 Mm)",
+        "Cargo Volume:": "19.2 Cuft (544 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3318 Lbs (1505 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6455,
+    "automobile_id": 1430,
+    "name": "1.6L PureTech PHEV 8AT (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "132.4 Kw @ 6000 Rpm\r\n180 Hp @ 6000 Rpm\r\n178 Bhp @ 6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1750 Rpm\r\n250 Nm @ 1750 Rpm",
+        "Electrical Motor Power:": "80.9 Kw (110 Hp)",
+        "Total Maximum Power:": "164.8 Kw (224 Hp)",
+        "Total Maximum Torque:": "265.5 Lb-Ft (360 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "189.2 In (4806 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "58.5 In (1486 Mm)",
+        "Front/Rear Track:": "63/63.1 In (1,600/1,603 Mm)",
+        "Wheelbase:": "109.6 In (2784 Mm)",
+        "Cargo Volume:": "17.1 Cuft (484 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4092 Lbs (1856 Kg)",
+        "Gross Weight Limit:": "4817 Lbs (2185 Kg)"
+      },
+      "Power System Specs": {
+        "Range:": "33.6 Miles (54.1 Km)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "180.9 Mpg Us (1.3 L/100Km)"
+      }
+    }
+  }
+]

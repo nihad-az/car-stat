@@ -1,0 +1,97 @@
+[
+  {
+    "id": 580,
+    "automobile_id": 209,
+    "name": "4.0L V8 8AT RWD (510 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3983 Cm3",
+        "Power:": "375.1 Kw @ 6000 Rpm\r\n510 Hp @ 6000 Rpm\r\n503 Bhp @ 6000 Rpm",
+        "Torque:": "498 Lb-Ft @ 2000-5000 Rpm\r\n675 Nm @ 2000-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "186 Mph (299 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 Zr20 || 295/35 Zr20"
+      },
+      "Dimensions": {
+        "Length:": "186.6 In (4740 Mm)",
+        "Width:": "76.4 In (1941 Mm)",
+        "Height:": "50.4 In (1280 Mm)",
+        "Wheelbase:": "110.4 In (2804 Mm)",
+        "Cargo Volume:": "7.9 Cuft (224 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3880 Lbs (1760 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.2 Mpg Us (16.6 L/100Km)",
+        "Highway:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)",
+        "Co2 Emissions:": "265 G/Km"
+      }
+    }
+  },
+  {
+    "id": 581,
+    "automobile_id": 209,
+    "name": "5.2L V12 8AT RWD (608 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5204 Cm3",
+        "Power:": "447.2 Kw @ 6500 Rpm\r\n608 Hp @ 6500 Rpm\r\n600 Bhp @ 6500 Rpm",
+        "Torque:": "516 Lb-Ft @ 1500 Rpm\r\n700 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "200 Mph (322 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 Zr20 || 295/35 Zr20"
+      },
+      "Dimensions": {
+        "Length:": "186.6 In (4740 Mm)",
+        "Width:": "76.4 In (1941 Mm)",
+        "Height:": "50.4 In (1280 Mm)",
+        "Front/Rear Track:": "65.6/64.8 In (1,666/1,646 Mm)",
+        "Wheelbase:": "110.4 In (2804 Mm)",
+        "Ground Clearance:": "4 In (102 Mm)",
+        "Cargo Volume:": "7.9 Cuft (224 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4134 Lbs (1875 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.2 Mpg Us (16.6 L/100Km)",
+        "Highway:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)",
+        "Co2 Emissions:": "265 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": 25510,
+    "automobile_id": 6257,
+    "name": "2.3L 5AT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2295 Cm3",
+        "Power:": "82 Kw @ 5500 Rpm\r\n110 Hp @ 5500 Rpm\r\n110 Bhp @ 5500 Rpm",
+        "Torque:": "162 Lb-Ft @ 4000 Rpm\r\n220 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "202.2 In (5136 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Front/Rear Track:": "61/60.6 In (1,549/1,539 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3715 Lbs (1685 Kg)",
+        "Gross Weight Limit:": "5027 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.4 Mpg Us (15.3 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25511,
+    "automobile_id": 6257,
+    "name": "2.8L 5AT (201 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2799 Cm3",
+        "Power:": "150 Kw @ 5500 Rpm\r\n201 Hp @ 5500 Rpm\r\n201 Bhp @ 5500 Rpm",
+        "Torque:": "198 Lb-Ft @ 3750 Rpm\r\n268 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "202.2 In (5136 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Front/Rear Track:": "61/60.6 In (1,549/1,539 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3946 Lbs (1790 Kg)",
+        "Gross Weight Limit:": "5027 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.6 Mpg Us (17.3 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Co2 Emissions:": "297.5 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25512,
+    "automobile_id": 6257,
+    "name": "3.2L 5AT (215 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3199 Cm3",
+        "Power:": "161 Kw @ 5500 Rpm\r\n215 Hp @ 5500 Rpm\r\n216 Bhp @ 5500 Rpm",
+        "Torque:": "228 Lb-Ft @ 3750 Rpm\r\n309 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 /60 R16"
+      },
+      "Dimensions": {
+        "Length:": "202.2 In (5136 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Front/Rear Track:": "61/60.6 In (1,549/1,539 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3990 Lbs (1810 Kg)",
+        "Gross Weight Limit:": "5027 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13 Mpg Us (18.1 L/100Km)",
+        "Highway:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)",
+        "Co2 Emissions:": "311.8 G/Km"
+      }
+    }
+  }
+]

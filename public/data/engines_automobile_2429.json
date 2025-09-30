@@ -1,0 +1,793 @@
+[
+  {
+    "id": 10514,
+    "automobile_id": 2429,
+    "name": "1.3L 4MT RWD (63 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V4",
+        "Displacement:": "1305 Cm3",
+        "Power:": "46.3 Kw @ 5000 Rpm\r\n63 Hp @ 5000 Rpm\r\n62 Bhp @ 5000 Rpm",
+        "Torque:": "78 Lb-Ft @ 3000 Rpm\r\n106 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "83 Mph (134 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "22.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2150 Lbs (975 Kg)",
+        "Gross Weight Limit:": "2855 Lbs (1295 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27.4 Mpg Us (8.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10515,
+    "automobile_id": 2429,
+    "name": "1.5L 3AT RWD (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "58.8 Kw @ 5000 Rpm\r\n80 Hp @ 5000 Rpm\r\n79 Bhp @ 5000 Rpm",
+        "Torque:": "94 Lb-Ft @ 3200 Rpm\r\n128 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "87 Mph (140 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2194 Lbs (995 Kg)",
+        "Gross Weight Limit:": "2888 Lbs (1310 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10516,
+    "automobile_id": 2429,
+    "name": "1.5L 4MT RWD (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "58.8 Kw @ 5000 Rpm\r\n80 Hp @ 5000 Rpm\r\n79 Bhp @ 5000 Rpm",
+        "Torque:": "94 Lb-Ft @ 3200 Rpm\r\n128 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "88 Mph (142 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2150 Lbs (975 Kg)",
+        "Gross Weight Limit:": "2888 Lbs (1310 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10517,
+    "automobile_id": 2429,
+    "name": "1.6L 3AT RWD (72 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1593 Cm3",
+        "Power:": "52.9 Kw @ 5500 Rpm\r\n72 Hp @ 5500 Rpm\r\n71 Bhp @ 5500 Rpm",
+        "Torque:": "87 Lb-Ft @ 2700 Rpm\r\n118 Nm @ 2700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "94 Mph (151 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "19.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2150 Lbs (975 Kg)",
+        "Gross Weight Limit:": "2921 Lbs (1325 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.3 Mpg Us (10.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10518,
+    "automobile_id": 2429,
+    "name": "1.6L 4MT RWD (72 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1593 Cm3",
+        "Power:": "52.9 Kw @ 5500 Rpm\r\n72 Hp @ 5500 Rpm\r\n71 Bhp @ 5500 Rpm",
+        "Torque:": "87 Lb-Ft @ 2700 Rpm\r\n118 Nm @ 2700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98 Mph (158 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2116 Lbs (960 Kg)",
+        "Gross Weight Limit:": "2921 Lbs (1325 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10519,
+    "automobile_id": 2429,
+    "name": "1.7L 3AT RWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V4",
+        "Displacement:": "1699 Cm3",
+        "Power:": "55.2 Kw @ 5000 Rpm\r\n75 Hp @ 5000 Rpm\r\n74 Bhp @ 5000 Rpm",
+        "Torque:": "94 Lb-Ft @ 2500 Rpm\r\n127 Nm @ 2500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "92 Mph (148 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165 Sr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.7 In (2558 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2205 Lbs (1000 Kg)",
+        "Gross Weight Limit:": "2899 Lbs (1315 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.3 Mpg Us (10.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10520,
+    "automobile_id": 2429,
+    "name": "1.7L 4MT RWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V4",
+        "Displacement:": "1699 Cm3",
+        "Power:": "55.2 Kw @ 5000 Rpm\r\n75 Hp @ 5000 Rpm\r\n74 Bhp @ 5000 Rpm",
+        "Torque:": "94 Lb-Ft @ 2500 Rpm\r\n127 Nm @ 2500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165 Sr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.7 In (2558 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2161 Lbs (980 Kg)",
+        "Gross Weight Limit:": "2899 Lbs (1315 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10521,
+    "automobile_id": 2429,
+    "name": "2.0L V6 3AT RWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "1998 Cm3",
+        "Power:": "83.1 Kw @ 5300 Rpm\r\n113 Hp @ 5300 Rpm\r\n111 Bhp @ 5300 Rpm",
+        "Torque:": "125 Lb-Ft @ 3000 Rpm\r\n170 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165 Sr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2315 Lbs (1050 Kg)",
+        "Gross Weight Limit:": "3009 Lbs (1365 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10522,
+    "automobile_id": 2429,
+    "name": "2.0L V6 4MT RWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "1998 Cm3",
+        "Power:": "83.1 Kw @ 5300 Rpm\r\n113 Hp @ 5300 Rpm\r\n111 Bhp @ 5300 Rpm",
+        "Torque:": "125 Lb-Ft @ 3000 Rpm\r\n170 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "104 Mph (167 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165 Sr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2271 Lbs (1030 Kg)",
+        "Gross Weight Limit:": "3009 Lbs (1365 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10523,
+    "automobile_id": 2429,
+    "name": "2.3L V6 3AT RWD (126 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2294 Cm3",
+        "Power:": "92.7 Kw @ 5600 Rpm\r\n126 Hp @ 5600 Rpm\r\n124 Bhp @ 5600 Rpm",
+        "Torque:": "139 Lb-Ft @ 3500 Rpm\r\n188 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2337 Lbs (1060 Kg)",
+        "Gross Weight Limit:": "3031 Lbs (1375 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10524,
+    "automobile_id": 2429,
+    "name": "2.3L V6 4MT RWD (126 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2294 Cm3",
+        "Power:": "92.7 Kw @ 5600 Rpm\r\n126 Hp @ 5600 Rpm\r\n124 Bhp @ 5600 Rpm",
+        "Torque:": "139 Lb-Ft @ 3500 Rpm\r\n188 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111 Mph (179 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2293 Lbs (1040 Kg)",
+        "Gross Weight Limit:": "3031 Lbs (1375 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.3 Mpg Us (10.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10525,
+    "automobile_id": 2429,
+    "name": "2.3L V6 Turbo 4MT RWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2294 Cm3",
+        "Power:": "132.4 Kw @ 6100 Rpm\r\n180 Hp @ 6100 Rpm\r\n178 Bhp @ 6100 Rpm",
+        "Torque:": "165 Lb-Ft @ 4700-5500 Rpm\r\n224 Nm @ 4700-5500 Rpm",
+        "Fuel System:": "Turbocharged Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr 13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2315 Lbs (1050 Kg)",
+        "Gross Weight Limit:": "3031 Lbs (1375 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10526,
+    "automobile_id": 2429,
+    "name": "2.6L V6 3AT RWD (142 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2548 Cm3",
+        "Power:": "104.5 Kw @ 5500 Rpm\r\n142 Hp @ 5500 Rpm\r\n140 Bhp @ 5500 Rpm",
+        "Torque:": "163 Lb-Ft @ 3100 Rpm\r\n221 Nm @ 3100 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2337 Lbs (1060 Kg)",
+        "Gross Weight Limit:": "3031 Lbs (1375 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10527,
+    "automobile_id": 2429,
+    "name": "2.6L V6 4MT RWD (142 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2548 Cm3",
+        "Power:": "104.5 Kw @ 5500 Rpm\r\n142 Hp @ 5500 Rpm\r\n140 Bhp @ 5500 Rpm",
+        "Torque:": "163 Lb-Ft @ 3100 Rpm\r\n221 Nm @ 3100 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2293 Lbs (1040 Kg)",
+        "Gross Weight Limit:": "3031 Lbs (1375 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10528,
+    "automobile_id": 2429,
+    "name": "2.6L V6 RS 4MT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2637 Cm3",
+        "Power:": "110.3 Kw @ 5800 Rpm\r\n150 Hp @ 5800 Rpm\r\n148 Bhp @ 5800 Rpm",
+        "Torque:": "165 Lb-Ft @ 3500 Rpm\r\n224 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2249 Lbs (1020 Kg)",
+        "Gross Weight Limit:": "3031 Lbs (1375 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10529,
+    "automobile_id": 2429,
+    "name": "3.0L V6 3AT RWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2994 Cm3",
+        "Power:": "103 Kw @ 5300 Rpm\r\n140 Hp @ 5300 Rpm\r\n138 Bhp @ 5300 Rpm",
+        "Torque:": "173 Lb-Ft @ 3000 Rpm\r\n235 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2425 Lbs (1100 Kg)",
+        "Gross Weight Limit:": "3153 Lbs (1430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.8 Mpg Us (11.3 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10530,
+    "automobile_id": 2429,
+    "name": "3.0L V6 4MT RWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2994 Cm3",
+        "Power:": "103 Kw @ 5300 Rpm\r\n140 Hp @ 5300 Rpm\r\n138 Bhp @ 5300 Rpm",
+        "Torque:": "173 Lb-Ft @ 3000 Rpm\r\n235 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr13"
+      },
+      "Dimensions": {
+        "Length:": "167.8 In (4262 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "52.4 In (1331 Mm)",
+        "Front/Rear Track:": "53/52 In (1,346/1,321 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2425 Lbs (1100 Kg)",
+        "Gross Weight Limit:": "3153 Lbs (1430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)"
+      }
+    }
+  }
+]

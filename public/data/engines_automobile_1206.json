@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5691,
+    "automobile_id": 1206,
+    "name": "100 kW (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "100 Kw @ - Rpm\r\n136 Hp @ - Rpm\r\n134 Bhp @ - Rpm",
+        "Torque:": "400 Lb-Ft @ - Rpm\r\n542 Nm @ - Rpm",
+        "Fuel System:": "Battery - Plug-In",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/55R15"
+      },
+      "Dimensions": {
+        "Length:": "146.5 In (3721 Mm)",
+        "Width:": "64 In (1626 Mm)",
+        "Height:": "64.1 In (1628 Mm)",
+        "Front/Rear Track:": "55.5/54.8 In (1,410/1,392 Mm)",
+        "Wheelbase:": "93.5 In (2375 Mm)",
+        "Cargo Volume:": "9.6 Cuft (272 L)",
+        "Aerodynamics (Cd):": "0.326"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2989 Lbs (1356 Kg)"
+      }
+    }
+  },
+  {
+    "id": 5692,
+    "automobile_id": 1206,
+    "name": "105 kW (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "105 Kw @ - Rpm\r\n143 Hp @ - Rpm\r\n141 Bhp @ - Rpm",
+        "Torque:": "400 Lb-Ft @ - Rpm\r\n542 Nm @ - Rpm",
+        "Fuel System:": "Battery - Plug-In",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/55R15"
+      },
+      "Dimensions": {
+        "Length:": "146.5 In (3721 Mm)",
+        "Width:": "64.1 In (1628 Mm)",
+        "Height:": "62.6 In (1590 Mm)",
+        "Front/Rear Track:": "55.5/54.8 In (1,410/1,392 Mm)",
+        "Wheelbase:": "93.5 In (2375 Mm)",
+        "Cargo Volume:": "9.6 Cuft (272 L)",
+        "Aerodynamics (Cd):": "0.326"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2967 Lbs (1346 Kg)"
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 7192,
+    "automobile_id": 1543,
+    "name": "1.1L 4MT FWD (58 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1129 Cm3",
+        "Power:": "42.7 Kw @ 6250 Rpm\r\n58 Hp @ 6250 Rpm\r\n57 Bhp @ 6250 Rpm",
+        "Torque:": "58 Lb-Ft @ 3500 Rpm\r\n79 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93.2 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145Sr13"
+      },
+      "Dimensions": {
+        "Length:": "146.5 In (3721 Mm)",
+        "Width:": "60.6 In (1539 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "52/48.8 In (1,321/1,240 Mm)",
+        "Wheelbase:": "93.3 In (2370 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "10.4 Cuft (294 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1843.1 Lbs (836 Kg)",
+        "Gross Weight Limit:": "2777.8 Lbs (1260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7193,
+    "automobile_id": 1543,
+    "name": "1.3L 4MT FWD (61 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1299 Cm3",
+        "Power:": "45 Kw @ 5500 Rpm\r\n61 Hp @ 5500 Rpm\r\n60 Bhp @ 5500 Rpm",
+        "Torque:": "71 Lb-Ft @ 3250 Rpm\r\n96 Nm @ 3250 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "97.6 Mph (157 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "160/65R340"
+      },
+      "Dimensions": {
+        "Length:": "146.5 In (3721 Mm)",
+        "Width:": "60.6 In (1539 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "52/48.8 In (1,321/1,240 Mm)",
+        "Wheelbase:": "93.3 In (2370 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "10.4 Cuft (294 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1816.6 Lbs (824 Kg)",
+        "Gross Weight Limit:": "2810.9 Lbs (1275 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 26172,
+    "automobile_id": 6472,
+    "name": "1.0L VVT-i 6MT (72 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "53 Kw @ 6000 Rpm\r\n72 Hp @ 6000 Rpm\r\n71 Bhp @ 6000 Rpm",
+        "Torque:": "69 Lb-Ft @ 4400 Rpm\r\n93 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98 Mph (158 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "145.7 In (3701 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "60 In (1524 Mm)",
+        "Front/Rear Track:": "60.6/59.8 In (1,539/1,519 Mm)",
+        "Wheelbase:": "95.7 In (2431 Mm)",
+        "Cargo Volume:": "8.2 Cuft (232 L)",
+        "Aerodynamics (Cd):": "0.319"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2072 Lbs (940 Kg)",
+        "Gross Weight Limit:": "2998 Lbs (1360 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions (Combined):": "107 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26173,
+    "automobile_id": 6472,
+    "name": "1.0L VVT-i CVT (72 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "53 Kw @ 6000 Rpm\r\n72 Hp @ 6000 Rpm\r\n71 Bhp @ 6000 Rpm",
+        "Torque:": "69 Lb-Ft @ 4400 Rpm\r\n93 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "94 Mph (151 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "145.7 In (3701 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "60 In (1524 Mm)",
+        "Front/Rear Track:": "60.6/59.8 In (1,539/1,519 Mm)",
+        "Wheelbase:": "95.7 In (2431 Mm)",
+        "Cargo Volume:": "8.2 Cuft (232 L)",
+        "Aerodynamics (Cd):": "0.319"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2072 Lbs (940 Kg)",
+        "Gross Weight Limit:": "2998 Lbs (1360 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions (Combined):": "110 G/Km"
+      }
+    }
+  }
+]

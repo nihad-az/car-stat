@@ -1,0 +1,66 @@
+[
+  {
+    "id": 11191,
+    "automobile_id": 2625,
+    "name": "1.5L CVT (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "139.7 Kw @ 6000 Rpm\r\n190 Hp @ 6000 Rpm\r\n187 Bhp @ 6000 Rpm",
+        "Torque:": "179 Lb-Ft @ 1700-5000 Rpm\r\n243 Nm @ 1700-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235 / 60R18 103H"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Front/Rear Track:": "63.4 / 64.0 In (1,610/1,626 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)"
+      }
+    }
+  },
+  {
+    "id": 11192,
+    "automobile_id": 2625,
+    "name": "2.0L 1AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1993 Cm3",
+        "Total Maximum Power:": "150 Kw (204 Hp)",
+        "Total Maximum Torque:": "247 Lb-Ft (335 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235 / 55R19 101H"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Front/Rear Track:": "63.4 / 64.0 In (1,610/1,626 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)"
+      }
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": 7806,
+    "automobile_id": 1741,
+    "name": "2.4L 3AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2429 Cm3",
+        "Power:": "112 Kw @ 5100 Rpm\r\n152 Hp @ 5100 Rpm\r\n150 Bhp @ 5100 Rpm",
+        "Torque:": "167 Lb-Ft @ 4000 Rpm\r\n226 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65R16"
+      },
+      "Dimensions": {
+        "Length:": "189.3 In (4808 Mm)",
+        "Width:": "78.6 In (1996 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "63/64 In (1,600/1,626 Mm)",
+        "Wheelbase:": "113.3 In (2878 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3920 Lbs (1778 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7807,
+    "automobile_id": 1741,
+    "name": "3.3L V6 4AT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3301 Cm3",
+        "Power:": "134 Kw @ 5000 Rpm\r\n182 Hp @ 5000 Rpm\r\n180 Bhp @ 5000 Rpm",
+        "Torque:": "201 Lb-Ft @ 4000 Rpm\r\n273 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65R16"
+      },
+      "Dimensions": {
+        "Length:": "189.3 In (4808 Mm)",
+        "Width:": "78.6 In (1996 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "63/64 In (1,600/1,626 Mm)",
+        "Wheelbase:": "113.3 In (2878 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4061 Lbs (1842 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

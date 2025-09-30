@@ -1,0 +1,95 @@
+[
+  {
+    "id": 6186,
+    "automobile_id": 1344,
+    "name": "2.2L 3AT FWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2189 Cm3",
+        "Power:": "85 Kw @ 5000 Rpm\r\n116 Hp @ 5000 Rpm\r\n114 Bhp @ 5000 Rpm",
+        "Torque:": "135 Lb-Ft @ 3600 Rpm\r\n183 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R14"
+      },
+      "Dimensions": {
+        "Length:": "180.7 In (4590 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "57.6/56.4 In (1,463/1,433 Mm)",
+        "Wheelbase:": "104.1 In (2644 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.4 Cuft (379 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2624 Lbs (1190 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6187,
+    "automobile_id": 1344,
+    "name": "2.2L 5MT FWD (141 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2189 Cm3",
+        "Power:": "104 Kw @ 5600 Rpm\r\n141 Hp @ 5600 Rpm\r\n139 Bhp @ 5600 Rpm",
+        "Torque:": "150 Lb-Ft @ 4000 Rpm\r\n203 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.9 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 R 14"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "68.7 In (1745 Mm)",
+        "Height:": "53 In (1346 Mm)",
+        "Front/Rear Track:": "57.6/56.4 In (1,463/1,433 Mm)",
+        "Wheelbase:": "104.1 In (2644 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2619.5 Lbs (1188 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "28.3 Mpg Us (8.3 L/100Km)"
+      }
+    }
+  }
+]

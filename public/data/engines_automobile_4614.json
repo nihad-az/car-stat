@@ -1,0 +1,435 @@
+[
+  {
+    "id": 18422,
+    "automobile_id": 4614,
+    "name": "2.0L MIVEC 4WD 6AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "110 Kw @ 6000 Rpm\r\n150 Hp @ 6000 Rpm\r\n148 Bhp @ 6000 Rpm",
+        "Torque:": "144 Lb-Ft @ 4100-4250 Rpm\r\n195 Nm @ 4100-4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 / 70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4564 Lbs (2070 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)",
+        "Combined:": "36 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18423,
+    "automobile_id": 4614,
+    "name": "2.0L MIVEC 5MT 2WD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "110 Kw @ 6000 Rpm\r\n150 Hp @ 6000 Rpm\r\n148 Bhp @ 6000 Rpm",
+        "Torque:": "144 Lb-Ft @ 4100-4250 Rpm\r\n195 Nm @ 4100-4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 / 70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3208 Lbs (1455 Kg)",
+        "Gross Weight Limit:": "4376 Lbs (1985 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)",
+        "Combined:": "35 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "157 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18424,
+    "automobile_id": 4614,
+    "name": "2.4L MIVEC CVT (166 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2360 Cm3",
+        "Power:": "124 Kw @ 6000 Rpm\r\n168 Hp @ 6000 Rpm\r\n166 Bhp @ 6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 4200 Rpm\r\n220 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 / 70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3285 Lbs (1490 Kg)",
+        "Gross Weight Limit:": "4795 Lbs (2175 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18425,
+    "automobile_id": 4614,
+    "name": "2.4L MIVEC CVT AWD (166 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2360 Cm3",
+        "Power:": "124 Kw @ 6000 Rpm\r\n168 Hp @ 6000 Rpm\r\n166 Bhp @ 6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 4200 Rpm\r\n220 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 / 70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472 Lbs (1575 Kg)",
+        "Gross Weight Limit:": "4795 Lbs (2175 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18426,
+    "automobile_id": 4614,
+    "name": "3.0L MIVEC 6AT (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2998 Cm3",
+        "Power:": "167 Kw @ 6250 Rpm\r\n227 Hp @ 6250 Rpm\r\n224 Bhp @ 6250 Rpm",
+        "Torque:": "215 Lb-Ft @ 3750 Rpm\r\n292 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 / 70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571 Lbs (1620 Kg)",
+        "Gross Weight Limit:": "5005 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18427,
+    "automobile_id": 4614,
+    "name": "2.2L MIVEC 6AT 4WD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2268 Cm3",
+        "Power:": "110 Kw @ 3500 Rpm\r\n150 Hp @ 3500 Rpm\r\n148 Bhp @ 3500 Rpm",
+        "Torque:": "266 Lb-Ft @ 1500-2750 Rpm\r\n361 Nm @ 1500-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70/R16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3649 Lbs (1655 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34 Mpg Us (6.9 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "41 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18428,
+    "automobile_id": 4614,
+    "name": "2.2L MIVEC 6MT 2WD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2268 Cm3",
+        "Power:": "110 Kw @ 3500 Rpm\r\n150 Hp @ 3500 Rpm\r\n148 Bhp @ 3500 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750-2500 Rpm\r\n380 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 / 70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)",
+        "Gross Weight Limit:": "4597 Lbs (2085 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41 Mpg Us (5.7 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "126 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18429,
+    "automobile_id": 4614,
+    "name": "2.2L MIVEC 6MT 4WD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2268 Cm3",
+        "Power:": "110 Kw @ 3500 Rpm\r\n150 Hp @ 3500 Rpm\r\n148 Bhp @ 3500 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750-2500 Rpm\r\n380 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215 / 70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37 Mpg Us (6.4 L/100Km)",
+        "Highway:": "51 Mpg Us (4.6 L/100Km)",
+        "Combined:": "44 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "138 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18430,
+    "automobile_id": 4614,
+    "name": "2.0L MIVEC CVT (121 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "89 Kw @ 4500 Rpm\r\n121 Hp @ 4500 Rpm\r\n119 Bhp @ 4500 Rpm",
+        "Torque:": "140 Lb-Ft @ 4500 Rpm\r\n190 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225 / 55 R 18"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4156 Lbs (1885 Kg)",
+        "Gross Weight Limit:": "5093 Lbs (2310 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "44 G/Km"
+      }
+    }
+  }
+]

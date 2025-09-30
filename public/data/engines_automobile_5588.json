@@ -1,0 +1,102 @@
+[
+  {
+    "id": 22214,
+    "automobile_id": 5588,
+    "name": "4.8L V8 6AT AWD (385 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4806 Cm3",
+        "Power:": "283 Kw @ 6200 Rpm\r\n385 Hp @ 6200 Rpm\r\n380 Bhp @ 6200 Rpm",
+        "Torque:": "369 Lb-Ft @ 3500 Rpm\r\n500 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R18"
+      },
+      "Dimensions": {
+        "Length:": "188.9 In (4798 Mm)",
+        "Width:": "75.9 In (1928 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "64.8/65.4 In (1,646/1,661 Mm)",
+        "Wheelbase:": "112.4 In (2855 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4949 Lbs (2245 Kg)",
+        "Gross Weight Limit:": "6790 Lbs (3080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.6 Mpg Us (20.3 L/100Km)",
+        "Highway:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Combined:": "17.2 Mpg Us (13.7 L/100Km)",
+        "Co2 Emissions:": "329 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22215,
+    "automobile_id": 5588,
+    "name": "4.8L V8 6MT AWD (385 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4806 Cm3",
+        "Power:": "283 Kw @ 6200 Rpm\r\n385 Hp @ 6200 Rpm\r\n380 Bhp @ 6200 Rpm",
+        "Torque:": "369 Lb-Ft @ 3500 Rpm\r\n500 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "157 Mph (253 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R18"
+      },
+      "Dimensions": {
+        "Length:": "188.9 In (4798 Mm)",
+        "Width:": "75.9 In (1928 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "64.8/65.4 In (1,646/1,661 Mm)",
+        "Wheelbase:": "112.4 In (2855 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4971 Lbs (2255 Kg)",
+        "Gross Weight Limit:": "6790 Lbs (3080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.6 Mpg Us (22.2 L/100Km)",
+        "Highway:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Combined:": "15.8 Mpg Us (14.9 L/100Km)",
+        "Co2 Emissions:": "358 G/Km"
+      }
+    }
+  }
+]

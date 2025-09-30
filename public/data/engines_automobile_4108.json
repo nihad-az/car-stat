@@ -1,0 +1,102 @@
+[
+  {
+    "id": 16557,
+    "automobile_id": 4108,
+    "name": "500 V8 7AT AWD (388 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5461 Cm3",
+        "Power:": "285 Kw @ 6000 Rpm\r\n388 Hp @ 6000 Rpm\r\n382 Bhp @ 6000 Rpm",
+        "Torque:": "391 Lb-Ft @ 2800-4800 Rpm\r\n530 Nm @ 2800-4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed, Automatic 7G Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "183.5 In (4661 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "76 In (1930 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "16.9 / 79.4 Cuft (479 L)",
+        "Aerodynamics (Cd):": "0.54"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5390 Lbs (2445 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.2 Mpg Us (19.3 L/100Km)",
+        "Highway:": "19.6 Mpg Us (12 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)",
+        "Co2 Emissions:": "351 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16558,
+    "automobile_id": 4108,
+    "name": "350 CDI V6 7AT AWD (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2987 Cm3",
+        "Power:": "165 Kw @ 3800 Rpm\r\n224 Hp @ 3800 Rpm\r\n221 Bhp @ 3800 Rpm",
+        "Torque:": "398 Lb-Ft @ 1600-2400 Rpm\r\n540 Nm @ 1600-2400 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed, Automatic 7G Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "183.5 In (4661 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "76 In (1930 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "16.9 / 79.4 Cuft (479 L)",
+        "Aerodynamics (Cd):": "0.54"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5015 Lbs (2275 Kg)",
+        "Gross Weight Limit:": "6283 Lbs (2850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.5 Mpg Us (13.4 L/100Km)",
+        "Highway:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Co2 Emissions:": "291 G/Km"
+      }
+    }
+  }
+]

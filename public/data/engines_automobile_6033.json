@@ -1,0 +1,186 @@
+[
+  {
+    "id": 24152,
+    "automobile_id": 6033,
+    "name": "1.0L MPI 5MT (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "58.8 Kw @ 6300 Rpm\r\n80 Hp @ 6300 Rpm\r\n79 Bhp @ 6300 Rpm",
+        "Torque:": "69 Lb-Ft @ 3750 Rpm\r\n93 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "159.8 In (4059 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "100.9 In (2563 Mm)",
+        "Cargo Volume:": "12.5 Cuft (354 L)",
+        "Turning Circle:": "34.8 Ft (10.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2260 Lbs (1025 Kg)",
+        "Gross Weight Limit:": "3594 Lbs (1630 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42 Mpg Us (5.6 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "107 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions (Combined):": "122 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24153,
+    "automobile_id": 6033,
+    "name": "1.0L TSI 5MT (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "69.9 Kw @ - Rpm\r\n95 Hp @ - Rpm\r\n94 Bhp @ - Rpm",
+        "Torque:": "129 Lb-Ft @ - Rpm\r\n175 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      }
+    }
+  },
+  {
+    "id": 24154,
+    "automobile_id": 6033,
+    "name": "1.0L TSI 6MT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "80.9 Kw @ - Rpm\r\n110 Hp @ - Rpm\r\n108 Bhp @ - Rpm",
+        "Torque:": "148 Lb-Ft @ - Rpm\r\n200 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      }
+    }
+  },
+  {
+    "id": 24155,
+    "automobile_id": 6033,
+    "name": "1.0L TSI 7AT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "80.9 Kw @ - Rpm\r\n110 Hp @ - Rpm\r\n108 Bhp @ - Rpm",
+        "Torque:": "148 Lb-Ft @ - Rpm\r\n200 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      }
+    }
+  },
+  {
+    "id": 24156,
+    "automobile_id": 6033,
+    "name": "1.5L ECOTSI 7AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "110.3 Kw @ - Rpm\r\n150 Hp @ - Rpm\r\n148 Bhp @ - Rpm",
+        "Torque:": "184 Lb-Ft @ - Rpm\r\n250 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      }
+    }
+  },
+  {
+    "id": 24157,
+    "automobile_id": 6033,
+    "name": "1.0L TGI 6MT (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "999 Cm3",
+        "Power:": "66.2 Kw @ - Rpm\r\n90 Hp @ - Rpm\r\n89 Bhp @ - Rpm",
+        "Torque:": "118 Lb-Ft @ - Rpm\r\n160 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Natural Gas"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      }
+    }
+  }
+]

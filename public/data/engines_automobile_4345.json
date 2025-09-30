@@ -1,0 +1,127 @@
+[
+  {
+    "id": 17738,
+    "automobile_id": 4345,
+    "name": "170 S 4MT (50 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1912 Cm3",
+        "Power:": "36.8 Kw @ 3600 Rpm\r\n50 Hp @ 3600 Rpm\r\n49 Bhp @ 3600 Rpm",
+        "Torque:": "89 Lb-Ft @ 2000 Rpm\r\n120 Nm @ 2000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "68 Mph (109 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.25-16"
+      },
+      "Dimensions": {
+        "Length:": "156.7 In (3980 Mm)",
+        "Width:": "61.8 In (1570 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "52/51.6 In (1,321/1,311 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2204 Lbs (1000 Kg)",
+        "Gross Weight Limit:": "3086 Lbs (1400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "262 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17739,
+    "automobile_id": 4345,
+    "name": "170 V 4MT (38 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "27.9 Kw @ 3400 Rpm\r\n38 Hp @ 3400 Rpm\r\n37 Bhp @ 3400 Rpm",
+        "Torque:": "74 Lb-Ft @ 1800 Rpm\r\n100 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "67 Mph (108 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "50 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.25-16"
+      },
+      "Dimensions": {
+        "Length:": "168.1 In (4270 Mm)",
+        "Width:": "61.8 In (1570 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "52/51.6 In (1,321/1,311 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2557 Lbs (1160 Kg)",
+        "Gross Weight Limit:": "3307 Lbs (1500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "262 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17740,
+    "automobile_id": 4345,
+    "name": "170 G 4MT (22 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "16 Kw @ 3200 Rpm\r\n22 Hp @ 3200 Rpm\r\n21 Bhp @ 3200 Rpm",
+        "Fuel System:": "Wood Gas Generator",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "50 Mph (80 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.25-16"
+      },
+      "Dimensions": {
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "52/51.6 In (1,321/1,311 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "3307 Lbs (1500 Kg)"
+      }
+    }
+  }
+]

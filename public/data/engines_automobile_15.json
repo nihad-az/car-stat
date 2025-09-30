@@ -1,0 +1,137 @@
+[
+  {
+    "id": 24,
+    "automobile_id": 15,
+    "name": "3.5L V6 9AT AWD (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "213.3 Kw @ 6200 Rpm\r\n290 Hp @ 6200 Rpm\r\n286 Bhp @ 6200 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "77.2 In (1961 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001 Lbs (1815 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "automobile_id": 15,
+    "name": "3.5L V6 9AT FWD (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "213.3 Kw @ 6200 Rpm\r\n290 Hp @ 6200 Rpm\r\n286 Bhp @ 6200 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "77.2 In (1961 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001 Lbs (1815 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "automobile_id": 15,
+    "name": "3.5L V6 9AT AWD (321 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "191.2 Kw @ 6300 Rpm\r\n260 Hp @ 6300 Rpm\r\n256 Bhp @ 6300 Rpm",
+        "Torque:": "218 Lb-Ft @ 5000 Rpm\r\n296 Nm @ 5000 Rpm",
+        "Electrical Motor Power:": "34.6 Kw (47 Hp)",
+        "Electrical Motor Torque:": "109.2 Lb-Ft (148 Nm)",
+        "Total Maximum Power:": "236.1 Kw (321 Hp)",
+        "Total Maximum Torque:": "289.1 Lb-Ft (392 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "19.3 Gallons (73.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "77.2 In (1961 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4471 Lbs (2028 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

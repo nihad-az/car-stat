@@ -1,0 +1,100 @@
+[
+  {
+    "id": 10329,
+    "automobile_id": 2390,
+    "name": "2.4i 5MT AWD (124 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2389 Cm3",
+        "Power:": "91 Kw @ 5200 Rpm\r\n124 Hp @ 5200 Rpm\r\n122 Bhp @ 5200 Rpm",
+        "Torque:": "145 Lb-Ft @ 4000 Rpm\r\n197 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99.4 Mph (160 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/80/R15"
+      },
+      "Dimensions": {
+        "Length:": "180.3 In (4580 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "71.3 In (1811 Mm)",
+        "Front/Rear Track:": "57.5/56.3 In (1,461/1,430 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "4 Cuft (113 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3792 Lbs (1720 Kg)",
+        "Gross Weight Limit:": "5687.9 Lbs (2580 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.1 Mpg Us (13 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)",
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)",
+        "Co2 Emissions:": "271 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10330,
+    "automobile_id": 2390,
+    "name": "2.7L TD 5MT AWD (101 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2663 Cm3",
+        "Power:": "74 Kw @ 4000 Rpm\r\n101 Hp @ 4000 Rpm\r\n99 Bhp @ 4000 Rpm",
+        "Torque:": "163 Lb-Ft @ 2200 Rpm\r\n221 Nm @ 2200 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90.1 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "19.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/80/R15"
+      },
+      "Dimensions": {
+        "Length:": "180.3 In (4580 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "71.3 In (1811 Mm)",
+        "Front/Rear Track:": "57.5/56.3 In (1,461/1,430 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "4 Cuft (113 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4012.4 Lbs (1820 Kg)",
+        "Gross Weight Limit:": "5687.9 Lbs (2580 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.3 Mpg Us (10.1 L/100Km)",
+        "Co2 Emissions:": "268 G/Km"
+      }
+    }
+  }
+]

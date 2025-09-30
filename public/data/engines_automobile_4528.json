@@ -1,0 +1,93 @@
+[
+  {
+    "id": 18002,
+    "automobile_id": 4528,
+    "name": "2.3L 16V 5MT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2261 Cm3",
+        "Power:": "119 Kw @ 6250 Rpm\r\n160 Hp @ 6250 Rpm\r\n160 Bhp @ 6250 Rpm",
+        "Torque:": "150 Lb-Ft @ 4000 Rpm\r\n203 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "191.4 In (4862 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "61.6/61.3 In (1,565/1,557 Mm)",
+        "Wheelbase:": "107.4 In (2728 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.6 Cuft (442 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3197 Lbs (1450 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18003,
+    "automobile_id": 4528,
+    "name": "3.0L V6 6AT FWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "154 Kw @ 6250 Rpm\r\n210 Hp @ 6250 Rpm\r\n207 Bhp @ 6250 Rpm",
+        "Torque:": "200 Lb-Ft @ 4750 Rpm\r\n271 Nm @ 4750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "191.4 In (4862 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "61.6/61.3 In (1,565/1,557 Mm)",
+        "Wheelbase:": "107.4 In (2728 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.6 Cuft (442 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3303.1 Lbs (1498 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,781 @@
+[
+  {
+    "id": 4020,
+    "automobile_id": 821,
+    "name": "sDrive18i 6MT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "110 Kw @ 6400 Rpm\r\n150 Hp @ 6400 Rpm\r\n148 Bhp @ 6400 Rpm",
+        "Torque:": "147 Lb-Ft @ 3600 Rpm\r\n199 Nm @ 3600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125.5 Mph (202 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94 H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59.1/60.2 In (1,501/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3152.6 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4387.2 Lbs (1990 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Highway:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Combined:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions:": "191 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4021,
+    "automobile_id": 821,
+    "name": "sDrive20i 6MT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "135 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1250–4500 Rpm\r\n270 Nm @ 1250–4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59.1/60.2 In (1,501/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527.4 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "4806.1 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.85 Mpg Us (9.1 L/100Km)",
+        "Highway:": "39.86 Mpg Us (5.9 L/100Km)",
+        "Combined:": "33.13 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "165 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4022,
+    "automobile_id": 821,
+    "name": "sDrive20i 8AT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "135 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1250–4500 Rpm\r\n270 Nm @ 1250–4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59.1/60.2 In (1,501/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3616 Lbs (1640 Kg)",
+        "Gross Weight Limit:": "4894 Lbs (2220 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "157 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4023,
+    "automobile_id": 821,
+    "name": "xDrive20i 6MT AWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "135 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1250–4500 Rpm\r\n270 Nm @ 1250–4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "133.6 Mph (215 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59.1/60.2 In (1,501/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527.4 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "4806.1 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24.95 Mpg Us (9.4 L/100Km)",
+        "Highway:": "36.19 Mpg Us (6.5 L/100Km)",
+        "Combined:": "30.55 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "179  G/Km"
+      }
+    }
+  },
+  {
+    "id": 4024,
+    "automobile_id": 821,
+    "name": "xDrive20i 8AT AWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "135 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1250–4500 Rpm\r\n270 Nm @ 1250–4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59.1/60.2 In (1,501/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3671 Lbs (1665 Kg)",
+        "Gross Weight Limit:": "4718 Lbs (2140 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "167 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4025,
+    "automobile_id": 821,
+    "name": "xDrive25i 6AT AWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "160 Kw @ 6100 Rpm\r\n218 Hp @ 6100 Rpm\r\n215 Bhp @ 6100 Rpm",
+        "Torque:": "306 Lb-Ft @ 2500 Rpm\r\n415 Nm @ 2500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138.6 Mph (223 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94 H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59.1/60.2 In (1,501/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527.4 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "4806.1 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.2 Mpg Us (12.9 L/100Km)",
+        "Highway:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "217 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4026,
+    "automobile_id": 821,
+    "name": "xDrive28i 6AT AWD (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "190 Kw @ 6600 Rpm\r\n258 Hp @ 6600 Rpm\r\n255 Bhp @ 6600 Rpm",
+        "Torque:": "228 Lb-Ft @ 2600 Rpm\r\n309 Nm @ 2600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.3 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3714.7 Lbs (1685 Kg)",
+        "Gross Weight Limit:": "4806 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "32.22 Mpg Us (7.3 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "219 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4027,
+    "automobile_id": 821,
+    "name": "sDrive16d 6MT RWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "85 Kw @ 4000 Rpm\r\n116 Hp @ 4000 Rpm\r\n114 Bhp @ 4000 Rpm",
+        "Torque:": "192 Lb-Ft @ 1750-2450 Rpm\r\n260 Nm @ 1750-2450 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3263 Lbs (1480 Kg)",
+        "Gross Weight Limit:": "4475 Lbs (2030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41 Mpg Us (5.7 L/100Km)",
+        "Highway:": "53 Mpg Us (4.4 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "128 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4028,
+    "automobile_id": 821,
+    "name": "sDrive18d 6MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "105 Kw @ 4000 Rpm\r\n143 Hp @ 4000 Rpm\r\n141 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1750-2500 Rpm\r\n320 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124.2 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3406 Lbs (1545 Kg)",
+        "Gross Weight Limit:": "4475.3 Lbs (2030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "38.5 Mpg Us (6.1 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "136 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4029,
+    "automobile_id": 821,
+    "name": "sDrive20d 6MT RWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "130 Kw @ 4000 Rpm\r\n177 Hp @ 4000 Rpm\r\n174 Bhp @ 4000 Rpm",
+        "Torque:": "258 Lb-Ft @ 1750-3000 Rpm\r\n350 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.3 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3450 Lbs (1565 Kg)",
+        "Gross Weight Limit:": "4508.4 Lbs (2045 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.7 Mpg Us (6.4 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "44.3 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4030,
+    "automobile_id": 821,
+    "name": "sDrive20d Efficient Dynamics Edition 6MT RWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "120 Kw @ 4000 Rpm\r\n163 Hp @ 4000 Rpm\r\n161 Bhp @ 4000 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750–2750 Rpm\r\n380 Nm @ 1750–2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "133.6 Mph (215 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59.1/60.2 In (1,501/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3285 Lbs (1490 Kg)",
+        "Gross Weight Limit:": "4497.5 Lbs (2040 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "45.34 Mpg Us (5.2 L/100Km)",
+        "Highway:": "57.37 Mpg Us (4.1 L/100Km)",
+        "Combined:": "52.27 Mpg Us (4.5 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4031,
+    "automobile_id": 821,
+    "name": "xDrive 25d 8AT AWD (214 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "160 Kw @ 4000 Rpm\r\n218 Hp @ 4000 Rpm\r\n215 Bhp @ 4000 Rpm",
+        "Torque:": "332 Lb-Ft @ 1500-2500 Rpm\r\n450 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.3 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3660 Lbs (1660 Kg)",
+        "Gross Weight Limit:": "4762 Lbs (2160 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33 Mpg Us (7.1 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "40 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4032,
+    "automobile_id": 821,
+    "name": "xDrive18d 6MT AWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "105 Kw @ 4000 Rpm\r\n143 Hp @ 4000 Rpm\r\n141 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1750-2500 Rpm\r\n320 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560.4 Lbs (1615 Kg)",
+        "Gross Weight Limit:": "4673 Lbs (2120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "41.2 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4033,
+    "automobile_id": 821,
+    "name": "xDrive20d 6MT AWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "130 Kw @ 4000 Rpm\r\n177 Hp @ 4000 Rpm\r\n174 Bhp @ 4000 Rpm",
+        "Torque:": "258 Lb-Ft @ 1750-3000 Rpm\r\n350 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.3 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3637.6 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4695.8 Lbs (2130 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "40 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "153 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4034,
+    "automobile_id": 821,
+    "name": "xDrive23d 6AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "150 Kw @ 4400 Rpm\r\n204 Hp @ 4400 Rpm\r\n201 Bhp @ 4400 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-2250 Rpm\r\n400 Nm @ 2000-2250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.3 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Vented Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94H"
+      },
+      "Dimensions": {
+        "Length:": "175.3 In (4453 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "108.6 In (2758 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3681.7 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4762 Lbs (2160 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.1 Mpg Us (7.8 L/100Km)",
+        "Highway:": "42.7 Mpg Us (5.5 L/100Km)",
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "167 G/Km"
+      }
+    }
+  }
+]

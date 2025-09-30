@@ -1,0 +1,74 @@
+[
+  {
+    "id": 11304,
+    "automobile_id": 2661,
+    "name": "0.66L 6MT RWD (63 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "656 Cm3",
+        "Power:": "46.3 Kw @ - Rpm\r\n63 Hp @ - Rpm\r\n62 Bhp @ - Rpm",
+        "Torque:": "77 Lb-Ft @ - Rpm\r\n104 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "133.7 In (3396 Mm)",
+        "Width:": "58.1 In (1476 Mm)",
+        "Height:": "46.5 In (1181 Mm)",
+        "Wheelbase:": "90 In (2286 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1830 Lbs (830 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11305,
+    "automobile_id": 2661,
+    "name": "0.66L CVT RWD (63 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "656 Cm3",
+        "Power:": "46.3 Kw @ - Rpm\r\n63 Hp @ - Rpm\r\n62 Bhp @ - Rpm",
+        "Torque:": "77 Lb-Ft @ - Rpm\r\n104 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "133.7 In (3396 Mm)",
+        "Width:": "58.1 In (1476 Mm)",
+        "Height:": "46.5 In (1181 Mm)",
+        "Wheelbase:": "90 In (2286 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1874 Lbs (850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Co2 Emissions:": "95 G/Km"
+      }
+    }
+  }
+]

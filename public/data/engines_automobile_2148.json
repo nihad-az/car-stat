@@ -1,0 +1,84 @@
+[
+  {
+    "id": 9029,
+    "automobile_id": 2148,
+    "name": "2.0L 10AT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "125 Kw @ 3750 Rpm\r\n170 Hp @ 3750 Rpm\r\n168 Bhp @ 3750 Rpm",
+        "Torque:": "310 Lb-Ft @ 1750-2500 Rpm\r\n420 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60/R18"
+      },
+      "Dimensions": {
+        "Length:": "210.8 In (5354 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "71.7 In (1821 Mm)",
+        "Front/Rear Track:": "62.6/61.4 In (1,590/1,560 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions:": "126 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9030,
+    "automobile_id": 2148,
+    "name": "2.0L EcoBlue 10AT AWD (213 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "156.7 Kw @ 3750 Rpm\r\n213 Hp @ 3750 Rpm\r\n210 Bhp @ 3750 Rpm",
+        "Torque:": "369 Lb-Ft @ 1750-2000 Rpm\r\n500 Nm @ 1750-2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60/R18"
+      },
+      "Dimensions": {
+        "Length:": "210.8 In (5354 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "71.7 In (1821 Mm)",
+        "Front/Rear Track:": "62.6/61.4 In (1,590/1,560 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4702 Lbs (2133 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "203 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "id": 814,
+    "automobile_id": 345,
+    "name": "35 TFSI 6MT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "110.3 Kw @ 4000-6000 Rpm\r\n150 Hp @ 4000-6000 Rpm\r\n148 Bhp @ 4000-6000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1300-3850 Rpm\r\n270 Nm @ 1300-3850 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.3 Gallons (54.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4508 Lbs (2045 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "141 G/Km"
+      }
+    }
+  },
+  {
+    "id": 815,
+    "automobile_id": 345,
+    "name": "35 TFSI 7AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "110.3 Kw @ 4000-6000 Rpm\r\n150 Hp @ 4000-6000 Rpm\r\n148 Bhp @ 4000-6000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1300-3850 Rpm\r\n270 Nm @ 1300-3850 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.3 Gallons (54.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3329 Lbs (1510 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "136 G/Km"
+      }
+    }
+  },
+  {
+    "id": 816,
+    "automobile_id": 345,
+    "name": "40 TFSI 7AT (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "150 Kw @ 4475-6000 Rpm\r\n204 Hp @ 4475-6000 Rpm\r\n201 Bhp @ 4475-6000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1450-4475 Rpm\r\n320 Nm @ 1450-4475 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.3 Gallons (54.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3340 Lbs (1515 Kg)",
+        "Gross Weight Limit:": "4597 Lbs (2085 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "137 G/Km"
+      }
+    }
+  },
+  {
+    "id": 817,
+    "automobile_id": 345,
+    "name": "40 TFSI quattro 7AT (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "150 Kw @ 4475-6000 Rpm\r\n204 Hp @ 4475-6000 Rpm\r\n201 Bhp @ 4475-6000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1450-4475 Rpm\r\n320 Nm @ 1450-4475 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3494 Lbs (1585 Kg)",
+        "Gross Weight Limit:": "4762 Lbs (2160 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "143 G/Km"
+      }
+    }
+  },
+  {
+    "id": 818,
+    "automobile_id": 345,
+    "name": "45 TFSI quattro 7AT (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "194.9 Kw @ 5250-6500 Rpm\r\n265 Hp @ 5250-6500 Rpm\r\n261 Bhp @ 5250-6500 Rpm",
+        "Torque:": "273 Lb-Ft @ 1600-4500 Rpm\r\n370 Nm @ 1600-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3516 Lbs (1595 Kg)",
+        "Gross Weight Limit:": "4795 Lbs (2175 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "165 G/Km"
+      }
+    }
+  },
+  {
+    "id": 819,
+    "automobile_id": 345,
+    "name": "35 TDI 7AT (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "119.9 Kw @ 3250-4200 Rpm\r\n163 Hp @ 3250-4200 Rpm\r\n161 Bhp @ 3250-4200 Rpm",
+        "Torque:": "273 Lb-Ft @ 1500-3000 Rpm\r\n370 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)",
+        "Fuel Capacity (Optional):": "14.3 Gallons (54.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3351 Lbs (1520 Kg)",
+        "Gross Weight Limit:": "4674 Lbs (2120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Highway:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Combined:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 820,
+    "automobile_id": 345,
+    "name": "40 TDI 7AT (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "150 Kw @ 3800-4200 Rpm\r\n204 Hp @ 3800-4200 Rpm\r\n201 Bhp @ 3800-4200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-3250 Rpm\r\n400 Nm @ 1750-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)",
+        "Fuel Capacity (Optional):": "14.3 Gallons (54.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373 Lbs (1530 Kg)",
+        "Gross Weight Limit:": "4685 Lbs (2125 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "127 G/Km"
+      }
+    }
+  },
+  {
+    "id": 821,
+    "automobile_id": 345,
+    "name": "40 TDI quattro 7AT (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "150 Kw @ 3800-4200 Rpm\r\n204 Hp @ 3800-4200 Rpm\r\n201 Bhp @ 3800-4200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-3250 Rpm\r\n400 Nm @ 1750-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.26"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)",
+        "Gross Weight Limit:": "4872 Lbs (2210 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42 Mpg Us (5.6 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "127 G/Km"
+      }
+    }
+  },
+  {
+    "id": 822,
+    "automobile_id": 345,
+    "name": "50 TDI quattro 8AT (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "210.4 Kw @ 3500-4000 Rpm\r\n286 Hp @ 3500-4000 Rpm\r\n282 Bhp @ 3500-4000 Rpm",
+        "Torque:": "457 Lb-Ft @ 1750-3000 Rpm\r\n620 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "187.3 In (4757 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.25"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "5192 Lbs (2355 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "163 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 16481,
+    "automobile_id": 4096,
+    "name": "5.5 V8 7AT (525 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5461 Cm3",
+        "Power:": "386 Kw @ 6800 Rpm\r\n525 Hp @ 6800 Rpm\r\n518 Bhp @ 6800 Rpm",
+        "Torque:": "516 Lb-Ft @ 5200 Rpm\r\n700 Nm @ 5200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Amg-Speedshift)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 Zr 18 || 285/35 Zr 18"
+      },
+      "Dimensions": {
+        "Length:": "192.2 In (4882 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "64/62.8 In (1,626/1,595 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19 Cuft (538 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4056.5 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5269 Lbs (2390 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "230 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16482,
+    "automobile_id": 4096,
+    "name": "6.2 V8 7AT (525 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6208 Cm3",
+        "Power:": "386 Kw @ 6800 Rpm\r\n525 Hp @ 6800 Rpm\r\n518 Bhp @ 6800 Rpm",
+        "Torque:": "465 Lb-Ft @ 5200 Rpm\r\n630 Nm @ 5200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Amg-Speedshift)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 R 18 || 285/35 R 18"
+      },
+      "Dimensions": {
+        "Length:": "192.5 In (4890 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "63.9/62.7 In (1,623/1,593 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19 Cuft (538 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4056.5 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5269 Lbs (2390 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.6 Mpg Us (18.7 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "18.7 Mpg Us (12.6 L/100Km)",
+        "Co2 Emissions:": "295 G/Km"
+      }
+    }
+  }
+]

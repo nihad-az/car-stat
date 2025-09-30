@@ -1,0 +1,93 @@
+[
+  {
+    "id": 24121,
+    "automobile_id": 6018,
+    "name": "2.2L 5MT (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "106 Kw @ 5400 Rpm\r\n143 Hp @ 5400 Rpm\r\n142 Bhp @ 5400 Rpm",
+        "Torque:": "152 Lb-Ft @ 4000 Rpm\r\n206 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65-16R"
+      },
+      "Dimensions": {
+        "Length:": "181.3 In (4605 Mm)",
+        "Width:": "71.6 In (1819 Mm)",
+        "Height:": "66.3 In (1684 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "30.8 Cuft (872 L)",
+        "Aerodynamics (Cd):": "0.38"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3279 Lbs (1487 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "223.7 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24122,
+    "automobile_id": 6018,
+    "name": "3.5L V6 5AT (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "186 Kw @ 5800 Rpm\r\n250 Hp @ 5800 Rpm\r\n249 Bhp @ 5800 Rpm",
+        "Torque:": "242 Lb-Ft @ 4500 Rpm\r\n328 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65-16R"
+      },
+      "Dimensions": {
+        "Length:": "181.3 In (4605 Mm)",
+        "Width:": "71.6 In (1819 Mm)",
+        "Height:": "66.3 In (1684 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "30.8 Cuft (872 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3544 Lbs (1608 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 11395,
+    "automobile_id": 2691,
+    "name": "3.5L V6 4WD 5AT (253 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "189 Kw @ 5700 Rpm\r\n257 Hp @ 5700 Rpm\r\n253 Bhp @ 5700 Rpm",
+        "Torque:": "256 Lb-Ft @ 4800 Rpm\r\n347 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.9 Gallons (79.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "78.5 In (1994 Mm)",
+        "Height:": "71 In (1803 Mm)",
+        "Front/Rear Track:": "67.7/67.5 In (1,720/1,715 Mm)",
+        "Wheelbase:": "109.2 In (2774 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4546 Lbs (2062 Kg)",
+        "Gross Weight Limit:": "6096 Lbs (2765 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11396,
+    "automobile_id": 2691,
+    "name": "3.5L V6 5AT (253 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "189 Kw @ 5700 Rpm\r\n257 Hp @ 5700 Rpm\r\n253 Bhp @ 5700 Rpm",
+        "Torque:": "256 Lb-Ft @ 4800 Rpm\r\n347 Nm @ 4800 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.9 Gallons (79.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "78.5 In (1994 Mm)",
+        "Height:": "71 In (1803 Mm)",
+        "Front/Rear Track:": "67.7/67.5 In (1,720/1,715 Mm)",
+        "Wheelbase:": "109.2 In (2774 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4319 Lbs (1959 Kg)",
+        "Gross Weight Limit:": "5864 Lbs (2660 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  }
+]

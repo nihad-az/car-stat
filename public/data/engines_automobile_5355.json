@@ -1,0 +1,132 @@
+[
+  {
+    "id": 21865,
+    "automobile_id": 5355,
+    "name": "3.1L V6 4AT FWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3135 Cm3",
+        "Power:": "130 Kw @ 5200 Rpm\r\n177 Hp @ 5200 Rpm\r\n174 Bhp @ 5200 Rpm",
+        "Torque:": "194 Lb-Ft @ 4000 Rpm\r\n263 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121.2 Mph (195 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70/R15"
+      },
+      "Dimensions": {
+        "Length:": "197.5 In (5017 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "61.4/61 In (1,560/1,549 Mm)",
+        "Wheelbase:": "110.5 In (2807 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3384.1 Lbs (1535 Kg)"
+      }
+    }
+  },
+  {
+    "id": 21866,
+    "automobile_id": 5355,
+    "name": "3.8L V6 4AT FWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3791 Cm3",
+        "Power:": "149 Kw @ 5200 Rpm\r\n203 Hp @ 5200 Rpm\r\n200 Bhp @ 5200 Rpm",
+        "Torque:": "225 Lb-Ft @ 4000 Rpm\r\n305 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60/R16"
+      },
+      "Dimensions": {
+        "Length:": "197.48 In (5016 Mm)",
+        "Width:": "72.67 In (1846 Mm)",
+        "Height:": "54.68 In (1389 Mm)",
+        "Front/Rear Track:": "61.41/61.02 In (1,560/1,550 Mm)",
+        "Wheelbase:": "110.47 In (2806 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3496.53 Lbs (1586 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.93 Mpg Us (11.8 L/100Km)",
+        "Highway:": "30.15 Mpg Us (7.8 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 21867,
+    "automobile_id": 5355,
+    "name": "3.8L V6 Supercharged 4AT FWD (243 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3791 Cm3",
+        "Power:": "179 Kw @ 5200 Rpm\r\n243 Hp @ 5200 Rpm\r\n240 Bhp @ 5200 Rpm",
+        "Torque:": "280 Lb-Ft @ 3600 Rpm\r\n380 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139.8 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R 16"
+      },
+      "Dimensions": {
+        "Length:": "197.5 In (5017 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "61.4/61 In (1,560/1,549 Mm)",
+        "Wheelbase:": "110.5 In (2807 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3558.3 Lbs (1614 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)"
+      }
+    }
+  }
+]

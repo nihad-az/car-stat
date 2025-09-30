@@ -1,0 +1,92 @@
+[
+  {
+    "id": 18407,
+    "automobile_id": 4608,
+    "name": "1.2L MIVEC 5MT (78 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1193 Cm3",
+        "Power:": "57.4 Kw @ 6000 Rpm\r\n78 Hp @ 6000 Rpm\r\n77 Bhp @ 6000 Rpm",
+        "Torque:": "74 Lb-Ft @ 4000 Rpm\r\n100 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65 R14"
+      },
+      "Dimensions": {
+        "Length:": "149.4 In (3795 Mm)",
+        "Width:": "65.6 In (1666 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "56.3/55.7 In (1,430/1,415 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2017 Lbs (915 Kg)",
+        "Gross Weight Limit:": "2910 Lbs (1320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18408,
+    "automobile_id": 4608,
+    "name": "1.2L MIVEC CVT (78 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1193 Cm3",
+        "Power:": "57.4 Kw @ 6000 Rpm\r\n78 Hp @ 6000 Rpm\r\n77 Bhp @ 6000 Rpm",
+        "Torque:": "74 Lb-Ft @ 4000 Rpm\r\n100 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65 R14"
+      },
+      "Dimensions": {
+        "Length:": "149.4 In (3795 Mm)",
+        "Width:": "65.6 In (1666 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "56.3/55.7 In (1,430/1,415 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2072 Lbs (940 Kg)",
+        "Gross Weight Limit:": "3020 Lbs (1370 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": 2668,
+    "automobile_id": 604,
+    "name": "6.0L W12 TSI 8AT (635 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "W12",
+        "Displacement:": "5950 Cm3",
+        "Power:": "467 Kw @ 6000 Rpm\r\n635 Hp @ 6000 Rpm\r\n626 Bhp @ 6000 Rpm",
+        "Torque:": "664 Lb-Ft @ 1650-4500 Rpm\r\n900 Nm @ 1650-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "207 Mph (333 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/40 Zr21 // 305/35 Zr21"
+      },
+      "Dimensions": {
+        "Length:": "209.3 In (5316 Mm)",
+        "Width:": "77.9 In (1979 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "64.7/64.6 In (1,643/1,641 Mm)",
+        "Wheelbase:": "125.7 In (3193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Aerodynamics (Frontal Area):": "2.44 M2",
+        "Turning Circle:": "36.3 Ft (11.1 M)",
+        "Turning Circle (Curb To Curb):": "36.3 Ft (11.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5373 Lbs (2437 Kg)",
+        "Gross Weight Limit:": "6614 Lbs (3000 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "High:": "18.5 Mpg Us (12.7 L/100Km)",
+        "Extra High:": "18.2 Mpg Us (12.9 L/100Km)",
+        "Combined:": "12.3 Mpg Us (19.1 L/100Km)",
+        "Co2 Emissions (Combined):": "337 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2669,
+    "automobile_id": 604,
+    "name": "2.9L V6 (543 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "306 Kw @ - Rpm\r\n416 Hp @ - Rpm\r\n410 Bhp @ - Rpm",
+        "Torque:": "406 Lb-Ft @ 5650 Rpm\r\n550 Nm @ 5650 Rpm",
+        "Electrical Motor Power:": "100 Kw (136 Hp)",
+        "Electrical Motor Torque:": "295 Lb-Ft (400 Nm)",
+        "Total Maximum Power:": "399.4 Kw (543 Hp)",
+        "Total Maximum Torque:": "553.2 Lb-Ft (750 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "177 Mph (285 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/40 Zr21 // 305/35 Zr21"
+      },
+      "Dimensions": {
+        "Length:": "209.3 In (5316 Mm)",
+        "Width:": "77.9 In (1979 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "64.7/64.6 In (1,643/1,641 Mm)",
+        "Wheelbase:": "125.7 In (3193 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Frontal Area):": "2.44 M2",
+        "Aerodynamics (Cd):": "0.29",
+        "Turning Circle:": "36.3 Ft (11.1 M)",
+        "Turning Circle (Curb To Curb):": "36.3 Ft (11.1 M)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "14.1 Kwh"
+      },
+      "Fuel Economy (Wltp)": {
+        "High:": "18.5 Mpg Us (12.7 L/100Km)",
+        "Extra High:": "18.2 Mpg Us (12.9 L/100Km)",
+        "Combined:": "12.3 Mpg Us (19.1 L/100Km)",
+        "Co2 Emissions (Combined):": "337 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": 19451,
+    "automobile_id": 4955,
+    "name": "3.5L V6 4AT FWD (215 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3473 Cm3",
+        "Power:": "160 Kw @ 5600 Rpm\r\n218 Hp @ 5600 Rpm\r\n215 Bhp @ 5600 Rpm",
+        "Torque:": "260 Lb-Ft @ 4400 Rpm\r\n353 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "199.3 In (5062 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "62.3/62.3 In (1,582/1,582 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3627 Lbs (1645 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 19452,
+    "automobile_id": 4955,
+    "name": "4.0L V8 4AT FWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3995 Cm3",
+        "Power:": "186.4 Kw @ 5600 Rpm\r\n253.5 Hp @ 5600 Rpm\r\n250 Bhp @ 5600 Rpm",
+        "Torque:": "260 Lb-Ft @ 4400 Rpm\r\n353 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "199.3 In (5062 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "62.3/62.3 In (1,582/1,582 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3803 Lbs (1725 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,665 @@
+[
+  {
+    "id": 3564,
+    "automobile_id": 780,
+    "name": "218i 6MT RWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1466 Cm3",
+        "Power:": "100 Kw @ 4500-6000 Rpm\r\n136 Hp @ 4500-6000 Rpm\r\n134 Bhp @ 4500-6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 1250 Rpm\r\n220 Nm @ 1250 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "129 Mph (208 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91H"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)",
+        "Gross Weight Limit:": "4332 Lbs (1965 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3565,
+    "automobile_id": 780,
+    "name": "218i 8AT RWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1466 Cm3",
+        "Power:": "100 Kw @ 4500-6000 Rpm\r\n136 Hp @ 4500-6000 Rpm\r\n134 Bhp @ 4500-6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 1250 Rpm\r\n220 Nm @ 1250 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91H"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3505 Lbs (1590 Kg)",
+        "Gross Weight Limit:": "4376 Lbs (1985 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3566,
+    "automobile_id": 780,
+    "name": "220i 6MT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "135 Kw @ 5000-6250 Rpm\r\n184 Hp @ 5000-6250 Rpm\r\n181 Bhp @ 5000-6250 Rpm",
+        "Torque:": "199 Lb-Ft @ 1250-4500 Rpm\r\n270 Nm @ 1250-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91W"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3494 Lbs (1585 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3567,
+    "automobile_id": 780,
+    "name": "220i 8AT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "135 Kw @ 5000-6250 Rpm\r\n184 Hp @ 5000-6250 Rpm\r\n181 Bhp @ 5000-6250 Rpm",
+        "Torque:": "199 Lb-Ft @ 1250-4500 Rpm\r\n270 Nm @ 1250-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91W"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3538 Lbs (1605 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "152 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3568,
+    "automobile_id": 780,
+    "name": "228i 6MT RWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "180 Kw @ 6500 Rpm\r\n245 Hp @ 6500 Rpm\r\n241 Bhp @ 6500 Rpm",
+        "Torque:": "258 Lb-Ft @ 1250-4800 Rpm\r\n350 Nm @ 1250-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/50 R17 89Y"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4354 Lbs (1975 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "33.6 Mpg Us (7 L/100Km)",
+        "Co2 Emissions:": "163 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3569,
+    "automobile_id": 780,
+    "name": "228i 8AT RWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "180 Kw @ 6500 Rpm\r\n245 Hp @ 6500 Rpm\r\n241 Bhp @ 6500 Rpm",
+        "Torque:": "258 Lb-Ft @ 1250-4800 Rpm\r\n350 Nm @ 1250-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/50 R17 89Y"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4398 Lbs (1995 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "157 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3570,
+    "automobile_id": 780,
+    "name": "M235i 6MT RWD (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "240 Kw @ 5800-6000 Rpm\r\n326 Hp @ 5800-6000 Rpm\r\n322 Bhp @ 5800-6000 Rpm",
+        "Torque:": "332 Lb-Ft @ 1300-4500 Rpm\r\n450 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 Zr18 88Y"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3693 Lbs (1675 Kg)",
+        "Gross Weight Limit:": "4475 Lbs (2030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3571,
+    "automobile_id": 780,
+    "name": "M235i 8AT RWD (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "240 Kw @ 5800-6000 Rpm\r\n326 Hp @ 5800-6000 Rpm\r\n322 Bhp @ 5800-6000 Rpm",
+        "Torque:": "332 Lb-Ft @ 1300-4500 Rpm\r\n450 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 Zr18 88Y"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3737 Lbs (1695 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "184 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3572,
+    "automobile_id": 780,
+    "name": "M240i 6MT RWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2998 Cm3",
+        "Power:": "250 Kw @ 5500 Rpm\r\n340 Hp @ 5500 Rpm\r\n335 Bhp @ 5500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1520-4500 Rpm\r\n500 Nm @ 1520-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R18 88Y || 245/35 R 18 92Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "175.4 In (4455 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.2 In (1402 Mm)",
+        "Front/Rear Track:": "59.7/60.4 In (1,516/1,534 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3726 Lbs (1690 Kg)",
+        "Gross Weight Limit:": "4508 Lbs (2045 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions:": "189 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3573,
+    "automobile_id": 780,
+    "name": "M240i 8AT RWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2998 Cm3",
+        "Power:": "250 Kw @ 5500 Rpm\r\n340 Hp @ 5500 Rpm\r\n335 Bhp @ 5500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1520-4500 Rpm\r\n500 Nm @ 1520-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R18 88Y || 245/35 R 18 92Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "175.4 In (4455 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.2 In (1402 Mm)",
+        "Front/Rear Track:": "59.7/60.4 In (1,516/1,534 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3759 Lbs (1705 Kg)",
+        "Gross Weight Limit:": "4542 Lbs (2060 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3574,
+    "automobile_id": 780,
+    "name": "M240i xDrive 8AT (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2998 Cm3",
+        "Power:": "250 Kw @ 5500 Rpm\r\n340 Hp @ 5500 Rpm\r\n335 Bhp @ 5500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1520-4500 Rpm\r\n500 Nm @ 1520-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R18 88Y || 245/35 R 18 92Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "175.4 In (4455 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.2 In (1402 Mm)",
+        "Front/Rear Track:": "59.7/60.4 In (1,516/1,534 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3869 Lbs (1755 Kg)",
+        "Gross Weight Limit:": "4652 Lbs (2110 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Highway:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "179 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3575,
+    "automobile_id": 780,
+    "name": "220d 6MT RWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139 Kw @ 4000 Rpm\r\n189 Hp @ 4000 Rpm\r\n186 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91W"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4420 Lbs (2005 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "116 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3576,
+    "automobile_id": 780,
+    "name": "220d 8AT RWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139 Kw @ 4000 Rpm\r\n189 Hp @ 4000 Rpm\r\n186 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91W"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/61.3 In (1,521/1,557 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3428 Lbs (1555 Kg)",
+        "Gross Weight Limit:": "4442 Lbs (2015 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Co2 Emissions:": "108 G/Km"
+      }
+    }
+  }
+]

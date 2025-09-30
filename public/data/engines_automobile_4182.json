@@ -1,0 +1,102 @@
+[
+  {
+    "id": 16968,
+    "automobile_id": 4182,
+    "name": "32 CDI 5AT RWD (354 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3199 Cm3",
+        "Power:": "260.4 Kw @ 6100 Rpm\r\n354 Hp @ 6100 Rpm\r\n349 Bhp @ 6100 Rpm",
+        "Torque:": "332 Lb-Ft @ 4400 Rpm\r\n450 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection Supercharging (Compressor)",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 Zr18 // 275/35 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.1 Mpg Us (16.7 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 16969,
+    "automobile_id": 4182,
+    "name": "30 CDI 5AT RWD (231 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2950 Cm3",
+        "Power:": "170 Kw @ 3800 Rpm\r\n231 Hp @ 3800 Rpm\r\n228 Bhp @ 3800 Rpm",
+        "Torque:": "399 Lb-Ft @ 2000 Rpm\r\n540 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 Zr17 || 245/40 Zr17"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3388 Lbs (1537 Kg)",
+        "Gross Weight Limit:": "4609 Lbs (2091 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "31 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "201 G/Km"
+      }
+    }
+  }
+]

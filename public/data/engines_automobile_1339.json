@@ -1,0 +1,180 @@
+[
+  {
+    "id": 6168,
+    "automobile_id": 1339,
+    "name": "2.2L 5MT RWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "84 Kw @ 5000 Rpm\r\n114 Hp @ 5000 Rpm\r\n113 Bhp @ 5000 Rpm",
+        "Torque:": "133 Lb-Ft @ 3600 Rpm\r\n180 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70 R 15"
+      },
+      "Dimensions": {
+        "Length:": "181.1 In (4600 Mm)",
+        "Width:": "82.3 In (2090 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "55/55.1 In (1,397/1,400 Mm)",
+        "Wheelbase:": "107 In (2718 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "67.2 Cuft (1903 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3572.1 Lbs (1620 Kg)",
+        "Gross Weight Limit:": "4851 Lbs (2200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 6169,
+    "automobile_id": 1339,
+    "name": "2.2L 5MT RWD (137 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "101 Kw @ 5000 Rpm\r\n137 Hp @ 5000 Rpm\r\n135 Bhp @ 5000 Rpm",
+        "Torque:": "144 Lb-Ft @ 3600 Rpm\r\n195 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70 R 15"
+      },
+      "Dimensions": {
+        "Length:": "181.1 In (4600 Mm)",
+        "Width:": "82.3 In (2090 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "55/55.1 In (1,397/1,400 Mm)",
+        "Wheelbase:": "107 In (2718 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "67.2 Cuft (1903 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3649.3 Lbs (1655 Kg)",
+        "Gross Weight Limit:": "4851 Lbs (2200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 6170,
+    "automobile_id": 1339,
+    "name": "4.3L V6 4AT AWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4300 Cm3",
+        "Power:": "143.9 Kw @ 4400 Rpm\r\n195.7 Hp @ 4400 Rpm\r\n193 Bhp @ 4400 Rpm",
+        "Torque:": "250 Lb-Ft @ 2800 Rpm\r\n339 Nm @ 2800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70 R 15"
+      },
+      "Dimensions": {
+        "Length:": "181.1 In (4600 Mm)",
+        "Width:": "82.3 In (2090 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "55/55.1 In (1,397/1,400 Mm)",
+        "Wheelbase:": "107 In (2718 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "67.2 Cuft (1903 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4299 Lbs (1950 Kg)",
+        "Gross Weight Limit:": "5300 Lbs (2404 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "21.4 Mpg Us (11 L/100Km)",
+        "Combined:": "17.3 Mpg Us (13.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6171,
+    "automobile_id": 1339,
+    "name": "4.3L V6 5MT AWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4300 Cm3",
+        "Power:": "143.9 Kw @ 4400 Rpm\r\n195.7 Hp @ 4400 Rpm\r\n193 Bhp @ 4400 Rpm",
+        "Torque:": "250 Lb-Ft @ 2800 Rpm\r\n339 Nm @ 2800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70 R 15"
+      },
+      "Dimensions": {
+        "Length:": "181.1 In (4600 Mm)",
+        "Width:": "82.3 In (2090 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "55/55.1 In (1,397/1,400 Mm)",
+        "Wheelbase:": "107 In (2718 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "67.2 Cuft (1903 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4299 Lbs (1950 Kg)",
+        "Gross Weight Limit:": "5300 Lbs (2404 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "21.4 Mpg Us (11 L/100Km)",
+        "Combined:": "17.3 Mpg Us (13.6 L/100Km)"
+      }
+    }
+  }
+]

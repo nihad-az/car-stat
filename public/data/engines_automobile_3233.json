@@ -1,0 +1,88 @@
+[
+  {
+    "id": 13382,
+    "automobile_id": 3233,
+    "name": "100 Kw FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "100 Kw @ - Rpm\r\n136 Hp @ - Rpm\r\n134 Bhp @ - Rpm",
+        "Torque:": "291 Lb-Ft @ 3600 Rpm\r\n395 Nm @ 3600 Rpm",
+        "Fuel System:": "Lithium-Ion Battery 39.2",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "172.2 In (4374 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "62/62.4 In (1,575/1,585 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3629 Lbs (1646 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Battery",
+        "Nominal Capacity:": "39.2 Kwh",
+        "Range:": "193 Miles (310.6 Km)"
+      }
+    }
+  },
+  {
+    "id": 13383,
+    "automobile_id": 3233,
+    "name": "150 Kw FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "150 Kw @ 3800-8000 Rpm\r\n204 Hp @ 3800-8000 Rpm\r\n201 Bhp @ 3800-8000 Rpm",
+        "Torque:": "291 Lb-Ft @ 3600 Rpm\r\n395 Nm @ 3600 Rpm",
+        "Fuel System:": "Lithium-Ion Battery 64",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "172.2 In (4374 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "61.8 In (1570 Mm)",
+        "Front/Rear Track:": "62/62.4 In (1,575/1,585 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3629 Lbs (1646 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Battery",
+        "Nominal Capacity:": "64 Kwh",
+        "Range:": "301 Miles (484.4 Km)"
+      }
+    }
+  }
+]

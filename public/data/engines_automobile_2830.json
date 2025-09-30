@@ -1,0 +1,58 @@
+[
+  {
+    "id": 11810,
+    "automobile_id": 2830,
+    "name": "1.6L 8AT FWD (192 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "141.7 Kw @ 6000 Rpm\r\n192.6 Hp @ 6000 Rpm\r\n190 Bhp @ 6000 Rpm",
+        "Torque:": "195 Lb-Ft @ 1700-4500 Rpm\r\n264 Nm @ 1700-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "171.3 In (4351 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "62.4 In (1585 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)"
+      }
+    }
+  },
+  {
+    "id": 11811,
+    "automobile_id": 2830,
+    "name": "2.0L Atkinson IVT AWD (149 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "109.6 Kw @ 6200 Rpm\r\n149 Hp @ 6200 Rpm\r\n147 Bhp @ 6200 Rpm",
+        "Torque:": "132 Lb-Ft @ 4500 Rpm\r\n179 Nm @ 4500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Intelligent Variable Transmission (Ivt)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "171.3 In (4351 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "62.4 In (1585 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)"
+      }
+    }
+  }
+]

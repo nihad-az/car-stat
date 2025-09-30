@@ -1,0 +1,88 @@
+[
+  {
+    "id": 11302,
+    "automobile_id": 2660,
+    "name": "1.8L i-VTEC 5MT FWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "107 Kw @ 6500 Rpm\r\n145 Hp @ 6500 Rpm\r\n143 Bhp @ 6500 Rpm",
+        "Torque:": "129 Lb-Ft @ 4300 Rpm\r\n175 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205 / 55 R16 89H"
+      },
+      "Dimensions": {
+        "Length:": "177.9 In (4519 Mm)",
+        "Width:": "69 In (1753 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "59/59.9 In (1,499/1,521 Mm)",
+        "Wheelbase:": "130.2 In (3307 Mm)",
+        "Cargo Volume:": "11.7 Cuft (331 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2754 Lbs (1249 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11303,
+    "automobile_id": 2660,
+    "name": "1.8L i-VTEC CVT FWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "107 Kw @ 6500 Rpm\r\n145 Hp @ 6500 Rpm\r\n143 Bhp @ 6500 Rpm",
+        "Torque:": "129 Lb-Ft @ 4300 Rpm\r\n175 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205 / 55 R16 89H"
+      },
+      "Dimensions": {
+        "Length:": "177.9 In (4519 Mm)",
+        "Width:": "69 In (1753 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "59/59.9 In (1,499/1,521 Mm)",
+        "Wheelbase:": "130.2 In (3307 Mm)",
+        "Cargo Volume:": "11.7 Cuft (331 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2824 Lbs (1281 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30 Mpg Us (7.8 L/100Km)",
+        "Highway:": "39 Mpg Us (6 L/100Km)",
+        "Combined:": "33 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  }
+]

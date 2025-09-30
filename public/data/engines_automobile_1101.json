@@ -1,0 +1,102 @@
+[
+  {
+    "id": 5400,
+    "automobile_id": 1101,
+    "name": "4.6L V8 4AT (279 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4565 Cm3",
+        "Power:": "205 Kw @ 5200 Rpm\r\n279 Hp @ 5200 Rpm\r\n275 Bhp @ 5200 Rpm",
+        "Torque:": "288 Lb-Ft @ 4400 Rpm\r\n390 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "207.6 In (5273 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "115.6 In (2936 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4009 Lbs (1818 Kg)",
+        "Gross Weight Limit:": "5347 Lbs (2425 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "18.5 Mpg Us (12.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5401,
+    "automobile_id": 1101,
+    "name": "4.6L V8 4AT (295 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4565 Cm3",
+        "Power:": "217 Kw @ 5600 Rpm\r\n295 Hp @ 5600 Rpm\r\n291 Bhp @ 5600 Rpm",
+        "Torque:": "286 Lb-Ft @ 4000 Rpm\r\n388 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/55R17"
+      },
+      "Dimensions": {
+        "Length:": "207.6 In (5273 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Front/Rear Track:": "62.5/61.7 In (1,588/1,567 Mm)",
+        "Wheelbase:": "115.6 In (2936 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4057 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5346 Lbs (2425 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "20.8 Mpg Us (11.3 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 13207,
+    "automobile_id": 3183,
+    "name": "4.0 4AT (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3960 Cm3",
+        "Power:": "142 Kw @ 4600 Rpm\r\n193 Hp @ 4600 Rpm\r\n190 Bhp @ 4600 Rpm",
+        "Torque:": "253 Lb-Ft @ 3200 Rpm\r\n343 Nm @ 3200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/75 R 15"
+      },
+      "Dimensions": {
+        "Length:": "155.4 In (3947 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "68.4 In (1737 Mm)",
+        "Front/Rear Track:": "58/58 In (1,473/1,473 Mm)",
+        "Wheelbase:": "103.4 In (2626 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "28.5 Cuft (807 L)",
+        "Aerodynamics (Cd):": "0.58"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3724.2 Lbs (1689 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.7 Mpg Us (18.5 L/100Km)",
+        "Highway:": "23.5 Mpg Us (10 L/100Km)",
+        "Combined:": "18.1 Mpg Us (13 L/100Km)",
+        "Co2 Emissions:": "309 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13208,
+    "automobile_id": 3183,
+    "name": "4.0 6MT (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3960 Cm3",
+        "Power:": "142 Kw @ 4600 Rpm\r\n193 Hp @ 4600 Rpm\r\n190 Bhp @ 4600 Rpm",
+        "Torque:": "253 Lb-Ft @ 3200 Rpm\r\n343 Nm @ 3200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/75 R 15"
+      },
+      "Dimensions": {
+        "Length:": "155.4 In (3947 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "68.4 In (1737 Mm)",
+        "Front/Rear Track:": "58/58 In (1,473/1,473 Mm)",
+        "Wheelbase:": "103.4 In (2626 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "28.5 Cuft (807 L)",
+        "Aerodynamics (Cd):": "0.58"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3724 Lbs (1689 Kg)",
+        "Gross Weight Limit:": "4601 Lbs (2087 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "16.6 Mpg Us (14.2 L/100Km)"
+      }
+    }
+  }
+]

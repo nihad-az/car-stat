@@ -1,0 +1,135 @@
+[
+  {
+    "id": 26369,
+    "automobile_id": 6534,
+    "name": "2.0L CVT 2WD (151 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1986 Cm3",
+        "Power:": "111 Kw @ 6100 Rpm\r\n151 Hp @ 6100 Rpm\r\n149 Bhp @ 6100 Rpm",
+        "Torque:": "142 Lb-Ft @ 3800 Rpm\r\n193 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Turning Circle:": "36.7 Ft (11.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26370,
+    "automobile_id": 6534,
+    "name": "2.0L CVT AWD (151 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1986 Cm3",
+        "Power:": "111 Kw @ 6100 Rpm\r\n151 Hp @ 6100 Rpm\r\n149 Bhp @ 6100 Rpm",
+        "Torque:": "142 Lb-Ft @ 3800 Rpm\r\n193 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Turning Circle:": "36.7 Ft (11.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4090 Lbs (1855 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26371,
+    "automobile_id": 6534,
+    "name": "2.5L E-Four CVT AWD (196 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2493 Cm3",
+        "Power:": "112 Kw @ 5700 Rpm\r\n152 Hp @ 5700 Rpm\r\n150 Bhp @ 5700 Rpm",
+        "Torque:": "152 Lb-Ft @ 4400-4800 Rpm\r\n206 Nm @ 4400-4800 Rpm",
+        "Electrical Motor Power:": "105.2 Kw (143 Hp)",
+        "Electrical Motor Torque:": "199.1 Lb-Ft (270 Nm)",
+        "Total Maximum Power:": "144.2 Kw (196 Hp)",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "14.8 Gallons (56.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17 // 235/55 R18"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Turning Circle:": "36.7 Ft (11.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)",
+        "Gross Weight Limit:": "4575 Lbs (2075 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 7544,
+    "automobile_id": 1643,
+    "name": "1.6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "78 Kw @ 5800 Rpm\r\n107 Hp @ 5800 Rpm\r\n105 Bhp @ 5800 Rpm",
+        "Torque:": "107 Lb-Ft @ 3800 Rpm\r\n145 Nm @ 3800 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "108.7 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R 14"
+      },
+      "Dimensions": {
+        "Length:": "179.1 In (4549 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "57.6/57.6 In (1,463/1,463 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "50.7 Cuft (1436 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2895.2 Lbs (1313 Kg)",
+        "Gross Weight Limit:": "4101.3 Lbs (1860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "186 G/Km"
+      }
+    }
+  },
+  {
+    "id": 7545,
+    "automobile_id": 1643,
+    "name": "2.0",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "98 Kw @ 5400 Rpm\r\n133 Hp @ 5400 Rpm\r\n131 Bhp @ 5400 Rpm",
+        "Torque:": "136 Lb-Ft @ 4400 Rpm\r\n184 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121.2 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R 14"
+      },
+      "Dimensions": {
+        "Length:": "179.1 In (4549 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "57.6/57.6 In (1,463/1,463 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "50.7 Cuft (1436 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2915 Lbs (1322 Kg)",
+        "Gross Weight Limit:": "4101.3 Lbs (1860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.5 Mpg Us (12.7 L/100Km)",
+        "Highway:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "207 G/Km"
+      }
+    }
+  }
+]

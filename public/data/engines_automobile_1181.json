@@ -1,0 +1,100 @@
+[
+  {
+    "id": 5613,
+    "automobile_id": 1181,
+    "name": "1.5L 6AT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "119.9 Kw @ 5700 Rpm\r\n163 Hp @ 5700 Rpm\r\n161 Bhp @ 5700 Rpm",
+        "Torque:": "184 Lb-Ft @ 2500-3000 Rpm\r\n249 Nm @ 2500-3000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "37 Mpg Us (6.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5614,
+    "automobile_id": 1181,
+    "name": "2.0L 8AT FWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "183.9 Kw @ 5300 Rpm\r\n250 Hp @ 5300 Rpm\r\n247 Bhp @ 5300 Rpm",
+        "Torque:": "260 Lb-Ft @ 2000-5000 Rpm\r\n353 Nm @ 2000-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/60R16"
+      },
+      "Dimensions": {
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "33 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5615,
+    "automobile_id": 1181,
+    "name": "1.8L 6AT FWD ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "47 Mpg Us (5 L/100Km)"
+      }
+    }
+  }
+]

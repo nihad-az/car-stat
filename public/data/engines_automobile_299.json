@@ -1,0 +1,99 @@
+[
+  {
+    "id": 709,
+    "automobile_id": 299,
+    "name": "35 e-tron 52 KWh (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "125 Kw (170 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "64.3 In (1633 Mm)",
+        "Front/Rear Track:": "62.5/61.6 In (1,588/1,565 Mm)",
+        "Wheelbase:": "108.8 In (2764 Mm)",
+        "Cargo Volume:": "18.4 Cuft (521 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "52 Kwh"
+      }
+    }
+  },
+  {
+    "id": 710,
+    "automobile_id": 299,
+    "name": "40 e-tron 77 KWh (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "150 Kw (204 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "64.3 In (1633 Mm)",
+        "Front/Rear Track:": "62.5/61.6 In (1,588/1,565 Mm)",
+        "Wheelbase:": "108.8 In (2764 Mm)",
+        "Cargo Volume:": "18.4 Cuft (521 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "77 Kwh",
+        "Range:": "323.1 Miles (520.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 711,
+    "automobile_id": 299,
+    "name": "50 e-tron quattro 82 KWh (299 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "219.9 Kw (299 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "64.3 In (1633 Mm)",
+        "Front/Rear Track:": "62.5/61.6 In (1,588/1,565 Mm)",
+        "Wheelbase:": "108.8 In (2764 Mm)",
+        "Cargo Volume:": "18.4 Cuft (521 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "82 Kwh"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 25870,
+    "automobile_id": 6373,
+    "name": "1.2L 5MT FWD (94 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1242 Cm3",
+        "Power:": "69.1 Kw @ 6000 Rpm\r\n94 Hp @ 6000 Rpm\r\n93 Bhp @ 6000 Rpm",
+        "Torque:": "87 Lb-Ft @ 4800 Rpm\r\n118 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R15"
+      },
+      "Dimensions": {
+        "Length:": "151.6 In (3851 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "58.7/58.9 In (1,491/1,496 Mm)",
+        "Wheelbase:": "95.7 In (2431 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "7.5 Cuft (212 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2216 Lbs (1005 Kg)",
+        "Gross Weight Limit:": "3263 Lbs (1480 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39 Mpg Us (6 L/100Km)",
+        "Highway:": "53 Mpg Us (4.4 L/100Km)",
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "116 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25871,
+    "automobile_id": 6373,
+    "name": "1.6L 6MT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1586 Cm3",
+        "Power:": "100 Kw @ 6900 Rpm\r\n136 Hp @ 6900 Rpm\r\n134 Bhp @ 6900 Rpm",
+        "Torque:": "118 Lb-Ft @ 4400 Rpm\r\n160 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R15"
+      },
+      "Dimensions": {
+        "Length:": "151.6 In (3851 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "58.7/58.9 In (1,491/1,496 Mm)",
+        "Wheelbase:": "95.7 In (2431 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "7.5 Cuft (212 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2238 Lbs (1015 Kg)",
+        "Gross Weight Limit:": "3263 Lbs (1480 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "147 G/Km"
+      }
+    }
+  }
+]

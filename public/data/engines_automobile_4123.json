@@ -1,0 +1,102 @@
+[
+  {
+    "id": 16680,
+    "automobile_id": 4123,
+    "name": "500 7AT AWD (296 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4966 Cm3",
+        "Power:": "218 Kw @ 5500 Rpm\r\n296 Hp @ 5500 Rpm\r\n292 Bhp @ 5500 Rpm",
+        "Torque:": "336 Lb-Ft @ 2800-4000 Rpm\r\n456 Nm @ 2800-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (G Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60 R 18"
+      },
+      "Dimensions": {
+        "Length:": "168.3 In (4275 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "76.4 In (1941 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "94.5 In (2400 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "8.8 Cuft (249 L)",
+        "Aerodynamics (Cd):": "0.54"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5071 Lbs (2300 Kg)",
+        "Gross Weight Limit:": "6283 Lbs (2850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12 Mpg Us (19.6 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)",
+        "Co2 Emissions:": "351 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16681,
+    "automobile_id": 4123,
+    "name": "320 CDI 7AT AWD (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2987 Cm3",
+        "Power:": "165 Kw @ 3800 Rpm\r\n224 Hp @ 3800 Rpm\r\n221 Bhp @ 3800 Rpm",
+        "Torque:": "398 Lb-Ft @ 1600–2400 Rpm\r\n540 Nm @ 1600–2400 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (G Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70 R 16"
+      },
+      "Dimensions": {
+        "Length:": "168.3 In (4275 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "77 In (1956 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "94.5 In (2400 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "8.8 Cuft (249 L)",
+        "Aerodynamics (Cd):": "0.54"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5115 Lbs (2320 Kg)",
+        "Gross Weight Limit:": "6283 Lbs (2850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "295 G/Km"
+      }
+    }
+  }
+]

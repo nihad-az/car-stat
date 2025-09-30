@@ -1,0 +1,100 @@
+[
+  {
+    "id": 11559,
+    "automobile_id": 2744,
+    "name": "2.4 i-VTEC 5MT (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2354 Cm3",
+        "Power:": "119 Kw @ 5500 Rpm\r\n160 Hp @ 5500 Rpm\r\n160 Bhp @ 5500 Rpm",
+        "Torque:": "161 Lb-Ft @ 4500 Rpm\r\n218 Nm @ 4500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "61.1/61.2 In (1,552/1,554 Mm)",
+        "Wheelbase:": "107.9 In (2741 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "14 Cuft (396 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3049 Lbs (1383 Kg)",
+        "Gross Weight Limit:": "4079 Lbs (1850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "33 Mpg Us (7.1 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11560,
+    "automobile_id": 2744,
+    "name": "3.0 V6 5AT (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2997 Cm3",
+        "Power:": "179 Kw @ 6250 Rpm\r\n240 Hp @ 6250 Rpm\r\n240 Bhp @ 6250 Rpm",
+        "Torque:": "212 Lb-Ft @ 5000 Rpm\r\n287 Nm @ 5000 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "61.1/61.2 In (1,552/1,554 Mm)",
+        "Wheelbase:": "107.9 In (2741 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "14 Cuft (396 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3406 Lbs (1545 Kg)",
+        "Gross Weight Limit:": "4299 Lbs (1950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  }
+]

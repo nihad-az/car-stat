@@ -1,0 +1,319 @@
+[
+  {
+    "id": 20858,
+    "automobile_id": 5173,
+    "name": "1.6L PureTech 8AT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "132.4 Kw @ 6000 Rpm\r\n180 Hp @ 6000 Rpm\r\n178 Bhp @ 6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1750 Rpm\r\n250 Nm @ 1750 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "72.7 In (1847 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "123 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20859,
+    "automobile_id": 5173,
+    "name": "1.6L PureTech 8AT FWD (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "165.5 Kw @ 5500 Rpm\r\n225 Hp @ 5500 Rpm\r\n222 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 2500 Rpm\r\n300 Nm @ 2500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "82.6 In (2098 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "130 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20860,
+    "automobile_id": 5173,
+    "name": "1.6L THP 6MT FWD (270 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "198.6 Kw @ 6000 Rpm\r\n270 Hp @ 6000 Rpm\r\n266 Bhp @ 6000 Rpm",
+        "Torque:": "243 Lb-Ft @ 1900-5500 Rpm\r\n330 Nm @ 1900-5500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "82.6 In (2098 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "42 Mpg Us (5.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 20861,
+    "automobile_id": 5173,
+    "name": "1.5L BlueHDI 6MT FWD (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "95.6 Kw @ 3750 Rpm\r\n130 Hp @ 3750 Rpm\r\n128 Bhp @ 3750 Rpm",
+        "Torque:": "221 Lb-Ft @ 1750 Rpm\r\n300 Nm @ 1750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "82.6 In (2098 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3120 Lbs (1415 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Highway:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Combined:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Co2 Emissions:": "98 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20862,
+    "automobile_id": 5173,
+    "name": "1.5L BlueHDI 8AT FWD (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "95.6 Kw @ 3750 Rpm\r\n130 Hp @ 3750 Rpm\r\n128 Bhp @ 3750 Rpm",
+        "Torque:": "221 Lb-Ft @ 1750 Rpm\r\n300 Nm @ 1750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "82.6 In (2098 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3131 Lbs (1420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Combined:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Co2 Emissions:": "101 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20863,
+    "automobile_id": 5173,
+    "name": "2.0L BlueHDI EAT 8AT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "117.7 Kw @ 3750 Rpm\r\n160 Hp @ 3750 Rpm\r\n158 Bhp @ 3750 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "82.6 In (2098 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373 Lbs (1530 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Combined:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Co2 Emissions:": "118 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20864,
+    "automobile_id": 5173,
+    "name": "2.0L BlueHDI EAT 8AT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "132.4 Kw @ 3750 Rpm\r\n180 Hp @ 3750 Rpm\r\n178 Bhp @ 3750 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "82.6 In (2098 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3384 Lbs (1535 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "123 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20865,
+    "automobile_id": 5173,
+    "name": "1.6L 8AT FWD (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "165.5 Kw @ - Rpm\r\n225 Hp @ - Rpm\r\n222 Bhp @ - Rpm",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "187 In (4750 Mm)",
+        "Width:": "82.6 In (2098 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "63/62.9 In (1,600/1,598 Mm)",
+        "Wheelbase:": "110 In (2794 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      }
+    }
+  }
+]

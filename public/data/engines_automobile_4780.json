@@ -1,0 +1,88 @@
+[
+  {
+    "id": 18883,
+    "automobile_id": 4780,
+    "name": "5.0L V8 6AT AWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4981 Cm3",
+        "Power:": "231.2 Kw @ 3200 Rpm\r\n314 Hp @ 3200 Rpm\r\n310 Bhp @ 3200 Rpm",
+        "Torque:": "555 Lb-Ft @ 1600 Rpm\r\n752 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "25.9 Gallons (98.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60R20"
+      },
+      "Dimensions": {
+        "Length:": "243.6 In (6187 Mm)",
+        "Width:": "80.7 In (2050 Mm)",
+        "Height:": "78.3 In (1989 Mm)",
+        "Wheelbase:": "151.6 In (3851 Mm)",
+        "Ground Clearance:": "8.9 In (226 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "7258 Lbs (3292 Kg)",
+        "Gross Weight Limit:": "8990 Lbs (4078 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18884,
+    "automobile_id": 4780,
+    "name": "5.0L V8 6AT RWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4981 Cm3",
+        "Power:": "231.2 Kw @ 3200 Rpm\r\n314 Hp @ 3200 Rpm\r\n310 Bhp @ 3200 Rpm",
+        "Torque:": "555 Lb-Ft @ 1600 Rpm\r\n752 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "25.9 Gallons (98.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60R20"
+      },
+      "Dimensions": {
+        "Length:": "243.6 In (6187 Mm)",
+        "Width:": "80.7 In (2050 Mm)",
+        "Height:": "78.3 In (1989 Mm)",
+        "Wheelbase:": "151.6 In (3851 Mm)",
+        "Ground Clearance:": "8.9 In (226 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "7125 Lbs (3232 Kg)",
+        "Gross Weight Limit:": "8800 Lbs (3992 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  }
+]

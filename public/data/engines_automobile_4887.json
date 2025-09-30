@@ -1,0 +1,93 @@
+[
+  {
+    "id": 19242,
+    "automobile_id": 4887,
+    "name": "1.8L 16V 5MT (128 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1769 Cm3",
+        "Power:": "94.7 Kw @ 6000 Rpm\r\n129 Hp @ 6000 Rpm\r\n127 Bhp @ 6000 Rpm",
+        "Torque:": "129 Lb-Ft @ 2400 Rpm\r\n175 Nm @ 2400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/60Hr15"
+      },
+      "Dimensions": {
+        "Length:": "177.5 In (4509 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "58.1/57.3 In (1,476/1,455 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "11.6 Cuft (328 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2538 Lbs (1151 Kg)",
+        "Gross Weight Limit:": "3362.6 Lbs (1525 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 19243,
+    "automobile_id": 4887,
+    "name": "2.5L 16V 5MT (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "121 Kw @ 6000 Rpm\r\n165 Hp @ 6000 Rpm\r\n162 Bhp @ 6000 Rpm",
+        "Torque:": "170 Lb-Ft @ 4000 Rpm\r\n231 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55Hr16"
+      },
+      "Dimensions": {
+        "Length:": "177.5 In (4509 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "58.1/57.3 In (1,476/1,455 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "11.6 Cuft (328 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2712.2 Lbs (1230 Kg)",
+        "Gross Weight Limit:": "3356.7 Lbs (1523 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  }
+]

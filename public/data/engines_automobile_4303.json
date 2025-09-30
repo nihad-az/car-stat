@@ -1,0 +1,94 @@
+[
+  {
+    "id": 17660,
+    "automobile_id": 4303,
+    "name": "220 S",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2195 Cm3",
+        "Power:": "78 Kw @ 5200 Rpm\r\n106 Hp @ 5200 Rpm\r\n105 Bhp @ 5200 Rpm",
+        "Torque:": "127 Lb-Ft @ 3500 Rpm\r\n172 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "17 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70-13"
+      },
+      "Dimensions": {
+        "Length:": "185 In (4699 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Front/Rear Track:": "56.3/57.9 In (1,430/1,471 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3053 Lbs (1385 Kg)",
+        "Gross Weight Limit:": "3946 Lbs (1790 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "254 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17661,
+    "automobile_id": 4303,
+    "name": "220 SE",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2195 Cm3",
+        "Power:": "88 Kw @ 4800 Rpm\r\n120 Hp @ 4800 Rpm\r\n118 Bhp @ 4800 Rpm",
+        "Torque:": "140 Lb-Ft @ 3900 Rpm\r\n190 Nm @ 3900 Rpm",
+        "Fuel System:": "Mechanical Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70-13"
+      },
+      "Dimensions": {
+        "Length:": "185 In (4699 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Front/Rear Track:": "56.3/57.9 In (1,430/1,471 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3108 Lbs (1410 Kg)",
+        "Gross Weight Limit:": "3990 Lbs (1810 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "254 G/Km"
+      }
+    }
+  }
+]

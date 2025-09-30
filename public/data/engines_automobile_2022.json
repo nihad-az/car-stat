@@ -1,0 +1,432 @@
+[
+  {
+    "id": 8781,
+    "automobile_id": 2022,
+    "name": "1.3L 4MT RWD (65 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1297 Cm3",
+        "Power:": "47.8 Kw @ 5200 Rpm\r\n65 Hp @ 5200 Rpm\r\n64 Bhp @ 5200 Rpm",
+        "Torque:": "75 Lb-Ft @ 3000 Rpm\r\n102 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2238 Lbs (1015 Kg)",
+        "Gross Weight Limit:": "3120 Lbs (1415 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Highway:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8782,
+    "automobile_id": 2022,
+    "name": "1.4L 5MT RWD (70 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1367 Cm3",
+        "Power:": "51.5 Kw @ 5500 Rpm\r\n70 Hp @ 5500 Rpm\r\n69 Bhp @ 5500 Rpm",
+        "Torque:": "80 Lb-Ft @ 300 Rpm\r\n108 Nm @ 300 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2260 Lbs (1025 Kg)",
+        "Gross Weight Limit:": "3307 Lbs (1500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.5 Mpg Us (10 L/100Km)",
+        "Highway:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8783,
+    "automobile_id": 2022,
+    "name": "1.6L 3AT RWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "55 Kw @ 5200 Rpm\r\n75 Hp @ 5200 Rpm\r\n74 Bhp @ 5200 Rpm",
+        "Torque:": "92 Lb-Ft @ 3000 Rpm\r\n124 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2249 Lbs (1020 Kg)",
+        "Gross Weight Limit:": "3120 Lbs (1415 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.6 Mpg Us (12 L/100Km)",
+        "Highway:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8784,
+    "automobile_id": 2022,
+    "name": "1.6L 3AT RWD (85 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "62.5 Kw @ 5600 Rpm\r\n85 Hp @ 5600 Rpm\r\n84 Bhp @ 5600 Rpm",
+        "Torque:": "92 Lb-Ft @ 3000 Rpm\r\n125 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2304 Lbs (1045 Kg)",
+        "Gross Weight Limit:": "3307 Lbs (1500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.3 Mpg Us (10.1 L/100Km)",
+        "Highway:": "23.5 Mpg Us (10 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8785,
+    "automobile_id": 2022,
+    "name": "1.6L 4MT RWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "55 Kw @ 5200 Rpm\r\n75 Hp @ 5200 Rpm\r\n74 Bhp @ 5200 Rpm",
+        "Torque:": "92 Lb-Ft @ 3000 Rpm\r\n124 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99.4 Mph (160 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2238 Lbs (1015 Kg)",
+        "Gross Weight Limit:": "3120 Lbs (1415 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Highway:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8786,
+    "automobile_id": 2022,
+    "name": "1.6L 5MT RWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "55 Kw @ 5200 Rpm\r\n75 Hp @ 5200 Rpm\r\n74 Bhp @ 5200 Rpm",
+        "Torque:": "92 Lb-Ft @ 3000 Rpm\r\n124 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99.4 Mph (160 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2238 Lbs (1015 Kg)",
+        "Gross Weight Limit:": "3120 Lbs (1415 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8787,
+    "automobile_id": 2022,
+    "name": "1.6L 5MT RWD (85 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "62.5 Kw @ 5600 Rpm\r\n85 Hp @ 5600 Rpm\r\n84 Bhp @ 5600 Rpm",
+        "Torque:": "92 Lb-Ft @ 3000 Rpm\r\n125 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2260 Lbs (1025 Kg)",
+        "Gross Weight Limit:": "3307 Lbs (1500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8788,
+    "automobile_id": 2022,
+    "name": "2.0L 5MT RWD (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "44.1 Kw @ 4400 Rpm\r\n60 Hp @ 4400 Rpm\r\n59 Bhp @ 4400 Rpm",
+        "Torque:": "83 Lb-Ft @ 2400 Rpm\r\n113 Nm @ 2400 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "84 Mph (135 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "26 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2557 Lbs (1160 Kg)",
+        "Gross Weight Limit:": "3439 Lbs (1560 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8789,
+    "automobile_id": 2022,
+    "name": "2.5L 5MT RWD (72 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2445 Cm3",
+        "Power:": "53 Kw @ 4200 Rpm\r\n72 Hp @ 4200 Rpm\r\n71 Bhp @ 4200 Rpm",
+        "Torque:": "108 Lb-Ft @ 2400 Rpm\r\n147 Nm @ 2400 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93.2 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.9 In (4265 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "54.2/51.9 In (1,377/1,318 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2579.4 Lbs (1170 Kg)",
+        "Gross Weight Limit:": "3527.4 Lbs (1600 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

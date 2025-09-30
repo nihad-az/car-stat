@@ -1,0 +1,91 @@
+[
+  {
+    "id": 26459,
+    "automobile_id": 6560,
+    "name": "2.5L eCVT FWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2494 Cm3",
+        "Power:": "113 Kw @ - Rpm\r\n154 Hp @ - Rpm\r\n152 Bhp @ - Rpm",
+        "Torque:": "153 Lb-Ft @ - Rpm\r\n207 Nm @ - Rpm",
+        "Total Maximum Power:": "149.3 Kw (203 Hp)",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Electronically Controlled Continuously Variable Transmission (Ecvt)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55R17"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.6/62.2 In (1,590/1,580 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "14 Cuft (396 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "40 Mpg Us (5.9 L/100Km)",
+        "Highway:": "39 Mpg Us (6 L/100Km)",
+        "Combined:": "40 Mpg Us (5.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26460,
+    "automobile_id": 6560,
+    "name": "3.5L V6 6AT FWD (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "197 Kw @ 6200 Rpm\r\n268 Hp @ 6200 Rpm\r\n264 Bhp @ 6200 Rpm",
+        "Torque:": "248 Lb-Ft @ 4700 Rpm\r\n336 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6 Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55R17"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.6/62.2 In (1,590/1,580 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  }
+]

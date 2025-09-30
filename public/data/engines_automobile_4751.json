@@ -1,0 +1,86 @@
+[
+  {
+    "id": 18812,
+    "automobile_id": 4751,
+    "name": "5.6L V8 7AT (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "294.2 Kw @ 5800-6000 Rpm\r\n400 Hp @ 5800-6000 Rpm\r\n395 Bhp @ 5800-6000 Rpm",
+        "Torque:": "413 Lb-Ft @ 4000 Rpm\r\n560 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26 Gallons (98.4 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70R18 Bsw"
+      },
+      "Dimensions": {
+        "Length:": "208.9 In (5306 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.8 In (1925 Mm)",
+        "Front/Rear Track:": "67.5X67.9 In (1715 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18813,
+    "automobile_id": 4751,
+    "name": "5.6L V8 7AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "294.2 Kw @ 5800-6000 Rpm\r\n400 Hp @ 5800-6000 Rpm\r\n395 Bhp @ 5800-6000 Rpm",
+        "Torque:": "413 Lb-Ft @ 4000 Rpm\r\n560 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26 Gallons (98.4 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70R18 Bsw"
+      },
+      "Dimensions": {
+        "Length:": "208.9 In (5306 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.8 In (1925 Mm)",
+        "Front/Rear Track:": "67.5X67.9 In (1715 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  }
+]

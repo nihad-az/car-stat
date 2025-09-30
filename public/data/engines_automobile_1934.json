@@ -1,0 +1,104 @@
+[
+  {
+    "id": 8333,
+    "automobile_id": 1934,
+    "name": "1.4L Turbo T-JET 5AT (134 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1368 Cm3",
+        "Power:": "99 Kw @ 5500 Rpm\r\n135 Hp @ 5500 Rpm\r\n133 Bhp @ 5500 Rpm",
+        "Torque:": "152 Lb-Ft @ 2000 Rpm\r\n206 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "88.5 Gallons (335.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs 284 X 22 Mm",
+        "Rear:": "Discs 240 Mm X 11 Mm"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/45 R16"
+      },
+      "Dimensions": {
+        "Length:": "139.6 In (3546 Mm)",
+        "Width:": "64.1 In (1628 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "55.7/55.4 In (1,415/1,407 Mm)",
+        "Wheelbase:": "90.6 In (2301 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "6.4 Cuft (181 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2557 Lbs (1160 Kg)",
+        "Gross Weight Limit:": "3175 Lbs (1440 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8334,
+    "automobile_id": 1934,
+    "name": "1.4L Turbo T-JET 5MT (134 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1368 Cm3",
+        "Power:": "99 Kw @ 5500 Rpm\r\n135 Hp @ 5500 Rpm\r\n133 Bhp @ 5500 Rpm",
+        "Torque:": "152 Lb-Ft @ 2000 Rpm\r\n206 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs 284 X 22 Mm",
+        "Rear:": "Discs 240 Mm X 11 Mm"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/45 R16"
+      },
+      "Dimensions": {
+        "Length:": "139.6 In (3546 Mm)",
+        "Width:": "64.1 In (1628 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "55.7/55.4 In (1,415/1,407 Mm)",
+        "Wheelbase:": "90.6 In (2301 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "6.4 Cuft (181 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2535 Lbs (1150 Kg)",
+        "Gross Weight Limit:": "3153 Lbs (1430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "155 G/Km"
+      }
+    }
+  }
+]

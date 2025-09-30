@@ -1,0 +1,96 @@
+[
+  {
+    "id": 14415,
+    "automobile_id": 3546,
+    "name": "3.5L V8 5MT AWD (155 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3528 Cm3",
+        "Power:": "114 Kw @ 4750 Rpm\r\n155 Hp @ 4750 Rpm\r\n153 Bhp @ 4750 Rpm",
+        "Torque:": "192 Lb-Ft @ 3000 Rpm\r\n260 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "101.3 Mph (163 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205R16"
+      },
+      "Dimensions": {
+        "Length:": "178 In (4521 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "76 In (1930 Mm)",
+        "Front/Rear Track:": "58.7/58.7 In (1,491/1,491 Mm)",
+        "Wheelbase:": "100 In (2540 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "45.5 Cuft (1288 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4206.4 Lbs (1908 Kg)",
+        "Gross Weight Limit:": "5996.6 Lbs (2720 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15.1 Mpg Us (15.6 L/100Km)",
+        "Co2 Emissions:": "370 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14416,
+    "automobile_id": 3546,
+    "name": "2.5L 5MT AWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V4",
+        "Displacement:": "2495 Cm3",
+        "Power:": "83 Kw @ 4000 Rpm\r\n113 Hp @ 4000 Rpm\r\n111 Bhp @ 4000 Rpm",
+        "Torque:": "195 Lb-Ft @ 5 Rpm\r\n264 Nm @ 5 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "92 Mph (148 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "17.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205R16"
+      },
+      "Dimensions": {
+        "Length:": "178 In (4521 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "76 In (1930 Mm)",
+        "Front/Rear Track:": "58.7/58.7 In (1,491/1,491 Mm)",
+        "Wheelbase:": "100 In (2540 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "45.5 Cuft (1288 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4290.2 Lbs (1946 Kg)",
+        "Gross Weight Limit:": "5996.6 Lbs (2720 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Co2 Emissions:": "228 G/Km"
+      }
+    }
+  }
+]

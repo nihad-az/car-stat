@@ -1,0 +1,100 @@
+[
+  {
+    "id": 9571,
+    "automobile_id": 2242,
+    "name": "2.2L Duratorq 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "110 Kw @ 3700 Rpm\r\n150 Hp @ 3700 Rpm\r\n148 Bhp @ 3700 Rpm",
+        "Torque:": "277 Lb-Ft @ 1500-2500 Rpm\r\n376 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211 In (5359 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "71 In (1803 Mm)",
+        "Front/Rear Track:": "62.6/61.4 In (1,590/1,560 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9 In (229 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4290 Lbs (1946 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "206 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9572,
+    "automobile_id": 2242,
+    "name": "2.2L Duratorq 6MT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "110 Kw @ 3700 Rpm\r\n150 Hp @ 3700 Rpm\r\n148 Bhp @ 3700 Rpm",
+        "Torque:": "277 Lb-Ft @ 1500-2500 Rpm\r\n376 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211 In (5359 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "67.2 In (1707 Mm)",
+        "Front/Rear Track:": "62.6/61.4 In (1,590/1,560 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9 In (229 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4045 Lbs (1835 Kg)",
+        "Gross Weight Limit:": "6449 Lbs (2925 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  }
+]

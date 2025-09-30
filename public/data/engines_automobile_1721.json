@@ -1,0 +1,171 @@
+[
+  {
+    "id": 7741,
+    "automobile_id": 1721,
+    "name": "3.3L V6 4AT FWD (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3301 Cm3",
+        "Power:": "129 Kw @ 5000 Rpm\r\n175 Hp @ 5000 Rpm\r\n173 Bhp @ 5000 Rpm",
+        "Torque:": "205 Lb-Ft @ 4000 Rpm\r\n278 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "208.8 In (5304 Mm)",
+        "Width:": "87.7 In (2228 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "65.6/64.8 In (1,666/1,646 Mm)",
+        "Wheelbase:": "121.2 In (3078 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Aerodynamics (Cd):": "0.316"
+      }
+    }
+  },
+  {
+    "id": 7742,
+    "automobile_id": 1721,
+    "name": "3.6L V6 6AT FWD (287 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3605 Cm3",
+        "Power:": "211 Kw @ 6400 Rpm\r\n287 Hp @ 6400 Rpm\r\n283 Bhp @ 6400 Rpm",
+        "Torque:": "260 Lb-Ft @ 4400 Rpm\r\n353 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.1 Gallons (76.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "208.8 In (5304 Mm)",
+        "Width:": "87.7 In (2228 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "65.6/64.8 In (1,666/1,646 Mm)",
+        "Wheelbase:": "121.2 In (3078 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Aerodynamics (Cd):": "0.316"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4510 Lbs (2046 Kg)",
+        "Gross Weight Limit:": "6050 Lbs (2744 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7743,
+    "automobile_id": 1721,
+    "name": "3.8L V6 6AT FWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3301 Cm3",
+        "Power:": "145 Kw @ 5200 Rpm\r\n197 Hp @ 5200 Rpm\r\n194 Bhp @ 5200 Rpm",
+        "Torque:": "170 Lb-Ft @ 4000 Rpm\r\n230 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.1 Gallons (76.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "208.8 In (5304 Mm)",
+        "Width:": "87.7 In (2228 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "65.6/64.8 In (1,666/1,646 Mm)",
+        "Wheelbase:": "121.2 In (3078 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4464 Lbs (2025 Kg)",
+        "Gross Weight Limit:": "6118 Lbs (2775 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.5 Mpg Us (18.8 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "18.5 Mpg Us (12.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7744,
+    "automobile_id": 1721,
+    "name": "4.0L V6 6AT FWD (251 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3301 Cm3",
+        "Power:": "185 Kw @ 6000 Rpm\r\n252 Hp @ 6000 Rpm\r\n248 Bhp @ 6000 Rpm",
+        "Torque:": "259 Lb-Ft @ 4100 Rpm\r\n351 Nm @ 4100 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.1 Gallons (76.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111 Mph (179 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "208.8 In (5304 Mm)",
+        "Width:": "87.7 In (2228 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "65.6/64.8 In (1,666/1,646 Mm)",
+        "Wheelbase:": "121.2 In (3078 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Cargo Volume:": "83 Cuft (2350 L)",
+        "Aerodynamics (Cd):": "0.316"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4513 Lbs (2047 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  }
+]

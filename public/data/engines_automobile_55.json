@@ -1,0 +1,101 @@
+[
+  {
+    "id": 103,
+    "automobile_id": 55,
+    "name": "2.5L 4AT FWD (176 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2500 Cm3",
+        "Power:": "130 Kw @ 6300 Rpm\r\n177 Hp @ 6300 Rpm\r\n174 Bhp @ 6300 Rpm",
+        "Torque:": "170 Lb-Ft @ 3900 Rpm\r\n230 Nm @ 3900 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/60 Hr16"
+      },
+      "Dimensions": {
+        "Length:": "191.5 In (4864 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "70/59.4 In (1,778/1,509 Mm)",
+        "Wheelbase:": "111.8 In (2840 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3290 Lbs (1492 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "267 G/Km"
+      }
+    }
+  },
+  {
+    "id": 104,
+    "automobile_id": 55,
+    "name": "3.2L V6 4AT FWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3206 Cm3",
+        "Power:": "147 Kw @ 5500 Rpm\r\n200 Hp @ 5500 Rpm\r\n197 Bhp @ 5500 Rpm",
+        "Torque:": "210 Lb-Ft @ 4500 Rpm\r\n285 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138.6 Mph (223 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65Zr15"
+      },
+      "Dimensions": {
+        "Length:": "191.5 In (4864 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "61/60.6 In (1,549/1,539 Mm)",
+        "Wheelbase:": "111.8 In (2840 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3417 Lbs (1550 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "18.3 Mpg Us (12.9 L/100Km)",
+        "Co2 Emissions:": "306 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 18502,
+    "automobile_id": 4637,
+    "name": "1.5L 16v Turbo 5MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1468 Cm3",
+        "Power:": "110 Kw @ 6000 Rpm\r\n150 Hp @ 6000 Rpm\r\n148 Bhp @ 6000 Rpm",
+        "Torque:": "155 Lb-Ft @ 3500 Rpm\r\n210 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130.5 Mph (210 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/45R16"
+      },
+      "Dimensions": {
+        "Length:": "150.4 In (3820 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "57.5/56.7 In (1,461/1,440 Mm)",
+        "Wheelbase:": "98.4 In (2499 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "7.8 Cuft (221 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2303.8 Lbs (1045 Kg)",
+        "Gross Weight Limit:": "3351 Lbs (1520 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.3 Mpg Us (8.6 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18503,
+    "automobile_id": 4637,
+    "name": "1.5L 5AT FWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1468 Cm3",
+        "Power:": "81.3 Kw @ 6000 Rpm\r\n111 Hp @ 6000 Rpm\r\n109 Bhp @ 6000 Rpm",
+        "Torque:": "107 Lb-Ft @ 4000 Rpm\r\n145 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50 R15"
+      },
+      "Dimensions": {
+        "Length:": "150.4 In (3820 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "57.5/56.7 In (1,461/1,440 Mm)",
+        "Wheelbase:": "98.4 In (2499 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "7.8 Cuft (221 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2183 Lbs (990 Kg)",
+        "Gross Weight Limit:": "3230 Lbs (1465 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  }
+]

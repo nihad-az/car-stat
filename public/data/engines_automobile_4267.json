@@ -1,0 +1,501 @@
+[
+  {
+    "id": 17505,
+    "automobile_id": 4267,
+    "name": "200 GE (G-Kat) 4MT AWD (118 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "87 Kw @ 5200 Rpm\r\n118 Hp @ 5200 Rpm\r\n117 Bhp @ 5200 Rpm",
+        "Torque:": "127 Lb-Ft @ 3500 Rpm\r\n172 Nm @ 3500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "75.6 In (1920 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4409 Lbs (2000 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17506,
+    "automobile_id": 4267,
+    "name": "200 GE 4MT AWD (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "90 Kw @ 5100 Rpm\r\n122 Hp @ 5100 Rpm\r\n121 Bhp @ 5100 Rpm",
+        "Torque:": "131 Lb-Ft @ 3500 Rpm\r\n178 Nm @ 3500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "75.6 In (1920 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4409 Lbs (2000 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17507,
+    "automobile_id": 4267,
+    "name": "230 G 4MT AWD (109 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2299 Cm3",
+        "Power:": "80 Kw @ 5300 Rpm\r\n109 Hp @ 5300 Rpm\r\n107 Bhp @ 5300 Rpm",
+        "Torque:": "128 Lb-Ft @ 2000 Rpm\r\n174 Nm @ 2000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "85 Mph (137 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "76.8 In (1951 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4387 Lbs (1990 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17508,
+    "automobile_id": 4267,
+    "name": "230 GE (G-Kat) 4MT AWD (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2299 Cm3",
+        "Power:": "90 Kw @ 5100 Rpm\r\n122 Hp @ 5100 Rpm\r\n121 Bhp @ 5100 Rpm",
+        "Torque:": "139 Lb-Ft @ 4000 Rpm\r\n188 Nm @ 4000 Rpm",
+        "Fuel System:": "Mechanical Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "94 Mph (151 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "76.8 In (1951 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4409 Lbs (2000 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17509,
+    "automobile_id": 4267,
+    "name": "230 GE 4MT AWD (125 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2299 Cm3",
+        "Power:": "92 Kw @ 5000 Rpm\r\n125 Hp @ 5000 Rpm\r\n123 Bhp @ 5000 Rpm",
+        "Torque:": "142 Lb-Ft @ 4000 Rpm\r\n192 Nm @ 4000 Rpm",
+        "Fuel System:": "Mechanical Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "94 Mph (151 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "76.8 In (1951 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4409 Lbs (2000 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17510,
+    "automobile_id": 4267,
+    "name": "280 GE 4MT AWD (156 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2746 Cm3",
+        "Power:": "115 Kw @ 5250 Rpm\r\n156 Hp @ 5250 Rpm\r\n154 Bhp @ 5250 Rpm",
+        "Torque:": "167 Lb-Ft @ 4250 Rpm\r\n226 Nm @ 4250 Rpm",
+        "Fuel System:": "Mechanical Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98 Mph (158 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "75.6 In (1920 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4552 Lbs (2065 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17511,
+    "automobile_id": 4267,
+    "name": "240 GD 4AT AWD (72 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2399 Cm3",
+        "Power:": "53 Kw @ 4400 Rpm\r\n72 Hp @ 4400 Rpm\r\n71 Bhp @ 4400 Rpm",
+        "Torque:": "101 Lb-Ft @ 2400 Rpm\r\n137 Nm @ 2400 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "71 Mph (114 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "76.8 In (1951 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.6 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4453 Lbs (2020 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Co2 Emissions:": "315 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17512,
+    "automobile_id": 4267,
+    "name": "250 GD 5MT AWD (84 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2497 Cm3",
+        "Power:": "62 Kw @ 4600 Rpm\r\n84 Hp @ 4600 Rpm\r\n83 Bhp @ 4600 Rpm",
+        "Torque:": "114 Lb-Ft @ 2200-2800 Rpm\r\n154 Nm @ 2200-2800 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "78 Mph (126 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "75.6 In (1920 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4519 Lbs (2050 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17513,
+    "automobile_id": 4267,
+    "name": "290 GD 5MT AWD (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2874 Cm3",
+        "Power:": "70 Kw @ 4000 Rpm\r\n95 Hp @ 4000 Rpm\r\n94 Bhp @ 4000 Rpm",
+        "Torque:": "142 Lb-Ft @ 2300 Rpm\r\n192 Nm @ 2300 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "82 Mph (132 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "25 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "175.8 In (4465 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "76.6 In (1946 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4640 Lbs (2105 Kg)",
+        "Gross Weight Limit:": "6393 Lbs (2900 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17514,
+    "automobile_id": 4267,
+    "name": "290 GD Turbodiesel 4AT AWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2874 Cm3",
+        "Power:": "88 Kw @ 3800 Rpm\r\n120 Hp @ 3800 Rpm\r\n118 Bhp @ 3800 Rpm",
+        "Torque:": "207 Lb-Ft @ 1900-2300 Rpm\r\n280 Nm @ 1900-2300 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "85 Mph (137 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "17.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "175.8 In (4465 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "76.6 In (1946 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4640 Lbs (2105 Kg)",
+        "Gross Weight Limit:": "6393 Lbs (2900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.6 Mpg Us (12 L/100Km)",
+        "Highway:": "23.5 Mpg Us (10 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "254 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17515,
+    "automobile_id": 4267,
+    "name": "300 GD 4MT AWD (88 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2998 Cm3",
+        "Power:": "65 Kw @ 4400 Rpm\r\n88 Hp @ 4400 Rpm\r\n87 Bhp @ 4400 Rpm",
+        "Torque:": "127 Lb-Ft @ 2400 Rpm\r\n172 Nm @ 2400 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "81 Mph (130 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80 R16"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "76.8 In (1951 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.54",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4828 Lbs (2190 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      }
+    }
+  }
+]

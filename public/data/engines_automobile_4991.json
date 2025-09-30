@@ -1,0 +1,91 @@
+[
+  {
+    "id": 19560,
+    "automobile_id": 4991,
+    "name": "2.0L Turbo 8AT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "191.2 Kw @ 5300 Rpm\r\n260 Hp @ 5300 Rpm\r\n256 Bhp @ 5300 Rpm",
+        "Torque:": "295 Lb-Ft @ 2500-4000 Rpm\r\n400 Nm @ 2500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "152 Mph (245 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "196.3 In (4986 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)",
+        "Cargo Volume:": "19.8 Cuft (561 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3618 Lbs (1641 Kg)",
+        "Gross Weight Limit:": "5016 Lbs (2275 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19561,
+    "automobile_id": 4991,
+    "name": "2.0L CDTi 8AT AWD (209 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2000 Cm3",
+        "Power:": "153.7 Kw @ 4000 Rpm\r\n209 Hp @ 4000 Rpm\r\n206 Bhp @ 4000 Rpm",
+        "Torque:": "354 Lb-Ft @ 1500 Rpm\r\n480 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "196.3 In (4986 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)",
+        "Cargo Volume:": "19.8 Cuft (561 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3818 Lbs (1732 Kg)",
+        "Gross Weight Limit:": "5225 Lbs (2370 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "192 G/Km"
+      }
+    }
+  }
+]

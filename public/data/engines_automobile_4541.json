@@ -1,0 +1,34 @@
+[
+  {
+    "id": 18022,
+    "automobile_id": 4541,
+    "name": "Long Range 70 KWh",
+    "specs": {
+      "Engine Specs": {
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "70 Kwh",
+        "Range:": "273.4 Miles (440.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 18023,
+    "automobile_id": 4541,
+    "name": "Standard Range 50.3 KWh ",
+    "specs": {
+      "Engine Specs": {
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "50.3 Kwh",
+        "Range:": "198.8 Miles (319.9 Km)"
+      }
+    }
+  }
+]

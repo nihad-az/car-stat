@@ -1,0 +1,52 @@
+[
+  {
+    "id": 18104,
+    "automobile_id": 4564,
+    "name": "156 HP",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Power:": "114.7 Kw @ - Rpm\r\n156 Hp @ - Rpm\r\n154 Bhp @ - Rpm",
+        "Torque:": "170 Lb-Ft @ - Rpm\r\n230 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions (Combined):": "149 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18105,
+    "automobile_id": 4564,
+    "name": "204 HP",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "150 Kw @ - Rpm\r\n204 Hp @ - Rpm\r\n201 Bhp @ - Rpm",
+        "Torque:": "221 Lb-Ft @ - Rpm\r\n300 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions (Combined):": "153 G/Km"
+      }
+    }
+  }
+]

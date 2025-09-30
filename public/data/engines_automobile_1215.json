@@ -1,0 +1,100 @@
+[
+  {
+    "id": 5726,
+    "automobile_id": 1215,
+    "name": "6.0L V8 Vortec 6AT (365 HP) (4x2)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5998 Cm3",
+        "Power:": "268 Kw @ 5400 Rpm\r\n365 Hp @ 5400 Rpm\r\n359 Bhp @ 5400 Rpm",
+        "Torque:": "380 Lb-Ft @ 4200 Rpm\r\n515 Nm @ 4200 Rpm",
+        "Fuel System:": "Stratified Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic Heavy Duty"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "214.89 In (5458 Mm)",
+        "Width:": "95.98  In (2438 Mm)",
+        "Height:": "77.67 In (1973 Mm)",
+        "Wheelbase:": "133.6 In (3393 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6178 Lbs (2802 Kg)"
+      }
+    }
+  },
+  {
+    "id": 5727,
+    "automobile_id": 1215,
+    "name": "6.0L V8 Vortec 6AT (365 HP) 4x4",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5998 Cm3",
+        "Power:": "268 Kw @ 5400 Rpm\r\n365 Hp @ 5400 Rpm\r\n359 Bhp @ 5400 Rpm",
+        "Torque:": "380 Lb-Ft @ 4200 Rpm\r\n515 Nm @ 4200 Rpm",
+        "Fuel System:": "Stratified Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic Heavy Duty"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "214.9 In (5458 Mm)",
+        "Width:": "95.98  In (2438 Mm)",
+        "Height:": "77.24 In (1962 Mm)",
+        "Wheelbase:": "133.6 In (3393 Mm)",
+        "Ground Clearance:": "8.07 In (205 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6525 Lbs (2960 Kg)"
+      }
+    }
+  },
+  {
+    "id": 5728,
+    "automobile_id": 1215,
+    "name": "6.6L V8 Duramax 6AT (408 HP) (4x4)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6604 Cm3",
+        "Power:": "296 Kw @ 3000 Rpm\r\n403 Hp @ 3000 Rpm\r\n397 Bhp @ 3000 Rpm",
+        "Torque:": "765 Lb-Ft @ 1600 Rpm\r\n1037 Nm @ 1600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic Heavy Duty"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "214.9 In (5458 Mm)",
+        "Width:": "95.98  In (2438 Mm)",
+        "Height:": "77.24 In (1962 Mm)",
+        "Wheelbase:": "133.6 In (3393 Mm)",
+        "Ground Clearance:": "8.07 In (205 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "7285 Lbs (3304 Kg)"
+      }
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "id": 13307,
+    "automobile_id": 3213,
+    "name": "2.2L 8AT (202 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2151 Cm3",
+        "Power:": "148.6 Kw @ 3800 Rpm\r\n202 Hp @ 3800 Rpm\r\n199 Bhp @ 3800 Rpm",
+        "Torque:": "325 Lb-Ft @ 1750-2750 Rpm\r\n440 Nm @ 1750-2750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Wheelbase:": "110.8 In (2814 Mm)",
+        "Cargo Volume:": "6.6 Cuft (187 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3781 Lbs (1715 Kg)",
+        "Gross Weight Limit:": "5534 Lbs (2510 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13308,
+    "automobile_id": 3213,
+    "name": "1.6L T-GDI 6AT (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "169.2 Kw @ - Rpm\r\n230 Hp @ - Rpm\r\n227 Bhp @ - Rpm",
+        "Electrical Motor Power:": "44.2 Kw (60 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Wheelbase:": "110.8 In (2814 Mm)",
+        "Cargo Volume:": "6.3 Cuft (178 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.49 Kwh"
+      }
+    }
+  },
+  {
+    "id": 13309,
+    "automobile_id": 3213,
+    "name": "1.6T GDI PHEV 6AT 9261 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "130.2 Kw @ 5500 Rpm\r\n177 Hp @ 5500 Rpm\r\n175 Bhp @ 5500 Rpm",
+        "Torque:": "195 Lb-Ft @ 1500-4500 Rpm\r\n265 Nm @ 1500-4500 Rpm",
+        "Electrical Motor Power:": "10.6 Kw (14 Hp)",
+        "Electrical Motor Torque:": "31.86 Lb-Ft (43 Nm)",
+        "Total Maximum Power:": "192 Kw (261 Hp)",
+        "Total Maximum Torque:": "258 Lb-Ft (350 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Plug-In Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "189.4 In (4811 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Wheelbase:": "110.8 In (2814 Mm)",
+        "Cargo Volume:": "6.6 Cuft (187 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3781 Lbs (1715 Kg)",
+        "Gross Weight Limit:": "5534 Lbs (2510 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "66.9 Kwh"
+      }
+    }
+  }
+]

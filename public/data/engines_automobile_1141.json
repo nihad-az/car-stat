@@ -1,0 +1,70 @@
+[
+  {
+    "id": 5501,
+    "automobile_id": 1141,
+    "name": "1.5L 8AT AWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "130.5 Kw @ 5600 Rpm\r\n177 Hp @ 5600 Rpm\r\n175 Bhp @ 5600 Rpm",
+        "Torque:": "184 Lb-Ft @ 2000-4800 Rpm\r\n250 Nm @ 2000-4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Hydra-Matic 8T45"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65R17 All-Terrain"
+      },
+      "Dimensions": {
+        "Length:": "183.2 In (4653 Mm)",
+        "Width:": "74.9 In (1902 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "63.8/63.9 In (1,621/1,623 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "29.8 Cuft (844 L)",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3428 Lbs (1555 Kg)"
+      }
+    }
+  },
+  {
+    "id": 5502,
+    "automobile_id": 1141,
+    "name": "1.5L CVT FWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "130.5 Kw @ 5600 Rpm\r\n177.4 Hp @ 5600 Rpm\r\n175 Bhp @ 5600 Rpm",
+        "Torque:": "184 Lb-Ft @ 2000-4800 Rpm\r\n250 Nm @ 2000-4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.8 Gallons (56.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65R17 All-Terrain"
+      },
+      "Dimensions": {
+        "Length:": "183.2 In (4653 Mm)",
+        "Width:": "74.9 In (1902 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "63.8/63.9 In (1,621/1,623 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "29.8 Cuft (844 L)",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3428 Lbs (1555 Kg)"
+      }
+    }
+  }
+]

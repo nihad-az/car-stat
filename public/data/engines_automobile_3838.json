@@ -1,0 +1,686 @@
+[
+  {
+    "id": 15199,
+    "automobile_id": 3838,
+    "name": "2.5L 5MT 4x2 (166 HP) Double Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "122.1 Kw @ 5500 Rpm\r\n166 Hp @ 5500 Rpm\r\n164 Bhp @ 5500 Rpm",
+        "Torque:": "166 Lb-Ft @ 4500 Rpm\r\n225 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211.5 In (5372 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.5 In (1816 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4114 Lbs (1866 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15200,
+    "automobile_id": 3838,
+    "name": "2.5L 5MT 4x2 (166 HP) Freestyle Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "122.1 Kw @ 5500 Rpm\r\n166 Hp @ 5500 Rpm\r\n164 Bhp @ 5500 Rpm",
+        "Torque:": "166 Lb-Ft @ 4500 Rpm\r\n225 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211.5 In (5372 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71 In (1803 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3929 Lbs (1782 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15201,
+    "automobile_id": 3838,
+    "name": "2.5L 5MT 4x2 (166 HP) Single Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "122.1 Kw @ 5500 Rpm\r\n166 Hp @ 5500 Rpm\r\n164 Bhp @ 5500 Rpm",
+        "Torque:": "166 Lb-Ft @ 4500 Rpm\r\n225 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "207.8 In (5278 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3684 Lbs (1671 Kg)",
+        "Gross Weight Limit:": "6449 Lbs (2925 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15202,
+    "automobile_id": 3838,
+    "name": "2.5L 5MT 4x4 (166 HP) Single Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "122.1 Kw @ 5500 Rpm\r\n166 Hp @ 5500 Rpm\r\n164 Bhp @ 5500 Rpm",
+        "Torque:": "166 Lb-Ft @ 4500 Rpm\r\n225 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "207.8 In (5278 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3971 Lbs (1801 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15203,
+    "automobile_id": 3838,
+    "name": "2.2L 5MT 4x2 (120 HP) Freestyle Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "88.3 Kw @ 3700 Rpm\r\n120 Hp @ 3700 Rpm\r\n118 Bhp @ 3700 Rpm",
+        "Torque:": "210 Lb-Ft @ 1400-2900 Rpm\r\n285 Nm @ 1400-2900 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "207.8 In (5278 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71 In (1803 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4220 Lbs (1914 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15204,
+    "automobile_id": 3838,
+    "name": "2.2L 5MT 4x2 (120 HP) Single Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "88.3 Kw @ 3700 Rpm\r\n120 Hp @ 3700 Rpm\r\n118 Bhp @ 3700 Rpm",
+        "Torque:": "210 Lb-Ft @ 1400-2900 Rpm\r\n285 Nm @ 1400-2900 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "207.8 In (5278 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3931 Lbs (1783 Kg)",
+        "Gross Weight Limit:": "6449 Lbs (2925 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15205,
+    "automobile_id": 3838,
+    "name": "2.2L 6MT 4x2 (120 HP) Double Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "88.3 Kw @ 3700 Rpm\r\n120 Hp @ 3700 Rpm\r\n118 Bhp @ 3700 Rpm",
+        "Torque:": "210 Lb-Ft @ 1400-2900 Rpm\r\n285 Nm @ 1400-2900 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211.5 In (5372 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.5 In (1816 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4328 Lbs (1963 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15206,
+    "automobile_id": 3838,
+    "name": "2.2L 6MT 4x2 (120 HP) Freestyle Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "88.3 Kw @ 3700 Rpm\r\n120 Hp @ 3700 Rpm\r\n118 Bhp @ 3700 Rpm",
+        "Torque:": "210 Lb-Ft @ 1400-2900 Rpm\r\n285 Nm @ 1400-2900 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211.5 In (5372 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71 In (1803 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4286 Lbs (1944 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15207,
+    "automobile_id": 3838,
+    "name": "2.2L 6MT 4x2 (120 HP) Single Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "88.3 Kw @ 3700 Rpm\r\n120 Hp @ 3700 Rpm\r\n118 Bhp @ 3700 Rpm",
+        "Torque:": "210 Lb-Ft @ 1400-2900 Rpm\r\n285 Nm @ 1400-2900 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "207.8 In (5278 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4094 Lbs (1857 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15208,
+    "automobile_id": 3838,
+    "name": "3.2L 6AT 4x2 (200 HP) Double Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "211.1 In (5362 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.7 In (1821 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4647 Lbs (2108 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15209,
+    "automobile_id": 3838,
+    "name": "3.2L 6AT 4x2 (200 HP) Freestyle Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211.1 In (5362 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.3 In (1811 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4486 Lbs (2035 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15210,
+    "automobile_id": 3838,
+    "name": "3.2L 6AT 4x4 (200 HP) Double Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "211.1 In (5362 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.7 In (1821 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4669 Lbs (2118 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15211,
+    "automobile_id": 3838,
+    "name": "3.2L 6MT 4x2 (200 HP) Double Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "211.1 In (5362 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.7 In (1821 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4603 Lbs (2088 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15212,
+    "automobile_id": 3838,
+    "name": "3.2L 6MT 4x2 (200 HP) Freestyle Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211.1 In (5362 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.3 In (1811 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4420 Lbs (2005 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15213,
+    "automobile_id": 3838,
+    "name": "3.2L 6MT 4x2 (200 HP) Single Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "207.8 In (5278 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4169 Lbs (1891 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15214,
+    "automobile_id": 3838,
+    "name": "3.2L 6MT 4x4 (200 HP) Double Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "211.1 In (5362 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.7 In (1821 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4601 Lbs (2087 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15215,
+    "automobile_id": 3838,
+    "name": "3.2L 6MT 4x4 (200 HP) Freestyle Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "211.1 In (5362 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "71.3 In (1811 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4634 Lbs (2102 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15216,
+    "automobile_id": 3838,
+    "name": "3.2L 6MT 4x4 (200 HP) Single Cab",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3198 Cm3",
+        "Power:": "147.1 Kw @ 3000 Rpm\r\n200 Hp @ 3000 Rpm\r\n197 Bhp @ 3000 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16C"
+      },
+      "Dimensions": {
+        "Length:": "207.8 In (5278 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4374 Lbs (1984 Kg)",
+        "Gross Weight Limit:": "7055 Lbs (3200 Kg)"
+      }
+    }
+  }
+]

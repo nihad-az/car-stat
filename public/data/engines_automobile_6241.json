@@ -1,0 +1,89 @@
+[
+  {
+    "id": 25443,
+    "automobile_id": 6241,
+    "name": "4.2L V8 6MT (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4172 Cm3",
+        "Power:": "294.2 Kw @ 7500 Rpm\r\n400 Hp @ 7500 Rpm\r\n395 Bhp @ 7500 Rpm",
+        "Torque:": "354 Lb-Ft @ 4000 Rpm\r\n480 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "187 Mph (301 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40Z R18 // 225/35Z R18"
+      },
+      "Dimensions": {
+        "Length:": "164.8 In (4186 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "42.5 In (1080 Mm)",
+        "Front/Rear Track:": "55.1/62.2 In (1,400/1,580 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2756 Lbs (1250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25444,
+    "automobile_id": 6241,
+    "name": "4.2L V8 T 6MT (525 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4172 Cm3",
+        "Power:": "385 Kw @ 5700-6400 Rpm\r\n525 Hp @ 5700-6400 Rpm\r\n516 Bhp @ 5700-6400 Rpm",
+        "Torque:": "413 Lb-Ft @ 1950-5600 Rpm\r\n560 Nm @ 1950-5600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "200 Mph (322 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 R19 (Front) - 265/30 R19 (Rear)"
+      },
+      "Dimensions": {
+        "Length:": "164.8 In (4186 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "42.5 In (1080 Mm)",
+        "Front/Rear Track:": "55.1/62.2 In (1,400/1,580 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2849 Lbs (1292 Kg)"
+      }
+    }
+  }
+]

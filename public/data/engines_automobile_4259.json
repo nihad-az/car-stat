@@ -1,0 +1,414 @@
+[
+  {
+    "id": 17420,
+    "automobile_id": 4259,
+    "name": "500 GE 4AT AWD (241 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4973 Cm3",
+        "Power:": "177 Kw @ 5000 Rpm\r\n241 Hp @ 5000 Rpm\r\n237 Bhp @ 5000 Rpm",
+        "Torque:": "277 Lb-Ft @ 3500 Rpm\r\n375 Nm @ 3500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70 R16 112 H"
+      },
+      "Dimensions": {
+        "Length:": "183.9 In (4671 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "77.3 In (1963 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5225 Lbs (2370 Kg)",
+        "Gross Weight Limit:": "6724 Lbs (3050 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17421,
+    "automobile_id": 4259,
+    "name": "G 200 5MT AWD (118 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "87 Kw @ 5200 Rpm\r\n118 Hp @ 5200 Rpm\r\n117 Bhp @ 5200 Rpm",
+        "Torque:": "127 Lb-Ft @ 3500 Rpm\r\n172 Nm @ 3500 Rpm",
+        "Fuel System:": "Mechanical Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "91 Mph (146 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 R16 M+S"
+      },
+      "Dimensions": {
+        "Length:": "182.5 In (4636 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4839 Lbs (2195 Kg)",
+        "Gross Weight Limit:": "6503 Lbs (2950 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17422,
+    "automobile_id": 4259,
+    "name": "G 230 5MT AWD (126 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2298 Cm3",
+        "Power:": "93 Kw @ 5000 Rpm\r\n126 Hp @ 5000 Rpm\r\n125 Bhp @ 5000 Rpm",
+        "Torque:": "140 Lb-Ft @ 4000 Rpm\r\n190 Nm @ 4000 Rpm",
+        "Fuel System:": "Mechanical Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "91 Mph (146 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 R16 M+S"
+      },
+      "Dimensions": {
+        "Length:": "182.5 In (4636 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4839 Lbs (2195 Kg)",
+        "Gross Weight Limit:": "6503 Lbs (2950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15.3 Mpg Us (15.4 L/100Km)",
+        "Co2 Emissions:": "364 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17423,
+    "automobile_id": 4259,
+    "name": "G 300 5MT AWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2960 Cm3",
+        "Power:": "125 Kw @ 5500 Rpm\r\n170 Hp @ 5500 Rpm\r\n168 Bhp @ 5500 Rpm",
+        "Torque:": "173 Lb-Ft @ 4500 Rpm\r\n235 Nm @ 4500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "102 Mph (164 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 R16 M+S"
+      },
+      "Dimensions": {
+        "Length:": "182.5 In (4636 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4894 Lbs (2220 Kg)",
+        "Gross Weight Limit:": "6503 Lbs (2950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "13.8 Mpg Us (17 L/100Km)",
+        "Co2 Emissions:": "404 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17424,
+    "automobile_id": 4259,
+    "name": "G 320 4AT AWD (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3199 Cm3",
+        "Power:": "155 Kw @ 5500 Rpm\r\n210 Hp @ 5500 Rpm\r\n208 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 3750 Rpm\r\n300 Nm @ 3750 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/65 R16 109 H M+S"
+      },
+      "Dimensions": {
+        "Length:": "184.3 In (4681 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5114 Lbs (2320 Kg)",
+        "Gross Weight Limit:": "6724 Lbs (3050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.3 Mpg Us (19.1 L/100Km)",
+        "Highway:": "17.9 Mpg Us (13.1 L/100Km)",
+        "Combined:": "15.3 Mpg Us (15.4 L/100Km)",
+        "Co2 Emissions:": "366 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17425,
+    "automobile_id": 4259,
+    "name": "250 GD 5MT AWD (94 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2497 Cm3",
+        "Power:": "69 Kw @ 4600 Rpm\r\n94 Hp @ 4600 Rpm\r\n93 Bhp @ 4600 Rpm",
+        "Torque:": "117 Lb-Ft @ 2600-3100 Rpm\r\n158 Nm @ 2600-3100 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "81 Mph (130 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 R 16 M+S"
+      },
+      "Dimensions": {
+        "Length:": "182.5 In (4636 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4861 Lbs (2205 Kg)",
+        "Gross Weight Limit:": "6503 Lbs (2950 Kg)"
+      }
+    }
+  },
+  {
+    "id": 17426,
+    "automobile_id": 4259,
+    "name": "300 GD 5MT AWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "83 Kw @ 4600 Rpm\r\n113 Hp @ 4600 Rpm\r\n111 Bhp @ 4600 Rpm",
+        "Torque:": "141 Lb-Ft @ 2700-2900 Rpm\r\n191 Nm @ 2700-2900 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "88 Mph (142 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 R 16 M+S"
+      },
+      "Dimensions": {
+        "Length:": "182.5 In (4636 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4905 Lbs (2225 Kg)",
+        "Gross Weight Limit:": "6503 Lbs (2950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16.8 Mpg Us (14 L/100Km)",
+        "Co2 Emissions:": "371 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17427,
+    "automobile_id": 4259,
+    "name": "350 GD Turbo 4AT AWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3449 Cm3",
+        "Power:": "100 Kw @ 4600 Rpm\r\n136 Hp @ 4600 Rpm\r\n134 Bhp @ 4600 Rpm",
+        "Torque:": "225 Lb-Ft @ 1800 Rpm\r\n305 Nm @ 1800 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "91 Mph (146 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/65 R16 109 H M+S"
+      },
+      "Dimensions": {
+        "Length:": "184.3 In (4681 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4938 Lbs (2240 Kg)",
+        "Gross Weight Limit:": "6503 Lbs (2950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16.7 Mpg Us (14.1 L/100Km)",
+        "Co2 Emissions:": "374 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17428,
+    "automobile_id": 4259,
+    "name": "G 300 Turbodiesel 5AT AWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "130 Kw @ 4600 Rpm\r\n177 Hp @ 4600 Rpm\r\n174 Bhp @ 4600 Rpm",
+        "Torque:": "243 Lb-Ft @ 1600-3600 Rpm\r\n330 Nm @ 1600-3600 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "101 Mph (163 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/65 R16 109 H M+S"
+      },
+      "Dimensions": {
+        "Length:": "184.3 In (4681 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5181 Lbs (2350 Kg)",
+        "Gross Weight Limit:": "6803 Lbs (3086 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.1 Mpg Us (14.6 L/100Km)",
+        "Highway:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Combined:": "19.4 Mpg Us (12.1 L/100Km)",
+        "Co2 Emissions:": "321 G/Km"
+      }
+    }
+  }
+]

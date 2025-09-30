@@ -1,0 +1,93 @@
+[
+  {
+    "id": 22887,
+    "automobile_id": 5791,
+    "name": "1.2L 5MT (76 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1198 Cm3",
+        "Power:": "56 Kw @ 6000 Rpm\r\n76 Hp @ 6000 Rpm\r\n75 Bhp @ 6000 Rpm",
+        "Torque:": "77 Lb-Ft @ 4000 Rpm\r\n104 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/160 R15"
+      },
+      "Dimensions": {
+        "Length:": "149.8 In (3805 Mm)",
+        "Width:": "65.6 In (1666 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "8.9 Cuft (252 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2359 Lbs (1070 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34 Mpg Us (6.9 L/100Km)",
+        "Highway:": "43 Mpg Us (5.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22888,
+    "automobile_id": 5791,
+    "name": "1.5L 5MT (64 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1461 Cm3",
+        "Power:": "47.1 Kw @ 4000 Rpm\r\n64 Hp @ 4000 Rpm\r\n63 Bhp @ 4000 Rpm",
+        "Torque:": "118 Lb-Ft @ 2000 Rpm\r\n160 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/160 R15"
+      },
+      "Dimensions": {
+        "Length:": "149.8 In (3805 Mm)",
+        "Width:": "65.6 In (1666 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "8.9 Cuft (252 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2359 Lbs (1070 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "43 Mpg Us (5.5 L/100Km)",
+        "Highway:": "55 Mpg Us (4.3 L/100Km)"
+      }
+    }
+  }
+]

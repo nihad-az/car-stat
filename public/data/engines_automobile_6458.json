@@ -1,0 +1,42 @@
+[
+  {
+    "id": 26140,
+    "automobile_id": 6458,
+    "name": "2.5L CVT AWD (232 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "170.6 Kw (232 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 26141,
+    "automobile_id": 6458,
+    "name": "2.5L CVT FWD (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "165.5 Kw (225 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  }
+]

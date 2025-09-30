@@ -1,0 +1,95 @@
+[
+  {
+    "id": 22623,
+    "automobile_id": 5741,
+    "name": "R110 52 KWh FWD (108 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "80 Kw @ 3995 Rpm\r\n109 Hp @ 3995 Rpm\r\n107 Bhp @ 3995 Rpm",
+        "Torque:": "166 Lb-Ft @ 500-3395 Rpm\r\n225 Nm @ 500-3395 Rpm",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "84 Mph (135 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "E-Shifter"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45 R17 91V // 205/45 R17 88V"
+      },
+      "Dimensions": {
+        "Length:": "160.8 In (4084 Mm)",
+        "Width:": "68.1 In (1730 Mm)",
+        "Height:": "61.5 In (1562 Mm)",
+        "Front/Rear Track:": "59.3/58.6 In (1,506/1,488 Mm)",
+        "Wheelbase:": "101.9 In (2588 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "11.9 Cuft (337 L)",
+        "Aerodynamics (Cd):": "0.75",
+        "Turning Circle (Curb To Curb):": "34.6 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3311 Lbs (1502 Kg)",
+        "Gross Weight Limit:": "4383 Lbs (1988 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "52 Kwh",
+        "Range:": "245.4 Miles (394.9 Km)"
+      }
+    }
+  },
+  {
+    "id": 22624,
+    "automobile_id": 5741,
+    "name": "R135 100 KW Li-Ion FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "100 Kw @ 4200 Rpm\r\n136 Hp @ 4200 Rpm\r\n134 Bhp @ 4200 Rpm",
+        "Torque:": "181 Lb-Ft @ 1500-3600 Rpm\r\n245 Nm @ 1500-3600 Rpm",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "E-Shifter"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15 // 195/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "160.9 In (4087 Mm)",
+        "Width:": "70.4 In (1788 Mm)",
+        "Height:": "61.5 In (1562 Mm)",
+        "Front/Rear Track:": "59.3/58.6 In (1,506/1,488 Mm)",
+        "Wheelbase:": "101.9 In (2588 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.75"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3311 Lbs (1502 Kg)",
+        "Gross Weight Limit:": "4383 Lbs (1988 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "52 Kwh",
+        "Range:": "245.4 Miles (394.9 Km)"
+      }
+    }
+  }
+]

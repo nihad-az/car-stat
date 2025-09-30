@@ -1,0 +1,92 @@
+[
+  {
+    "id": 25577,
+    "automobile_id": 6287,
+    "name": "2.0L DOHC 6AT (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "200 Kw @ 5600 Rpm\r\n272 Hp @ 5600 Rpm\r\n268 Bhp @ 5600 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000-5200 Rpm\r\n350 Nm @ 2000-5200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "58.1 In (1476 Mm)",
+        "Front/Rear Track:": "60.2/60.6 In (1,529/1,539 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3267 Lbs (1482 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25578,
+    "automobile_id": 6287,
+    "name": "2.0L DOHC CVT (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "200 Kw @ 5600 Rpm\r\n272 Hp @ 5600 Rpm\r\n268 Bhp @ 5600 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000-5200 Rpm\r\n350 Nm @ 2000-5200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "180.9 In (4595 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "58.1 In (1476 Mm)",
+        "Front/Rear Track:": "60.2/60.6 In (1,529/1,539 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3433 Lbs (1557 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  }
+]

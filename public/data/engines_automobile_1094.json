@@ -1,0 +1,95 @@
+[
+  {
+    "id": 5384,
+    "automobile_id": 1094,
+    "name": "3.6L V6 AWD 6AT (322 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "237 Kw @ 6800 Rpm\r\n322 Hp @ 6800 Rpm\r\n318 Bhp @ 6800 Rpm",
+        "Torque:": "275 Lb-Ft @ 4900 Rpm\r\n373 Nm @ 4900 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "316 X 30 Ventilated Discs",
+        "Rear:": "315 X 23 Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/50R18 || P265/45R18"
+      },
+      "Dimensions": {
+        "Length:": "188.5 In (4788 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "56 In (1422 Mm)",
+        "Front/Rear Track:": "62/63 In (1,575/1,600 Mm)",
+        "Wheelbase:": "113.4 In (2880 Mm)",
+        "Cargo Volume:": "10.5 Cuft (297 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4096 Lbs (1858 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5385,
+    "automobile_id": 1094,
+    "name": "3.6L V6 RWD 6AT (322 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "237 Kw @ 6800 Rpm\r\n322 Hp @ 6800 Rpm\r\n318 Bhp @ 6800 Rpm",
+        "Torque:": "275 Lb-Ft @ 4900 Rpm\r\n373 Nm @ 4900 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "345 X 30 Ventilated Discs",
+        "Rear:": "339 X 23 Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/45Zr19 || P275/40Zr19"
+      },
+      "Dimensions": {
+        "Length:": "188.5 In (4788 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "56 In (1422 Mm)",
+        "Front/Rear Track:": "62/63 In (1,575/1,600 Mm)",
+        "Wheelbase:": "113.4 In (2880 Mm)",
+        "Cargo Volume:": "10.5 Cuft (297 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3898 Lbs (1768 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

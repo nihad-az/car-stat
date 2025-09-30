@@ -1,0 +1,88 @@
+[
+  {
+    "id": 9079,
+    "automobile_id": 2159,
+    "name": "1.2L Ti-VCT 5MT FWD (86 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1194 Cm3",
+        "Power:": "63.2 Kw @ 5500-6500 Rpm\r\n86 Hp @ 5500-6500 Rpm\r\n85 Bhp @ 5500-6500 Rpm",
+        "Torque:": "85 Lb-Ft @ 4250 Rpm\r\n115 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105 Mph (169 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "155.7 In (3955 Mm)",
+        "Width:": "68.6 In (1742 Mm)",
+        "Height:": "61.1 In (1552 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "9.5 Cuft (269 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "117 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9080,
+    "automobile_id": 2159,
+    "name": "1.5L TDCi 5MT FWD (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "69.9 Kw @ 3750 Rpm\r\n95 Hp @ 3750 Rpm\r\n94 Bhp @ 3750 Rpm",
+        "Torque:": "159 Lb-Ft @ 1750-2500 Rpm\r\n215 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111 Mph (179 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "155.7 In (3955 Mm)",
+        "Width:": "68.6 In (1742 Mm)",
+        "Height:": "61.1 In (1552 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Cargo Volume:": "9.5 Cuft (269 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Co2 Emissions:": "99 G/Km"
+      }
+    }
+  }
+]

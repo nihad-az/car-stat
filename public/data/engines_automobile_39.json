@@ -1,0 +1,79 @@
+[
+  {
+    "id": 72,
+    "automobile_id": 39,
+    "name": "2.0i 16V 5MT (157 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "115.5 Kw @ 6000 Rpm\r\n157 Hp @ 6000 Rpm\r\n155 Bhp @ 6000 Rpm",
+        "Torque:": "139 Lb-Ft @ 4500 Rpm\r\n188 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "178.9 In (4544 Mm)",
+        "Width:": "69 In (1753 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2895 Lbs (1313 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "36.8 Mpg Us (6.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "automobile_id": 39,
+    "name": "Type S 2.0L 6MT (157 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "115.5 Kw @ 6000 Rpm\r\n157 Hp @ 6000 Rpm\r\n155 Bhp @ 6000 Rpm",
+        "Torque:": "139 Lb-Ft @ 4500 Rpm\r\n188 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "178.9 In (4544 Mm)",
+        "Width:": "69 In (1753 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "59/60.2 In (1,499/1,529 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)"
+      }
+    }
+  }
+]

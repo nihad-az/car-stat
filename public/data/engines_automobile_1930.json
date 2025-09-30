@@ -1,0 +1,102 @@
+[
+  {
+    "id": 8307,
+    "automobile_id": 1930,
+    "name": "0.9L TwinAir Turbo 6MT AWD (85 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L2",
+        "Displacement:": "875 Cm3",
+        "Power:": "63 Kw @ 5500 Rpm\r\n86 Hp @ 5500 Rpm\r\n84 Bhp @ 5500 Rpm",
+        "Torque:": "107 Lb-Ft @ 1900 Rpm\r\n145 Nm @ 1900 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "143.8 In (3653 Mm)",
+        "Width:": "64.7 In (1643 Mm)",
+        "Height:": "61.1 In (1552 Mm)",
+        "Front/Rear Track:": "55.5/55.4 In (1,410/1,407 Mm)",
+        "Wheelbase:": "90.6 In (2301 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "7.9 Cuft (224 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2315 Lbs (1050 Kg)",
+        "Gross Weight Limit:": "3417 Lbs (1550 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "44 Mpg Us (5.3 L/100Km)",
+        "Highway:": "55 Mpg Us (4.3 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8308,
+    "automobile_id": 1930,
+    "name": "1.3L Multijet 16v 5MT AWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1248 Cm3",
+        "Power:": "55 Kw @ 4000 Rpm\r\n75 Hp @ 4000 Rpm\r\n74 Bhp @ 4000 Rpm",
+        "Torque:": "140 Lb-Ft @ 1500 Rpm\r\n190 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "143.8 In (3653 Mm)",
+        "Width:": "64.7 In (1643 Mm)",
+        "Height:": "61.1 In (1552 Mm)",
+        "Front/Rear Track:": "55.5/55.4 In (1,410/1,407 Mm)",
+        "Wheelbase:": "90.6 In (2301 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "7.9 Cuft (224 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2458 Lbs (1115 Kg)",
+        "Gross Weight Limit:": "3560 Lbs (1615 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "51 Mpg Us (4.6 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "125 G/Km"
+      }
+    }
+  }
+]

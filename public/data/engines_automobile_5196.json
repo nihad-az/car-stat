@@ -1,0 +1,104 @@
+[
+  {
+    "id": 20997,
+    "automobile_id": 5196,
+    "name": "1.6L THP 6MT FWD (205 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "151 Kw @ 6000 Rpm\r\n205 Hp @ 6000 Rpm\r\n202 Bhp @ 6000 Rpm",
+        "Torque:": "210 Lb-Ft @ 1750 Rpm\r\n285 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40R18W"
+      },
+      "Dimensions": {
+        "Length:": "167.4 In (4252 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "61.4/61.1 In (1,560/1,552 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2646 Lbs (1200 Kg)",
+        "Gross Weight Limit:": "3946 Lbs (1790 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "130 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20998,
+    "automobile_id": 5196,
+    "name": "2.0L BlueHDI 6AT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "133 Kw @ 3750 Rpm\r\n181 Hp @ 3750 Rpm\r\n178 Bhp @ 3750 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40R18W"
+      },
+      "Dimensions": {
+        "Length:": "167.4 In (4252 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "61.4/61.1 In (1,560/1,552 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2910 Lbs (1320 Kg)",
+        "Gross Weight Limit:": "4233 Lbs (1920 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "67.2 Mpg Us (3.5 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "103 G/Km"
+      }
+    }
+  }
+]

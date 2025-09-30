@@ -1,0 +1,78 @@
+[
+  {
+    "id": 15482,
+    "automobile_id": 3901,
+    "name": "2.3 Rotary (FB)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "R2",
+        "Displacement:": "2292 Cm3",
+        "Power:": "85 Kw @ 7000 Rpm\r\n115 Hp @ 7000 Rpm\r\n114 Bhp @ 7000 Rpm",
+        "Torque:": "112 Lb-Ft @ 5000 Rpm\r\n152 Nm @ 5000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "169 In (4293 Mm)",
+        "Width:": "65.9 In (1674 Mm)",
+        "Height:": "50 In (1270 Mm)",
+        "Front/Rear Track:": "55.9/55.1 In (1,420/1,400 Mm)",
+        "Wheelbase:": "95.3 In (2421 Mm)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2194 Lbs (995 Kg)"
+      }
+    }
+  },
+  {
+    "id": 15483,
+    "automobile_id": 3901,
+    "name": "2.3 Rotary (SA)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "R2",
+        "Displacement:": "2292 Cm3",
+        "Power:": "77 Kw @ 6000 Rpm\r\n105 Hp @ 6000 Rpm\r\n103 Bhp @ 6000 Rpm",
+        "Torque:": "106 Lb-Ft @ 4000 Rpm\r\n144 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "168.7 In (4285 Mm)",
+        "Width:": "65.9 In (1674 Mm)",
+        "Height:": "50 In (1270 Mm)",
+        "Front/Rear Track:": "55.9/55.1 In (1,420/1,400 Mm)",
+        "Wheelbase:": "95.3 In (2421 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2259 Lbs (1025 Kg)"
+      }
+    }
+  }
+]

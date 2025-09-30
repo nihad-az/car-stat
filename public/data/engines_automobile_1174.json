@@ -1,0 +1,89 @@
+[
+  {
+    "id": 5593,
+    "automobile_id": 1174,
+    "name": "1.4L 5MT FWD (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1399 Cm3",
+        "Power:": "72.1 Kw @ 6200 Rpm\r\n98 Hp @ 6200 Rpm\r\n97 Bhp @ 6200 Rpm",
+        "Torque:": "94 Lb-Ft @ 4400 Rpm\r\n127 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9 Gallons (34.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/55R15 Als"
+      },
+      "Dimensions": {
+        "Length:": "143.1 In (3635 Mm)",
+        "Width:": "62.8 In (1595 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "54.5/54.5 In (1,384/1,384 Mm)",
+        "Wheelbase:": "93.9 In (2385 Mm)",
+        "Cargo Volume:": "11.1 Cuft (314 L)",
+        "Turning Circle (Curb To Curb):": "31.2 Ft (9.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2247 - 2266 Lbs (1019 - 1028 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5594,
+    "automobile_id": 1174,
+    "name": "1.4L CVT FWD (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1399 Cm3",
+        "Power:": "72.1 Kw @ 6200 Rpm\r\n98 Hp @ 6200 Rpm\r\n97 Bhp @ 6200 Rpm",
+        "Torque:": "94 Lb-Ft @ 4400 Rpm\r\n127 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9 Gallons (34.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/55R15 Als"
+      },
+      "Dimensions": {
+        "Length:": "143.1 In (3635 Mm)",
+        "Width:": "62.8 In (1595 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "54.5/54.5 In (1,384/1,384 Mm)",
+        "Wheelbase:": "93.9 In (2385 Mm)",
+        "Cargo Volume:": "11.1 Cuft (314 L)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "2277 Lbs (1033 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30 Mpg Us (7.8 L/100Km)",
+        "Highway:": "38 Mpg Us (6.2 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  }
+]

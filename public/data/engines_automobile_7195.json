@@ -1,0 +1,185 @@
+[
+  {
+    "id": 30051,
+    "automobile_id": 7195,
+    "name": "High Performance 80 kWh 4WD (430 Hp)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "119.9 Kw (163 Hp)",
+        "Total Maximum Power:": "316.3 Kw (430 Hp)",
+        "Total Maximum Torque:": "483.1 Lb-Ft (655 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "106 Mph (171 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "192.1 In (4879 Mm)",
+        "Width:": "74.6 In (1895 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "63.6/63.8 In (1,615/1,621 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.236"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4542 Lbs (2060 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "80 Kwh",
+        "Range:": "349.2 Miles (562.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 30052,
+    "automobile_id": 7195,
+    "name": "Long Range 70.8 kWh RWD (267 Hp)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "196.4 Kw (267 Hp)",
+        "Electrical Motor Torque:": "287.6 Lb-Ft (390 Nm)",
+        "Total Maximum Power:": "196.4 Kw (267 Hp)",
+        "Total Maximum Torque:": "287.6 Lb-Ft (390 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "106 Mph (171 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "192.1 In (4879 Mm)",
+        "Width:": "74.6 In (1895 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "63.6/63.8 In (1,615/1,621 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.236"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4112 - 4167 Lbs (1865 - 1890 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "70.8 Kwh",
+        "Range:": "364.1 Miles (586.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 30053,
+    "automobile_id": 7195,
+    "name": "Standard Range 60.2 KWh RWD (267 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "196.4 Kw (267 Hp)",
+        "Electrical Motor Torque:": "287.6 Lb-Ft (390 Nm)",
+        "Total Maximum Power:": "196.4 Kw (267 Hp)",
+        "Total Maximum Torque:": "287.6 Lb-Ft (390 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "106 Mph (171 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "192.1 In (4879 Mm)",
+        "Width:": "74.6 In (1895 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "63.6/63.8 In (1,615/1,621 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.236"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4233 Lbs (1920 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium Iron Phosphate",
+        "Maximum Capacity:": "60.2 Kwh",
+        "Range:": "298.3 Miles (480.1 Km)"
+      }
+    }
+  },
+  {
+    "id": 30054,
+    "automobile_id": 7195,
+    "name": "Super Long Range 80 KWh RWD (267 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "196.4 Kw (267 Hp)",
+        "Electrical Motor Torque:": "287.6 Lb-Ft (390 Nm)",
+        "Total Maximum Power:": "196.4 Kw (267 Hp)",
+        "Total Maximum Torque:": "287.6 Lb-Ft (390 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "106 Mph (171 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "192.1 In (4879 Mm)",
+        "Width:": "74.6 In (1895 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "63.6/63.8 In (1,615/1,621 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.236"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4211 - 4266 Lbs (1910 - 1935 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "80 Kwh",
+        "Range:": "416.3 Miles (670.0 Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 10875,
+    "automobile_id": 2549,
+    "name": "2.0 D",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "40 Kw @ 4500 Rpm\r\n54 Hp @ 4500 Rpm\r\n54 Bhp @ 4500 Rpm",
+        "Torque:": "80 Lb-Ft @ 2500 Rpm\r\n108 Nm @ 2500 Rpm",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "7.00 X 15 X 10 Pr"
+      },
+      "Dimensions": {
+        "Length:": "182.1 In (4625 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "97.6 In (2479 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4608.4 Lbs (2090 Kg)",
+        "Gross Weight Limit:": "7497 Lbs (3401 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10876,
+    "automobile_id": 2549,
+    "name": "1.8 CNG",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1817 Cm3",
+        "Power:": "53 Kw @ 5000 Rpm\r\n73 Hp @ 5000 Rpm\r\n71 Bhp @ 5000 Rpm",
+        "Torque:": "100 Lb-Ft @ 3000 Rpm\r\n135 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "7.00 X 15 X 10 Pr"
+      },
+      "Dimensions": {
+        "Length:": "182.1 In (4625 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "97.6 In (2479 Mm)",
+        "Front/Rear Track:": "56.1/56.1 In (1,425/1,425 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4608.4 Lbs (2090 Kg)",
+        "Gross Weight Limit:": "7497 Lbs (3401 Kg)"
+      }
+    }
+  }
+]

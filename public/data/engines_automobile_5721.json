@@ -1,0 +1,108 @@
+[
+  {
+    "id": 22554,
+    "automobile_id": 5721,
+    "name": "1.0L SCe 65 5MT (65 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Power:": "47.8 Kw @ - Rpm\r\n65 Hp @ - Rpm\r\n64 Bhp @ - Rpm",
+        "Torque:": "48 Lb-Ft @ - Rpm\r\n65 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 22555,
+    "automobile_id": 5721,
+    "name": "TCe 100",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Torque:": "125 Lb-Ft @ 200 Rpm\r\n170 Nm @ 200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 22556,
+    "automobile_id": 5721,
+    "name": "TCe 90 6MT (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Power:": "66.2 Kw @ - Rpm\r\n90 Hp @ - Rpm\r\n89 Bhp @ - Rpm",
+        "Torque:": "118 Lb-Ft @ - Rpm\r\n160 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 22557,
+    "automobile_id": 5721,
+    "name": "Blue dCi 100 6MT (100 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "73.5 Kw @ - Rpm\r\n100 Hp @ - Rpm\r\n99 Bhp @ - Rpm",
+        "Torque:": "192 Lb-Ft @ - Rpm\r\n260 Nm @ - Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 22558,
+    "automobile_id": 5721,
+    "name": "1.6L E-Tech (145 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "69.1 Kw @ - Rpm\r\n94 Hp @ - Rpm\r\n93 Bhp @ - Rpm",
+        "Total Maximum Power:": "106.6 Kw (145 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.2 Kwh"
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 2719,
+    "automobile_id": 627,
+    "name": "6.0i W12 6AT AWD (610 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "W12",
+        "Displacement:": "5998 Cm3",
+        "Power:": "448.7 Kw @ 6000 Rpm\r\n610 Hp @ 6000 Rpm\r\n602 Bhp @ 6000 Rpm",
+        "Torque:": "553 Lb-Ft @ 1750 Rpm\r\n750 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "200 Mph (322 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/40 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "208.9 In (5306 Mm)",
+        "Width:": "75.5 In (1918 Mm)",
+        "Height:": "58.2 In (1478 Mm)",
+        "Front/Rear Track:": "63.9/63.3 In (1,623/1,608 Mm)",
+        "Wheelbase:": "120.7 In (3066 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "16.8 Cuft (476 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5456 Lbs (2475 Kg)",
+        "Gross Weight Limit:": "6570 Lbs (2980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "8.9 Mpg Us (26.4 L/100Km)",
+        "Highway:": "18.5 Mpg Us (12.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 2720,
+    "automobile_id": 627,
+    "name": "6.0L W12 6AT (560 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "W12",
+        "Displacement:": "5998 Cm3",
+        "Power:": "411 Kw @ 6100 Rpm\r\n560 Hp @ 6100 Rpm\r\n551 Bhp @ 6100 Rpm",
+        "Torque:": "479 Lb-Ft @ 1600 Rpm\r\n649 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "194 Mph (312 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/40 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "208.9 In (5306 Mm)",
+        "Width:": "75.5 In (1918 Mm)",
+        "Height:": "58.2 In (1478 Mm)",
+        "Front/Rear Track:": "63.9/63.3 In (1,623/1,608 Mm)",
+        "Wheelbase:": "120.7 In (3066 Mm)",
+        "Ground Clearance:": "5.6 In (142 Mm)",
+        "Cargo Volume:": "16.8 Cuft (476 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5456 Lbs (2475 Kg)",
+        "Gross Weight Limit:": "6482 Lbs (2940 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "9 Mpg Us (26.1 L/100Km)",
+        "Highway:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Combined:": "13.8 Mpg Us (17 L/100Km)",
+        "Co2 Emissions:": "410 G/Km / Lev2"
+      }
+    }
+  }
+]

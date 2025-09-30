@@ -1,0 +1,171 @@
+[
+  {
+    "id": 13283,
+    "automobile_id": 3206,
+    "name": "1.6L T-GDI 8AT AWD (198 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "145.4 Kw @ 6000 Rpm\r\n198 Hp @ 6000 Rpm\r\n195 Bhp @ 6000 Rpm",
+        "Torque:": "195 Lb-Ft @ 6000 Rpm\r\n264 Nm @ 6000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.6 In (4384 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "61.6X62.0 In (1565 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "26.6 Cuft (753 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3247 Lbs (1473 Kg)",
+        "Gross Weight Limit:": "3362 Lbs (1525 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13284,
+    "automobile_id": 3206,
+    "name": "1.6L T-GDI 8AT FWD (198 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "145.4 Kw @ 6000 Rpm\r\n198 Hp @ 6000 Rpm\r\n195 Bhp @ 6000 Rpm",
+        "Torque:": "195 Lb-Ft @ 6000 Rpm\r\n264 Nm @ 6000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.6 In (4384 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "61.6X62.0 In (1565 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "26.6 Cuft (753 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2936 Lbs (1332 Kg)",
+        "Gross Weight Limit:": "2970 Lbs (1347 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13285,
+    "automobile_id": 3206,
+    "name": "2.0L CVT AWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "108.9 Kw @ 6200 Rpm\r\n148 Hp @ 6200 Rpm\r\n146 Bhp @ 6200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.6 In (4384 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "61.6X62.0 In (1565 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "26.6 Cuft (753 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3108 Lbs (1410 Kg)",
+        "Gross Weight Limit:": "3186 Lbs (1445 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13286,
+    "automobile_id": 3206,
+    "name": "2.0L CVT FWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "108.9 Kw @ 6200 Rpm\r\n148 Hp @ 6200 Rpm\r\n146 Bhp @ 6200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.6 In (4384 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "26.6 Cuft (753 L)"
+      }
+    }
+  }
+]

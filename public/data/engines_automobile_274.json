@@ -1,0 +1,42 @@
+[
+  {
+    "id": 666,
+    "automobile_id": 274,
+    "name": "35 TDI 1.5L MHEV 7AT S-tronic FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "110.3 Kw @ - Rpm\r\n150 Hp @ - Rpm\r\n148 Bhp @ - Rpm",
+        "Fuel:": "Mild Hybrid Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7- Automatic Speed S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 667,
+    "automobile_id": 274,
+    "name": "35 TFSI 1.5L MHEV 7AT S-tronic FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "110.3 Kw @ - Rpm\r\n150 Hp @ - Rpm\r\n148 Bhp @ - Rpm",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7- Automatic Speed S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": 8994,
+    "automobile_id": 2134,
+    "name": "2.0L EcoBlue 6MT AWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "125 Kw @ - Rpm\r\n170 Hp @ - Rpm\r\n168 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "212.2 In (5390 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "72.8 In (1849 Mm)",
+        "Front/Rear Track:": "61.4/61.4 In (1,560/1,560 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "91.8 In (2332 Mm)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions (Combined):": "215 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8995,
+    "automobile_id": 2134,
+    "name": "3.0L V6 10AT AWD (237 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "176.5 Kw @ - Rpm\r\n240 Hp @ - Rpm\r\n237 Bhp @ - Rpm",
+        "Torque:": "443 Lb-Ft @ - Rpm\r\n600 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Dimensions": {
+        "Length:": "212.2 In (5390 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "72.8 In (1849 Mm)",
+        "Front/Rear Track:": "61.4/61.4 In (1,560/1,560 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "91.8 In (2332 Mm)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "23.5 Mpg Us (10 L/100Km)",
+        "Co2 Emissions (Combined):": "262 G/Km"
+      }
+    }
+  }
+]

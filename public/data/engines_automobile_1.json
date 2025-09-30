@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "automobile_id": 1,
+    "name": "3.5L V8 32V Turbo 6MT (354 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3506 Cm3",
+        "Power:": "257.4 Kw @ 6500 Rpm\r\n350 Hp @ 6500 Rpm\r\n345 Bhp @ 6500 Rpm",
+        "Torque:": "300 Lb-Ft @ 4000 Rpm\r\n407 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R18"
+      },
+      "Dimensions": {
+        "Length:": "183.5 In (4661 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "62.6/61.8 In (1,590/1,570 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Frontal Area):": "2.1 M2",
+        "Aerodynamics (Cd):": "0.35",
+        "Turning Circle (Wall To Wall):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.8 Mpg Us (19.9 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "automobile_id": 1,
+    "name": "4.6L V8 5MT (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3506 Cm3",
+        "Power:": "257.4 Kw @ 6500 Rpm\r\n350 Hp @ 6500 Rpm\r\n345 Bhp @ 6500 Rpm",
+        "Torque:": "300 Lb-Ft @ 4000 Rpm\r\n407 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R18"
+      },
+      "Dimensions": {
+        "Length:": "183.5 In (4661 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "62.6/61.8 In (1,590/1,570 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Frontal Area):": "2.1 M2",
+        "Aerodynamics (Cd):": "0.35",
+        "Turning Circle (Wall To Wall):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.8 Mpg Us (19.9 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,921 @@
+[
+  {
+    "id": 16607,
+    "automobile_id": 4115,
+    "name": "250 4MATIC 7AT AWD (211 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "155 Kw @ 5500 Rpm\r\n211 Hp @ 5500 Rpm\r\n208 Bhp @ 5500 Rpm",
+        "Torque:": "258 Lb-Ft @ 1200-4000 Rpm\r\n350 Nm @ 1200-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Automatic, 7 Speed (7G-Tronic Plus))"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16608,
+    "automobile_id": 4115,
+    "name": "280 4MATIC 7AT AWD (231 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2296 Cm3",
+        "Power:": "170 Kw @ 6000 Rpm\r\n231 Hp @ 6000 Rpm\r\n228 Bhp @ 6000 Rpm",
+        "Torque:": "221 Lb-Ft @ 2500-5000 Rpm\r\n300 Nm @ 2500-5000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130.6 Mph (210 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Automatic, 7 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4034.5 Lbs (1830 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Co2 Emissions:": "244 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16609,
+    "automobile_id": 4115,
+    "name": "300 4MATIC 7AT AWD (231 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "170 Kw @ 6000 Rpm\r\n231 Hp @ 6000 Rpm\r\n228 Bhp @ 6000 Rpm",
+        "Torque:": "221 Lb-Ft @ 2500-5000 Rpm\r\n300 Nm @ 2500-5000 Rpm",
+        "Fuel System:": "Direct Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.35",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3042 Lbs (1380 Kg)",
+        "Gross Weight Limit:": "5467 Lbs (2480 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)",
+        "Co2 Emissions:": "242 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16610,
+    "automobile_id": 4115,
+    "name": "350 4MATIC 7AT AWD (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "200 Kw @ 6000 Rpm\r\n272 Hp @ 6000 Rpm\r\n268 Bhp @ 6000 Rpm",
+        "Torque:": "258 Lb-Ft @ 2400-5000 Rpm\r\n350 Nm @ 2400-5000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Automatic, 7 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4034.5 Lbs (1830 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "250 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16611,
+    "automobile_id": 4115,
+    "name": "350 4MATIC 7AT AWD (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "225 Kw @ 6500 Rpm\r\n306 Hp @ 6500 Rpm\r\n302 Bhp @ 6500 Rpm",
+        "Torque:": "273 Lb-Ft @ 3500–5250 Rpm\r\n370 Nm @ 3500–5250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "148 Mph (238 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic S Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.36",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4068 Lbs (1845 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16612,
+    "automobile_id": 4115,
+    "name": "200 CDI BlueEFFICIENCY 6MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "105 Kw @ 3200 Rpm\r\n143 Hp @ 3200 Rpm\r\n141 Bhp @ 3200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1200–2800) Rpm\r\n350 Nm @ 1200–2800) Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4023 Lbs (1825 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "143-147 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16613,
+    "automobile_id": 4115,
+    "name": "200 CDI BlueEFFICIENCY 7AT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "105 Kw @ 3200 Rpm\r\n143 Hp @ 3200 Rpm\r\n141 Bhp @ 3200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1200–2800) Rpm\r\n350 Nm @ 1200–2800) Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic 7G-Tronic Plus"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4061 Lbs (1842 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "145-156 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16614,
+    "automobile_id": 4115,
+    "name": "220 BlueTEC 4MATIC 7AT AWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "125 Kw @ 200 Rpm\r\n170 Hp @ 200 Rpm\r\n168 Bhp @ 200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1400–2800 Rpm\r\n400 Nm @ 1400–2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (7G-Tronic Plus)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated And Perforated Discs",
+        "Rear:": "Ventilated And Perforated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4244 Lbs (1925 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32 Mpg Us (7.4 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "37 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "155 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16615,
+    "automobile_id": 4115,
+    "name": "220 CDI 4MATIC 7AT AWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "125 Kw @ 3200 Rpm\r\n170 Hp @ 3200 Rpm\r\n168 Bhp @ 3200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1400-2800 Rpm\r\n400 Nm @ 1400-2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (7G-Tronic Plus)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4244 Lbs (1925 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32 Mpg Us (7.4 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "37 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "165 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16616,
+    "automobile_id": 4115,
+    "name": "220 CDI BlueEFFICIENCY 4MATIC 7AT AWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "125 Kw @ 3200 Rpm\r\n170 Hp @ 3200 Rpm\r\n168 Bhp @ 3200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1400–2800 Rpm\r\n400 Nm @ 1400–2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7 Speed Automatic (7G-Tronic Plus)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4145 Lbs (1880 Kg)",
+        "Gross Weight Limit:": "5412 Lbs (2455 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32 Mpg Us (7.4 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "37 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "155 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16617,
+    "automobile_id": 4115,
+    "name": "220 CDI BlueEFFICIENCY 6MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "105 Kw @ 3200 Rpm\r\n143 Hp @ 3200 Rpm\r\n141 Bhp @ 3200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1200–2800 Rpm\r\n350 Nm @ 1200–2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R 17"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4023 Lbs (1825 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36 Mpg Us (6.5 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "145 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16618,
+    "automobile_id": 4115,
+    "name": "220 CDI BlueEFFICIENCY 6MT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "125 Kw @ 3200 Rpm\r\n170 Hp @ 3200 Rpm\r\n168 Bhp @ 3200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1400–2800 Rpm\r\n400 Nm @ 1400–2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4023 Lbs (1825 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36 Mpg Us (6.5 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "145 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16619,
+    "automobile_id": 4115,
+    "name": "220 CDI BlueEFFICIENCY 7AT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "105 Kw @ 3200 Rpm\r\n143 Hp @ 3200 Rpm\r\n141 Bhp @ 3200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1200–2800 Rpm\r\n350 Nm @ 1200–2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7 Speed Automatic (7G-Tronic Plus)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R 17"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4068 Lbs (1845 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35 Mpg Us (6.7 L/100Km)",
+        "Highway:": "43 Mpg Us (5.5 L/100Km)",
+        "Combined:": "39 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16620,
+    "automobile_id": 4115,
+    "name": "220 CDI BlueEFFICIENCY 7AT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "125 Kw @ 3200 Rpm\r\n170 Hp @ 3200 Rpm\r\n168 Bhp @ 3200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1400–2800 Rpm\r\n400 Nm @ 1400–2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (7G-Tronic Plus)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4068 Lbs (1845 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35 Mpg Us (6.7 L/100Km)",
+        "Highway:": "44 Mpg Us (5.3 L/100Km)",
+        "Combined:": "41 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16621,
+    "automobile_id": 4115,
+    "name": "250 BlueTEC 4MATIC 7AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "150 Kw @ 4200 Rpm\r\n204 Hp @ 4200 Rpm\r\n201 Bhp @ 4200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1400–2800 Rpm\r\n400 Nm @ 1400–2800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7 Speed Automatic (7G-Tronic Plus)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated And Perforated Discs",
+        "Rear:": "Ventilated And Perforated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4244 Lbs (1925 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32 Mpg Us (7.4 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "37 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "155 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16622,
+    "automobile_id": 4115,
+    "name": "250 CDI BlueEFFICIENCY 4MATIC 7AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "150 Kw @ 4200 Rpm\r\n204 Hp @ 4200 Rpm\r\n201 Bhp @ 4200 Rpm",
+        "Torque:": "369 Lb-Ft @ 1600–1800 Rpm\r\n500 Nm @ 1600–1800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7 Speed Automatic (7G-Tronic Plus)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4244 Lbs (1925 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32 Mpg Us (7.4 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)",
+        "Combined:": "37 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "164 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16623,
+    "automobile_id": 4115,
+    "name": "320 CDI 4MATIC 7AT AWD (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2987 Cm3",
+        "Power:": "165 Kw @ 3800 Rpm\r\n224 Hp @ 3800 Rpm\r\n221 Bhp @ 3800 Rpm",
+        "Torque:": "398 Lb-Ft @ 1600-2400 Rpm\r\n540 Nm @ 1600-2400 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124.3 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.34",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4144.7 Lbs (1880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  },
+  {
+    "id": 16624,
+    "automobile_id": 4115,
+    "name": "350 4MATIC CDI 7AT AWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2987 Cm3",
+        "Power:": "195 Kw @ 3800 Rpm\r\n265 Hp @ 3800 Rpm\r\n261 Bhp @ 3800 Rpm",
+        "Torque:": "457 Lb-Ft @ 1600–2400 Rpm\r\n620 Nm @ 1600–2400 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R17 102 V"
+      },
+      "Dimensions": {
+        "Length:": "178.3 In (4529 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "61.7/62.5 In (1,567/1,588 Mm)",
+        "Wheelbase:": "108.5 In (2756 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.35",
+        "Turning Circle:": "37.7 Ft (11.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4244 Lbs (1925 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "34 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "182 G/Km"
+      }
+    }
+  }
+]

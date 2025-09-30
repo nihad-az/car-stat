@@ -1,0 +1,86 @@
+[
+  {
+    "id": 18500,
+    "automobile_id": 4636,
+    "name": "2.4 16v",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2378 Cm3",
+        "Power:": "121 Kw @ 6000 Rpm\r\n165 Hp @ 6000 Rpm\r\n162 Bhp @ 6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 4000 Rpm\r\n220 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "179.7 In (4564 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472.9 Lbs (1575 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)",
+        "Co2 Emissions:": "243 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18501,
+    "automobile_id": 4636,
+    "name": "3.8 V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3828 Cm3",
+        "Power:": "191 Kw @ 5750 Rpm\r\n260 Hp @ 5750 Rpm\r\n256 Bhp @ 5750 Rpm",
+        "Torque:": "260 Lb-Ft @ 4500 Rpm\r\n353 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 6 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "179.7 In (4564 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3671.3 Lbs (1665 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)"
+      }
+    }
+  }
+]

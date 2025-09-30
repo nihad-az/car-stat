@@ -1,0 +1,100 @@
+[
+  {
+    "id": 18878,
+    "automobile_id": 4778,
+    "name": "2.3 dCi 6MT 2WD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2298 Cm3",
+        "Power:": "117.7 Kw @ 3750 Rpm\r\n160 Hp @ 3750 Rpm\r\n158 Bhp @ 3750 Rpm",
+        "Torque:": "297 Lb-Ft @ 1500-2500 Rpm\r\n403 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 R16C"
+      },
+      "Dimensions": {
+        "Length:": "205.7 In (5225 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "124 In (3150 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4131 Lbs (1874 Kg)",
+        "Gross Weight Limit:": "6636 Lbs (3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "167 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18879,
+    "automobile_id": 4778,
+    "name": "2.3 dCi 6MT 4WD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2298 Cm3",
+        "Power:": "117.7 Kw @ 3750 Rpm\r\n160 Hp @ 3750 Rpm\r\n158 Bhp @ 3750 Rpm",
+        "Torque:": "297 Lb-Ft @ 1500-2500 Rpm\r\n403 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 R16C"
+      },
+      "Dimensions": {
+        "Length:": "205.7 In (5225 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "124 In (3150 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4312 Lbs (1956 Kg)",
+        "Gross Weight Limit:": "6636 Lbs (3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  }
+]

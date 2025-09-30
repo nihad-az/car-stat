@@ -1,0 +1,112 @@
+[
+  {
+    "id": 14755,
+    "automobile_id": 3674,
+    "name": "2.0L 8AT RWD (365 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "268.5 Kw @ -0 Rpm\r\n365 Hp @ -0 Rpm\r\n360 Bhp @ -0 Rpm",
+        "Torque:": "317 Lb-Ft @ - Rpm\r\n430 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.9 Gallons (52.6 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35/R20 // 295/30/R20"
+      },
+      "Dimensions": {
+        "Length:": "173.7 In (4412 Mm)",
+        "Width:": "74.6 In (1895 Mm)",
+        "Height:": "48.2 In (1224 Mm)",
+        "Front/Rear Track:": "64/63.3 In (1,626/1,608 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3188 Lbs (1446 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14756,
+    "automobile_id": 3674,
+    "name": "3.5L V6 6AT RWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "294.2 Kw @ 6800 Rpm\r\n400 Hp @ 6800 Rpm\r\n395 Bhp @ 6800 Rpm",
+        "Torque:": "317 Lb-Ft @ - Rpm\r\n430 Nm @ - Rpm",
+        "Fuel System:": "Supercharge Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "173.7 In (4412 Mm)",
+        "Width:": "74.6 In (1895 Mm)",
+        "Height:": "48.2 In (1224 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Aerodynamics (Cd):": "0.34"
+      }
+    }
+  },
+  {
+    "id": 14757,
+    "automobile_id": 3674,
+    "name": "3.5L V6 6MT RWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "294.2 Kw @ 6800 Rpm\r\n400 Hp @ 6800 Rpm\r\n395 Bhp @ 6800 Rpm",
+        "Torque:": "310 Lb-Ft @ - Rpm\r\n420 Nm @ - Rpm",
+        "Fuel System:": "Supercharge Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "173.7 In (4412 Mm)",
+        "Width:": "74.6 In (1895 Mm)",
+        "Height:": "48.2 In (1224 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Aerodynamics (Cd):": "0.34"
+      }
+    }
+  }
+]

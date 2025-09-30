@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1795,
+    "automobile_id": 500,
+    "name": "4.2 V8 FSI 6AT (420 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4163 Cm3",
+        "Power:": "309 Kw @ 7800 Rpm\r\n420 Hp @ 7800 Rpm\r\n414 Bhp @ 7800 Rpm",
+        "Torque:": "317 Lb-Ft @ 4500-6000 Rpm\r\n430 Nm @ 4500-6000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "187 Mph (301 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 Zr18 || 285/35 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "174.4 In (4430 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "49.2 In (1250 Mm)",
+        "Front/Rear Track:": "64.3/62.8 In (1,633/1,595 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "3.5 Cuft (99 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4112 Lbs (1865 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.5 Mpg Us (20.5 L/100Km)",
+        "Highway:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Combined:": "17.3 Mpg Us (13.6 L/100Km)",
+        "Co2 Emissions:": "320 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1796,
+    "automobile_id": 500,
+    "name": "4.2 V8 FSI 6MT (420 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4163 Cm3",
+        "Power:": "309 Kw @ 7800 Rpm\r\n420 Hp @ 7800 Rpm\r\n414 Bhp @ 7800 Rpm",
+        "Torque:": "317 Lb-Ft @ 4500-6000 Rpm\r\n430 Nm @ 4500-6000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "187 Mph (301 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 Zr18 || 285/35 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "174.4 In (4430 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "49.2 In (1250 Mm)",
+        "Front/Rear Track:": "64.3/62.8 In (1,633/1,595 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "3.5 Cuft (99 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4100.6 Lbs (1860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.6 Mpg Us (22.2 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "16.1 Mpg Us (14.6 L/100Km)",
+        "Co2 Emissions:": "349 G/Km"
+      }
+    }
+  }
+]

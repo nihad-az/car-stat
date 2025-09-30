@@ -1,0 +1,98 @@
+[
+  {
+    "id": 12699,
+    "automobile_id": 3042,
+    "name": "FX35 3.5L V6 5AT RWD (281 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "206 Kw @ 6200 Rpm\r\n281 Hp @ 6200 Rpm\r\n276 Bhp @ 6200 Rpm",
+        "Torque:": "270 Lb-Ft @ 4800 Rpm\r\n366 Nm @ 4800 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60 R 18"
+      },
+      "Dimensions": {
+        "Length:": "188.5 In (4788 Mm)",
+        "Width:": "76.7 In (1948 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "62.6/64.6 In (1,590/1,641 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "27.1 Cuft (767 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4057.2 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5159.7 Lbs (2340 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12700,
+    "automobile_id": 3042,
+    "name": "FX45 4.5L V8 5AT (315 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4494 Cm3",
+        "Power:": "232 Kw @ 6400 Rpm\r\n315 Hp @ 6400 Rpm\r\n311 Bhp @ 6400 Rpm",
+        "Torque:": "329 Lb-Ft @ 4000 Rpm\r\n446 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "197 Mph (317 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/50 R 20"
+      },
+      "Dimensions": {
+        "Length:": "188.5 In (4788 Mm)",
+        "Width:": "76.7 In (1948 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "62.6/64.6 In (1,590/1,641 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "27.1 Cuft (767 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4299.8 Lbs (1950 Kg)",
+        "Gross Weight Limit:": "5468.4 Lbs (2480 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  }
+]

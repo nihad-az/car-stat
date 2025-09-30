@@ -1,0 +1,100 @@
+[
+  {
+    "id": 15246,
+    "automobile_id": 3845,
+    "name": "1.3L 4AT RWD (212 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "2-Rotor Rotary",
+        "Displacement:": "1308 Cm3",
+        "Power:": "155.9 Kw @ 7500 Rpm\r\n212 Hp @ 7500 Rpm\r\n209 Bhp @ 7500 Rpm",
+        "Torque:": "159 Lb-Ft @ 5500 Rpm\r\n216 Nm @ 5500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "69.7 In (1770 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "59.1/59.3 In (1,501/1,506 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "7.6 Cuft (215 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3111 Lbs (1411 Kg)",
+        "Gross Weight Limit:": "3858 Lbs (1750 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Co2 Emissions:": "258 G/Km"
+      }
+    }
+  },
+  {
+    "id": 15247,
+    "automobile_id": 3845,
+    "name": "1.3L 6MT RWD (232 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "2-Rotor Rotary",
+        "Displacement:": "1308 Cm3",
+        "Power:": "170.6 Kw @ 8500 Rpm\r\n232 Hp @ 8500 Rpm\r\n229 Bhp @ 8500 Rpm",
+        "Torque:": "159 Lb-Ft @ 5500 Rpm\r\n216 Nm @ 5500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "69.7 In (1770 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "59.1/59.3 In (1,501/1,506 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "7.6 Cuft (215 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3064 Lbs (1390 Kg)",
+        "Gross Weight Limit:": "3818 Lbs (1732 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "299 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 23190,
+    "automobile_id": 5838,
+    "name": "2.0L 16V Turbo 6MT FWD (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "165 Kw @ 5500 Rpm\r\n225 Hp @ 5500 Rpm\r\n221 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 3000 Rpm\r\n300 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146.6 Mph (236 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40R18"
+      },
+      "Dimensions": {
+        "Length:": "166.5 In (4229 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "59.8/59.8 In (1,519/1,519 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "11.7 Cuft (331 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2976.2 Lbs (1350 Kg)",
+        "Gross Weight Limit:": "4012.4 Lbs (1820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23191,
+    "automobile_id": 5838,
+    "name": "2.0L dCi 6MT FWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "129 Kw @ 3750 Rpm\r\n175 Hp @ 3750 Rpm\r\n173 Bhp @ 3750 Rpm",
+        "Torque:": "266 Lb-Ft @ 2000 Rpm\r\n361 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40R18"
+      },
+      "Dimensions": {
+        "Length:": "166.5 In (4229 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "59.8/59.8 In (1,519/1,519 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "11.7 Cuft (331 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3197 Lbs (1450 Kg)",
+        "Gross Weight Limit:": "3968 Lbs (1800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "172 G/Km"
+      }
+    }
+  }
+]

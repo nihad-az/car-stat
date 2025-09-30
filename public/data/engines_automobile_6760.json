@@ -1,0 +1,87 @@
+[
+  {
+    "id": 27256,
+    "automobile_id": 6760,
+    "name": "6.2L LSA V8 6AT (585 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "430 Kw @ 6150 Rpm\r\n585 Hp @ 6150 Rpm\r\n577 Bhp @ 6150 Rpm",
+        "Torque:": "546 Lb-Ft @ 3850 Rpm\r\n740 Nm @ 3850 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Disc Brakes: 390Mm",
+        "Rear:": "Ventilated Disc Brakes: 372Mm"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/35 R 20"
+      },
+      "Dimensions": {
+        "Length:": "196.4 In (4989 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "57.4 In (1458 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4145 Lbs (1880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.5 Mpg Us (22.4 L/100Km)",
+        "Highway:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Combined:": "15 Mpg Us (15.7 L/100Km)",
+        "Co2 Emissions:": "373 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27257,
+    "automobile_id": 6760,
+    "name": "6.2L LSA V8 6MT (585 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "430 Kw @ 6150 Rpm\r\n585 Hp @ 6150 Rpm\r\n577 Bhp @ 6150 Rpm",
+        "Torque:": "546 Lb-Ft @ 3850 Rpm\r\n740 Nm @ 3850 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Disc Brakes: 390Mm",
+        "Rear:": "Ventilated Disc Brakes: 372Mm"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/35 R 20"
+      },
+      "Dimensions": {
+        "Length:": "196.4 In (4989 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "57.4 In (1458 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.7 Mpg Us (22 L/100Km)",
+        "Highway:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Combined:": "15.4 Mpg Us (15.3 L/100Km)",
+        "Co2 Emissions:": "363 G/Km"
+      }
+    }
+  }
+]

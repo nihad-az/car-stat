@@ -1,0 +1,101 @@
+[
+  {
+    "id": 22621,
+    "automobile_id": 5740,
+    "name": "1.7L Blue dCi CVT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1749 Cm3",
+        "Power:": "110.3 Kw @ 3500 Rpm\r\n150 Hp @ 3500 Rpm\r\n148 Bhp @ 3500 Rpm",
+        "Torque:": "251 Lb-Ft @ 1750 Rpm\r\n340 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt X-Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65R17 102H"
+      },
+      "Dimensions": {
+        "Length:": "183.9 In (4671 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "62.6/62.4 In (1,590/1,585 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "17.6 Cuft (498 L)",
+        "Aerodynamics (Cd):": "0.88"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3710 Lbs (1683 Kg)",
+        "Gross Weight Limit:": "4938 Lbs (2240 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "143 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22622,
+    "automobile_id": 5740,
+    "name": "2.0L Blue dCi CVT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 3500 Rpm\r\n190 Hp @ 3500 Rpm\r\n187 Bhp @ 3500 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750 Rpm\r\n380 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Direct Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt X-Tronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65R17 102H"
+      },
+      "Dimensions": {
+        "Length:": "183.9 In (4671 Mm)",
+        "Width:": "81.2 In (2062 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "62.6/62.4 In (1,590/1,585 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "17.6 Cuft (498 L)",
+        "Aerodynamics (Cd):": "0.88"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "5090 Lbs (2309 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  }
+]

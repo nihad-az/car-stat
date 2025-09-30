@@ -1,0 +1,105 @@
+[
+  {
+    "id": 14636,
+    "automobile_id": 3630,
+    "name": "2.0L 8AT FWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "183.9 Kw @ 5500 Rpm\r\n250 Hp @ 5500 Rpm\r\n247 Bhp @ 5500 Rpm",
+        "Torque:": "207 Lb-Ft @ 3000 Rpm\r\n280 Nm @ 3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "76.2 In (1935 Mm)",
+        "Height:": "64.1 In (1628 Mm)",
+        "Front/Rear Track:": "62.6X63.4 In (1590 Mm)",
+        "Wheelbase:": "106.7 In (2710 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)",
+        "Cargo Volume:": "27.6 Cuft (782 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3691 Lbs (1674 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14637,
+    "automobile_id": 3630,
+    "name": "2.3L 8AT AWD (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "205.9 Kw @ - Rpm\r\n280 Hp @ - Rpm\r\n276 Bhp @ - Rpm",
+        "Torque:": "310 Lb-Ft @ - Rpm\r\n420 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "76.2 In (1935 Mm)",
+        "Height:": "64.1 In (1628 Mm)",
+        "Wheelbase:": "106.7 In (2710 Mm)",
+        "Cargo Volume:": "27.6 Cuft (782 L)"
+      }
+    }
+  },
+  {
+    "id": 14638,
+    "automobile_id": 3630,
+    "name": "2.5L CVT AWD (266 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "195.6 Kw @ - Rpm\r\n266 Hp @ - Rpm\r\n262 Bhp @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "76.2 In (1935 Mm)",
+        "Height:": "64.1 In (1628 Mm)",
+        "Front/Rear Track:": "62.6X63.4 In (1590 Mm)",
+        "Wheelbase:": "106.7 In (2710 Mm)",
+        "Ground Clearance:": "7.8 In (198 Mm)",
+        "Cargo Volume:": "27.6 Cuft (782 L)"
+      },
+      "Power System Specs": {
+        "Range:": "25 Miles (40.2 Km)"
+      }
+    }
+  }
+]

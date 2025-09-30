@@ -1,0 +1,64 @@
+[
+  {
+    "id": 14168,
+    "automobile_id": 3467,
+    "name": "2.0L 4MT  (134 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "98 Kw @ 5400 Rpm\r\n134 Hp @ 5400 Rpm\r\n131 Bhp @ 5400 Rpm",
+        "Torque:": "132 Lb-Ft @ 4200 Rpm\r\n179 Nm @ 4200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "53.5 In (1359 Mm)",
+        "Height:": "59.5 In (1511 Mm)",
+        "Front/Rear Track:": "52/50.5 In (1,321/1,283 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2624 Lbs (1190 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14169,
+    "automobile_id": 3467,
+    "name": "2.0L 4MT (144 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "106 Kw @ 5600 Rpm\r\n144 Hp @ 5600 Rpm\r\n142 Bhp @ 5600 Rpm",
+        "Torque:": "142 Lb-Ft @ 4000 Rpm\r\n193 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discc",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "53.5 In (1359 Mm)",
+        "Height:": "59.5 In (1511 Mm)",
+        "Front/Rear Track:": "52/50.5 In (1,321/1,283 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)"
+      }
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 22415,
+    "automobile_id": 5695,
+    "name": "229 KWh",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "481 Kw (654 Hp)",
+        "Total Maximum Torque:": "620 Lb-Ft (841 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/50 R22"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "168 Kwh",
+        "Range:": "500 Miles (804.7 Km)"
+      }
+    }
+  },
+  {
+    "id": 22416,
+    "automobile_id": 5695,
+    "name": "Standard  168 KWh  AWD (654 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "481 Kw (654 Hp)",
+        "Total Maximum Torque:": "620 Lb-Ft (841 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/50  R22"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "168 Kwh",
+        "Range:": "350 Miles (563.3 Km)"
+      }
+    }
+  }
+]

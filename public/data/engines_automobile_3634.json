@@ -1,0 +1,90 @@
+[
+  {
+    "id": 14649,
+    "automobile_id": 3634,
+    "name": "3.5L V6 10AT (456 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3496 Cm3",
+        "Power:": "331 Kw @ 5500 Rpm\r\n450 Hp @ 5500 Rpm\r\n444 Bhp @ 5500 Rpm",
+        "Torque:": "510 Lb-Ft @ 3000 Rpm\r\n691 Nm @ 3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "28.3 Gallons (107.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P275/55Hr20"
+      },
+      "Dimensions": {
+        "Length:": "221.9 In (5636 Mm)",
+        "Width:": "93.8 In (2383 Mm)",
+        "Height:": "76.2 In (1935 Mm)",
+        "Front/Rear Track:": "67.6 / 67.2 In (1,717/1,707 Mm)",
+        "Wheelbase:": "131.6 In (3343 Mm)",
+        "Cargo Volume:": "34.3 Cuft (971 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5926 Lbs (2688 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14650,
+    "automobile_id": 3634,
+    "name": "3.5L V6 10AT AWD (456 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3496 Cm3",
+        "Power:": "331 Kw @ 5500 Rpm\r\n450 Hp @ 5500 Rpm\r\n444 Bhp @ 5500 Rpm",
+        "Torque:": "510 Lb-Ft @ 3000 Rpm\r\n691 Nm @ 3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "28.3 Gallons (107.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P275/55Hr20"
+      },
+      "Dimensions": {
+        "Length:": "221.9 In (5636 Mm)",
+        "Width:": "93.8 In (2383 Mm)",
+        "Height:": "76.1 In (1933 Mm)",
+        "Front/Rear Track:": "67.6 / 67.2 In (1,717/1,707 Mm)",
+        "Wheelbase:": "131.6 In (3343 Mm)",
+        "Cargo Volume:": "34.3 Cuft (971 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6056 Lbs (2747 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  }
+]

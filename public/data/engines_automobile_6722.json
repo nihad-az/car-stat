@@ -1,0 +1,86 @@
+[
+  {
+    "id": 27106,
+    "automobile_id": 6722,
+    "name": "4.2L D 5MT AWD (128 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "4164 Cm3",
+        "Power:": "96 Kw @ 3800 Rpm\r\n131 Hp @ 3800 Rpm\r\n129 Bhp @ 3800 Rpm",
+        "Torque:": "210 Lb-Ft @ 2200 Rpm\r\n285 Nm @ 2200 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "199.2 In (5060 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "83.2 In (2113 Mm)",
+        "Front/Rear Track:": "56.5/56 In (1,435/1,422 Mm)",
+        "Wheelbase:": "117.3 In (2979 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4697 Lbs (2131 Kg)",
+        "Gross Weight Limit:": "7040 Lbs (3193 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "17.3 Mpg Us (13.6 L/100Km)",
+        "Co2 Emissions:": "357.8 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27107,
+    "automobile_id": 6722,
+    "name": "4.2L TD 5MT AWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "I6",
+        "Displacement:": "4164 Cm3",
+        "Power:": "122 Kw @ 3400 Rpm\r\n166 Hp @ 3400 Rpm\r\n164 Bhp @ 3400 Rpm",
+        "Torque:": "281 Lb-Ft @ 1400 Rpm\r\n380 Nm @ 1400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "199.2 In (5060 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "83.2 In (2113 Mm)",
+        "Front/Rear Track:": "56.5/6 In (1,435/152 Mm)",
+        "Wheelbase:": "117.3 In (2979 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5005 Lbs (2270 Kg)",
+        "Gross Weight Limit:": "7260 Lbs (3293 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.6 Mpg Us (12 L/100Km)",
+        "Co2 Emissions:": "318 G/Km"
+      }
+    }
+  }
+]

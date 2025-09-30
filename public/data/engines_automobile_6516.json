@@ -1,0 +1,90 @@
+[
+  {
+    "id": 26303,
+    "automobile_id": 6516,
+    "name": "1.8L 6MT FWD (132 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "98.4 Kw @ 6000 Rpm\r\n133.8 Hp @ 6000 Rpm\r\n132 Bhp @ 6000 Rpm",
+        "Torque:": "128 Lb-Ft @ 4400 Rpm\r\n174 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "183.1 In (4651 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "59.8/59.9 In (1,519/1,521 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "6.7 In (170 Mm)",
+        "Cargo Volume:": "13 Cuft (368 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2860 Lbs (1297 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)",
+        "Combined:": "30 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26304,
+    "automobile_id": 6516,
+    "name": "1.8L CVT FWD (132 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "98.4 Kw @ 6000 Rpm\r\n133.8 Hp @ 6000 Rpm\r\n132 Bhp @ 6000 Rpm",
+        "Torque:": "128 Lb-Ft @ 4400 Rpm\r\n174 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "183.1 In (4651 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "59.8/59.9 In (1,519/1,521 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "6.7 In (170 Mm)",
+        "Cargo Volume:": "13 Cuft (368 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2885 Lbs (1309 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "34 Mpg Us (6.9 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": 18713,
+    "automobile_id": 4701,
+    "name": "2.0L 5MT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1983 Cm3",
+        "Power:": "66 Kw @ 5500 Rpm\r\n90 Hp @ 5500 Rpm\r\n89 Bhp @ 5500 Rpm",
+        "Torque:": "109 Lb-Ft @ 3000 Rpm\r\n148 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "21.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185 R14"
+      },
+      "Dimensions": {
+        "Length:": "168.3 In (4275 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "72.2 In (1834 Mm)",
+        "Wheelbase:": "88 In (2235 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Highway:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Co2 Emissions:": "281 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18714,
+    "automobile_id": 4701,
+    "name": "2.4L 5MT FWD (111 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2334 Cm3",
+        "Power:": "82 Kw @ 5000 Rpm\r\n111 Hp @ 5000 Rpm\r\n110 Bhp @ 5000 Rpm",
+        "Torque:": "136 Lb-Ft @ 3500 Rpm\r\n184 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185 R14"
+      },
+      "Dimensions": {
+        "Length:": "168.3 In (4275 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "72.2 In (1834 Mm)",
+        "Wheelbase:": "88 In (2235 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.6 Mpg Us (12 L/100Km)",
+        "Highway:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)",
+        "Co2 Emissions:": "272 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18715,
+    "automobile_id": 4701,
+    "name": "2.5L 5MT FWD (69 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2454 Cm3",
+        "Power:": "51 Kw @ 4200 Rpm\r\n69 Hp @ 4200 Rpm\r\n68 Bhp @ 4200 Rpm",
+        "Torque:": "108 Lb-Ft @ 2500 Rpm\r\n146 Nm @ 2500 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "81 Mph (130 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185 R14"
+      },
+      "Dimensions": {
+        "Length:": "168.3 In (4275 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "72.2 In (1834 Mm)",
+        "Wheelbase:": "88 In (2235 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  }
+]

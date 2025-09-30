@@ -1,0 +1,470 @@
+[
+  {
+    "id": 24391,
+    "automobile_id": 6061,
+    "name": "1.2L 5MT FWD (70 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1198 Cm3",
+        "Power:": "51 Kw @ 5400 Rpm\r\n69 Hp @ 5400 Rpm\r\n68 Bhp @ 5400 Rpm",
+        "Torque:": "83 Lb-Ft @ 3000 Rpm\r\n113 Nm @ 3000 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "101 Mph (163 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2313 Lbs (1049 Kg)",
+        "Gross Weight Limit:": "3307 Lbs (1500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "125 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24392,
+    "automobile_id": 6061,
+    "name": "1.2L TSI 5MT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "77 Kw @ 5000 Rpm\r\n105 Hp @ 5000 Rpm\r\n103 Bhp @ 5000 Rpm",
+        "Torque:": "129 Lb-Ft @ 1150 Rpm\r\n175 Nm @ 1150 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "124 In (3150 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2414 Lbs (1095 Kg)",
+        "Gross Weight Limit:": "3408 Lbs (1546 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24393,
+    "automobile_id": 6061,
+    "name": "1.2L TSI 7AT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "77 Kw @ 5000 Rpm\r\n105 Hp @ 5000 Rpm\r\n103 Bhp @ 5000 Rpm",
+        "Torque:": "129 Lb-Ft @ 1150 Rpm\r\n175 Nm @ 1150 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Dsg)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2458 Lbs (1115 Kg)",
+        "Gross Weight Limit:": "3452 Lbs (1566 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24394,
+    "automobile_id": 6061,
+    "name": "1.4L 5MT FWD (85 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "63 Kw @ 5000 Rpm\r\n86 Hp @ 5000 Rpm\r\n84 Bhp @ 5000 Rpm",
+        "Torque:": "97 Lb-Ft @ 3800 Rpm\r\n132 Nm @ 3800 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2370 Lbs (1075 Kg)",
+        "Gross Weight Limit:": "3364 Lbs (1526 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24395,
+    "automobile_id": 6061,
+    "name": "1.4L TSI 7AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "110 Kw @ 5800 Rpm\r\n150 Hp @ 5800 Rpm\r\n148 Bhp @ 5800 Rpm",
+        "Torque:": "162 Lb-Ft @ 1250-4500 Rpm\r\n220 Nm @ 1250-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132.3 Mph (213 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Dsg)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "159.9 In (4061 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2765 Lbs (1254 Kg)",
+        "Gross Weight Limit:": "3759 Lbs (1705 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24396,
+    "automobile_id": 6061,
+    "name": "1.2L TDI 5MT FWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1199 Cm3",
+        "Power:": "55 Kw @ 4000 Rpm\r\n75 Hp @ 4000 Rpm\r\n74 Bhp @ 4000 Rpm",
+        "Torque:": "133 Lb-Ft @ 1500 Rpm\r\n180 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2502 Lbs (1135 Kg)",
+        "Gross Weight Limit:": "3497 Lbs (1586 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "49 Mpg Us (4.8 L/100Km)",
+        "Highway:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Combined:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Co2 Emissions:": "102 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24397,
+    "automobile_id": 6061,
+    "name": "1.2L TDI Eco 5MT FWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1199 Cm3",
+        "Power:": "55 Kw @ 4000 Rpm\r\n75 Hp @ 4000 Rpm\r\n74 Bhp @ 4000 Rpm",
+        "Torque:": "133 Lb-Ft @ 1500 Rpm\r\n180 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2535 Lbs (1150 Kg)",
+        "Gross Weight Limit:": "3497 Lbs (1586 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "56 Mpg Us (4.2 L/100Km)",
+        "Highway:": "75.9 Mpg Us (3.1 L/100Km)",
+        "Combined:": "67.2 Mpg Us (3.5 L/100Km)",
+        "Co2 Emissions:": "92 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24398,
+    "automobile_id": 6061,
+    "name": "1.6L TDI 5MT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "77 Kw @ 4400 Rpm\r\n105 Hp @ 4400 Rpm\r\n103 Bhp @ 4400 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500 Rpm\r\n249 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "124 In (3150 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2579 Lbs (1170 Kg)",
+        "Gross Weight Limit:": "3574 Lbs (1621 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Co2 Emissions:": "112 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24399,
+    "automobile_id": 6061,
+    "name": "2.0L TDI 6MT FWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "105 Kw @ 4200 Rpm\r\n143 Hp @ 4200 Rpm\r\n141 Bhp @ 4200 Rpm",
+        "Torque:": "236 Lb-Ft @ 1750-2500 Rpm\r\n320 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "160.94 In (4088 Mm)",
+        "Width:": "66.65 In (1693 Mm)",
+        "Height:": "56.73 In (1441 Mm)",
+        "Front/Rear Track:": "57/56.7 In (1,448/1,440 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "10.3 Cuft (292 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2749 Lbs (1247 Kg)",
+        "Gross Weight Limit:": "3739 Lbs (1696 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "123 G/Km"
+      }
+    }
+  }
+]

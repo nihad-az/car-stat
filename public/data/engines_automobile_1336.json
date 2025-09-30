@@ -1,0 +1,96 @@
+[
+  {
+    "id": 6162,
+    "automobile_id": 1336,
+    "name": "2.2L 4AT (141 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "104 Kw @ 5600 Rpm\r\n141 Hp @ 5600 Rpm\r\n139 Bhp @ 5600 Rpm",
+        "Torque:": "150 Lb-Ft @ 4000 Rpm\r\n203 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.1 Gallons (57.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65/R15"
+      },
+      "Dimensions": {
+        "Length:": "190.4 In (4836 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "56.2 In (1427 Mm)",
+        "Front/Rear Track:": "59/59.3 In (1,499/1,506 Mm)",
+        "Wheelbase:": "107 In (2718 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3034.1 Lbs (1376 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6163,
+    "automobile_id": 1336,
+    "name": "3.1L V6 4AT (152 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3135 Cm3",
+        "Power:": "112 Kw @ 5200 Rpm\r\n152 Hp @ 5200 Rpm\r\n150 Bhp @ 5200 Rpm",
+        "Torque:": "180 Lb-Ft @ 4000 Rpm\r\n244 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.1 Gallons (57.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.9 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/65/R15"
+      },
+      "Dimensions": {
+        "Length:": "190.4 In (4836 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "56.2 In (1427 Mm)",
+        "Front/Rear Track:": "59/59.3 In (1,499/1,506 Mm)",
+        "Wheelbase:": "107 In (2718 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3051.7 Lbs (1384 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  }
+]

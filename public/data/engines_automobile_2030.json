@@ -1,0 +1,100 @@
+[
+  {
+    "id": 8821,
+    "automobile_id": 2030,
+    "name": "3.2L V6 3AT (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3235 Cm3",
+        "Power:": "121.3 Kw @ 5600 Rpm\r\n165 Hp @ 5600 Rpm\r\n163 Bhp @ 5600 Rpm",
+        "Torque:": "184 Lb-Ft @ 3400 Rpm\r\n250 Nm @ 3400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr 14"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "54.3 In (1379 Mm)",
+        "Front/Rear Track:": "57.8/57.8 In (1,468/1,468 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.44"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.4 Mpg Us (17.6 L/100Km)",
+        "Highway:": "16.4 Mpg Us (14.3 L/100Km)",
+        "Combined:": "15.5 Mpg Us (15.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8822,
+    "automobile_id": 2030,
+    "name": "3.2L V6 5MT (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3235 Cm3",
+        "Power:": "121.3 Kw @ 5600 Rpm\r\n165 Hp @ 5600 Rpm\r\n163 Bhp @ 5600 Rpm",
+        "Torque:": "184 Lb-Ft @ 3400 Rpm\r\n250 Nm @ 3400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr 14"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "54.3 In (1379 Mm)",
+        "Front/Rear Track:": "57.8/57.8 In (1,468/1,468 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.44"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3428 Lbs (1555 Kg)",
+        "Gross Weight Limit:": "4310 Lbs (1955 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "16.8 Mpg Us (14 L/100Km)",
+        "Combined:": "14.7 Mpg Us (16 L/100Km)"
+      }
+    }
+  }
+]

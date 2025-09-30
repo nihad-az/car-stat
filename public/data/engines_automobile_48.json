@@ -1,0 +1,102 @@
+[
+  {
+    "id": 90,
+    "automobile_id": 48,
+    "name": "3.5L V6 5AT (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "179 Kw @ 5750 Rpm\r\n243 Hp @ 5750 Rpm\r\n240 Bhp @ 5750 Rpm",
+        "Torque:": "245 Lb-Ft @ 3000-5000 Rpm\r\n332 Nm @ 3000-5000 Rpm",
+        "Fuel System:": "Pgm-Fi Multi-Point Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.3 Gallons (73.1 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65/R17"
+      },
+      "Dimensions": {
+        "Length:": "188.5 In (4788 Mm)",
+        "Width:": "76.3 In (1938 Mm)",
+        "Height:": "68.7 In (1745 Mm)",
+        "Front/Rear Track:": "66.3/66.5 In (1,684/1,689 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "81.5 Cuft (2308 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4328 Lbs (1963 Kg)",
+        "Gross Weight Limit:": "5690 Lbs (2581 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Combined:": "17.8 Mpg Us (13.2 L/100Km)",
+        "Co2 Emissions:": "314 G/Km"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "automobile_id": 48,
+    "name": "3.5L V6 5AT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "191.2 Kw @ 5400 Rpm\r\n260 Hp @ 5400 Rpm\r\n256 Bhp @ 5400 Rpm",
+        "Torque:": "245 Lb-Ft @ 3000-5000 Rpm\r\n332 Nm @ 3000-5000 Rpm",
+        "Fuel System:": "Pgm-Fi Multi-Point Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.3 Gallons (73.1 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65/R17"
+      },
+      "Dimensions": {
+        "Length:": "188.5 In (4788 Mm)",
+        "Width:": "76.3 In (1938 Mm)",
+        "Height:": "68.7 In (1745 Mm)",
+        "Front/Rear Track:": "66.3/66.5 In (1,684/1,689 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "81.5 Cuft (2308 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4553 Lbs (2065 Kg)",
+        "Gross Weight Limit:": "5732 Lbs (2600 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Combined:": "17.8 Mpg Us (13.2 L/100Km)",
+        "Co2 Emissions:": "314 G/Km"
+      }
+    }
+  }
+]

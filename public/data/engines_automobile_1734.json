@@ -1,0 +1,76 @@
+[
+  {
+    "id": 7791,
+    "automobile_id": 1734,
+    "name": "3.7L V6 6MT AWD (213 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3701 Cm3",
+        "Power:": "157 Kw @ 5200 Rpm\r\n213 Hp @ 5200 Rpm\r\n211 Bhp @ 5200 Rpm",
+        "Torque:": "235 Lb-Ft @ 3600 Rpm\r\n319 Nm @ 3600 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70Sr16"
+      },
+      "Dimensions": {
+        "Length:": "218.8 In (5558 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "68.6 In (1742 Mm)",
+        "Front/Rear Track:": "62.8/62.9 In (1,595/1,598 Mm)",
+        "Wheelbase:": "131.2 In (3332 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7792,
+    "automobile_id": 1734,
+    "name": "4.7L V8 6MT RWD (231 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4701 Cm3",
+        "Power:": "170 Kw @ 4600 Rpm\r\n231 Hp @ 4600 Rpm\r\n228 Bhp @ 4600 Rpm",
+        "Torque:": "291 Lb-Ft @ 3600 Rpm\r\n394 Nm @ 3600 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70Sr16"
+      },
+      "Dimensions": {
+        "Length:": "218.8 In (5558 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "68.6 In (1742 Mm)",
+        "Front/Rear Track:": "62.8/62.9 In (1,595/1,598 Mm)",
+        "Wheelbase:": "131.2 In (3332 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

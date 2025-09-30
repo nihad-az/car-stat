@@ -1,0 +1,72 @@
+[
+  {
+    "id": 10549,
+    "automobile_id": 2438,
+    "name": "3.3L 3MT (117 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3273 Cm3",
+        "Power:": "86 Kw @ 3800 Rpm\r\n117 Hp @ 3800 Rpm\r\n115 Bhp @ 3800 Rpm",
+        "Torque:": "190 Lb-Ft @ 2400 Rpm\r\n257 Nm @ 2400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "68.3 In (1735 Mm)",
+        "Height:": "51.2 In (1300 Mm)",
+        "Front/Rear Track:": "55.4/56 In (1,407/1,422 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2606 Lbs (1182 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10550,
+    "automobile_id": 2438,
+    "name": "4.7L V8 4MT (275 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4727 Cm3",
+        "Power:": "202 Kw @ 4800 Rpm\r\n275 Hp @ 4800 Rpm\r\n271 Bhp @ 4800 Rpm",
+        "Torque:": "312 Lb-Ft @ 3200 Rpm\r\n423 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "129 Mph (208 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.95 X 14"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "68.3 In (1735 Mm)",
+        "Height:": "51.2 In (1300 Mm)",
+        "Front/Rear Track:": "56/56 In (1,422/1,422 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      }
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": 99,
+    "automobile_id": 52,
+    "name": "2.2L 5MT (145 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2156 Cm3",
+        "Power:": "108 Kw @ 5500-6000 Rpm\r\n145 Hp @ 5500-6000 Rpm\r\n145 Bhp @ 5500-6000 Rpm",
+        "Torque:": "147 Lb-Ft @ 4500 Rpm\r\n199 Nm @ 4500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "190 In (4826 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "59.6/59.1 In (1,514/1,501 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3009 Lbs (1365 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions:": "200 G/Km"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "automobile_id": 52,
+    "name": "3.0L V6 4AT (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2997 Cm3",
+        "Power:": "149 Kw @ 5500 Rpm\r\n200 Hp @ 5500 Rpm\r\n200 Bhp @ 5500 Rpm",
+        "Torque:": "195 Lb-Ft @ 4700 Rpm\r\n264 Nm @ 4700 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "190 In (4826 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "59.6/59.1 In (1,514/1,501 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3219 Lbs (1460 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  }
+]

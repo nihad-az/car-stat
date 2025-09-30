@@ -1,0 +1,625 @@
+[
+  {
+    "id": 3129,
+    "automobile_id": 733,
+    "name": "420i 6MT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "214 Lb-Ft @ 1350-4600 Rpm\r\n290 Nm @ 1350-4600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4398 Lbs (1995 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3130,
+    "automobile_id": 733,
+    "name": "420i 8AT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "214 Lb-Ft @ 1350-4600 Rpm\r\n290 Nm @ 1350-4600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3296 Lbs (1495 Kg)",
+        "Gross Weight Limit:": "4442 Lbs (2015 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions:": "127 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3131,
+    "automobile_id": 733,
+    "name": "420i xDrive 8AT AWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000 Rpm\r\n184 Hp @ 5000 Rpm\r\n181 Bhp @ 5000 Rpm",
+        "Torque:": "214 Lb-Ft @ 1350-4600 Rpm\r\n290 Nm @ 1350-4600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)",
+        "Gross Weight Limit:": "4608 Lbs (2090 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "137 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3132,
+    "automobile_id": 733,
+    "name": "430i 6MT RWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "185.3 Kw @ 5200 Rpm\r\n252 Hp @ 5200 Rpm\r\n248 Bhp @ 5200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1450-4800 Rpm\r\n350 Nm @ 1450-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3285 Lbs (1490 Kg)",
+        "Gross Weight Limit:": "4431 Lbs (2010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "143 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3133,
+    "automobile_id": 733,
+    "name": "430i 8AT RWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "185.3 Kw @ 5200 Rpm\r\n252 Hp @ 5200 Rpm\r\n248 Bhp @ 5200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1450-4800 Rpm\r\n350 Nm @ 1450-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3329 Lbs (1510 Kg)",
+        "Gross Weight Limit:": "2271 Lbs (1030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions:": "129 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3134,
+    "automobile_id": 733,
+    "name": "440i 6MT RWD (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2998 Cm3",
+        "Power:": "239.8 Kw @ 5500 Rpm\r\n326 Hp @ 5500 Rpm\r\n322 Bhp @ 5500 Rpm",
+        "Torque:": "332 Lb-Ft @ 1380-5000 Rpm\r\n450 Nm @ 1380-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3428 Lbs (1555 Kg)",
+        "Gross Weight Limit:": "4542 Lbs (2060 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.5 Mpg Us (10 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "172 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3135,
+    "automobile_id": 733,
+    "name": "440i 8AT AWD (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2998 Cm3",
+        "Power:": "239.8 Kw @ 5500 Rpm\r\n326 Hp @ 5500 Rpm\r\n322 Bhp @ 5500 Rpm",
+        "Torque:": "332 Lb-Ft @ 1380-5000 Rpm\r\n450 Nm @ 1380-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4575 Lbs (2075 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3136,
+    "automobile_id": 733,
+    "name": "420d 6MT RWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4398 Lbs (1995 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "56 Mpg Us (4.2 L/100Km)",
+        "Co2 Emissions:": "111 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3137,
+    "automobile_id": 733,
+    "name": "420d 8AT RWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3307 Lbs (1500 Kg)",
+        "Gross Weight Limit:": "4453 Lbs (2020 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "106 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3138,
+    "automobile_id": 733,
+    "name": "420d xDrive 6MT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3395 Lbs (1540 Kg)",
+        "Gross Weight Limit:": "4542 Lbs (2060 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Highway:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "117 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3139,
+    "automobile_id": 733,
+    "name": "430d 8AT RWD (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "189.8 Kw @ 4000 Rpm\r\n258 Hp @ 4000 Rpm\r\n255 Bhp @ 4000 Rpm",
+        "Torque:": "413 Lb-Ft @ 1500-3000 Rpm\r\n560 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3395 Lbs (1540 Kg)",
+        "Gross Weight Limit:": "4542 Lbs (2060 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Highway:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "129 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3140,
+    "automobile_id": 733,
+    "name": "430d xDrive 8AT AWD (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "189.8 Kw @ 4000 Rpm\r\n258 Hp @ 4000 Rpm\r\n255 Bhp @ 4000 Rpm",
+        "Torque:": "413 Lb-Ft @ 1500-3000 Rpm\r\n560 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 94W"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "54.2 In (1377 Mm)",
+        "Front/Rear Track:": "60.9/62.7 In (1,547/1,593 Mm)",
+        "Wheelbase:": "110.6 In (2809 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)",
+        "Gross Weight Limit:": "4707 Lbs (2135 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "137 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": 8967,
+    "automobile_id": 2123,
+    "name": "2.0d Turbo 6AT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "125 Kw @ 3500 Rpm\r\n170 Hp @ 3500 Rpm\r\n168 Bhp @ 3500 Rpm",
+        "Torque:": "299 Lb-Ft @ 1750-2500 Rpm\r\n405 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "193.5 In (4915 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "72.3 In (1836 Mm)",
+        "Front/Rear Track:": "63.8/63.8 In (1,621/1,621 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "8.9 In (226 Mm)",
+        "Cargo Volume:": "9.1 Cuft (258 L)",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      }
+    }
+  },
+  {
+    "id": 8968,
+    "automobile_id": 2123,
+    "name": "2.0L Bi-Turbo 10AT AWD (209 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "153.7 Kw @ 3750 Rpm\r\n209 Hp @ 3750 Rpm\r\n206 Bhp @ 3750 Rpm",
+        "Torque:": "369 Lb-Ft @ 1750-2000 Rpm\r\n500 Nm @ 1750-2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "193.5 In (4915 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "72.5 In (1842 Mm)",
+        "Front/Rear Track:": "63.8/63.8 In (1,621/1,621 Mm)",
+        "Ground Clearance:": "9 In (229 Mm)",
+        "Cargo Volume:": "9.1 Cuft (258 L)",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5218 - 5254 Lbs (2367 - 2383 Kg)",
+        "Gross Weight Limit:": "6834 Lbs (3100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "190 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8969,
+    "automobile_id": 2123,
+    "name": "2.0L Bi-Turbo 10AT RWD (209 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "153.7 Kw @ 3750 Rpm\r\n209 Hp @ 3750 Rpm\r\n206 Bhp @ 3750 Rpm",
+        "Torque:": "369 Lb-Ft @ 1750-2000 Rpm\r\n500 Nm @ 1750-2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "193.5 In (4915 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "72.5 In (1842 Mm)",
+        "Front/Rear Track:": "63.8/63.8 In (1,621/1,621 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4980 - 5013 Lbs (2259 - 2274 Kg)",
+        "Gross Weight Limit:": "6614 Lbs (3000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "187 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8970,
+    "automobile_id": 2123,
+    "name": "3.0L V6 10AT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2992 Cm3",
+        "Power:": "183.9 Kw @ 3250 Rpm\r\n250 Hp @ 3250 Rpm\r\n247 Bhp @ 3250 Rpm",
+        "Torque:": "443 Lb-Ft @ 1750-2250 Rpm\r\n600 Nm @ 1750-2250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "193.5 In (4915 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "72.3 In (1836 Mm)",
+        "Front/Rear Track:": "63.8/63.8 In (1,621/1,621 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "8.9 In (226 Mm)",
+        "Cargo Volume:": "9.1 Cuft (258 L)",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5410 - 5494 Lbs (2454 - 2492 Kg)",
+        "Gross Weight Limit:": "6945 Lbs (3150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": 15777,
+    "automobile_id": 3988,
+    "name": "G 500 9AT (422 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3982 Cm3",
+        "Power:": "310.2 Kw @ - Rpm\r\n422 Hp @ - Rpm\r\n416 Bhp @ - Rpm",
+        "Torque:": "450 Lb-Ft @ 2000-4750 Rpm\r\n610 Nm @ 2000-4750 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.4 Gallons (96.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic (9G-Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15.8 Mpg Us (14.9 L/100Km)",
+        "Co2 Emissions:": "338 G/Km"
+      }
+    }
+  },
+  {
+    "id": 15778,
+    "automobile_id": 3988,
+    "name": "G 350 d 9AT (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "2925 Cm3",
+        "Power:": "210.4 Kw @ 3400-4600 Rpm\r\n286 Hp @ 3400-4600 Rpm\r\n282 Bhp @ 3400-4600 Rpm",
+        "Torque:": "443 Lb-Ft @ 1200-3200 Rpm\r\n600 Nm @ 1200-3200 Rpm",
+        "Fuel System:": "Turbocharged Common Rail Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "25.4 Gallons (96.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic (9G-Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/50 R20"
+      },
+      "Dimensions": {
+        "Length:": "181.3 In (4605 Mm)",
+        "Width:": "78.1 In (1984 Mm)",
+        "Height:": "77.2 In (1961 Mm)",
+        "Front/Rear Track:": "65.4/65.4 In (1,661/1,661 Mm)",
+        "Wheelbase:": "113.8 In (2891 Mm)",
+        "Ground Clearance:": "9.5 In (241 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "259 G/Km"
+      }
+    }
+  },
+  {
+    "id": 15779,
+    "automobile_id": 3988,
+    "name": "G 400 d 9AT (330 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "242.7 Kw @ - Rpm\r\n330 Hp @ - Rpm\r\n325 Bhp @ - Rpm",
+        "Torque:": "516 Lb-Ft @ 1200-3200 Rpm\r\n700 Nm @ 1200-3200 Rpm",
+        "Fuel System:": "Turbocharged Common Rail Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "25.4 Gallons (96.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic (9G-Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/50 R20"
+      },
+      "Dimensions": {
+        "Length:": "181.3 In (4605 Mm)",
+        "Width:": "78.1 In (1984 Mm)",
+        "Height:": "77.2 In (1961 Mm)",
+        "Front/Rear Track:": "65.4/65.4 In (1,661/1,661 Mm)",
+        "Wheelbase:": "113.8 In (2891 Mm)",
+        "Ground Clearance:": "9.5 In (241 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions:": "253 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 5681,
+    "automobile_id": 1202,
+    "name": "6.2L V8 6AT RWD (415 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "305.2 Kw @ 5900 Rpm\r\n415 Hp @ 5900 Rpm\r\n409 Bhp @ 5900 Rpm",
+        "Torque:": "415 Lb-Ft @ 4600-6600 Rpm\r\n563 Nm @ 4600-6600 Rpm",
+        "Fuel System:": "Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "160 Mph (257 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40Zr19 || 275/35Zr19"
+      },
+      "Dimensions": {
+        "Length:": "195.5 In (4966 Mm)",
+        "Width:": "74.7 In (1897 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "62.6/62.4 In (1,590/1,585 Mm)",
+        "Wheelbase:": "114.8 In (2916 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3975 Lbs (1803 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5682,
+    "automobile_id": 1202,
+    "name": "6.2L V8 6MT RWD (415 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "305.2 Kw @ 5900 Rpm\r\n415 Hp @ 5900 Rpm\r\n409 Bhp @ 5900 Rpm",
+        "Torque:": "415 Lb-Ft @ 4600 Rpm\r\n563 Nm @ 4600 Rpm",
+        "Fuel System:": "Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "160 Mph (257 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40Zr19 || 275/35Zr19"
+      },
+      "Dimensions": {
+        "Length:": "195.5 In (4966 Mm)",
+        "Width:": "74.7 In (1897 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "62.6/63.3 In (1,590/1,608 Mm)",
+        "Wheelbase:": "114.8 In (2916 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "16.4 Cuft (464 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3960 Lbs (1796 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

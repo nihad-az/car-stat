@@ -1,0 +1,94 @@
+[
+  {
+    "id": 21799,
+    "automobile_id": 5327,
+    "name": "3.5L V6 4AT (219 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3510 Cm3",
+        "Power:": "163.3 Kw @ 5800 Rpm\r\n222 Hp @ 5800 Rpm\r\n219 Bhp @ 5800 Rpm",
+        "Torque:": "251 Lb-Ft @ 3200 Rpm\r\n340 Nm @ 3200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "70.6 In (1793 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "59.8/60.4 In (1,519/1,534 Mm)",
+        "Wheelbase:": "112.3 In (2852 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3856 Lbs (1749 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 21800,
+    "automobile_id": 5327,
+    "name": "3.9L V6 4AT (222 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "3880 Cm3",
+        "Power:": "165.5 Kw @ 5600 Rpm\r\n225 Hp @ 5600 Rpm\r\n222 Bhp @ 5600 Rpm",
+        "Torque:": "238 Lb-Ft @ 4000 Rpm\r\n323 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "70.6 In (1793 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "59.8/60.4 In (1,519/1,534 Mm)",
+        "Wheelbase:": "112.3 In (2852 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3865 Lbs (1753 Kg)",
+        "Gross Weight Limit:": "4751 Lbs (2155 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  }
+]

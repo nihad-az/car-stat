@@ -1,0 +1,353 @@
+[
+  {
+    "id": 26107,
+    "automobile_id": 6441,
+    "name": "60 RWD (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "283 Kw @ - Rpm\r\n385 Hp @ - Rpm\r\n380 Bhp @ - Rpm",
+        "Torque:": "325 Lb-Ft @ 0-5000 Rpm\r\n441 Nm @ 0-5000 Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "196 In (4978 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "65.4/66.9 In (1,661/1,699 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4647 Lbs (2108 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "60 Kwh",
+        "Range:": "208.2 Miles (335.1 Km)"
+      }
+    }
+  },
+  {
+    "id": 26108,
+    "automobile_id": 6441,
+    "name": "70 RWD (387 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "285 Kw @ - Rpm\r\n387.5 Hp @ - Rpm\r\n382 Bhp @ - Rpm",
+        "Torque:": "325 Lb-Ft @ 0-5000 Rpm\r\n441 Nm @ 0-5000 Rpm",
+        "Fuel System:": "70 Kwh Li-Ion Battery Pack",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "355 Mm X 32 Mm Ventilated Discs",
+        "Rear:": "365 Mm X 28 Mm Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "2.6/2.6 In (66/66 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4936 Lbs (2239 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      }
+    }
+  },
+  {
+    "id": 26109,
+    "automobile_id": 6441,
+    "name": "70D RWD (525 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "386.1 Kw @ - Rpm\r\n525 Hp @ - Rpm\r\n518 Bhp @ - Rpm",
+        "Torque:": "387 Lb-Ft @ 0-5000 Rpm\r\n525 Nm @ 0-5000 Rpm",
+        "Fuel System:": "70 Kwh Li-Ion Battery Pack",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "355 Mm X 32 Mm Ventilated Discs",
+        "Rear:": "365 Mm X 28 Mm Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "2.6/2.6 In (66/66 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4936 Lbs (2239 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      }
+    }
+  },
+  {
+    "id": 26110,
+    "automobile_id": 6441,
+    "name": "85 RWD (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "283 Kw @ - Rpm\r\n385 Hp @ - Rpm\r\n380 Bhp @ - Rpm",
+        "Torque:": "325 Lb-Ft @ 0-5800 Rpm\r\n441 Nm @ 0-5800 Rpm",
+        "Fuel System:": "85 Kwh Li-Ion Battery Pack",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125 Mph (201 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "355 Mm X 32 Mm Ventilated Discs",
+        "Rear:": "365 Mm X 28 Mm Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "196 In (4978 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "65.4/66.9 In (1,661/1,699 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4647 Lbs (2108 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      }
+    }
+  },
+  {
+    "id": 26111,
+    "automobile_id": 6441,
+    "name": "85D RWD (376 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "280 Kw @ - Rpm\r\n381 Hp @ - Rpm\r\n375 Bhp @ - Rpm",
+        "Torque:": "325 Lb-Ft @ 0-5100 Rpm\r\n441 Nm @ 0-5100 Rpm",
+        "Fuel System:": "85 Kwh Li-Ion Battery Pack",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "355 Mm X 32 Mm Ventilated Discs",
+        "Rear:": "365 Mm X 28 Mm Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "196 In (4978 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "65.4/66.9 In (1,661/1,699 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4647 Lbs (2108 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      }
+    }
+  },
+  {
+    "id": 26112,
+    "automobile_id": 6441,
+    "name": "90D AWD (525 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "386.1 Kw @ - Rpm\r\n525 Hp @ - Rpm\r\n518 Bhp @ - Rpm",
+        "Torque:": "485 Lb-Ft @ 0-5000 Rpm\r\n658 Nm @ 0-5000 Rpm",
+        "Fuel System:": "90 Kwh Li-Ion Battery Pack",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "355 Mm X 32 Mm Ventilated Discs",
+        "Rear:": "365 Mm X 28 Mm Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "2.6/2.6 In (66/66 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4936 Lbs (2239 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      }
+    }
+  },
+  {
+    "id": 26113,
+    "automobile_id": 6441,
+    "name": "P85D AWD (691 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "514.8 Kw (700 Hp)",
+        "Total Maximum Torque:": "687 Lb-Ft (931 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "355 Mm X 32 Mm Ventilated Discs",
+        "Rear:": "365 Mm X 28 Mm Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "2.6/2.6 In (66/66 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4936 Lbs (2239 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "85 Kwh",
+        "Range:": "252.9 Miles (407.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 26114,
+    "automobile_id": 6441,
+    "name": "P90D AWD (762 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "560.5 Kw @ - Rpm\r\n762 Hp @ - Rpm\r\n752 Bhp @ - Rpm",
+        "Torque:": "713 Lb-Ft @ 0-5000 Rpm\r\n967 Nm @ 0-5000 Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "355 Mm X 32 Mm Ventilated Discs",
+        "Rear:": "365 Mm X 28 Mm Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "77.3 In (1963 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "2.6/2.6 In (66/66 Mm)",
+        "Wheelbase:": "116.5 In (2959 Mm)",
+        "Ground Clearance:": "5.65 In (144 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)",
+        "Aerodynamics (Cd):": "0.24"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4936 Lbs (2239 Kg)",
+        "Gross Weight Limit:": "5710 Lbs (2590 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "90 Kwh",
+        "Range:": "269.7 Miles (434.0 Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "id": 22166,
+    "automobile_id": 5561,
+    "name": "4.8L V8 6MT (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4806 Cm3",
+        "Power:": "294 Kw @ 6500 Rpm\r\n400 Hp @ 6500 Rpm\r\n394 Bhp @ 6500 Rpm",
+        "Torque:": "370 Lb-Ft @ 3500-5000 Rpm\r\n502 Nm @ 3500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "177 Mph (285 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18 Z || 275/45 R18 Z"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "76 In (1930 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "65.3/65.4 In (1,659/1,661 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "3.31 In (84 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902.2 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "5236 Lbs (2375 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.5 Mpg Us (18.8 L/100Km)",
+        "Highway:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Combined:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Co2 Emissions:": "293 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22167,
+    "automobile_id": 5561,
+    "name": "4.8L V8 7AT (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4806 Cm3",
+        "Power:": "294 Kw @ 6500 Rpm\r\n400 Hp @ 6500 Rpm\r\n394 Bhp @ 6500 Rpm",
+        "Torque:": "370 Lb-Ft @ 3500-5000 Rpm\r\n502 Nm @ 3500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)",
+        "Fuel Capacity (Optional):": "80 Gallons (302.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "176 Mph (283 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Pdk)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18 Z || 275/45 R18 Z"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "76 In (1930 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "65.3/65.4 In (1,659/1,661 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "3.31 In (84 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3968 Lbs (1800 Kg)",
+        "Gross Weight Limit:": "5302 Lbs (2405 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.4 Mpg Us (15.3 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Co2 Emissions:": "247 G/Km"
+      }
+    }
+  }
+]

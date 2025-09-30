@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1499,
+    "automobile_id": 465,
+    "name": "5.2 V10 FSI 6MT (525 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V10",
+        "Displacement:": "5204 Cm3",
+        "Power:": "386 Kw @ 8000 Rpm\r\n525 Hp @ 8000 Rpm\r\n518 Bhp @ 8000 Rpm",
+        "Torque:": "391 Lb-Ft @ 6500 Rpm\r\n530 Nm @ 6500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "194 Mph (312 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 Zr19 || 295/30 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "49 In (1245 Mm)",
+        "Front/Rear Track:": "64.5/62.8 In (1,638/1,595 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "3.53 Cuft (100 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3957 Lbs (1795 Kg)",
+        "Gross Weight Limit:": "4453 Lbs (2020 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.6 Mpg Us (22.2 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "15.8 Mpg Us (14.9 L/100Km)",
+        "Co2 Emissions:": "349 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1500,
+    "automobile_id": 465,
+    "name": "5.2 V10 FSI 7AT (525 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V10",
+        "Displacement:": "5204 Cm3",
+        "Power:": "386 Kw @ 8000 Rpm\r\n525 Hp @ 8000 Rpm\r\n518 Bhp @ 8000 Rpm",
+        "Torque:": "391 Lb-Ft @ 6500 Rpm\r\n530 Nm @ 6500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "193 Mph (311 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 Zr19 || 295/30 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "174.5 In (4432 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "49 In (1245 Mm)",
+        "Front/Rear Track:": "64.5/62.8 In (1,638/1,595 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "4.5 In (114 Mm)",
+        "Cargo Volume:": "3.53 Cuft (100 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4012 Lbs (1820 Kg)",
+        "Gross Weight Limit:": "4508 Lbs (2045 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.5 Mpg Us (20.5 L/100Km)",
+        "Highway:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Combined:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Co2 Emissions:": "310 G/Km"
+      }
+    }
+  }
+]

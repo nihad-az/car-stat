@@ -1,0 +1,95 @@
+[
+  {
+    "id": 21739,
+    "automobile_id": 5303,
+    "name": "2.0L 4MT RWD (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1971 Cm3",
+        "Power:": "77 Kw @ 5200 Rpm\r\n106 Hp @ 5200 Rpm\r\n103 Bhp @ 5200 Rpm",
+        "Torque:": "127 Lb-Ft @ 3000 Rpm\r\n172 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.2 Mph (179 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175Hr14"
+      },
+      "Dimensions": {
+        "Length:": "171.7 In (4361 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "53.5 In (1359 Mm)",
+        "Front/Rear Track:": "58.7/56.3 In (1,491/1,430 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2722.7 Lbs (1235 Kg)",
+        "Gross Weight Limit:": "3428.2 Lbs (1555 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Co2 Emissions:": "259.4 G/Km"
+      }
+    }
+  },
+  {
+    "id": 21740,
+    "automobile_id": 5303,
+    "name": "2.7L V6 4MT RWD (138 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2664 Cm3",
+        "Power:": "101.5 Kw @ 5750 Rpm\r\n138 Hp @ 5750 Rpm\r\n136 Bhp @ 5750 Rpm",
+        "Torque:": "153 Lb-Ft @ 3500 Rpm\r\n207 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175Hr14"
+      },
+      "Dimensions": {
+        "Length:": "171.7 In (4361 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "53.5 In (1359 Mm)",
+        "Front/Rear Track:": "58.7/56.3 In (1,491/1,430 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2800 Lbs (1270 Kg)",
+        "Gross Weight Limit:": "3428.2 Lbs (1555 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.1 Mpg Us (13 L/100Km)"
+      }
+    }
+  }
+]

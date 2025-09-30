@@ -1,0 +1,416 @@
+[
+  {
+    "id": 14339,
+    "automobile_id": 3524,
+    "name": "2.0L Si4 GTDi 4WD 6AT (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "177 Kw @ 5500 Rpm\r\n241 Hp @ 5500 Rpm\r\n237 Bhp @ 5500 Rpm",
+        "Torque:": "251 Lb-Ft @ 3200 Rpm\r\n340 Nm @ 3200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3913 Lbs (1775 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.4 Mpg Us (13.5 L/100Km)",
+        "Highway:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14340,
+    "automobile_id": 3524,
+    "name": "3.2L 6AT AWD (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3192 Cm3",
+        "Power:": "171 Kw @ 6300 Rpm\r\n232 Hp @ 6300 Rpm\r\n229 Bhp @ 6300 Rpm",
+        "Torque:": "234 Lb-Ft @ 3200 Rpm\r\n317 Nm @ 3200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4255 Lbs (1930 Kg)",
+        "Gross Weight Limit:": "5520 Lbs (2504 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14341,
+    "automobile_id": 3524,
+    "name": "2.2L eD4 6MT FWD (150 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "310 Lb-Ft @ 2000 Rpm\r\n420 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3770 Lbs (1710 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "158 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14342,
+    "automobile_id": 3524,
+    "name": "2.2L SD4 6AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "140 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n188 Bhp @ 4000 Rpm",
+        "Torque:": "310 Lb-Ft @ 2000 Rpm\r\n420 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3979 Lbs (1805 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "33.6 Mpg Us (7 L/100Km)",
+        "Co2 Emissions:": "185 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14343,
+    "automobile_id": 3524,
+    "name": "2.2L TD4 6AT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "310 Lb-Ft @ 2000 Rpm\r\n420 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3979 Lbs (1805 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "33.6 Mpg Us (7 L/100Km)",
+        "Co2 Emissions:": "185 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14344,
+    "automobile_id": 3524,
+    "name": "2.2L TD4 6AT AWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "118 Kw @ 4000 Rpm\r\n160 Hp @ 4000 Rpm\r\n158 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3935 Lbs (1785 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.4 Mpg Us (11 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14345,
+    "automobile_id": 3524,
+    "name": "2.2L TD4 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "310 Lb-Ft @ 2000 Rpm\r\n420 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3935 Lbs (1785 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "165 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14346,
+    "automobile_id": 3524,
+    "name": "2.2L TD4 6MT AWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "118 Kw @ 4000 Rpm\r\n160 Hp @ 4000 Rpm\r\n158 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "177.1 In (4498 Mm)",
+        "Width:": "104.7 In (2659 Mm)",
+        "Height:": "68.5 In (1740 Mm)",
+        "Front/Rear Track:": "63/63.2 In (1,600/1,605 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3946 Lbs (1790 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "194 G/Km"
+      }
+    }
+  }
+]

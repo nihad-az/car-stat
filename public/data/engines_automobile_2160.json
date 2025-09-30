@@ -1,0 +1,86 @@
+[
+  {
+    "id": 9081,
+    "automobile_id": 2160,
+    "name": "2.3L EcoBoost 10AT (270 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2300 Cm3",
+        "Power:": "159.6 Kw @ 375500 Rpm\r\n217 Hp @ 375500 Rpm\r\n214 Bhp @ 375500 Rpm",
+        "Torque:": "310 Lb-Ft @ 3000 Rpm\r\n420 Nm @ 3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic, Paddle-Shift Gearbox"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "212.5 In (5398 Mm)",
+        "Width:": "85.8 In (2179 Mm)",
+        "Height:": "73.7 In (1872 Mm)",
+        "Front/Rear Track:": "61.4/68.6 In (1,560/1,742 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "11.1 In (282 Mm)",
+        "Cargo Volume:": "27.1 Cuft (767 L)"
+      }
+    }
+  },
+  {
+    "id": 9082,
+    "automobile_id": 2160,
+    "name": "2.0L Bi-Turbo 10AT 4x4 (213 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "156.7 Kw @ 3750 Rpm\r\n213 Hp @ 3750 Rpm\r\n210 Bhp @ 3750 Rpm",
+        "Torque:": "369 Lb-Ft @ 1500-2500 Rpm\r\n500 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic, Paddle-Shift Gearbox"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/70 R17"
+      },
+      "Dimensions": {
+        "Length:": "212.5 In (5398 Mm)",
+        "Width:": "85.8 In (2179 Mm)",
+        "Height:": "73.7 In (1872 Mm)",
+        "Front/Rear Track:": "61.4/68.6 In (1,560/1,742 Mm)",
+        "Wheelbase:": "126.8 In (3221 Mm)",
+        "Ground Clearance:": "11.1 In (282 Mm)",
+        "Cargo Volume:": "27.1 Cuft (767 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5699 Lbs (2585 Kg)",
+        "Gross Weight Limit:": "6812 Lbs (3090 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions:": "233 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,869 @@
+[
+  {
+    "id": 4035,
+    "automobile_id": 822,
+    "name": "535i 8AT (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "225 Kw @ 5800 Rpm\r\n306 Hp @ 5800 Rpm\r\n302 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 1200 Rpm\r\n400 Nm @ 1200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4442.3 Lbs (2015 Kg)",
+        "Gross Weight Limit:": "5831.2 Lbs (2645 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)",
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4036,
+    "automobile_id": 822,
+    "name": "535i 8AT (315 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "235 Kw @ 5800 Rpm\r\n320 Hp @ 5800 Rpm\r\n315 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 1200–5000 Rpm\r\n400 Nm @ 1200–5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4442.3 Lbs (2015 Kg)",
+        "Gross Weight Limit:": "5831.2 Lbs (2645 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "192 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4037,
+    "automobile_id": 822,
+    "name": "535i xDrive 8AT (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "225 Kw @ 5800 Rpm\r\n306 Hp @ 5800 Rpm\r\n302 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 1200-5000 Rpm\r\n400 Nm @ 1200-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/55 R18 100 Y  Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4398.2 Lbs (1995 Kg)",
+        "Gross Weight Limit:": "5787.1 Lbs (2625 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Highway:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "216 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4038,
+    "automobile_id": 822,
+    "name": "535i xDrive 8AT (315 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "235 Kw @ 5800 Rpm\r\n320 Hp @ 5800 Rpm\r\n315 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 1200–5000 Rpm\r\n400 Nm @ 1200–5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/55 R18 100 Y  Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4398.2 Lbs (1995 Kg)",
+        "Gross Weight Limit:": "5787.1 Lbs (2625 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4039,
+    "automobile_id": 822,
+    "name": "550i 8AT (408 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4395 Cm3",
+        "Power:": "300 Kw @ 5500 Rpm\r\n408 Hp @ 5500 Rpm\r\n402 Bhp @ 5500 Rpm",
+        "Torque:": "443 Lb-Ft @ 1750 Rpm\r\n601 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19 || 275/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4442.3 Lbs (2015 Kg)",
+        "Gross Weight Limit:": "5831.2 Lbs (2645 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.5 Mpg Us (16.2 L/100Km)",
+        "Highway:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "263 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4040,
+    "automobile_id": 822,
+    "name": "550i 8AT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4395 Cm3",
+        "Power:": "331 Kw @ 5500 Rpm\r\n450 Hp @ 5500 Rpm\r\n444 Bhp @ 5500 Rpm",
+        "Torque:": "479 Lb-Ft @ 2000-4500 Rpm\r\n649 Nm @ 2000-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19 || 275/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4442.3 Lbs (2015 Kg)",
+        "Gross Weight Limit:": "5831.2 Lbs (2645 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)",
+        "Co2 Emissions:": "214 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4041,
+    "automobile_id": 822,
+    "name": "550i xDrive 8AT (408 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4395 Cm3",
+        "Power:": "300 Kw @ 5500-6400 Rpm\r\n408 Hp @ 5500-6400 Rpm\r\n402 Bhp @ 5500-6400 Rpm",
+        "Torque:": "442 Lb-Ft @ 1750-4500 Rpm\r\n599 Nm @ 1750-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19 98 Y Rsc || 275/40 R 19 101 Y Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4695.8 Lbs (2130 Kg)",
+        "Gross Weight Limit:": "6018.6 Lbs (2730 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.9 Mpg Us (16.9 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Co2 Emissions:": "275 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4042,
+    "automobile_id": 822,
+    "name": "550i xDrive 8AT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4395 Cm3",
+        "Power:": "331 Kw @ 5500 Rpm\r\n450 Hp @ 5500 Rpm\r\n444 Bhp @ 5500 Rpm",
+        "Torque:": "479 Lb-Ft @ 2000-4500 Rpm\r\n649 Nm @ 2000-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R19 98 Y Rsc || 275/40 R 19 101 Y Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "63.8/64.4 In (1,621/1,636 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4695.8 Lbs (2130 Kg)",
+        "Gross Weight Limit:": "6018.6 Lbs (2730 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4043,
+    "automobile_id": 822,
+    "name": "520d 8AT (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "135 Kw @ 4000 Rpm\r\n184 Hp @ 4000 Rpm\r\n181 Bhp @ 4000 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750 Rpm\r\n380 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18 100Y"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4134 Lbs (1875 Kg)",
+        "Gross Weight Limit:": "5523 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "40 Mpg Us (5.9 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "44 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4044,
+    "automobile_id": 822,
+    "name": "530d 8AT (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "180 Kw @ 4000 Rpm\r\n245 Hp @ 4000 Rpm\r\n241 Bhp @ 4000 Rpm",
+        "Torque:": "398 Lb-Ft @ 1750 Rpm\r\n540 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4486.4 Lbs (2035 Kg)",
+        "Gross Weight Limit:": "5875.3 Lbs (2665 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "36.1 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "173 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4045,
+    "automobile_id": 822,
+    "name": "530d 8AT (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "190 Kw @ 4000 Rpm\r\n258 Hp @ 4000 Rpm\r\n255 Bhp @ 4000 Rpm",
+        "Torque:": "413 Lb-Ft @ 1500 Rpm\r\n560 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "152 Mph (245 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4486.4 Lbs (2035 Kg)",
+        "Gross Weight Limit:": "5875.3 Lbs (2665 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35 Mpg Us (6.7 L/100Km)",
+        "Highway:": "44 Mpg Us (5.3 L/100Km)",
+        "Combined:": "41 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "153 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4046,
+    "automobile_id": 822,
+    "name": "530d xDrive 8AT (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "180 Kw @ 4000 Rpm\r\n245 Hp @ 4000 Rpm\r\n241 Bhp @ 4000 Rpm",
+        "Torque:": "398 Lb-Ft @ 1750-3000 Rpm\r\n540 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18 100 Y  Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4442.3 Lbs (2015 Kg)",
+        "Gross Weight Limit:": "5831.2 Lbs (2645 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "183 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4047,
+    "automobile_id": 822,
+    "name": "530d xDrive 8AT (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "190 Kw @ 4000 Rpm\r\n258 Hp @ 4000 Rpm\r\n255 Bhp @ 4000 Rpm",
+        "Torque:": "413 Lb-Ft @ 1500 Rpm\r\n560 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4486.4 Lbs (2035 Kg)",
+        "Gross Weight Limit:": "5875.3 Lbs (2665 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33 Mpg Us (7.1 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)",
+        "Combined:": "38 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "163 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4048,
+    "automobile_id": 822,
+    "name": "535d 8AT (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "221 Kw @ 4400 Rpm\r\n300 Hp @ 4400 Rpm\r\n296 Bhp @ 4400 Rpm",
+        "Torque:": "442 Lb-Ft @ 1500-2500 Rpm\r\n599 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18 100 Y Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4343.1 Lbs (1970 Kg)",
+        "Gross Weight Limit:": "5732 Lbs (2600 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Highway:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "175 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4049,
+    "automobile_id": 822,
+    "name": "535d 8AT (313 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "230 Kw @ 4800 Rpm\r\n313 Hp @ 4800 Rpm\r\n308 Bhp @ 4800 Rpm",
+        "Torque:": "465 Lb-Ft @ 1500 Rpm\r\n630 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.7 In (4996 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.3 In (1557 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.8 In (3068 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4486.4 Lbs (2035 Kg)",
+        "Gross Weight Limit:": "5875.3 Lbs (2665 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35 Mpg Us (6.7 L/100Km)",
+        "Highway:": "44 Mpg Us (5.3 L/100Km)",
+        "Combined:": "41 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "153 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4050,
+    "automobile_id": 822,
+    "name": "535d xDrive 8AT (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "220 Kw @ 4400 Rpm\r\n299 Hp @ 4400 Rpm\r\n295 Bhp @ 4400 Rpm",
+        "Torque:": "442 Lb-Ft @ 2500 Rpm\r\n599 Nm @ 2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18 100 Y  Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4486.4 Lbs (2035 Kg)",
+        "Gross Weight Limit:": "5809.2 Lbs (2635 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "187 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4051,
+    "automobile_id": 822,
+    "name": "535d xDrive 8AT (313 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "230 Kw @ 4400 Rpm\r\n313 Hp @ 4400 Rpm\r\n308 Bhp @ 4400 Rpm",
+        "Torque:": "465 Lb-Ft @ 1500 Rpm\r\n630 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18 100 Y  Rsc"
+      },
+      "Dimensions": {
+        "Length:": "196.8 In (4999 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "63.4/65.1 In (1,610/1,654 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4486.4 Lbs (2035 Kg)",
+        "Gross Weight Limit:": "5809.2 Lbs (2635 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31 Mpg Us (7.6 L/100Km)",
+        "Highway:": "41 Mpg Us (5.7 L/100Km)",
+        "Combined:": "37 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  }
+]

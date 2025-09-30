@@ -1,0 +1,99 @@
+[
+  {
+    "id": 140,
+    "automobile_id": 74,
+    "name": "2.9L V6 6MT (510 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2891 Cm3",
+        "Power:": "375 Kw @ 6500 Rpm\r\n510 Hp @ 6500 Rpm\r\n503 Bhp @ 6500 Rpm",
+        "Torque:": "443 Lb-Ft @ 2500-5500 Rpm\r\n601 Nm @ 2500-5500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "191 Mph (307 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/35Zr19 || P285/30Zr19"
+      },
+      "Dimensions": {
+        "Length:": "182.6 In (4638 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "56.1 In (1425 Mm)",
+        "Front/Rear Track:": "61/62.6 In (1,549/1,590 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Wall To Wall):": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "198 G/Km"
+      }
+    }
+  },
+  {
+    "id": 141,
+    "automobile_id": 74,
+    "name": "2.9L V6 8AT (510 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2891 Cm3",
+        "Power:": "375 Kw @ 6500 Rpm\r\n510 Hp @ 6500 Rpm\r\n503 Bhp @ 6500 Rpm",
+        "Torque:": "443 Lb-Ft @ 2500-5500 Rpm\r\n601 Nm @ 2500-5500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "191 Mph (307 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/35Zr19 || P285/30Zr19"
+      },
+      "Dimensions": {
+        "Length:": "182.6 In (4638 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "56.1 In (1425 Mm)",
+        "Front/Rear Track:": "61/62.6 In (1,549/1,590 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions:": "189 G/Km"
+      }
+    }
+  }
+]

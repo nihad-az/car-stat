@@ -1,0 +1,88 @@
+[
+  {
+    "id": 26125,
+    "automobile_id": 6450,
+    "name": "2.4L AWD",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 26126,
+    "automobile_id": 6450,
+    "name": "2.4L FWD",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 26127,
+    "automobile_id": 6450,
+    "name": "2.5L AWD (367 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Total Maximum Power:": "269.9 Kw (367 Hp)",
+        "Total Maximum Torque:": "400 Lb-Ft (542 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 26128,
+    "automobile_id": 6450,
+    "name": "2.5L FWD (367 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Total Maximum Power:": "269.9 Kw (367 Hp)",
+        "Total Maximum Torque:": "400 Lb-Ft (542 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  }
+]

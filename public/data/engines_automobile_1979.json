@@ -1,0 +1,100 @@
+[
+  {
+    "id": 8542,
+    "automobile_id": 1979,
+    "name": "2.4L 5MT FWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2446 Cm3",
+        "Power:": "125 Kw @ 6000 Rpm\r\n170 Hp @ 6000 Rpm\r\n168 Bhp @ 6000 Rpm",
+        "Torque:": "163 Lb-Ft @ 3500 Rpm\r\n221 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "133.6 Mph (215 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45R17"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "59.8/59.4 In (1,519/1,509 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "10.7 Cuft (303 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2733.7 Lbs (1240 Kg)",
+        "Gross Weight Limit:": "3913.2 Lbs (1775 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.4 Mpg Us (13.5 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8543,
+    "automobile_id": 1979,
+    "name": "1.9L JTD 6MT FWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1910 Cm3",
+        "Power:": "103 Kw @ 4000 Rpm\r\n140 Hp @ 4000 Rpm\r\n138 Bhp @ 4000 Rpm",
+        "Torque:": "225 Lb-Ft @ 2000 Rpm\r\n305 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126.1 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "97 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "59.8/59.4 In (1,519/1,509 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "10.7 Cuft (303 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2832.9 Lbs (1285 Kg)",
+        "Gross Weight Limit:": "4012.4 Lbs (1820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "149 G/Km"
+      }
+    }
+  }
+]

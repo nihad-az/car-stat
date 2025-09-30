@@ -1,0 +1,84 @@
+[
+  {
+    "id": 10966,
+    "automobile_id": 2573,
+    "name": "3.6L V6 4AT (233 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3561 Cm3",
+        "Power:": "195 Kw @ 6500 Rpm\r\n265 Hp @ 6500 Rpm\r\n261 Bhp @ 6500 Rpm",
+        "Torque:": "251 Lb-Ft @ 2600 Rpm\r\n340 Nm @ 2600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225X50 R17"
+      },
+      "Dimensions": {
+        "Length:": "203.1 In (5159 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63.1/63.7 In (1,603/1,618 Mm)",
+        "Wheelbase:": "118.5 In (3010 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "18.9 Cuft (535 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3699 Lbs (1678 Kg)",
+        "Gross Weight Limit:": "4630 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.4 Mpg Us (13.5 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "20.1 Mpg Us (11.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10967,
+    "automobile_id": 2573,
+    "name": "6.0L V8 6AT (367 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5967 Cm3",
+        "Power:": "270 Kw @ 5700 Rpm\r\n367 Hp @ 5700 Rpm\r\n362 Bhp @ 5700 Rpm",
+        "Torque:": "391 Lb-Ft @ 4400 Rpm\r\n530 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "203.1 In (5159 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63.1/63.7 In (1,603/1,618 Mm)",
+        "Wheelbase:": "118.5 In (3010 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "18.9 Cuft (535 L)"
+      }
+    }
+  }
+]

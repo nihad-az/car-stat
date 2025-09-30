@@ -1,0 +1,100 @@
+[
+  {
+    "id": 26884,
+    "automobile_id": 6663,
+    "name": "4.7L V8 32V 5AT AWD (238 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4664 Cm3",
+        "Power:": "175 Kw @ 4800 Rpm\r\n238 Hp @ 4800 Rpm\r\n235 Bhp @ 4800 Rpm",
+        "Torque:": "320 Lb-Ft @ 3400 Rpm\r\n434 Nm @ 3400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.4 Gallons (96.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.84 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "192.5 In (4890 Mm)",
+        "Width:": "76.4 In (1941 Mm)",
+        "Height:": "74.4 In (1890 Mm)",
+        "Front/Rear Track:": "63.8/63.8 In (1,621/1,621 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)",
+        "Cargo Volume:": "26.5 Cuft (750 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4949.4 Lbs (2245 Kg)",
+        "Gross Weight Limit:": "7187.1 Lbs (3260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "14.34 Mpg Us (16.4 L/100Km)",
+        "Co2 Emissions:": "387 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26885,
+    "automobile_id": 6663,
+    "name": "4.2L V6 D-4D 5MT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4164 Cm3",
+        "Power:": "150 Kw @ 3400 Rpm\r\n204 Hp @ 3400 Rpm\r\n201 Bhp @ 3400 Rpm",
+        "Torque:": "317 Lb-Ft @ 1200 Rpm\r\n430 Nm @ 1200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "25.4 Gallons (96.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "192.5 In (4890 Mm)",
+        "Width:": "76.4 In (1941 Mm)",
+        "Height:": "74.4 In (1890 Mm)",
+        "Front/Rear Track:": "63.8/63.8 In (1,621/1,621 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "26.5 Cuft (750 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5335.2 Lbs (2420 Kg)",
+        "Gross Weight Limit:": "7187.1 Lbs (3260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.8 Mpg Us (14 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Co2 Emissions:": "292 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": 6,
+    "automobile_id": 4,
+    "name": "7.0L V8 3AT (350 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7017 Cm3",
+        "Power:": "257.4 Kw @ 4600 Rpm\r\n350 Hp @ 4600 Rpm\r\n345 Bhp @ 4600 Rpm",
+        "Torque:": "462 Lb-Ft @ 2800 Rpm\r\n626 Nm @ 2800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed  Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "174 In (4420 Mm)",
+        "Width:": "67 In (1702 Mm)",
+        "Height:": "51 In (1295 Mm)",
+        "Front/Rear Track:": "55/56 In (1,397/1,422 Mm)",
+        "Wheelbase:": "96 In (2438 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "automobile_id": 4,
+    "name": "7.0L V8 4MT (350 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7017 Cm3",
+        "Power:": "257.4 Kw @ 4600 Rpm\r\n350 Hp @ 4600 Rpm\r\n345 Bhp @ 4600 Rpm",
+        "Torque:": "462 Lb-Ft @ 2800 Rpm\r\n626 Nm @ 2800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "174 In (4420 Mm)",
+        "Width:": "67 In (1702 Mm)",
+        "Height:": "51 In (1295 Mm)",
+        "Front/Rear Track:": "55/56 In (1,397/1,422 Mm)",
+        "Wheelbase:": "96 In (2438 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)"
+      }
+    }
+  }
+]

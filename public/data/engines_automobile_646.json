@@ -1,0 +1,364 @@
+[
+  {
+    "id": 2750,
+    "automobile_id": 646,
+    "name": "420i 8AT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "135.3 Kw @ 5000-6500 Rpm\r\n184 Hp @ 5000-6500 Rpm\r\n181 Bhp @ 5000-6500 Rpm",
+        "Torque:": "221 Lb-Ft @ 1350-4000 Rpm\r\n300 Nm @ 1350-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "61.9/63.5 In (1,572/1,613 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Frontal Area):": "2.19 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)",
+        "Gross Weight Limit:": "4442 Lbs (2015 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions (Combined):": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2751,
+    "automobile_id": 646,
+    "name": "430i xDrive 8AT AWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "180.2 Kw @ 4500-6500 Rpm\r\n245 Hp @ 4500-6500 Rpm\r\n242 Bhp @ 4500-6500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1600-4000 Rpm\r\n400 Nm @ 1600-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "61.9/63.5 In (1,572/1,613 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Frontal Area):": "2.19 M2",
+        "Aerodynamics (Cd):": "0.26",
+        "Turning Circle:": "39.4 Ft (12.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3538 Lbs (1605 Kg)",
+        "Gross Weight Limit:": "4619 Lbs (2095 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions (Combined):": "174 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2752,
+    "automobile_id": 646,
+    "name": "420d MHEV 8AT RWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "61.9/63.5 In (1,572/1,613 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Frontal Area):": "2.19 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3538 Lbs (1605 Kg)",
+        "Gross Weight Limit:": "4608 Lbs (2090 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions (Combined):": "144 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2753,
+    "automobile_id": 646,
+    "name": "420d xDrive MHEV 8AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "139.7 Kw @ 4000 Rpm\r\n190 Hp @ 4000 Rpm\r\n187 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "148 Mph (238 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "61.9/63.5 In (1,572/1,613 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Frontal Area):": "2.19 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3682 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4751 Lbs (2155 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions (Combined):": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2754,
+    "automobile_id": 646,
+    "name": "430d MHEV 8AT RWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "210.4 Kw @ 4000 Rpm\r\n286 Hp @ 4000 Rpm\r\n282 Bhp @ 4000 Rpm",
+        "Torque:": "479 Lb-Ft @ 1500-2500 Rpm\r\n650 Nm @ 1500-2500 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17 98Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "61.9/63.5 In (1,572/1,613 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Frontal Area):": "2.19 M2",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "39.4 Ft (12.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "4971 Lbs (2255 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions (Combined):": "162 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2755,
+    "automobile_id": 646,
+    "name": "M440d xDrive MHEV 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "250.1 Kw @ 4400 Rpm\r\n340 Hp @ 4400 Rpm\r\n335 Bhp @ 4400 Rpm",
+        "Torque:": "516 Lb-Ft @ 1750-2250 Rpm\r\n700 Nm @ 1750-2250 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18 95Y Xl // 255/40 R18 99Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "187.8 In (4770 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "54.8 In (1392 Mm)",
+        "Front/Rear Track:": "62.3/62.7 In (1,582/1,593 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Frontal Area):": "2.19 M2",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "39.4 Ft (12.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4012 Lbs (1820 Kg)",
+        "Gross Weight Limit:": "5082 Lbs (2305 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions (Combined):": "175 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2756,
+    "automobile_id": 646,
+    "name": "M440i xDrive MHEV 8AT AWD (374 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2998 Cm3",
+        "Power:": "275.1 Kw @ 5500-6500 Rpm\r\n374 Hp @ 5500-6500 Rpm\r\n369 Bhp @ 5500-6500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1900-5000 Rpm\r\n500 Nm @ 1900-5000 Rpm",
+        "Electrical Motor Power:": "8.1 Kw (11 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18 95Y Xl // 255/40 R18 99Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "187.8 In (4770 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "54.8 In (1392 Mm)",
+        "Front/Rear Track:": "62.3/62.7 In (1,582/1,593 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)",
+        "Aerodynamics (Frontal Area):": "2.19 M2",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "39.4 Ft (12.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3825 Lbs (1735 Kg)",
+        "Gross Weight Limit:": "4894 Lbs (2220 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions (Combined):": "191 G/Km"
+      }
+    }
+  }
+]

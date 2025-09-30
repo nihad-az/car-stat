@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1169,
+    "automobile_id": 418,
+    "name": "3.0L TFSI Quattro 8AT AWD (354 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "264 Kw @ 6000-6500 Rpm\r\n359 Hp @ 6000-6500 Rpm\r\n354 Bhp @ 6000-6500 Rpm",
+        "Torque:": "347 Lb-Ft @ 4000-4500 Rpm\r\n470 Nm @ 4000-4500 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/45 R21"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "75.2 In (1910 Mm)",
+        "Height:": "65.3 In (1659 Mm)",
+        "Front/Rear Track:": "64.2/64 In (1,631/1,626 Mm)",
+        "Wheelbase:": "110.5 In (2807 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "19 Cuft (538 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4398 Lbs (1995 Kg)",
+        "Gross Weight Limit:": "5644 Lbs (2560 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)",
+        "Co2 Emissions:": "199 G/Km / Ulev Ii"
+      }
+    }
+  },
+  {
+    "id": 1170,
+    "automobile_id": 418,
+    "name": "3.0L biTDi Quattro 8AT AWD (313 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "230 Kw @ 3900-4500 Rpm\r\n313 Hp @ 3900-4500 Rpm\r\n308 Bhp @ 3900-4500 Rpm",
+        "Torque:": "479 Lb-Ft @ 1450-2800 Rpm\r\n649 Nm @ 1450-2800 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/45 R20"
+      },
+      "Dimensions": {
+        "Length:": "182.2 In (4628 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "63.6/63.5 In (1,615/1,613 Mm)",
+        "Wheelbase:": "110.5 In (2807 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4398 Lbs (1995 Kg)",
+        "Gross Weight Limit:": "5578 Lbs (2530 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31 Mpg Us (7.6 L/100Km)",
+        "Highway:": "37 Mpg Us (6.4 L/100Km)",
+        "Combined:": "35 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "179 G/Km"
+      }
+    }
+  }
+]

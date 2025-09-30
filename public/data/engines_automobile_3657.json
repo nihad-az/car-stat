@@ -1,0 +1,100 @@
+[
+  {
+    "id": 14713,
+    "automobile_id": 3657,
+    "name": "5.4L V8 4AT (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5404 Cm3",
+        "Power:": "224 Kw @ 5000 Rpm\r\n305 Hp @ 5000 Rpm\r\n300 Bhp @ 5000 Rpm",
+        "Torque:": "355 Lb-Ft @ 2750-3750 Rpm\r\n481 Nm @ 2750-3750 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118.1 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/60R17"
+      },
+      "Dimensions": {
+        "Length:": "204.8 In (5202 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.2 In (1910 Mm)",
+        "Front/Rear Track:": "65.4/65.5 In (1,661/1,664 Mm)",
+        "Wheelbase:": "119 In (3023 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "17.9 Cuft (507 L)",
+        "Aerodynamics (Cd):": "0.41"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5382.4 Lbs (2441 Kg)",
+        "Gross Weight Limit:": "7201.5 Lbs (3267 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11 Mpg Us (21.4 L/100Km)",
+        "Highway:": "16 Mpg Us (14.7 L/100Km)",
+        "Combined:": "13 Mpg Us (18.1 L/100Km)",
+        "Co2 Emissions:": "431 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14714,
+    "automobile_id": 3657,
+    "name": "5.4L V8 4AT AWD (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5404 Cm3",
+        "Power:": "224 Kw @ 5000 Rpm\r\n305 Hp @ 5000 Rpm\r\n300 Bhp @ 5000 Rpm",
+        "Torque:": "355 Lb-Ft @ 2750-3750 Rpm\r\n481 Nm @ 2750-3750 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/70 R18"
+      },
+      "Dimensions": {
+        "Length:": "204.8 In (5202 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.2 In (1910 Mm)",
+        "Front/Rear Track:": "65.4/65.5 In (1,661/1,664 Mm)",
+        "Wheelbase:": "119 In (3023 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "17.9 Cuft (507 L)",
+        "Aerodynamics (Cd):": "0.41"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6184 Lbs (2805 Kg)",
+        "Gross Weight Limit:": "7452 Lbs (3380 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11 Mpg Us (21.4 L/100Km)",
+        "Highway:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  }
+]

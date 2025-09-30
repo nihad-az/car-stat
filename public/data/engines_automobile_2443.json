@@ -1,0 +1,75 @@
+[
+  {
+    "id": 10560,
+    "automobile_id": 2443,
+    "name": "1.2L 4MT (49 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1198 Cm3",
+        "Power:": "36 Kw @ 4800 Rpm\r\n49 Hp @ 4800 Rpm\r\n48 Bhp @ 4800 Rpm",
+        "Torque:": "67 Lb-Ft @ 2700 Rpm\r\n91 Nm @ 2700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "76 Mph (122 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "22.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "168.3 In (4275 Mm)",
+        "Width:": "62.5 In (1588 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "50/49.5 In (1,270/1,257 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1874 Lbs (850 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10561,
+    "automobile_id": 2443,
+    "name": "1.5L 4MT (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "44 Kw @ 4600 Rpm\r\n60 Hp @ 4600 Rpm\r\n59 Bhp @ 4600 Rpm",
+        "Torque:": "82 Lb-Ft @ 2300 Rpm\r\n111 Nm @ 2300 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "168.3 In (4275 Mm)",
+        "Width:": "62.5 In (1588 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "50/49.5 In (1,270/1,257 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1750 Lbs (794 Kg)"
+      }
+    }
+  }
+]

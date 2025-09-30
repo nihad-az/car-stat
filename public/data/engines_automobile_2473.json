@@ -1,0 +1,78 @@
+[
+  {
+    "id": 10609,
+    "automobile_id": 2473,
+    "name": "1.3L 5MT FWD (84 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1342 Cm3",
+        "Power:": "63 Kw @ 6000 Rpm\r\n84 Hp @ 6000 Rpm\r\n84 Bhp @ 6000 Rpm",
+        "Torque:": "81 Lb-Ft @ 5200 Rpm\r\n110 Nm @ 5200 Rpm",
+        "Fuel System:": "Mpi",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Disc",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R14"
+      },
+      "Dimensions": {
+        "Length:": "163.5 In (4153 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Wheelbase:": "95.8 In (2433 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2297 Lbs (1042 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39 Mpg Us (6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10610,
+    "automobile_id": 2473,
+    "name": "1.5L 4AT FWD (92 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "69 Kw @ 6000 Rpm\r\n92 Hp @ 6000 Rpm\r\n93 Bhp @ 6000 Rpm",
+        "Torque:": "94 Lb-Ft @ 3400 Rpm\r\n127 Nm @ 3400 Rpm",
+        "Fuel System:": "Mpi",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Disc",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R14"
+      },
+      "Dimensions": {
+        "Length:": "163.5 In (4153 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Wheelbase:": "95.8 In (2433 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2319 Lbs (1052 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "36 Mpg Us (6.5 L/100Km)"
+      }
+    }
+  }
+]

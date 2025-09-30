@@ -1,0 +1,96 @@
+[
+  {
+    "id": 10299,
+    "automobile_id": 2384,
+    "name": "1.6i 5MT (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1597 Cm3",
+        "Power:": "66 Kw @ 5500 Rpm\r\n90 Hp @ 5500 Rpm\r\n89 Bhp @ 5500 Rpm",
+        "Torque:": "99 Lb-Ft @ 3000 Rpm\r\n134 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107.5 Mph (173 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70Tr13"
+      },
+      "Dimensions": {
+        "Length:": "161.8 In (4110 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "53.5 In (1359 Mm)",
+        "Front/Rear Track:": "56.7/57.5 In (1,440/1,461 Mm)",
+        "Wheelbase:": "99.2 In (2520 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "11.4 Cuft (323 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2590.4 Lbs (1175 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "181 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10300,
+    "automobile_id": 2384,
+    "name": "1.8i 5MT (129 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1796 Cm3",
+        "Power:": "95 Kw @ 6250 Rpm\r\n129 Hp @ 6250 Rpm\r\n127 Bhp @ 6250 Rpm",
+        "Torque:": "120 Lb-Ft @ 4500 Rpm\r\n162 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60Hr14"
+      },
+      "Dimensions": {
+        "Length:": "161.8 In (4110 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "53.5 In (1359 Mm)",
+        "Front/Rear Track:": "56.7/57.5 In (1,440/1,461 Mm)",
+        "Wheelbase:": "99.2 In (2520 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "11.4 Cuft (323 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2645.5 Lbs (1200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions:": "198 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 10968,
+    "automobile_id": 2574,
+    "name": "3.6L 5AT RWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "195 Kw @ 6500 Rpm\r\n265 Hp @ 6500 Rpm\r\n261 Bhp @ 6500 Rpm",
+        "Torque:": "251 Lb-Ft @ 2600 Rpm\r\n340 Nm @ 2600 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R18 96V"
+      },
+      "Dimensions": {
+        "Length:": "203.1 In (5159 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "62.7/63.3 In (1,593/1,608 Mm)",
+        "Wheelbase:": "118.5 In (3010 Mm)",
+        "Ground Clearance:": "4.4 In (112 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4129 Lbs (1873 Kg)",
+        "Gross Weight Limit:": "4630 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10969,
+    "automobile_id": 2574,
+    "name": "6.0L 6AT RWD (368 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5967 Cm3",
+        "Power:": "270 Kw @ 5700 Rpm\r\n367 Hp @ 5700 Rpm\r\n362 Bhp @ 5700 Rpm",
+        "Torque:": "391 Lb-Ft @ 4400 Rpm\r\n530 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R18 96V"
+      },
+      "Dimensions": {
+        "Length:": "203.1 In (5159 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "62.7/63.3 In (1,593/1,608 Mm)",
+        "Wheelbase:": "118.5 In (3010 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4251 Lbs (1928 Kg)",
+        "Gross Weight Limit:": "423 Lbs (192 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16.2 Mpg Us (14.5 L/100Km)",
+        "Co2 Emissions:": "308 G/Km"
+      }
+    }
+  }
+]

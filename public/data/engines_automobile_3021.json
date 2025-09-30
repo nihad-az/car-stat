@@ -1,0 +1,320 @@
+[
+  {
+    "id": 12637,
+    "automobile_id": 3021,
+    "name": "3.7L V6 7AT AWD (334 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "245 Kw @ 7000 Rpm\r\n333 Hp @ 7000 Rpm\r\n329 Bhp @ 7000 Rpm",
+        "Torque:": "270 Lb-Ft @ 5200 Rpm\r\n366 Nm @ 5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs 330 X 20"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "0/61.8 In (0 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4030 Lbs (1828 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12638,
+    "automobile_id": 3021,
+    "name": "3.7L V6 7AT RWD (334 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "245 Kw @ 7000 Rpm\r\n333 Hp @ 7000 Rpm\r\n329 Bhp @ 7000 Rpm",
+        "Torque:": "270 Lb-Ft @ 5200 Rpm\r\n366 Nm @ 5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs 330 X 20"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "0/61.8 In (0 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3832 Lbs (1738 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12639,
+    "automobile_id": 3021,
+    "name": "5.6L V8 7AT AWD (426 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "313 Kw @ 6000 Rpm\r\n426 Hp @ 6000 Rpm\r\n420 Bhp @ 6000 Rpm",
+        "Torque:": "417 Lb-Ft @ 4400 Rpm\r\n565 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4213 Lbs (1911 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12640,
+    "automobile_id": 3021,
+    "name": "5.6L V8 7AT RWD (426 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "313 Kw @ 6000 Rpm\r\n426 Hp @ 6000 Rpm\r\n420 Bhp @ 6000 Rpm",
+        "Torque:": "417 Lb-Ft @ 4400 Rpm\r\n565 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4004 Lbs (1816 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12641,
+    "automobile_id": 3021,
+    "name": "2.2d 7AT RWD (168 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "123.6 Kw @ 3200-4200 Rpm\r\n168 Hp @ 3200-4200 Rpm\r\n166 Bhp @ 3200-4200 Rpm",
+        "Torque:": "295 Lb-Ft @ 1600-2800 Rpm\r\n400 Nm @ 1600-2800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R 18 W"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "58.8 In (1494 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4198 Lbs (1904 Kg)",
+        "Gross Weight Limit:": "5236 Lbs (2375 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "124-128 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12642,
+    "automobile_id": 3021,
+    "name": "3.0d V6 7AT RWD (235 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "246.4 Kw @ 6500 Rpm\r\n335 Hp @ 6500 Rpm\r\n330 Bhp @ 6500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "154 Mph (248 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R 18 W"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4068 Lbs (1845 Kg)",
+        "Gross Weight Limit:": "5280 Lbs (2395 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12643,
+    "automobile_id": 3021,
+    "name": "3.5L V6 DRH 7AT RWD (365 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "268 Kw @ 6500 Rpm\r\n364 Hp @ 6500 Rpm\r\n359 Bhp @ 6500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4131 Lbs (1874 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)"
+      }
+    }
+  }
+]

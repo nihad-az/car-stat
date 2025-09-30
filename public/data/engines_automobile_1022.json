@@ -1,0 +1,102 @@
+[
+  {
+    "id": 5235,
+    "automobile_id": 1022,
+    "name": "1.4L Turbo AWD 6AT (138 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1364 Cm3",
+        "Power:": "101 Kw @ 4900 Rpm\r\n137 Hp @ 4900 Rpm\r\n135 Bhp @ 4900 Rpm",
+        "Torque:": "148 Lb-Ft @ 1850 Rpm\r\n201 Nm @ 1850 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "300 X 26Mm, Ventilated Discs",
+        "Rear:": "268 X 12Mm, Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55R18"
+      },
+      "Dimensions": {
+        "Length:": "168.4 In (4277 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "64.8 In (1646 Mm)",
+        "Front/Rear Track:": "2.4/2.4 In (61/61 Mm)",
+        "Wheelbase:": "100.6 In (2555 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3309 Lbs (1501 Kg)",
+        "Gross Weight Limit:": "4374 Lbs (1984 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5236,
+    "automobile_id": 1022,
+    "name": "1.4L Turbo FWD 6AT (138 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1364 Cm3",
+        "Power:": "101 Kw @ 4900 Rpm\r\n137 Hp @ 4900 Rpm\r\n135 Bhp @ 4900 Rpm",
+        "Torque:": "148 Lb-Ft @ 1850 Rpm\r\n201 Nm @ 1850 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "300 X 26Mm, Ventilated Discs",
+        "Rear:": "268 X 12Mm, Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55R18"
+      },
+      "Dimensions": {
+        "Length:": "168.4 In (4277 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "64.8 In (1646 Mm)",
+        "Front/Rear Track:": "2.4/2.4 In (61/61 Mm)",
+        "Wheelbase:": "100.6 In (2555 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "18.8 Cuft (532 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3190 Lbs (1447 Kg)",
+        "Gross Weight Limit:": "4255 Lbs (1930 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "33 Mpg Us (7.1 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  }
+]

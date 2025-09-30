@@ -1,0 +1,383 @@
+[
+  {
+    "id": 6480,
+    "automobile_id": 1437,
+    "name": "1.2L PureTech 6MT FWD (131 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1199 Cm3",
+        "Power:": "96.4 Kw @ 5500 Rpm\r\n131 Hp @ 5500 Rpm\r\n129 Bhp @ 5500 Rpm",
+        "Torque:": "170 Lb-Ft @ 1750 Rpm\r\n230 Nm @ 1750 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "77.5 In (1969 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "20.5 Cuft (580 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3095 Lbs (1404 Kg)",
+        "Gross Weight Limit:": "4277 Lbs (1940 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6481,
+    "automobile_id": 1437,
+    "name": "1.6L 350 THP 6AT FWD (167 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "122.8 Kw @ 6000 Rpm\r\n167 Hp @ 6000 Rpm\r\n165 Bhp @ 6000 Rpm",
+        "Torque:": "181 Lb-Ft @ 1400-4000 Rpm\r\n245 Nm @ 1400-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic Triptonic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "177.6 In (4511 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "65.7 In (1669 Mm)",
+        "Front/Rear Track:": "62.5/63.8 In (1,588/1,621 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3285 Lbs (1490 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6482,
+    "automobile_id": 1437,
+    "name": "1.6L PureTech 8AT FWD (181 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "133.1 Kw @ 5500 Rpm\r\n181 Hp @ 5500 Rpm\r\n178 Bhp @ 5500 Rpm",
+        "Torque:": "184 Lb-Ft @ 1650 Rpm\r\n250 Nm @ 1650 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136 Mph (219 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "77.5 In (1969 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "20.5 Cuft (580 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4387 Lbs (1990 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "129 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6483,
+    "automobile_id": 1437,
+    "name": "1.8L 380 THP 6AT FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1751 Cm3",
+        "Power:": "150 Kw @ 5500 Rpm\r\n204 Hp @ 5500 Rpm\r\n201 Bhp @ 5500 Rpm",
+        "Torque:": "207 Lb-Ft @ 1400-4000 Rpm\r\n280 Nm @ 1400-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic Triptonic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "77.5 In (1969 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "20.5 Cuft (580 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373 Lbs (1530 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6484,
+    "automobile_id": 1437,
+    "name": "1.5L BlueHDi 6MT FWD (131 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "96.4 Kw @ 3750 Rpm\r\n131 Hp @ 3750 Rpm\r\n129 Bhp @ 3750 Rpm",
+        "Torque:": "221 Lb-Ft @ 1750 Rpm\r\n300 Nm @ 1750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "77.5 In (1969 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "20.5 Cuft (580 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Highway:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Co2 Emissions:": "106 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6485,
+    "automobile_id": 1437,
+    "name": "1.5L BlueHDi 8AT FWD (131 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "96.4 Kw @ 3750 Rpm\r\n131 Hp @ 3750 Rpm\r\n129 Bhp @ 3750 Rpm",
+        "Torque:": "221 Lb-Ft @ 1750 Rpm\r\n300 Nm @ 1750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "77.5 In (1969 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "20.5 Cuft (580 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4453 Lbs (2020 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Highway:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "106 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6486,
+    "automobile_id": 1437,
+    "name": "2.0L BlueHDi 8AT FWD (178 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "130.9 Kw @ 3750 Rpm\r\n178 Hp @ 3750 Rpm\r\n176 Bhp @ 3750 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14 Gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131 Mph (211 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "77.5 In (1969 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Cargo Volume:": "20.5 Cuft (580 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3395 Lbs (1540 Kg)",
+        "Gross Weight Limit:": "4652 Lbs (2110 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Highway:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6487,
+    "automobile_id": 1437,
+    "name": "1.6L PHEV PureTech 8AT FWD (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "133.1 Kw @ 5500 Rpm\r\n181 Hp @ 5500 Rpm\r\n178 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 3000 Rpm\r\n300 Nm @ 3000 Rpm",
+        "Electrical Motor Power:": "80.9 Kw (110 Hp)",
+        "Electrical Motor Torque:": "236 Lb-Ft (320 Nm)",
+        "Total Maximum Power:": "165.5 Kw (225 Hp)",
+        "Total Maximum Torque:": "265.5 Lb-Ft (360 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "11.4 Gallons (43.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65/R17"
+      },
+      "Dimensions": {
+        "Length:": "177.2 In (4501 Mm)",
+        "Width:": "77.5 In (1969 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "62.2/63.3 In (1,580/1,608 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Turning Circle:": "35.1 Ft (10.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3858 Lbs (1750 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "13.2 Kwh",
+        "Range:": "37.3 Miles (60.0 Km)"
+      }
+    }
+  }
+]

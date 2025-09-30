@@ -1,0 +1,82 @@
+[
+  {
+    "id": 10613,
+    "automobile_id": 2476,
+    "name": "3.5L T-GDI 8AT (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Displacement:": "3470 Cm3",
+        "Power:": "279.5 Kw @ - Rpm\r\n380 Hp @ - Rpm\r\n375 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "207.7 In (5276 Mm)",
+        "Width:": "76 In (1930 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "125.2 In (3180 Mm)"
+      }
+    }
+  },
+  {
+    "id": 10614,
+    "automobile_id": 2476,
+    "name": "3.5L T-GDI 8AT AWD (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Displacement:": "3470 Cm3",
+        "Power:": "279.5 Kw @ - Rpm\r\n380 Hp @ - Rpm\r\n375 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "207.7 In (5276 Mm)",
+        "Width:": "76 In (1930 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "125.2 In (3180 Mm)"
+      }
+    }
+  },
+  {
+    "id": 10615,
+    "automobile_id": 2476,
+    "name": "LWB 3.5L T-GDI 48V 8AT AWD",
+    "specs": {
+      "Engine Specs": {
+        "Displacement:": "3470 Cm3",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "215.2 In (5466 Mm)",
+        "Width:": "76 In (1930 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "132.7 In (3371 Mm)"
+      }
+    }
+  }
+]

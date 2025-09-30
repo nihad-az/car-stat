@@ -1,0 +1,94 @@
+[
+  {
+    "id": 18682,
+    "automobile_id": 4695,
+    "name": "1.5i 5MT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1458 Cm3",
+        "Power:": "66 Kw @ 6000 Rpm\r\n90 Hp @ 6000 Rpm\r\n89 Bhp @ 6000 Rpm",
+        "Torque:": "93 Lb-Ft @ 3000 Rpm\r\n126 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155 R13"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "64.6 In (1641 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.5/52.7 In (1,410/1,339 Mm)",
+        "Wheelbase:": "93.7 In (2380 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2202.4 Lbs (999 Kg)",
+        "Gross Weight Limit:": "3273.9 Lbs (1485 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "188 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18683,
+    "automobile_id": 4695,
+    "name": "1.8L D 5MT FWD (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1779 Cm3",
+        "Power:": "44 Kw @ 4500 Rpm\r\n60 Hp @ 4500 Rpm\r\n59 Bhp @ 4500 Rpm",
+        "Torque:": "83 Lb-Ft @ 3000 Rpm\r\n113 Nm @ 3000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155 R13S"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "64.6 In (1641 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.5/52.7 In (1,410/1,339 Mm)",
+        "Wheelbase:": "93.7 In (2380 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2292.8 Lbs (1040 Kg)",
+        "Gross Weight Limit:": "3428.2 Lbs (1555 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "164 G/Km"
+      }
+    }
+  }
+]

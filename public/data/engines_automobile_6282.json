@@ -1,0 +1,86 @@
+[
+  {
+    "id": 25567,
+    "automobile_id": 6282,
+    "name": "2.0 5MT AWD (152 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "113.3 Kw @ 6000 Rpm\r\n154.1 Hp @ 6000 Rpm\r\n152 Bhp @ 6000 Rpm",
+        "Torque:": "152 Lb-Ft @ 4000 Rpm\r\n206 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 89V"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "70 In (1778 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "60.6/60.8 In (1,539/1,544 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20.8 Cuft (589 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2985 Lbs (1354 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25568,
+    "automobile_id": 6282,
+    "name": "2.0 CVT AWD (152 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "113.3 Kw @ 6000 Rpm\r\n154.1 Hp @ 6000 Rpm\r\n152 Bhp @ 6000 Rpm",
+        "Torque:": "152 Lb-Ft @ 4000 Rpm\r\n206 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt (Lineartronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 89V"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "70 In (1778 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "60.6/60.8 In (1,539/1,544 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20.8 Cuft (589 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3047 Lbs (1382 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  }
+]

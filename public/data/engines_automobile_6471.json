@@ -1,0 +1,76 @@
+[
+  {
+    "id": 26170,
+    "automobile_id": 6471,
+    "name": "71.4 KWh (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "150 Kw (204 Hp)",
+        "Total Maximum Torque:": "195.5 Lb-Ft (265 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "100 Mph (161 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "184.6 In (4689 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "71.4 Kwh",
+        "Range:": "280 Miles (450.6 Km)"
+      }
+    }
+  },
+  {
+    "id": 26171,
+    "automobile_id": 6471,
+    "name": "71.4 KWh AWD (217 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "80.2 Kw (109 Hp)",
+        "Electrical Motor Torque:": "247.8 Lb-Ft (336 Nm)",
+        "Total Maximum Power:": "159.6 Kw (217 Hp)",
+        "Total Maximum Torque:": "195.5 Lb-Ft (265 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "100 Mph (161 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "184.6 In (4689 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "71.4 Kwh",
+        "Range:": "255 Miles (410.4 Km)"
+      }
+    }
+  }
+]

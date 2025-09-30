@@ -1,0 +1,786 @@
+[
+  {
+    "id": 5040,
+    "automobile_id": 913,
+    "name": "725 3AT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2494 Cm3",
+        "Power:": "110.3 Kw @ 6000 Rpm\r\n150 Hp @ 6000 Rpm\r\n148 Bhp @ 6000 Rpm",
+        "Torque:": "156 Lb-Ft @ 3700 Rpm\r\n211 Nm @ 3700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3417 Lbs (1550 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15.7 Mpg Us (15 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5041,
+    "automobile_id": 913,
+    "name": "725 4MT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2494 Cm3",
+        "Power:": "110.3 Kw @ 6000 Rpm\r\n150 Hp @ 6000 Rpm\r\n148 Bhp @ 6000 Rpm",
+        "Torque:": "156 Lb-Ft @ 3700 Rpm\r\n211 Nm @ 3700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373 Lbs (1530 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "17.4 Mpg Us (13.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5042,
+    "automobile_id": 913,
+    "name": "728 3AT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "125.1 Kw @ 5800 Rpm\r\n170 Hp @ 5800 Rpm\r\n168 Bhp @ 5800 Rpm",
+        "Torque:": "172 Lb-Ft @ 4000 Rpm\r\n233 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Hr 14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3417 Lbs (1550 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.8 Mpg Us (12.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5043,
+    "automobile_id": 913,
+    "name": "728 4MT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "125.1 Kw @ 5800 Rpm\r\n170 Hp @ 5800 Rpm\r\n168 Bhp @ 5800 Rpm",
+        "Torque:": "172 Lb-Ft @ 4000 Rpm\r\n233 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119 Mph (192 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Hr 14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373 Lbs (1530 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5044,
+    "automobile_id": 913,
+    "name": "728i 4MT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "135 Kw @ 5800 Rpm\r\n184 Hp @ 5800 Rpm\r\n181 Bhp @ 5800 Rpm",
+        "Torque:": "177 Lb-Ft @ 4200 Rpm\r\n240 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3262.8 Lbs (1480 Kg)",
+        "Gross Weight Limit:": "4321 Lbs (1960 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.2 Mpg Us (17.8 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "18.7 Mpg Us (12.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5045,
+    "automobile_id": 913,
+    "name": "728i 5MT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "135 Kw @ 5800 Rpm\r\n184 Hp @ 5800 Rpm\r\n181 Bhp @ 5800 Rpm",
+        "Torque:": "177 Lb-Ft @ 4200 Rpm\r\n240 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3285 Lbs (1490 Kg)",
+        "Gross Weight Limit:": "4321 Lbs (1960 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.6 Mpg Us (12 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5046,
+    "automobile_id": 913,
+    "name": "730 3AT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2986 Cm3",
+        "Power:": "135.3 Kw @ 5800 Rpm\r\n184 Hp @ 5800 Rpm\r\n181 Bhp @ 5800 Rpm",
+        "Torque:": "188 Lb-Ft @ 3500 Rpm\r\n255 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Hr 14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.2 Mpg Us (12.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5047,
+    "automobile_id": 913,
+    "name": "730 4MT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2986 Cm3",
+        "Power:": "135.3 Kw @ 5800 Rpm\r\n184 Hp @ 5800 Rpm\r\n181 Bhp @ 5800 Rpm",
+        "Torque:": "188 Lb-Ft @ 3500 Rpm\r\n255 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Hr 14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3483 Lbs (1580 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5048,
+    "automobile_id": 913,
+    "name": "732i 4MT RWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3210 Cm3",
+        "Power:": "145 Kw @ 5500 Rpm\r\n197 Hp @ 5500 Rpm\r\n194 Bhp @ 5500 Rpm",
+        "Torque:": "210 Lb-Ft @ 4300 Rpm\r\n285 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.4 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3329 Lbs (1510 Kg)",
+        "Gross Weight Limit:": "4409.2 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.4 Mpg Us (17.6 L/100Km)",
+        "Highway:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Combined:": "18.5 Mpg Us (12.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5049,
+    "automobile_id": 913,
+    "name": "732i 5MT RWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3210 Cm3",
+        "Power:": "145 Kw @ 5500 Rpm\r\n197 Hp @ 5500 Rpm\r\n194 Bhp @ 5500 Rpm",
+        "Torque:": "210 Lb-Ft @ 4300 Rpm\r\n285 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3351 Lbs (1520 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "Infinity Mpg Us (0 L/100Km)",
+        "Highway:": "Infinity Mpg Us (0 L/100Km)",
+        "Combined:": "19.6 Mpg Us (12 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5050,
+    "automobile_id": 913,
+    "name": "733i 3MT RWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3210 Cm3",
+        "Power:": "130.2 Kw @ 5200 Rpm\r\n177 Hp @ 5200 Rpm\r\n175 Bhp @ 5200 Rpm",
+        "Torque:": "188 Lb-Ft @ 4200 Rpm\r\n255 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr 14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3627 Lbs (1645 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5051,
+    "automobile_id": 913,
+    "name": "733i 5MT RWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3210 Cm3",
+        "Power:": "130.2 Kw @ 5200 Rpm\r\n177 Hp @ 5200 Rpm\r\n175 Bhp @ 5200 Rpm",
+        "Torque:": "188 Lb-Ft @ 4200 Rpm\r\n255 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr 14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3583 Lbs (1625 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5052,
+    "automobile_id": 913,
+    "name": "735i 3AT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3453 Cm3",
+        "Power:": "160 Kw @ 5200 Rpm\r\n218 Hp @ 5200 Rpm\r\n215 Bhp @ 5200 Rpm",
+        "Torque:": "229 Lb-Ft @ 4000 Rpm\r\n310 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3395 Lbs (1540 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.1 Mpg Us (19.4 L/100Km)",
+        "Highway:": "19.4 Mpg Us (12.1 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5053,
+    "automobile_id": 913,
+    "name": "735i 5MT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3453 Cm3",
+        "Power:": "160 Kw @ 5200 Rpm\r\n218 Hp @ 5200 Rpm\r\n215 Bhp @ 5200 Rpm",
+        "Torque:": "229 Lb-Ft @ 4000 Rpm\r\n310 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3351 Lbs (1520 Kg)",
+        "Gross Weight Limit:": "4409.2 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.8 Mpg Us (19.9 L/100Km)",
+        "Highway:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5054,
+    "automobile_id": 913,
+    "name": "745i 3AT RWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3430 Cm3",
+        "Power:": "185 Kw @ 5200 Rpm\r\n252 Hp @ 5200 Rpm\r\n248 Bhp @ 5200 Rpm",
+        "Torque:": "280 Lb-Ft @ 2600 Rpm\r\n380 Nm @ 2600 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "220/55 R390"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4563.5 Lbs (2070 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Combined:": "18.1 Mpg Us (13 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5055,
+    "automobile_id": 913,
+    "name": "745i 5MT RWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3430 Cm3",
+        "Power:": "185 Kw @ 5200 Rpm\r\n252 Hp @ 5200 Rpm\r\n248 Bhp @ 5200 Rpm",
+        "Torque:": "280 Lb-Ft @ 2600 Rpm\r\n380 Nm @ 2600 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "26.4 Gallons (99.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "220/55 R390"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "70.8 In (1798 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.4/59.8 In (1,509/1,519 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "4564 Lbs (2070 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16.8 Mpg Us (14 L/100Km)"
+      }
+    }
+  }
+]

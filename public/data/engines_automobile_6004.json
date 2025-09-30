@@ -1,0 +1,74 @@
+[
+  {
+    "id": 24096,
+    "automobile_id": 6004,
+    "name": "2.3",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2349 Cm3",
+        "Power:": "125 Kw @ 6000 Rpm\r\n170 Hp @ 6000 Rpm\r\n168 Bhp @ 6000 Rpm",
+        "Torque:": "167 Lb-Ft @ 4400 Rpm\r\n226 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "58.1 In (1476 Mm)",
+        "Front/Rear Track:": "60.6/60.8 In (1,539/1,544 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3428 Lbs (1555 Kg)"
+      }
+    }
+  },
+  {
+    "id": 24097,
+    "automobile_id": 6004,
+    "name": "3.5 V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "169 Kw @ 5600 Rpm\r\n230 Hp @ 5600 Rpm\r\n227 Bhp @ 5600 Rpm",
+        "Torque:": "243 Lb-Ft @ 2800 Rpm\r\n330 Nm @ 2800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "58.1 In (1476 Mm)",
+        "Front/Rear Track:": "60.2/60.4 In (1,529/1,534 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3218.8 Lbs (1460 Kg)"
+      }
+    }
+  }
+]

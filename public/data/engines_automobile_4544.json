@@ -1,0 +1,138 @@
+[
+  {
+    "id": 18028,
+    "automobile_id": 4544,
+    "name": "1.0T GDI 6AT FWD (111 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "81.6 Kw @ 520 Rpm\r\n111 Hp @ 520 Rpm\r\n109 Bhp @ 520 Rpm",
+        "Torque:": "118 Lb-Ft @ 1800-4700 Rpm\r\n160 Nm @ 1800-4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "169.8 In (4313 Mm)",
+        "Width:": "80.6 In (2047 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "60.2/60.5 In (1,529/1,537 Mm)",
+        "Wheelbase:": "101.8 In (2586 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2714 Lbs (1231 Kg)",
+        "Gross Weight Limit:": "3814 Lbs (1730 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "145 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18029,
+    "automobile_id": 4544,
+    "name": "1.5L VTI-tech 5MT FWD (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "78 Kw @ 6000 Rpm\r\n106 Hp @ 6000 Rpm\r\n105 Bhp @ 6000 Rpm",
+        "Torque:": "104 Lb-Ft @ 4500 Rpm\r\n141 Nm @ 4500 Rpm",
+        "Fuel System:": "Dual Port Fuel Injection-Dpfi",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "12.7 Gallons (48.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "169.8 In (4313 Mm)",
+        "Width:": "80.6 In (2047 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "60.2/60.5 In (1,529/1,537 Mm)",
+        "Wheelbase:": "101.8 In (2586 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2624 Lbs (1190 Kg)",
+        "Gross Weight Limit:": "3737 Lbs (1695 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "140 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18030,
+    "automobile_id": 4544,
+    "name": "ZS EV 105 KW (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "105.2 Kw @ - Rpm\r\n143 Hp @ - Rpm\r\n141 Bhp @ - Rpm",
+        "Torque:": "260 Lb-Ft @ - Rpm\r\n353 Nm @ - Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "169.8 In (4313 Mm)",
+        "Width:": "80.6 In (2047 Mm)",
+        "Height:": "63.4 In (1610 Mm)",
+        "Front/Rear Track:": "60.2/60.5 In (1,529/1,537 Mm)",
+        "Wheelbase:": "101.8 In (2586 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "44.5 Kwh",
+        "Range:": "163 Miles (262.3 Km)"
+      }
+    }
+  }
+]

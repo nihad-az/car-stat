@@ -1,0 +1,134 @@
+[
+  {
+    "id": 12650,
+    "automobile_id": 3024,
+    "name": "3.7L V6 7AT AWD (329 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "242 Kw @ 7000 Rpm\r\n328 Hp @ 7000 Rpm\r\n325 Bhp @ 7000 Rpm",
+        "Torque:": "267 Lb-Ft @ 5200 Rpm\r\n362 Nm @ 5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "75.9 In (1928 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "64.4/64.4 In (1,636/1,636 Mm)",
+        "Wheelbase:": "113.6 In (2885 Mm)",
+        "Ground Clearance:": "7.36 In (187 Mm)",
+        "Cargo Volume:": "24.8 Cuft (702 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4321 Lbs (1960 Kg)",
+        "Gross Weight Limit:": "5519 Lbs (2503 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12651,
+    "automobile_id": 3024,
+    "name": "3.7L V6 7AT RWD (329 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "242 Kw @ 7000 Rpm\r\n328 Hp @ 7000 Rpm\r\n325 Bhp @ 7000 Rpm",
+        "Torque:": "267 Lb-Ft @ 5200 Rpm\r\n362 Nm @ 5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "75.9 In (1928 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "64.4/64.4 In (1,636/1,636 Mm)",
+        "Wheelbase:": "113.6 In (2885 Mm)",
+        "Ground Clearance:": "7.36 In (187 Mm)",
+        "Cargo Volume:": "24.8 Cuft (702 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4209 Lbs (1909 Kg)",
+        "Gross Weight Limit:": "5301 Lbs (2404 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12652,
+    "automobile_id": 3024,
+    "name": "5.0L V8 7AT AWD (395 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5026 Cm3",
+        "Power:": "291 Kw @ 6500 Rpm\r\n395 Hp @ 6500 Rpm\r\n390 Bhp @ 6500 Rpm",
+        "Torque:": "369 Lb-Ft @ 4400 Rpm\r\n500 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "75.9 In (1928 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "64.4/64.4 In (1,636/1,636 Mm)",
+        "Wheelbase:": "113.6 In (2885 Mm)",
+        "Ground Clearance:": "7.36 In (187 Mm)",
+        "Cargo Volume:": "24.8 Cuft (702 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4562 Lbs (2069 Kg)",
+        "Gross Weight Limit:": "5766 Lbs (2615 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

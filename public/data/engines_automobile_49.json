@@ -1,0 +1,90 @@
+[
+  {
+    "id": 92,
+    "automobile_id": 49,
+    "name": "3.0L V6 4AT (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2977 Cm3",
+        "Power:": "188 Kw @ 6600 Rpm\r\n252 Hp @ 6600 Rpm\r\n252 Bhp @ 6600 Rpm",
+        "Torque:": "210 Lb-Ft @ 5300 Rpm\r\n285 Nm @ 5300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40R1783Y // 255/40R1794Y"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "46.1 In (1171 Mm)",
+        "Front/Rear Track:": "59.5/60.7 In (1,511/1,542 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "5 Cuft (142 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3197 Lbs (1450 Kg)",
+        "Gross Weight Limit:": "3549 Lbs (1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "automobile_id": 49,
+    "name": "3.2L V6 6MT (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3179 Cm3",
+        "Power:": "216 Kw @ 7100 Rpm\r\n290 Hp @ 7100 Rpm\r\n290 Bhp @ 7100 Rpm",
+        "Torque:": "224 Lb-Ft @ 5500 Rpm\r\n304 Nm @ 5500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40R1783Y // 255/40R1794Y"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "46.1 In (1171 Mm)",
+        "Front/Rear Track:": "59.5/60.7 In (1,511/1,542 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "5 Cuft (142 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "3549 Lbs (1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  }
+]

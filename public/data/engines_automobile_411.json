@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1131,
+    "automobile_id": 411,
+    "name": "2.0L TFSI 6AT AWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "228 Kw @ 4500-6200 Rpm\r\n310 Hp @ 4500-6200 Rpm\r\n306 Bhp @ 4500-6200 Rpm",
+        "Torque:": "280 Lb-Ft @ 1800-5700 Rpm\r\n380 Nm @ 1800-5700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "164.4 In (4176 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "53.3 In (1354 Mm)",
+        "Front/Rear Track:": "61.9/61.1 In (1,572/1,552 Mm)",
+        "Wheelbase:": "98.6 In (2504 Mm)",
+        "Cargo Volume:": "9.9 Cuft (280 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3406 Lbs (1545 Kg)",
+        "Gross Weight Limit:": "3946 Lbs (1790 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1132,
+    "automobile_id": 411,
+    "name": "2.0L TFSI 6MT AWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "228 Kw @ 4500-6200 Rpm\r\n310 Hp @ 4500-6200 Rpm\r\n306 Bhp @ 4500-6200 Rpm",
+        "Torque:": "280 Lb-Ft @ 1800-5700 Rpm\r\n380 Nm @ 1800-5700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "164.4 In (4176 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "53.3 In (1354 Mm)",
+        "Front/Rear Track:": "61.9/61.1 In (1,572/1,552 Mm)",
+        "Wheelbase:": "98.6 In (2504 Mm)",
+        "Cargo Volume:": "9.9 Cuft (280 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)",
+        "Gross Weight Limit:": "3902 Lbs (1770 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  }
+]

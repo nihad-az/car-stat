@@ -1,0 +1,59 @@
+[
+  {
+    "id": 11817,
+    "automobile_id": 2833,
+    "name": "1.6L Turbo",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Turbocharged Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 11818,
+    "automobile_id": 2833,
+    "name": "2.0L",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 11819,
+    "automobile_id": 2833,
+    "name": "1.6L",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Turbocharged Direct Injection Naturally Aspirated",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  }
+]

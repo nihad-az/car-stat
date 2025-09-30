@@ -1,0 +1,73 @@
+[
+  {
+    "id": 9083,
+    "automobile_id": 2161,
+    "name": "2.0L",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Fuel Economy (Nedc)": {
+        "Highway:": "30 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9084,
+    "automobile_id": 2161,
+    "name": "2.5L 6AT (169 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "124.3 Kw @ 6000 Rpm\r\n169 Hp @ 6000 Rpm\r\n167 Bhp @ 6000 Rpm",
+        "Torque:": "171 Lb-Ft @ 4500 Rpm\r\n232 Nm @ 4500 Rpm",
+        "Fuel System:": "Sequential Multiport Electronic",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Dimensions": {
+        "Length:": "189.7 In (4818 Mm)",
+        "Width:": "84.1 In (2136 Mm)",
+        "Height:": "72 In (1829 Mm)",
+        "Front/Rear Track:": "61.4X61.7 In (1560 Mm)",
+        "Wheelbase:": "120.6 In (3063 Mm)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2000 Lbs (907 Kg)",
+        "Gross Weight Limit:": "5280 Lbs (2395 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9085,
+    "automobile_id": 2161,
+    "name": "1.5L EcoBlue",
+    "specs": {
+      "Engine Specs": {
+        "Torque:": "0 Lb-Ft @  Rpm\r\n0 Nm @  Rpm",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Fuel Economy (Nedc)": {
+        "Highway:": "30 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  }
+]

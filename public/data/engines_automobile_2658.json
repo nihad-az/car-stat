@@ -1,0 +1,182 @@
+[
+  {
+    "id": 11297,
+    "automobile_id": 2658,
+    "name": "2.4L 6MT (185 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2356 Cm3",
+        "Power:": "138 Kw @ 6400 Rpm\r\n188 Hp @ 6400 Rpm\r\n185 Bhp @ 6400 Rpm",
+        "Torque:": "181 Lb-Ft @ 3900 Rpm\r\n245 Nm @ 3900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215 / 55 R17 94V"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "62.4/62.6 In (1,585/1,590 Mm)",
+        "Wheelbase:": "107.3 In (2725 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3179 Lbs (1442 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11298,
+    "automobile_id": 2658,
+    "name": "2.4L CVT (185 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2356 Cm3",
+        "Power:": "138 Kw @ 6400 Rpm\r\n188 Hp @ 6400 Rpm\r\n185 Bhp @ 6400 Rpm",
+        "Torque:": "181 Lb-Ft @ 3900 Rpm\r\n245 Nm @ 3900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215 / 55 R17 94V"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "62.4/62.6 In (1,585/1,590 Mm)",
+        "Wheelbase:": "107.3 In (2725 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3248 Lbs (1473 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26 Mpg Us (9 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)",
+        "Combined:": "30 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11299,
+    "automobile_id": 2658,
+    "name": "3.5L V6 6AT (278 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "207.3 Kw @ 6200 Rpm\r\n282 Hp @ 6200 Rpm\r\n278 Bhp @ 6200 Rpm",
+        "Torque:": "252 Lb-Ft @ 4900 Rpm\r\n342 Nm @ 4900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235 / 40 R19 96V"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "0/62.7 In (0 Mm)",
+        "Wheelbase:": "107.3 In (2725 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3554 Lbs (1612 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11300,
+    "automobile_id": 2658,
+    "name": "3.5L V6 6MT (278 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "207.3 Kw @ 6200 Rpm\r\n282 Hp @ 6200 Rpm\r\n278 Bhp @ 6200 Rpm",
+        "Torque:": "251 Lb-Ft @ 5300 Rpm\r\n340 Nm @ 5300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235 / 45 R18 94V"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "0/62.7 In (0 Mm)",
+        "Wheelbase:": "107.3 In (2725 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3397 Lbs (1541 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  }
+]

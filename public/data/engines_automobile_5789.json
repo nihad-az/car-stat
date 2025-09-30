@@ -1,0 +1,133 @@
+[
+  {
+    "id": 22878,
+    "automobile_id": 5789,
+    "name": "1.5L 5MT FWD (99 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "73 Kw @ 6000 Rpm\r\n99 Hp @ 6000 Rpm\r\n98 Bhp @ 6000 Rpm",
+        "Torque:": "99 Lb-Ft @ 4000 Rpm\r\n134 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.8 Gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111 Mph (179 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.3 In (1506 Mm)",
+        "Front/Rear Track:": "58.3/58.5 In (1,481/1,486 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2216 Lbs (1005 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22879,
+    "automobile_id": 5789,
+    "name": "1.5L CVT FWD (99 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "73 Kw @ 6000 Rpm\r\n99 Hp @ 6000 Rpm\r\n98 Bhp @ 6000 Rpm",
+        "Torque:": "99 Lb-Ft @ 4000 Rpm\r\n134 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.8 Gallons (40.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Continuously Variable Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.3 In (1506 Mm)",
+        "Front/Rear Track:": "58.3/58.5 In (1,481/1,486 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "42 Mpg Us (5.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22880,
+    "automobile_id": 5789,
+    "name": "1.5L dCI FWD (86 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1461 Cm3",
+        "Power:": "63 Kw @ 3750 Rpm\r\n86 Hp @ 3750 Rpm\r\n84 Bhp @ 3750 Rpm",
+        "Torque:": "148 Lb-Ft @ 2000 Rpm\r\n201 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "10.8 Gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.3 In (1506 Mm)",
+        "Front/Rear Track:": "58.3/58.5 In (1,481/1,486 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2381 Lbs (1080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)"
+      }
+    }
+  }
+]

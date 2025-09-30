@@ -1,0 +1,94 @@
+[
+  {
+    "id": 12546,
+    "automobile_id": 2994,
+    "name": "1.5",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1468 Cm3",
+        "Power:": "53 Kw @ 5100 Rpm\r\n72 Hp @ 5100 Rpm\r\n71 Bhp @ 5100 Rpm",
+        "Torque:": "88 Lb-Ft @ 3000 Rpm\r\n119 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99.4 Mph (160 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155R13"
+      },
+      "Dimensions": {
+        "Length:": "161.4 In (4100 Mm)",
+        "Width:": "63.4 In (1610 Mm)",
+        "Height:": "54.3 In (1379 Mm)",
+        "Front/Rear Track:": "54.7/52.8 In (1,389/1,341 Mm)",
+        "Wheelbase:": "93.7 In (2380 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2138.5 Lbs (970 Kg)",
+        "Gross Weight Limit:": "3196.7 Lbs (1450 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "181 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12547,
+    "automobile_id": 2994,
+    "name": "1.5i",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1468 Cm3",
+        "Power:": "62 Kw @ 5500 Rpm\r\n84 Hp @ 5500 Rpm\r\n83 Bhp @ 5500 Rpm",
+        "Torque:": "89 Lb-Ft @ 4000 Rpm\r\n120 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70R13"
+      },
+      "Dimensions": {
+        "Length:": "161.4 In (4100 Mm)",
+        "Width:": "63.4 In (1610 Mm)",
+        "Height:": "54.3 In (1379 Mm)",
+        "Front/Rear Track:": "54.7/52.8 In (1,389/1,341 Mm)",
+        "Wheelbase:": "93.7 In (2380 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2138.5 Lbs (970 Kg)",
+        "Gross Weight Limit:": "3196.7 Lbs (1450 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "152 G/Km"
+      }
+    }
+  }
+]

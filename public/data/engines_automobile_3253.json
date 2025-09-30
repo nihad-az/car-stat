@@ -1,0 +1,642 @@
+[
+  {
+    "id": 13456,
+    "automobile_id": 3253,
+    "name": "1.6L GDI 6MT FWD (132 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1591 Cm3",
+        "Power:": "97.1 Kw @ 6300 Rpm\r\n132 Hp @ 6300 Rpm\r\n130 Bhp @ 6300 Rpm",
+        "Torque:": "119 Lb-Ft @ 4850 Rpm\r\n161 Nm @ 4850 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "113 Mph (182 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3080 Lbs (1397 Kg)",
+        "Gross Weight Limit:": "4178 Lbs (1895 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "156 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13457,
+    "automobile_id": 3253,
+    "name": "1.6L T-GDI 6MT AWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1591 Cm3",
+        "Power:": "130.2 Kw @ 5500 Rpm\r\n177 Hp @ 5500 Rpm\r\n175 Bhp @ 5500 Rpm",
+        "Torque:": "196 Lb-Ft @ 1500-4500 Rpm\r\n265 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3325 Lbs (1508 Kg)",
+        "Gross Weight Limit:": "4674 Lbs (2120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.5 Mpg Us (10 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "177 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13458,
+    "automobile_id": 3253,
+    "name": "1.6L T-GDI 7AT AWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1591 Cm3",
+        "Power:": "130.2 Kw @ 5500 Rpm\r\n177 Hp @ 5500 Rpm\r\n175 Bhp @ 5500 Rpm",
+        "Torque:": "196 Lb-Ft @ 1500-4500 Rpm\r\n265 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125 Mph (201 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Dct)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3382 Lbs (1534 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "175 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13459,
+    "automobile_id": 3253,
+    "name": "2.0L GDI CVT AWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "179 Kw @ 6000 Rpm\r\n243 Hp @ 6000 Rpm\r\n240 Bhp @ 6000 Rpm",
+        "Torque:": "260 Lb-Ft @ 1450-3500 Rpm\r\n353 Nm @ 1450-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3898 Lbs (1768 Kg)",
+        "Gross Weight Limit:": "5004 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13460,
+    "automobile_id": 3253,
+    "name": "2.0L GDI CVT FWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "179 Kw @ 6000 Rpm\r\n243 Hp @ 6000 Rpm\r\n240 Bhp @ 6000 Rpm",
+        "Torque:": "260 Lb-Ft @ 1450-3500 Rpm\r\n353 Nm @ 1450-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3666 Lbs (1663 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13461,
+    "automobile_id": 3253,
+    "name": "2.4L GDI CVT AWD (181 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2359 Cm3",
+        "Power:": "135 Kw @ 6000 Rpm\r\n184 Hp @ 6000 Rpm\r\n181 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4000 Rpm\r\n237 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3448 Lbs (1564 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13462,
+    "automobile_id": 3253,
+    "name": "2.4L GDI CVT FWD (181 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2359 Cm3",
+        "Power:": "135 Kw @ 6000 Rpm\r\n184 Hp @ 6000 Rpm\r\n181 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4000 Rpm\r\n237 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3305 Lbs (1499 Kg)",
+        "Gross Weight Limit:": "4189 Lbs (1900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13463,
+    "automobile_id": 3253,
+    "name": "1.7L CRDi 6MT FWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1685 Cm3",
+        "Power:": "85.3 Kw @ 4000 Rpm\r\n116 Hp @ 4000 Rpm\r\n114 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1250-2750 Rpm\r\n280 Nm @ 1250-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3142 Lbs (1425 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13464,
+    "automobile_id": 3253,
+    "name": "2.0L CRDi 6AT AWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "275 Lb-Ft @ 1500-2500 Rpm\r\n373 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13465,
+    "automobile_id": 3253,
+    "name": "2.0L CRDi 6AT AWD (185 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "136.1 Kw @ 4000 Rpm\r\n185 Hp @ 4000 Rpm\r\n183 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2750 Rpm\r\n400 Nm @ 1750-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125 Mph (201 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "166 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13466,
+    "automobile_id": 3253,
+    "name": "2.0L CRDi 6MT AWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "275 Lb-Ft @ 1500-2500 Rpm\r\n373 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3499 Lbs (1587 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13467,
+    "automobile_id": 3253,
+    "name": "2.0L CRDi 6MT AWD (185 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "136.1 Kw @ 4000 Rpm\r\n185 Hp @ 4000 Rpm\r\n183 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2750 Rpm\r\n400 Nm @ 1750-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125 Mph (201 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3499 Lbs (1587 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13468,
+    "automobile_id": 3253,
+    "name": "2.0L CRDi 6MT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "275 Lb-Ft @ 1500-2500 Rpm\r\n373 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "64/64.4 In (1,626/1,636 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3371 Lbs (1529 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "132 G/Km"
+      }
+    }
+  }
+]

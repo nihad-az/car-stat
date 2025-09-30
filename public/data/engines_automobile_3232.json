@@ -1,0 +1,36 @@
+[
+  {
+    "id": 13380,
+    "automobile_id": 3232,
+    "name": "1.6L T-GDI 6MT FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "150 Kw @ - Rpm\r\n204 Hp @ - Rpm\r\n201 Bhp @ - Rpm",
+        "Torque:": "196 Lb-Ft @ - Rpm\r\n265 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      }
+    }
+  },
+  {
+    "id": 13381,
+    "automobile_id": 3232,
+    "name": "1.6L T-GDI 7AT FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      }
+    }
+  }
+]

@@ -1,0 +1,625 @@
+[
+  {
+    "id": 17434,
+    "automobile_id": 4261,
+    "name": "200 4MT RWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "77 Kw @ 5200 Rpm\r\n105 Hp @ 5200 Rpm\r\n103 Bhp @ 5200 Rpm",
+        "Torque:": "118 Lb-Ft @ 2500 Rpm\r\n160 Nm @ 2500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15T"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3064 Lbs (1390 Kg)",
+        "Gross Weight Limit:": "4431 Lbs (2010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.3 Mpg Us (12.2 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "221 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17435,
+    "automobile_id": 4261,
+    "name": "200 E 4MT RWD (118 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "87 Kw @ 5200 Rpm\r\n118 Hp @ 5200 Rpm\r\n117 Bhp @ 5200 Rpm",
+        "Torque:": "127 Lb-Ft @ 3500 Rpm\r\n172 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15T"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3108 Lbs (1410 Kg)",
+        "Gross Weight Limit:": "4475 Lbs (2030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.3 Mpg Us (12.2 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Co2 Emissions:": "235 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17436,
+    "automobile_id": 4261,
+    "name": "200 E-16V 5MT RWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "100 Kw @ 5500 Rpm\r\n136 Hp @ 5500 Rpm\r\n134 Bhp @ 5500 Rpm",
+        "Torque:": "140 Lb-Ft @ 4000 Rpm\r\n190 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3174 Lbs (1440 Kg)",
+        "Gross Weight Limit:": "4673.8 Lbs (2120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.4 Mpg Us (12.1 L/100Km)",
+        "Highway:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Co2 Emissions:": "218 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17437,
+    "automobile_id": 4261,
+    "name": "220 E 5MT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2199 Cm3",
+        "Power:": "110 Kw @ 5500 Rpm\r\n150 Hp @ 5500 Rpm\r\n148 Bhp @ 5500 Rpm",
+        "Torque:": "155 Lb-Ft @ 4000 Rpm\r\n210 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15H"
+      },
+      "Dimensions": {
+        "Length:": "187.6 In (4765 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3196.7 Lbs (1450 Kg)",
+        "Gross Weight Limit:": "4695.8 Lbs (2130 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions:": "228 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17438,
+    "automobile_id": 4261,
+    "name": "230 E 4MT RWD (132 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2299 Cm3",
+        "Power:": "97 Kw @ 5100 Rpm\r\n132 Hp @ 5100 Rpm\r\n130 Bhp @ 5100 Rpm",
+        "Torque:": "146 Lb-Ft @ 3500 Rpm\r\n198 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15H"
+      },
+      "Dimensions": {
+        "Length:": "187.6 In (4765 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3262 Lbs (1480 Kg)",
+        "Gross Weight Limit:": "4629.7 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.3 Mpg Us (12.2 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Co2 Emissions:": "235 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17439,
+    "automobile_id": 4261,
+    "name": "280 E 5MT RWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2799 Cm3",
+        "Power:": "145 Kw @ 5500 Rpm\r\n197 Hp @ 5500 Rpm\r\n194 Bhp @ 5500 Rpm",
+        "Torque:": "199 Lb-Ft @ 3750 Rpm\r\n270 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15V"
+      },
+      "Dimensions": {
+        "Length:": "187.6 In (4765 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4850 Lbs (2200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.1 Mpg Us (14.6 L/100Km)",
+        "Highway:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Combined:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Co2 Emissions:": "252 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17440,
+    "automobile_id": 4261,
+    "name": "300 E 5MT RWD (179 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2962 Cm3",
+        "Power:": "132 Kw @ 5700 Rpm\r\n179 Hp @ 5700 Rpm\r\n177 Bhp @ 5700 Rpm",
+        "Torque:": "188 Lb-Ft @ 4400 Rpm\r\n255 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15V"
+      },
+      "Dimensions": {
+        "Length:": "187.6 In (4765 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373 Lbs (1530 Kg)",
+        "Gross Weight Limit:": "4673.8 Lbs (2120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.5 Mpg Us (15.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)",
+        "Co2 Emissions:": "272 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17441,
+    "automobile_id": 4261,
+    "name": "300 E-24V 5MT RWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2962 Cm3",
+        "Power:": "162 Kw @ 6400 Rpm\r\n220 Hp @ 6400 Rpm\r\n217 Bhp @ 6400 Rpm",
+        "Torque:": "196 Lb-Ft @ 4600 Rpm\r\n265 Nm @ 4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15Z"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3505 Lbs (1590 Kg)",
+        "Gross Weight Limit:": "4762 Lbs (2160 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.2 Mpg Us (15.5 L/100Km)",
+        "Highway:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Co2 Emissions:": "281 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17442,
+    "automobile_id": 4261,
+    "name": "320 E 5MT RWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3199 Cm3",
+        "Power:": "162 Kw @ 5500 Rpm\r\n220 Hp @ 5500 Rpm\r\n217 Bhp @ 5500 Rpm",
+        "Torque:": "229 Lb-Ft @ 3750 Rpm\r\n310 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15Z"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4850 Lbs (2200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.6 Mpg Us (15.1 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Co2 Emissions:": "259 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17443,
+    "automobile_id": 4261,
+    "name": "200d 4MT RWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1983 Cm3",
+        "Power:": "55 Kw @ 4600 Rpm\r\n75 Hp @ 4600 Rpm\r\n74 Bhp @ 4600 Rpm",
+        "Torque:": "93 Lb-Ft @ 2800 Rpm\r\n126 Nm @ 2800 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "21.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15T"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "58.9/58.7 In (1,496/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3218.7 Lbs (1460 Kg)",
+        "Gross Weight Limit:": "4585 Lbs (2080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "191 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17444,
+    "automobile_id": 4261,
+    "name": "250d 4MT RWD (94 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2497 Cm3",
+        "Power:": "69 Kw @ 4600 Rpm\r\n94 Hp @ 4600 Rpm\r\n93 Bhp @ 4600 Rpm",
+        "Torque:": "117 Lb-Ft @ 2800 Rpm\r\n158 Nm @ 2800 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "17.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15T"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3328 Lbs (1510 Kg)",
+        "Gross Weight Limit:": "4695.8 Lbs (2130 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Highway:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "202 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17445,
+    "automobile_id": 4261,
+    "name": "300 Turbodiesel 4AT RWD (147 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "108 Kw @ 4600 Rpm\r\n147 Hp @ 4600 Rpm\r\n145 Bhp @ 4600 Rpm",
+        "Torque:": "201 Lb-Ft @ 2400 Rpm\r\n273 Nm @ 2400 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15H"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "4894 Lbs (2220 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "28.1 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions:": "222 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17446,
+    "automobile_id": 4261,
+    "name": "300d 5MT RWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "83 Kw @ 4600 Rpm\r\n113 Hp @ 4600 Rpm\r\n111 Bhp @ 4600 Rpm",
+        "Torque:": "141 Lb-Ft @ 2800 Rpm\r\n191 Nm @ 2800 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15H"
+      },
+      "Dimensions": {
+        "Length:": "188 In (4775 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "59.1/58.7 In (1,501/1,491 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3417 Lbs (1550 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "185 G/Km"
+      }
+    }
+  }
+]

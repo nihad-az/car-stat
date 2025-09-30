@@ -1,0 +1,143 @@
+[
+  {
+    "id": 26290,
+    "automobile_id": 6511,
+    "name": "1.2L Turbo 6MT (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "85.3 Kw @ 5600 Rpm\r\n116 Hp @ 5600 Rpm\r\n114 Bhp @ 5600 Rpm",
+        "Torque:": "136 Lb-Ft @ 1500-4000 Rpm\r\n185 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "171.7 In (4361 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "61.6 In (1565 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.3 Cuft (377 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3031 Lbs (1375 Kg)",
+        "Gross Weight Limit:": "4068 Lbs (1845 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "135 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26291,
+    "automobile_id": 6511,
+    "name": "1.2L Turbo CVT AWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1197 Cm3",
+        "Power:": "85.3 Kw @ 5600 Rpm\r\n116 Hp @ 5600 Rpm\r\n114 Bhp @ 5600 Rpm",
+        "Torque:": "136 Lb-Ft @ 1500-4000 Rpm\r\n185 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "171.7 In (4361 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "61.6 In (1565 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.3 Cuft (377 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3219 Lbs (1460 Kg)",
+        "Gross Weight Limit:": "4255 Lbs (1930 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "144 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26292,
+    "automobile_id": 6511,
+    "name": "1.8L CVT (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "72 Kw @ 5200 Rpm\r\n97.9 Hp @ 5200 Rpm\r\n97 Bhp @ 5200 Rpm",
+        "Torque:": "105 Lb-Ft @ 3600 Rpm\r\n142 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Ecvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "171.7 In (4361 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "61.6 In (1565 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.3 Cuft (377 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3131 Lbs (1420 Kg)",
+        "Gross Weight Limit:": "4101 Lbs (1860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Co2 Emissions:": "87 G/Km"
+      }
+    }
+  }
+]

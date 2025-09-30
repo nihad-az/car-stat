@@ -1,11 +1,9 @@
-import CarComponent from "../components/single-comparison/CardSection";
-import CarComparison from "../components/single-comparison/HeroSection";
+import CardSection from "../components/single-comparison/CardSection";
 
 const SingleComparison = () => {
   return (
     <>
-      <CarComparison />
-      <CarComponent />
+      <CardSection />
     </>
   );
 };

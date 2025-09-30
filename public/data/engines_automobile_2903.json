@@ -1,0 +1,96 @@
+[
+  {
+    "id": 12130,
+    "automobile_id": 2903,
+    "name": "1.8L 6AT FWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1797 Cm3",
+        "Power:": "110 Kw @ 6500 Rpm\r\n150 Hp @ 6500 Rpm\r\n148 Bhp @ 6500 Rpm",
+        "Torque:": "131 Lb-Ft @ 4700 Rpm\r\n178 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55Hr16"
+      },
+      "Dimensions": {
+        "Length:": "169.3 In (4300 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "61/61.5 In (1,549/1,562 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2784 Lbs (1263 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "39 Mpg Us (6 L/100Km)",
+        "Combined:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12131,
+    "automobile_id": 2903,
+    "name": "1.8L 6MT FWD (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1797 Cm3",
+        "Power:": "110 Kw @ 6500 Rpm\r\n148 Hp @ 6500 Rpm\r\n148 Bhp @ 6500 Rpm",
+        "Torque:": "131 Lb-Ft @ 4700 Rpm\r\n178 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Standard: P205/55Hr16 / Optional: P215/45Hr17"
+      },
+      "Dimensions": {
+        "Length:": "169.3 In (4300 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "61/61.5 In (1,549/1,562 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2745 Lbs (1245 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "39 Mpg Us (6 L/100Km)",
+        "Combined:": "32 Mpg Us (7.4 L/100Km)"
+      }
+    }
+  }
+]

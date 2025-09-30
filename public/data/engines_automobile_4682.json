@@ -1,0 +1,100 @@
+[
+  {
+    "id": 18640,
+    "automobile_id": 4682,
+    "name": "DOHC 24v V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "6",
+        "Displacement:": "2972 Cm3",
+        "Power:": "166 Kw @ 6000 Rpm\r\n226 Hp @ 6000 Rpm\r\n223 Bhp @ 6000 Rpm",
+        "Torque:": "204 Lb-Ft @ 4500 Rpm\r\n277 Nm @ 4500 Rpm",
+        "Fuel System:": "Turbocharged Eci-Mitsu Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic/ 5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "178.9 In (4544 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "49.5 In (1257 Mm)",
+        "Front/Rear Track:": "61.4/62.2 In (1,560/1,580 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3790 Lbs (1719 Kg)"
+      }
+    }
+  },
+  {
+    "id": 18641,
+    "automobile_id": 4682,
+    "name": "DOHC 24v V6 twin-turbo",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "6",
+        "Displacement:": "2972 Cm3",
+        "Power:": "238 Kw @ 6000 Rpm\r\n324 Hp @ 6000 Rpm\r\n319 Bhp @ 6000 Rpm",
+        "Torque:": "315 Lb-Ft @ 2500 Rpm\r\n427 Nm @ 2500 Rpm",
+        "Fuel System:": "Twin-Turbocharged Eci-Mitsu Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "178.9 In (4544 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "49.5 In (1257 Mm)",
+        "Front/Rear Track:": "61.4/62.2 In (1,560/1,580 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3803 Lbs (1725 Kg)"
+      }
+    }
+  },
+  {
+    "id": 18642,
+    "automobile_id": 4682,
+    "name": "SOHC 12v V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "6",
+        "Displacement:": "2972 Cm3",
+        "Power:": "119 Kw @ 5500 Rpm\r\n162 Hp @ 5500 Rpm\r\n160 Bhp @ 5500 Rpm",
+        "Torque:": "184 Lb-Ft @ 4000 Rpm\r\n249 Nm @ 4000 Rpm",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic/ 5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "178.9 In (4544 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "49.5 In (1257 Mm)",
+        "Front/Rear Track:": "61.4/62.2 In (1,560/1,580 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3086 Lbs (1400 Kg)"
+      }
+    }
+  }
+]

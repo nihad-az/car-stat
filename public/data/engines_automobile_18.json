@@ -1,0 +1,131 @@
+[
+  {
+    "id": 30,
+    "automobile_id": 18,
+    "name": "3.5L V6 9AT AWD (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "216.3 Kw @ 6200 Rpm\r\n294 Hp @ 6200 Rpm\r\n290 Bhp @ 6200 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "77.2 In (1961 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4215 Lbs (1912 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "automobile_id": 18,
+    "name": "3.5L V6 9AT FWD (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "216.3 Kw @ 6200 Rpm\r\n294 Hp @ 6200 Rpm\r\n290 Bhp @ 6200 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "77.2 In (1961 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001 Lbs (1815 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "automobile_id": 18,
+    "name": "3.5L V6 9AT AWD (321 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "191.6 Kw @ 6300 Rpm\r\n260.6 Hp @ 6300 Rpm\r\n257 Bhp @ 6300 Rpm",
+        "Torque:": "218 Lb-Ft @ 5000 Rpm\r\n296 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "196.2 In (4983 Mm)",
+        "Width:": "77.2 In (1961 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4471 Lbs (2028 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26 Mpg Us (9 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

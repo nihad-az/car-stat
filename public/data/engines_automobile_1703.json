@@ -1,0 +1,132 @@
+[
+  {
+    "id": 7677,
+    "automobile_id": 1703,
+    "name": "3.6L V6 8AT AWD (296 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3604 Cm3",
+        "Power:": "218 Kw @ 6350 Rpm\r\n296 Hp @ 6350 Rpm\r\n292 Bhp @ 6350 Rpm",
+        "Torque:": "260 Lb-Ft @ 4800 Rpm\r\n353 Nm @ 4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "198.4 In (5039 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "58.2 In (1478 Mm)",
+        "Front/Rear Track:": "63.4/63.8 In (1,610/1,621 Mm)",
+        "Wheelbase:": "120.2 In (3053 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4158 Lbs (1886 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7678,
+    "automobile_id": 1703,
+    "name": "3.6L V6 8AT RWD (296 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3604 Cm3",
+        "Power:": "218 Kw @ 6350 Rpm\r\n296 Hp @ 6350 Rpm\r\n292 Bhp @ 6350 Rpm",
+        "Torque:": "260 Lb-Ft @ 4800 Rpm\r\n353 Nm @ 4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "198.4 In (5039 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "58.2 In (1478 Mm)",
+        "Front/Rear Track:": "63.4/63.8 In (1,610/1,621 Mm)",
+        "Wheelbase:": "120.2 In (3053 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "15.4 Cuft (436 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3933 Lbs (1784 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7679,
+    "automobile_id": 1703,
+    "name": "5.7L V8 8AT RWD (375 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5654 Cm3",
+        "Power:": "276 Kw @ 5250 Rpm\r\n375 Hp @ 5250 Rpm\r\n370 Bhp @ 5250 Rpm",
+        "Torque:": "395 Lb-Ft @ 4200 Rpm\r\n536 Nm @ 4200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/45 R20"
+      },
+      "Dimensions": {
+        "Length:": "198.4 In (5039 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "58.2 In (1478 Mm)",
+        "Front/Rear Track:": "63.4/63.8 In (1,610/1,621 Mm)",
+        "Wheelbase:": "120.2 In (3053 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4264 Lbs (1934 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  }
+]

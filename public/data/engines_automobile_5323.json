@@ -1,0 +1,72 @@
+[
+  {
+    "id": 21791,
+    "automobile_id": 5323,
+    "name": "435 HP",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "350 Kw (476 Hp)",
+        "Total Maximum Torque:": "501.5 Lb-Ft (680 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "181.4 In (4608 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "58.2 In (1478 Mm)",
+        "Wheelbase:": "107.7 In (2736 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  },
+  {
+    "id": 21792,
+    "automobile_id": 5323,
+    "name": "78 KWh (408 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "150 Kw (204 Hp)",
+        "Electrical Motor Torque:": "243.4 Lb-Ft (330 Nm)",
+        "Total Maximum Power:": "300.1 Kw (408 Hp)",
+        "Total Maximum Torque:": "486.8 Lb-Ft (660 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "181.4 In (4608 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "58.2 In (1478 Mm)",
+        "Wheelbase:": "107.7 In (2736 Mm)",
+        "Cargo Volume:": "15.5 Cuft (439 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "78 Kwh",
+        "Range:": "310.7 Miles (500.0 Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13061,
+    "automobile_id": 3156,
+    "name": "3.6L V6 4x4 (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "213.3 Kw @ - Rpm\r\n290 Hp @ - Rpm\r\n286 Bhp @ - Rpm",
+        "Torque:": "257 Lb-Ft @ 1800-6400 Rpm\r\n348 Nm @ 1800-6400 Rpm"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      }
+    }
+  },
+  {
+    "id": 13062,
+    "automobile_id": 3156,
+    "name": "5.7L V8 4x4 8AT (357 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "262.6 Kw @ - Rpm\r\n357 Hp @ - Rpm\r\n352 Bhp @ - Rpm",
+        "Torque:": "390 Lb-Ft @ 1800-6400 Rpm\r\n529 Nm @ 1800-6400 Rpm"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Dimensions": {
+        "Wheelbase:": "121.7 In (3091 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)"
+      }
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": 10806,
+    "automobile_id": 2523,
+    "name": "6.0 V8 6AT (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5967 Cm3",
+        "Power:": "268 Kw @ 5400 Rpm\r\n365 Hp @ 5400 Rpm\r\n359 Bhp @ 5400 Rpm",
+        "Torque:": "380 Lb-Ft @ 4200 Rpm\r\n515 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Lt245/75R16"
+      },
+      "Dimensions": {
+        "Length:": "240 In (6096 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "77.1 In (1958 Mm)",
+        "Front/Rear Track:": "68.6/66 In (1,742/1,676 Mm)",
+        "Wheelbase:": "153 In (3886 Mm)",
+        "Ground Clearance:": "9.5 In (241 Mm)",
+        "Cargo Volume:": "60.7 Cuft (1719 L)",
+        "Aerodynamics (Cd):": "0.41"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5720 Lbs (2595 Kg)",
+        "Gross Weight Limit:": "9200 Lbs (4173 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "12 Mpg Us (19.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10807,
+    "automobile_id": 2523,
+    "name": "6.6 V8 6AT (365 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6599 Cm3",
+        "Power:": "272 Kw @ 3200 Rpm\r\n370 Hp @ 3200 Rpm\r\n365 Bhp @ 3200 Rpm",
+        "Torque:": "660 Lb-Ft @ 1600 Rpm\r\n895 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Lt245/75R16"
+      },
+      "Dimensions": {
+        "Length:": "240 In (6096 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "77.1 In (1958 Mm)",
+        "Front/Rear Track:": "68.6/66 In (1,742/1,676 Mm)",
+        "Wheelbase:": "153 In (3886 Mm)",
+        "Ground Clearance:": "9.5 In (241 Mm)",
+        "Cargo Volume:": "60.7 Cuft (1719 L)",
+        "Aerodynamics (Cd):": "0.41"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6419 Lbs (2912 Kg)",
+        "Gross Weight Limit:": "9200 Lbs (4173 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15 Mpg Us (15.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10808,
+    "automobile_id": 2523,
+    "name": "6.0 V8 Hybrid 6AT (332 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5967 Cm3",
+        "Power:": "248 Kw @ 5100 Rpm\r\n337 Hp @ 5100 Rpm\r\n333 Bhp @ 5100 Rpm",
+        "Torque:": "367 Lb-Ft @ 4100 Rpm\r\n498 Nm @ 4100 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Lt245/75R16"
+      },
+      "Dimensions": {
+        "Length:": "240 In (6096 Mm)",
+        "Width:": "80 In (2032 Mm)",
+        "Height:": "77.1 In (1958 Mm)",
+        "Front/Rear Track:": "68.6/66 In (1,742/1,676 Mm)",
+        "Wheelbase:": "153 In (3886 Mm)",
+        "Ground Clearance:": "9.5 In (241 Mm)",
+        "Cargo Volume:": "60.7 Cuft (1719 L)",
+        "Aerodynamics (Cd):": "0.41"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6419 Lbs (2912 Kg)",
+        "Gross Weight Limit:": "9200 Lbs (4173 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

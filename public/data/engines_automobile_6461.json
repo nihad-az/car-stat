@@ -1,0 +1,89 @@
+[
+  {
+    "id": 26144,
+    "automobile_id": 6461,
+    "name": "2.4L 6AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2393 Cm3",
+        "Electrical Motor Power:": "61 Kw (83 Hp)",
+        "Electrical Motor Torque:": "215 Lb-Ft (292 Nm)",
+        "Total Maximum Power:": "250.1 Kw (340 Hp)",
+        "Total Maximum Torque:": "332 Lb-Ft (450 Nm)",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R21"
+      },
+      "Dimensions": {
+        "Length:": "194 In (4928 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "60.6 In (1539 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Cargo Volume:": "15.2 Cuft (430 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4306 Lbs (1953 Kg)",
+        "Gross Weight Limit:": "5285 Lbs (2397 Kg)"
+      }
+    }
+  },
+  {
+    "id": 26145,
+    "automobile_id": 6461,
+    "name": "2.5L e-CVT AWD (236 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2487 Cm3",
+        "Power:": "135.3 Kw @ 6000 Rpm\r\n184 Hp @ 6000 Rpm\r\n181 Bhp @ 6000 Rpm",
+        "Torque:": "163 Lb-Ft @ 3000-5200 Rpm\r\n221 Nm @ 3000-5200 Rpm",
+        "Electrical Motor Power:": "88 Kw (120 Hp)",
+        "Electrical Motor Torque:": "149 Lb-Ft (202 Nm)",
+        "Total Maximum Power:": "173.6 Kw (236 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "194 In (4928 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "60.6 In (1539 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Cargo Volume:": "15.2 Cuft (430 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4250 Lbs (1928 Kg)",
+        "Gross Weight Limit:": "5020 Lbs (2277 Kg)"
+      }
+    }
+  }
+]

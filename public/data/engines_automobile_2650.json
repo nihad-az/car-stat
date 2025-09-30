@@ -1,0 +1,90 @@
+[
+  {
+    "id": 11264,
+    "automobile_id": 2650,
+    "name": "3.5L V6 6AT 4x2 (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "208.8 Kw @ 6000 Rpm\r\n284 Hp @ 6000 Rpm\r\n280 Bhp @ 6000 Rpm",
+        "Torque:": "262 Lb-Ft @ 4700 Rpm\r\n355 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18 105H"
+      },
+      "Dimensions": {
+        "Length:": "210 In (5334 Mm)",
+        "Width:": "78.6 In (1996 Mm)",
+        "Height:": "70.2 In (1783 Mm)",
+        "Wheelbase:": "125.2 In (3180 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "33.9 Cuft (960 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4242 Lbs (1924 Kg)",
+        "Gross Weight Limit:": "5826 Lbs (2643 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11265,
+    "automobile_id": 2650,
+    "name": "3.5L V6 6AT 4x4 (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "208.8 Kw @ 6000 Rpm\r\n284 Hp @ 6000 Rpm\r\n280 Bhp @ 6000 Rpm",
+        "Torque:": "262 Lb-Ft @ 4700 Rpm\r\n355 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/60 R18 105H"
+      },
+      "Dimensions": {
+        "Length:": "210 In (5334 Mm)",
+        "Width:": "78.6 In (1996 Mm)",
+        "Height:": "70.2 In (1783 Mm)",
+        "Wheelbase:": "125.2 In (3180 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "33.9 Cuft (960 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4431 Lbs (2010 Kg)",
+        "Gross Weight Limit:": "6014 Lbs (2728 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

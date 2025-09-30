@@ -1,0 +1,92 @@
+[
+  {
+    "id": 12073,
+    "automobile_id": 2889,
+    "name": "2.0L 6AT FWD (173 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "129 Kw @ 6500 Rpm\r\n175 Hp @ 6500 Rpm\r\n173 Bhp @ 6500 Rpm",
+        "Torque:": "154 Lb-Ft @ 4700 Rpm\r\n209 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R 16 H"
+      },
+      "Dimensions": {
+        "Length:": "169.3 In (4300 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "61/61.5 In (1,549/1,562 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2903 Lbs (1317 Kg)",
+        "Gross Weight Limit:": "3968 Lbs (1800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12074,
+    "automobile_id": 2889,
+    "name": "2.0L 6MT FWD (173 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "129 Kw @ 6500 Rpm\r\n175.4 Hp @ 6500 Rpm\r\n173 Bhp @ 6500 Rpm",
+        "Torque:": "154 Lb-Ft @ 4700 Rpm\r\n209 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R 16 H"
+      },
+      "Dimensions": {
+        "Length:": "169.3 In (4300 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "61/61.5 In (1,549/1,562 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2851 Lbs (1293 Kg)",
+        "Gross Weight Limit:": "3968 Lbs (1800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

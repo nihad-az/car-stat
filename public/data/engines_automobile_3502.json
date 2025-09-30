@@ -1,0 +1,553 @@
+[
+  {
+    "id": 14243,
+    "automobile_id": 3502,
+    "name": "2.0L Td4 6MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "110.3 Kw @ 2400 Rpm\r\n150 Hp @ 2400 Rpm\r\n148 Bhp @ 2400 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750-2500 Rpm\r\n380 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125 Mph (201 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "3940 Lbs (1787 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "143 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14244,
+    "automobile_id": 3502,
+    "name": "1.5L P160 8AT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "117.7 Kw @ 5500 Rpm\r\n160 Hp @ 5500 Rpm\r\n158 Bhp @ 5500 Rpm",
+        "Torque:": "192 Lb-Ft @ 1600-4000 Rpm\r\n260 Nm @ 1600-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "3785 Lbs (1717 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions (Combined):": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14245,
+    "automobile_id": 3502,
+    "name": "2.0L Si4 9AT AWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "147.1 Kw @ 5500 Rpm\r\n200 Hp @ 5500 Rpm\r\n197 Bhp @ 5500 Rpm",
+        "Torque:": "251 Lb-Ft @ 1300-4500 Rpm\r\n340 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "17.7 Gallons (67.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4068 Lbs (1845 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14246,
+    "automobile_id": 3502,
+    "name": "2.0L Si4 9AT AWD (249 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "183.1 Kw @ 5500 Rpm\r\n249 Hp @ 5500 Rpm\r\n246 Bhp @ 5500 Rpm",
+        "Torque:": "269 Lb-Ft @ 1300-4500 Rpm\r\n365 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "17.7 Gallons (67.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4173 Lbs (1893 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "180 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14247,
+    "automobile_id": 3502,
+    "name": "2.0L Si4 9AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "220.6 Kw @ 5500 Rpm\r\n300 Hp @ 5500 Rpm\r\n296 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1500-4500 Rpm\r\n400 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "17.7 Gallons (67.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "3940 Lbs (1787 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "186 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14248,
+    "automobile_id": 3502,
+    "name": "2.0L D165 6MT FWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "119.9 Kw @ 3750 Rpm\r\n163 Hp @ 3750 Rpm\r\n161 Bhp @ 3750 Rpm",
+        "Torque:": "280 Lb-Ft @ 1500-2500 Rpm\r\n380 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "3774 Lbs (1712 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions (Combined):": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14249,
+    "automobile_id": 3502,
+    "name": "2.0L D165 9AT AWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "119.9 Kw @ 3750 Rpm\r\n163 Hp @ 3750 Rpm\r\n161 Bhp @ 3750 Rpm",
+        "Torque:": "280 Lb-Ft @ 1500-2500 Rpm\r\n380 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4004 Lbs (1816 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions (Combined):": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14250,
+    "automobile_id": 3502,
+    "name": "2.0L D200 9AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "150 Kw @ 3750 Rpm\r\n204 Hp @ 3750 Rpm\r\n201 Bhp @ 3750 Rpm",
+        "Torque:": "317 Lb-Ft @ 1750-2500 Rpm\r\n430 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4114 Lbs (1866 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14251,
+    "automobile_id": 3502,
+    "name": "2.0L Sd4 9AT AWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "176.5 Kw @ 2400 Rpm\r\n240 Hp @ 2400 Rpm\r\n237 Bhp @ 2400 Rpm",
+        "Torque:": "369 Lb-Ft @ 1500-2500 Rpm\r\n500 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4310 Lbs (1955 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14252,
+    "automobile_id": 3502,
+    "name": "2.0L Td4 9AT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "110.3 Kw @ 2400 Rpm\r\n150 Hp @ 2400 Rpm\r\n148 Bhp @ 2400 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750-2500 Rpm\r\n380 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4169 Lbs (1891 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "149 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14253,
+    "automobile_id": 3502,
+    "name": "2.0L Td4 9AT AWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "132.4 Kw @ 2400 Rpm\r\n180 Hp @ 2400 Rpm\r\n178 Bhp @ 2400 Rpm",
+        "Torque:": "317 Lb-Ft @ 1750-2500 Rpm\r\n430 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "172.1 In (4371 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "64.9 In (1648 Mm)",
+        "Front/Rear Track:": "64/64.3 In (1,626/1,633 Mm)",
+        "Wheelbase:": "105.6 In (2682 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "20.9 Cuft (592 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "4169 Lbs (1891 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  }
+]

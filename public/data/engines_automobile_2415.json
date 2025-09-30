@@ -1,0 +1,89 @@
+[
+  {
+    "id": 10453,
+    "automobile_id": 2415,
+    "name": "2.3L 4MT (89 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2302 Cm3",
+        "Power:": "78 Kw @ 4600 Rpm\r\n106 Hp @ 4600 Rpm\r\n105 Bhp @ 4600 Rpm",
+        "Torque:": "135 Lb-Ft @ 2600 Rpm\r\n183 Nm @ 2600 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/75 R14"
+      },
+      "Dimensions": {
+        "Length:": "179.1 In (4549 Mm)",
+        "Width:": "69.1 In (1755 Mm)",
+        "Height:": "51.5 In (1308 Mm)",
+        "Front/Rear Track:": "56.6/57 In (1,438/1,448 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "30 Cuft (850 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2434 Lbs (1104 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.8 Mpg Us (14 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10454,
+    "automobile_id": 2415,
+    "name": "2.8L V6 3AT (111 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2786 Cm3",
+        "Power:": "81 Kw @ 4800 Rpm\r\n111 Hp @ 4800 Rpm\r\n109 Bhp @ 4800 Rpm",
+        "Torque:": "142 Lb-Ft @ 2800 Rpm\r\n193 Nm @ 2800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/75 R14"
+      },
+      "Dimensions": {
+        "Length:": "179.1 In (4549 Mm)",
+        "Width:": "69.1 In (1755 Mm)",
+        "Height:": "51.5 In (1308 Mm)",
+        "Front/Rear Track:": "56.6/57 In (1,438/1,448 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "30 Cuft (850 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2518 Lbs (1142 Kg)"
+      }
+    }
+  }
+]

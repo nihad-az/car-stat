@@ -1,0 +1,207 @@
+[
+  {
+    "id": 10887,
+    "automobile_id": 2553,
+    "name": "2.4L 5MT FWD (167 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2348 Cm3",
+        "Power:": "123 Kw @ 5600 Rpm\r\n167.2 Hp @ 5600 Rpm\r\n165 Bhp @ 5600 Rpm",
+        "Torque:": "170 Lb-Ft @ 4600 Rpm\r\n230 Nm @ 4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60R17"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Cargo Volume:": "3 Cuft (85 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3774 Lbs (1712 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "218 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10888,
+    "automobile_id": 2553,
+    "name": "2.4L 6AT FWD (167 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2348 Cm3",
+        "Power:": "123 Kw @ 5600 Rpm\r\n167.2 Hp @ 5600 Rpm\r\n165 Bhp @ 5600 Rpm",
+        "Torque:": "170 Lb-Ft @ 4600 Rpm\r\n230 Nm @ 4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60R17"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Cargo Volume:": "3 Cuft (85 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3885 Lbs (1762 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions:": "226 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10889,
+    "automobile_id": 2553,
+    "name": "3.0L V6 6AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2997 Cm3",
+        "Power:": "139.7 Kw @ 6900 Rpm\r\n190 Hp @ 6900 Rpm\r\n187 Bhp @ 6900 Rpm",
+        "Torque:": "212 Lb-Ft @ 5800 Rpm\r\n288 Nm @ 5800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60R17"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Cargo Volume:": "3 Cuft (85 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4191 Lbs (1901 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "251 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10890,
+    "automobile_id": 2553,
+    "name": "2.2L 6AT AWD (135 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2231 Cm3",
+        "Power:": "99.3 Kw @ 3800 Rpm\r\n135 Hp @ 3800 Rpm\r\n133 Bhp @ 3800 Rpm",
+        "Torque:": "2950 Lb-Ft @ 1750-2750 Rpm\r\n4000 Nm @ 1750-2750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60R17"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Cargo Volume:": "3 Cuft (85 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4352 Lbs (1974 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10891,
+    "automobile_id": 2553,
+    "name": "2.2L 6AT FWD (135 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2231 Cm3",
+        "Power:": "139.7 Kw @ 3800 Rpm\r\n190 Hp @ 3800 Rpm\r\n187 Bhp @ 3800 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2750 Rpm\r\n400 Nm @ 1750-2750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60R17"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Cargo Volume:": "3 Cuft (85 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4129 Lbs (1873 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  }
+]

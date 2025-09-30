@@ -1,0 +1,78 @@
+[
+  {
+    "id": 6236,
+    "automobile_id": 1355,
+    "name": "5.7L V8 4AT (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5735 Cm3",
+        "Power:": "224 Kw @ 4800 Rpm\r\n305 Hp @ 4800 Rpm\r\n300 Bhp @ 4800 Rpm",
+        "Torque:": "380 Lb-Ft @ 3200 Rpm\r\n515 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "187.2 In (4755 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "50.5 In (1283 Mm)",
+        "Front/Rear Track:": "61.3/60 In (1,557/1,524 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Cargo Volume:": "5.8 Cuft (164 L)",
+        "Aerodynamics (Cd):": "0.45"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3609 Lbs (1637 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31 Mpg Us (7.6 L/100Km)",
+        "Highway:": "18 Mpg Us (13.1 L/100Km)",
+        "Combined:": "25.4 Mpg Us (9.3 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6237,
+    "automobile_id": 1355,
+    "name": "6.5L V8 4AT (408 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6489 Cm3",
+        "Power:": "300 Kw @ 4800 Rpm\r\n408 Hp @ 4800 Rpm\r\n402 Bhp @ 4800 Rpm",
+        "Torque:": "400 Lb-Ft @ 3200 Rpm\r\n542 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "187.2 In (4755 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "50.5 In (1283 Mm)",
+        "Front/Rear Track:": "61.3/60 In (1,557/1,524 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Cargo Volume:": "5.8 Cuft (164 L)",
+        "Aerodynamics (Cd):": "0.45"
+      }
+    }
+  }
+]

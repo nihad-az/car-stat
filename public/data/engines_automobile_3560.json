@@ -1,0 +1,211 @@
+[
+  {
+    "id": 14451,
+    "automobile_id": 3560,
+    "name": "2.0L 8AT (241 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "177.3 Kw @ - Rpm\r\n241 Hp @ - Rpm\r\n238 Bhp @ - Rpm",
+        "Torque:": "258 Lb-Ft @ 1650-4400 Rpm\r\n350 Nm @ 1650-4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "62.2/62 In (1,580/1,575 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "10.8 Cuft (306 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "34.2 Ft (10.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3583 Lbs (1625 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14452,
+    "automobile_id": 3560,
+    "name": "3.5L V6 8AT (311 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "228.7 Kw @ 6600 Rpm\r\n311 Hp @ 6600 Rpm\r\n307 Bhp @ 6600 Rpm",
+        "Torque:": "280 Lb-Ft @ 4800 Rpm\r\n380 Nm @ 4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "62.2/62 In (1,580/1,575 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "10.8 Cuft (306 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "8239 Lbs (3737 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14453,
+    "automobile_id": 3560,
+    "name": "3.5L V6 8AT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "1998 Cm3",
+        "Power:": "177.3 Kw @ 5200-5800 Rpm\r\n241 Hp @ 5200-5800 Rpm\r\n238 Bhp @ 5200-5800 Rpm",
+        "Torque:": "236 Lb-Ft @ 1650-4400 Rpm\r\n320 Nm @ 1650-4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "62.2/62 In (1,580/1,575 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "140 In (3556 Mm)",
+        "Cargo Volume:": "10.8 Cuft (306 L)",
+        "Aerodynamics (Cd):": "0.28"
+      }
+    }
+  },
+  {
+    "id": 14454,
+    "automobile_id": 3560,
+    "name": "3.5L V6 8AT AWD (311 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "228.7 Kw @ 6600 Rpm\r\n311 Hp @ 6600 Rpm\r\n307 Bhp @ 6600 Rpm",
+        "Torque:": "280 Lb-Ft @ 4800 Rpm\r\n380 Nm @ 4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "62.2/62 In (1,580/1,575 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "10.8 Cuft (306 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "8239 Lbs (3737 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14455,
+    "automobile_id": 3560,
+    "name": "F Sport 5.0L V8 8AT (472 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "347.2 Kw @ 7100 Rpm\r\n472 Hp @ 7100 Rpm\r\n466 Bhp @ 7100 Rpm",
+        "Torque:": "395 Lb-Ft @ 4800 Rpm\r\n536 Nm @ 4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17"
+      },
+      "Dimensions": {
+        "Length:": "185.4 In (4709 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "62.2/62 In (1,580/1,575 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "10.8 Cuft (306 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      }
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 18863,
+    "automobile_id": 4772,
+    "name": "5.6L V8 7AT 4WD (390 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5600 Cm3",
+        "Power:": "290.8 Kw @ 5200 Rpm\r\n395 Hp @ 5200 Rpm\r\n390 Bhp @ 5200 Rpm",
+        "Torque:": "401 Lb-Ft @ 4000 Rpm\r\n544 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "27.7 Gallons (104.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/60 R20"
+      },
+      "Dimensions": {
+        "Length:": "208.9 In (5306 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.8 In (1925 Mm)",
+        "Front/Rear Track:": "67.5/67.9 In (1,715/1,725 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "9.2 In (234 Mm)",
+        "Cargo Volume:": "16.6 Cuft (470 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.7 Mpg Us (7.7 L/100Km)",
+        "Highway:": "42.6 Mpg Us (5.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18864,
+    "automobile_id": 4772,
+    "name": "5.6L V8 7AT RWD (390 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5600 Cm3",
+        "Power:": "290.8 Kw @ 5200 Rpm\r\n395 Hp @ 5200 Rpm\r\n390 Bhp @ 5200 Rpm",
+        "Torque:": "401 Lb-Ft @ 4000 Rpm\r\n544 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.9 Gallons (98.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/60R20"
+      },
+      "Dimensions": {
+        "Length:": "208.9 In (5306 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.8 In (1925 Mm)",
+        "Front/Rear Track:": "67.5/67.9 In (1,715/1,725 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "9.2 In (234 Mm)",
+        "Cargo Volume:": "16.6 Cuft (470 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "39.5 Mpg Us (6 L/100Km)"
+      }
+    }
+  }
+]

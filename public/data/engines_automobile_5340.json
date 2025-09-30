@@ -1,0 +1,94 @@
+[
+  {
+    "id": 21837,
+    "automobile_id": 5340,
+    "name": "3.8L V6 4AT FWD (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3800 Cm3",
+        "Power:": "156.6 Kw @ 5200 Rpm\r\n212.9 Hp @ 5200 Rpm\r\n210 Bhp @ 5200 Rpm",
+        "Torque:": "230 Lb-Ft @ 4000 Rpm\r\n312 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60R16"
+      },
+      "Dimensions": {
+        "Length:": "202.6 In (5146 Mm)",
+        "Width:": "74.2 In (1885 Mm)",
+        "Height:": "56.6 In (1438 Mm)",
+        "Front/Rear Track:": "62.6/62.1 In (1,590/1,577 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3590 Lbs (1628 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "233.2 G/Km"
+      }
+    }
+  },
+  {
+    "id": 21838,
+    "automobile_id": 5340,
+    "name": "4.6L V8 4AT FWD (275 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4565 Cm3",
+        "Power:": "205.1 Kw @ - Rpm\r\n278.8 Hp @ - Rpm\r\n275 Bhp @ - Rpm",
+        "Torque:": "300 Lb-Ft @ 4000 Rpm\r\n407 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/55R17"
+      },
+      "Dimensions": {
+        "Length:": "202.6 In (5146 Mm)",
+        "Width:": "74.2 In (1885 Mm)",
+        "Height:": "56.6 In (1438 Mm)",
+        "Front/Rear Track:": "62.6/62.1 In (1,590/1,577 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3650 Lbs (1656 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

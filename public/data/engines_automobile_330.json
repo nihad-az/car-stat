@@ -1,0 +1,91 @@
+[
+  {
+    "id": 772,
+    "automobile_id": 330,
+    "name": "4.0L TSI V8 8AT AWD (507 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3956 Cm3",
+        "Power:": "372.9 Kw @ - Rpm\r\n507 Hp @ - Rpm\r\n500 Bhp @ - Rpm",
+        "Torque:": "418 Lb-Ft @ - Rpm\r\n567 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Tiptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/45 R 20 112 Y"
+      },
+      "Dimensions": {
+        "Length:": "199.4 In (5065 Mm)",
+        "Width:": "87.1 In (2212 Mm)",
+        "Height:": "68.6 In (1742 Mm)",
+        "Front/Rear Track:": "66.8/66.4 In (1,697/1,687 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "27.3 Cuft (773 L)",
+        "Aerodynamics (Cd):": "0.33"
+      }
+    }
+  },
+  {
+    "id": 773,
+    "automobile_id": 330,
+    "name": "4.0L TDI V8 8AT AWD (435 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3956 Cm3",
+        "Power:": "319.9 Kw @ 3750-4750 Rpm\r\n435 Hp @ 3750-4750 Rpm\r\n429 Bhp @ 3750-4750 Rpm",
+        "Torque:": "664 Lb-Ft @ 1250-3250 Rpm\r\n900 Nm @ 1250-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "22.5 Gallons (85.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Tiptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/45 R 20 112 Y"
+      },
+      "Dimensions": {
+        "Length:": "199.4 In (5065 Mm)",
+        "Width:": "87.1 In (2212 Mm)",
+        "Height:": "68.6 In (1742 Mm)",
+        "Front/Rear Track:": "66.8/66.4 In (1,697/1,687 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "27.3 Cuft (773 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5280 Lbs (2395 Kg)",
+        "Gross Weight Limit:": "6724 Lbs (3050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions:": "200 G/Km"
+      }
+    }
+  }
+]

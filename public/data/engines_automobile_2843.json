@@ -1,0 +1,50 @@
+[
+  {
+    "id": 11844,
+    "automobile_id": 2843,
+    "name": "2.5L 8AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "139.7 Kw @ - Rpm\r\n190 Hp @ - Rpm\r\n187 Bhp @ - Rpm",
+        "Torque:": "133 Lb-Ft @ - Rpm\r\n180 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Wheelbase:": "118.3 In (3005 Mm)"
+      }
+    }
+  },
+  {
+    "id": 11845,
+    "automobile_id": 2843,
+    "name": "2.5L Turbo 8AT AWD (275 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "202.3 Kw @ - Rpm\r\n275 Hp @ - Rpm\r\n271 Bhp @ - Rpm",
+        "Torque:": "310 Lb-Ft @ - Rpm\r\n420 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Dct"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Wheelbase:": "118.3 In (3005 Mm)"
+      }
+    }
+  }
+]

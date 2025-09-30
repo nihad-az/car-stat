@@ -1,0 +1,94 @@
+[
+  {
+    "id": 11773,
+    "automobile_id": 2807,
+    "name": "1.6L 3AT (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1602 Cm3",
+        "Power:": "59 Kw @ 5300 Rpm\r\n80 Hp @ 5300 Rpm\r\n79 Bhp @ 5300 Rpm",
+        "Torque:": "94 Lb-Ft @ 3500 Rpm\r\n127 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "102.5 Mph (165 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "161 In (4089 Mm)",
+        "Width:": "64.6 In (1641 Mm)",
+        "Height:": "50.8 In (1290 Mm)",
+        "Front/Rear Track:": "55.1/55.5 In (1,400/1,410 Mm)",
+        "Wheelbase:": "91.3 In (2319 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "9.1 Cuft (258 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11774,
+    "automobile_id": 2807,
+    "name": "1.6L 5MT (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1602 Cm3",
+        "Power:": "59 Kw @ 5300 Rpm\r\n80 Hp @ 5300 Rpm\r\n79 Bhp @ 5300 Rpm",
+        "Torque:": "94 Lb-Ft @ 3500 Rpm\r\n127 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "102.5 Mph (165 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "161 In (4089 Mm)",
+        "Width:": "64.6 In (1641 Mm)",
+        "Height:": "50.8 In (1290 Mm)",
+        "Front/Rear Track:": "55.1/55.5 In (1,400/1,410 Mm)",
+        "Wheelbase:": "91.3 In (2319 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "9.1 Cuft (258 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2028.3 Lbs (920 Kg)",
+        "Gross Weight Limit:": "2998.3 Lbs (1360 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": 22546,
+    "automobile_id": 5718,
+    "name": "1.0L TCE 6MT FWD (91 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "67.1 Kw @ - Rpm\r\n91.2 Hp @ - Rpm\r\n90 Bhp @ - Rpm",
+        "Torque:": "118 Lb-Ft @ - Rpm\r\n160 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Manual Speed"
+      }
+    }
+  },
+  {
+    "id": 22547,
+    "automobile_id": 5718,
+    "name": "1.3L TCE FWD (152 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "115.6 Kw @ - Rpm\r\n157.1 Hp @ - Rpm\r\n155 Bhp @ - Rpm",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      }
+    }
+  },
+  {
+    "id": 22548,
+    "automobile_id": 5718,
+    "name": "1.0L THE LPG FWD 6MT (101 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "74.6 Kw @ - Rpm\r\n101.4 Hp @ - Rpm\r\n100 Bhp @ - Rpm",
+        "Torque:": "118 Lb-Ft @ - Rpm\r\n160 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Liquefied Petroleum Gas (Lpg)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Manual Speed"
+      }
+    }
+  },
+  {
+    "id": 22549,
+    "automobile_id": 5718,
+    "name": "1.3L TCE MHEV FWD (162 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "119.3 Kw @ - Rpm\r\n162.2 Hp @ - Rpm\r\n160 Bhp @ - Rpm",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      }
+    }
+  },
+  {
+    "id": 22550,
+    "automobile_id": 5718,
+    "name": "1.3L TCE MHEV FWD 6MT (142 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "104.4 Kw @ - Rpm\r\n141.9 Hp @ - Rpm\r\n140 Bhp @ - Rpm",
+        "Torque:": "192 Lb-Ft @ - Rpm\r\n260 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Manual Speed"
+      }
+    }
+  },
+  {
+    "id": 22551,
+    "automobile_id": 5718,
+    "name": "1.6L E-Tech FWD (147 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "69 Kw @ - Rpm\r\n94 Hp @ - Rpm\r\n93 Bhp @ - Rpm",
+        "Torque:": "151 Lb-Ft @ - Rpm\r\n205 Nm @ - Rpm",
+        "Electrical Motor Power:": "36 Kw (49 Hp)",
+        "Total Maximum Power:": "108.1 Kw (147 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.2 Kwh"
+      }
+    }
+  }
+]

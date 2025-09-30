@@ -1,0 +1,210 @@
+[
+  {
+    "id": 6323,
+    "automobile_id": 1389,
+    "name": "2.0L 5MT FWD (152 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "112 Kw @ 6400 Rpm\r\n152 Hp @ 6400 Rpm\r\n150 Bhp @ 6400 Rpm",
+        "Torque:": "140 Lb-Ft @ 5000 Rpm\r\n190 Nm @ 5000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "71.2 In (1808 Mm)",
+        "Height:": "59 In (1499 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "108.9 In (2766 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3287.7 Lbs (1491 Kg)"
+      }
+    }
+  },
+  {
+    "id": 6324,
+    "automobile_id": 1389,
+    "name": "2.4L 4AT FWD (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2360 Cm3",
+        "Power:": "129 Kw @ 6000 Rpm\r\n175 Hp @ 6000 Rpm\r\n173 Bhp @ 6000 Rpm",
+        "Torque:": "164 Lb-Ft @ 4400 Rpm\r\n222 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "71.2 In (1808 Mm)",
+        "Height:": "59 In (1499 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "108.9 In (2766 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3287.7 Lbs (1491 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6325,
+    "automobile_id": 1389,
+    "name": "2.7L 4AT FWD (194 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2736 Cm3",
+        "Power:": "142 Kw @ 6400 Rpm\r\n193 Hp @ 6400 Rpm\r\n190 Bhp @ 6400 Rpm",
+        "Torque:": "220 Lb-Ft @ 4000 Rpm\r\n298 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "71.2 In (1808 Mm)",
+        "Height:": "59 In (1499 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "108.9 In (2766 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3356 Lbs (1522 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6326,
+    "automobile_id": 1389,
+    "name": "3.5L 6AT FWD (253 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3518 Cm3",
+        "Power:": "186 Kw @ 6400 Rpm\r\n253 Hp @ 6400 Rpm\r\n249 Bhp @ 6400 Rpm",
+        "Torque:": "250 Lb-Ft @ 4000 Rpm\r\n339 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "71.2 In (1808 Mm)",
+        "Height:": "59 In (1499 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "108.9 In (2766 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3499.3 Lbs (1587 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6327,
+    "automobile_id": 1389,
+    "name": "2.0L CRD 6MT FWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "103 Kw @ 4000 Rpm\r\n140 Hp @ 4000 Rpm\r\n138 Bhp @ 4000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "71.2 In (1808 Mm)",
+        "Height:": "59 In (1499 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "108.9 In (2766 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.7 Cuft (388 L)",
+        "Aerodynamics (Cd):": "0.31"
+      }
+    }
+  }
+]

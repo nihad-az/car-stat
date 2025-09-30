@@ -1,0 +1,84 @@
+[
+  {
+    "id": 18731,
+    "automobile_id": 4710,
+    "name": "4.8L V8 6AT (367 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4799 Cm3",
+        "Power:": "270 Kw @ 6300 Rpm\r\n367 Hp @ 6300 Rpm\r\n362 Bhp @ 6300 Rpm",
+        "Torque:": "361 Lb-Ft @ - Rpm\r\n489 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "163.3 In (4148 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "49.1 In (1247 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2425 Lbs (1100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.3 Mpg Us (16.4 L/100Km)",
+        "Highway:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "256 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18732,
+    "automobile_id": 4710,
+    "name": "4.8L V8 6MT (367 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4799 Cm3",
+        "Power:": "270 Kw @ 6300 Rpm\r\n367 Hp @ 6300 Rpm\r\n362 Bhp @ 6300 Rpm",
+        "Torque:": "361 Lb-Ft @ - Rpm\r\n489 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "170 Mph (274 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "163.3 In (4148 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "49.1 In (1247 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2601 Lbs (1180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.9 Mpg Us (18.2 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "19.4 Mpg Us (12.1 L/100Km)",
+        "Co2 Emissions:": "282 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": 10714,
+    "automobile_id": 2502,
+    "name": "2.4L VVT 6AT AWD (182 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2384 Cm3",
+        "Power:": "136 Kw @ 6700 Rpm\r\n185 Hp @ 6700 Rpm\r\n182 Bhp @ 6700 Rpm",
+        "Torque:": "172 Lb-Ft @ 4900 Rpm\r\n233 Nm @ 4900 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "185.5 In (4712 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "63.3 In (1608 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3990 Lbs (1810 Kg)",
+        "Gross Weight Limit:": "5070 Lbs (2300 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10715,
+    "automobile_id": 2502,
+    "name": "2.4L VVT 6AT FWD (182 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2384 Cm3",
+        "Power:": "136 Kw @ 6700 Rpm\r\n185 Hp @ 6700 Rpm\r\n182 Bhp @ 6700 Rpm",
+        "Torque:": "172 Lb-Ft @ 4900 Rpm\r\n233 Nm @ 4900 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "185.5 In (4712 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "63.3 In (1608 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3827 Lbs (1736 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10716,
+    "automobile_id": 2502,
+    "name": "3.6L V6 VVT 6AT AWD (301 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "224 Kw @ 6500 Rpm\r\n305 Hp @ 6500 Rpm\r\n300 Bhp @ 6500 Rpm",
+        "Torque:": "272 Lb-Ft @ 4800 Rpm\r\n369 Nm @ 4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "185.5 In (4712 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "66.3 In (1684 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10717,
+    "automobile_id": 2502,
+    "name": "3.6L V6 VVT 6AT FWD (301 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "224 Kw @ 6500 Rpm\r\n305 Hp @ 6500 Rpm\r\n300 Bhp @ 6500 Rpm",
+        "Torque:": "272 Lb-Ft @ 4800 Rpm\r\n369 Nm @ 4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "185.5 In (4712 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "66.3 In (1684 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "31.6 Cuft (895 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  }
+]

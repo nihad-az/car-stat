@@ -1,0 +1,89 @@
+[
+  {
+    "id": 19270,
+    "automobile_id": 4895,
+    "name": "2.0i 16V GT4 4AT AWD (230 Hp)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "169.2 Kw @ 6000 Rpm\r\n230 Hp @ 6000 Rpm\r\n227 Bhp @ 6000 Rpm",
+        "Torque:": "203 Lb-Ft @ 2600 Rpm\r\n275 Nm @ 2600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65R15"
+      },
+      "Dimensions": {
+        "Length:": "180.1 In (4575 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "64.2 In (1631 Mm)",
+        "Front/Rear Track:": "57.9/57.9 In (1,471/1,471 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4442 Lbs (2015 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.3 Mpg Us (12.2 L/100Km)",
+        "Highway:": "37.3 Mpg Us (6.3 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 19271,
+    "automobile_id": 4895,
+    "name": "2.0L CVT FWD (146 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "108 Kw @ 6000 Rpm\r\n146 Hp @ 6000 Rpm\r\n145 Bhp @ 6000 Rpm",
+        "Torque:": "146 Lb-Ft @ 4000 Rpm\r\n198 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65R15"
+      },
+      "Dimensions": {
+        "Length:": "180.1 In (4575 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "64.2 In (1631 Mm)",
+        "Front/Rear Track:": "57.9/57.9 In (1,471/1,471 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3263.4 Lbs (1480 Kg)",
+        "Gross Weight Limit:": "4112.3 Lbs (1865 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "34.5 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions:": "162 G/Km"
+      }
+    }
+  }
+]

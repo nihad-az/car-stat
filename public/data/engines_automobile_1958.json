@@ -1,0 +1,102 @@
+[
+  {
+    "id": 8444,
+    "automobile_id": 1958,
+    "name": "1.6L 5MT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "77 Kw @ 6200 Rpm\r\n105 Hp @ 6200 Rpm\r\n103 Bhp @ 6200 Rpm",
+        "Torque:": "111 Lb-Ft @ 3900 Rpm\r\n150 Nm @ 3900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "113.7 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65Hr15"
+      },
+      "Dimensions": {
+        "Length:": "177.9 In (4519 Mm)",
+        "Width:": "69.2 In (1758 Mm)",
+        "Height:": "61.8 In (1570 Mm)",
+        "Front/Rear Track:": "59.4/59.4 In (1,509/1,509 Mm)",
+        "Wheelbase:": "102.3 In (2598 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2899 Lbs (1315 Kg)",
+        "Gross Weight Limit:": "4078.5 Lbs (1850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.5 Mpg Us (9.2 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "32.6 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "170 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8445,
+    "automobile_id": 1958,
+    "name": "1.9L Multijet 5MT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1910 Cm3",
+        "Power:": "88 Kw @ 4000 Rpm\r\n120 Hp @ 4000 Rpm\r\n118 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 2000 Rpm\r\n280 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.3 Gallons (57.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119.9 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65Hr15"
+      },
+      "Dimensions": {
+        "Length:": "177.9 In (4519 Mm)",
+        "Width:": "69.2 In (1758 Mm)",
+        "Height:": "61.8 In (1570 Mm)",
+        "Front/Rear Track:": "59.4/59.4 In (1,509/1,509 Mm)",
+        "Wheelbase:": "102.3 In (2598 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3053.4 Lbs (1385 Kg)",
+        "Gross Weight Limit:": "4232.8 Lbs (1920 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "148 G/Km"
+      }
+    }
+  }
+]

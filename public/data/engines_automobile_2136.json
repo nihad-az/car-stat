@@ -1,0 +1,121 @@
+[
+  {
+    "id": 8998,
+    "automobile_id": 2136,
+    "name": "98.8 Kw (337 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "247.9 Kw @ - Rpm\r\n337 Hp @ - Rpm\r\n332 Bhp @ - Rpm",
+        "Torque:": "417 Lb-Ft @ - Rpm\r\n565 Nm @ - Rpm",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "185.5 In (4712 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "62.9 In (1598 Mm)",
+        "Front/Rear Track:": "63.7/64 In (1,618/1,626 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "98.8 Kwh",
+        "Maximum Capacity:": "88 Kwh"
+      }
+    }
+  },
+  {
+    "id": 8999,
+    "automobile_id": 2136,
+    "name": "98.8 Kw (465 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "342 Kw @ - Rpm\r\n465 Hp @ - Rpm\r\n459 Bhp @ - Rpm",
+        "Torque:": "612 Lb-Ft @ - Rpm\r\n830 Nm @ - Rpm",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "185.5 In (4712 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "62.9 In (1598 Mm)",
+        "Front/Rear Track:": "63.7/64 In (1,618/1,626 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "98.8 Kwh",
+        "Maximum Capacity:": "88 Kwh",
+        "Range:": "370 Miles (595.5 Km)"
+      }
+    }
+  },
+  {
+    "id": 9000,
+    "automobile_id": 2136,
+    "name": "Extended Range 98.8 KWh AWD (351 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "258.2 Kw (351 Hp)",
+        "Electrical Motor Torque:": "427.8 Lb-Ft (580 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "185.5 In (4712 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "62.9 In (1598 Mm)",
+        "Front/Rear Track:": "63.7/64 In (1,618/1,626 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4810 Lbs (2182 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "98.8 Kwh",
+        "Maximum Capacity:": "88 Kwh",
+        "Range:": "335.5 Miles (539.9 Km)"
+      }
+    }
+  }
+]

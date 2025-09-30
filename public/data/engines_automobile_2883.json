@@ -1,0 +1,589 @@
+[
+  {
+    "id": 12035,
+    "automobile_id": 2883,
+    "name": "1.0L T-GDI 6MT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "88.3 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "126 Lb-Ft @ 1500-4000 Rpm\r\n171 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2632 Lbs (1194 Kg)",
+        "Gross Weight Limit:": "3968 Lbs (1800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42 Mpg Us (5.6 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "112 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12036,
+    "automobile_id": 2883,
+    "name": "1.0L T-GDI Eco 6MT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "88.3 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "126 Lb-Ft @ 1500-4000 Rpm\r\n171 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2632 Lbs (1194 Kg)",
+        "Gross Weight Limit:": "3968 Lbs (1800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Co2 Emissions:": "103 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12037,
+    "automobile_id": 2883,
+    "name": "1.4L MPi 6MT FWD (100 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1368 Cm3",
+        "Power:": "73.5 Kw @ 6000 Rpm\r\n100 Hp @ 6000 Rpm\r\n99 Bhp @ 6000 Rpm",
+        "Torque:": "99 Lb-Ft @ 4000 Rpm\r\n134 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2577 Lbs (1169 Kg)",
+        "Gross Weight Limit:": "3880 Lbs (1760 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Co2 Emissions:": "126 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12038,
+    "automobile_id": 2883,
+    "name": "1.4L T-GDI 6MT FWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1353 Cm3",
+        "Power:": "103 Kw @ 6000 Rpm\r\n140 Hp @ 6000 Rpm\r\n138 Bhp @ 6000 Rpm",
+        "Torque:": "179 Lb-Ft @ 1500 Rpm\r\n242 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2654 Lbs (1204 Kg)",
+        "Gross Weight Limit:": "4012 Lbs (1820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12039,
+    "automobile_id": 2883,
+    "name": "1.4L T-GDI 7AT FWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1353 Cm3",
+        "Power:": "103 Kw @ 6000 Rpm\r\n140 Hp @ 6000 Rpm\r\n138 Bhp @ 6000 Rpm",
+        "Torque:": "179 Lb-Ft @ 1500 Rpm\r\n242 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Dct)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2734 Lbs (1240 Kg)",
+        "Gross Weight Limit:": "4079 Lbs (1850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12040,
+    "automobile_id": 2883,
+    "name": "1.4L T-GDI Eco 6MT FWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1353 Cm3",
+        "Power:": "103 Kw @ 6000 Rpm\r\n140 Hp @ 6000 Rpm\r\n138 Bhp @ 6000 Rpm",
+        "Torque:": "179 Lb-Ft @ 1500 Rpm\r\n242 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "129 Mph (208 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2654 Lbs (1204 Kg)",
+        "Gross Weight Limit:": "4012 Lbs (1820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12041,
+    "automobile_id": 2883,
+    "name": "1.6L 6MT FWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "80.9 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n108 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1500-2500 Rpm\r\n280 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2784 Lbs (1263 Kg)",
+        "Gross Weight Limit:": "4189 Lbs (1900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "56 Mpg Us (4.2 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Co2 Emissions:": "99 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12042,
+    "automobile_id": 2883,
+    "name": "1.6L 6MT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1500-3000 Rpm\r\n280 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2784 Lbs (1263 Kg)",
+        "Gross Weight Limit:": "4101 Lbs (1860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Co2 Emissions:": "102 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12043,
+    "automobile_id": 2883,
+    "name": "1.6L 6MT FWD (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "69.9 Kw @ 4000 Rpm\r\n95 Hp @ 4000 Rpm\r\n94 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1500-2000 Rpm\r\n280 Nm @ 1500-2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2784 Lbs (1263 Kg)",
+        "Gross Weight Limit:": "4101 Lbs (1860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "58.8 Mpg Us (4 L/100Km)",
+        "Highway:": "67.2 Mpg Us (3.5 L/100Km)",
+        "Combined:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Co2 Emissions:": "95 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12044,
+    "automobile_id": 2883,
+    "name": "1.6L 7AT FWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "80.9 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n108 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1500-2500 Rpm\r\n280 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Dct)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2851 Lbs (1293 Kg)",
+        "Gross Weight Limit:": "4189 Lbs (1900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Highway:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12045,
+    "automobile_id": 2883,
+    "name": "1.6L 7AT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "221 Lb-Ft @ 1750-2500 Rpm\r\n300 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Dct)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2851 Lbs (1293 Kg)",
+        "Gross Weight Limit:": "4189 Lbs (1900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Highway:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12046,
+    "automobile_id": 2883,
+    "name": "1.6L Eco 6MT FWD C(110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "80.9 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n108 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1500-2500 Rpm\r\n280 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195 / 65 R15"
+      },
+      "Dimensions": {
+        "Length:": "170.9 In (4341 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2784 Lbs (1263 Kg)",
+        "Gross Weight Limit:": "4189 Lbs (1900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Co2 Emissions:": "89 G/Km"
+      }
+    }
+  }
+]

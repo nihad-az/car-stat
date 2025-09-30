@@ -1,0 +1,104 @@
+[
+  {
+    "id": 3050,
+    "automobile_id": 722,
+    "name": "3.0L 6MT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "331 Kw @ 6250 Rpm\r\n450 Hp @ 6250 Rpm\r\n444 Bhp @ 6250 Rpm",
+        "Torque:": "406 Lb-Ft @ 2350-5500 Rpm\r\n550 Nm @ 2350-5500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "174 Mph (280 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 Zr19 93Y // 265/35 Zr19 98Y"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3583 Lbs (1625 Kg)",
+        "Gross Weight Limit:": "4431 Lbs (2010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.8 Mpg Us (14.9 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Co2 Emissions:": "238 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3051,
+    "automobile_id": 722,
+    "name": "3.0L 7AT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "331 Kw @ 6250 Rpm\r\n450 Hp @ 6250 Rpm\r\n444 Bhp @ 6250 Rpm",
+        "Torque:": "406 Lb-Ft @ 2350-5500 Rpm\r\n550 Nm @ 2350-5500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.7 Gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "174 Mph (280 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 Zr19 93Y // 265/35 Zr19 98Y"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "62.2/63 In (1,580/1,600 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3638 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4431 Lbs (2010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.7 Mpg Us (12.6 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions:": "219 G/Km"
+      }
+    }
+  }
+]

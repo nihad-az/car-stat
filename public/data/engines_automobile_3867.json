@@ -1,0 +1,96 @@
+[
+  {
+    "id": 15337,
+    "automobile_id": 3867,
+    "name": "1.5L 4AT AWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "83 Kw @ 6000 Rpm\r\n113 Hp @ 6000 Rpm\r\n111 Bhp @ 6000 Rpm",
+        "Torque:": "103 Lb-Ft @ 4000 Rpm\r\n140 Nm @ 4000 Rpm",
+        "Fuel System:": "Mutlipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc",
+        "Rear:": "Drum"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R14"
+      },
+      "Dimensions": {
+        "Length:": "156.5 In (3975 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Front/Rear Track:": "58.1/57.1 In (1,476/1,450 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2579 Lbs (1170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Highway:": "Infinity Mpg Us (0 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "141 G/Km"
+      }
+    }
+  },
+  {
+    "id": 15338,
+    "automobile_id": 3867,
+    "name": "1.5L 4AT FWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "83 Kw @ 6000 Rpm\r\n113 Hp @ 6000 Rpm\r\n111 Bhp @ 6000 Rpm",
+        "Torque:": "103 Lb-Ft @ 4000 Rpm\r\n140 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Disc",
+        "Rear:": "Drum"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R14"
+      },
+      "Dimensions": {
+        "Length:": "156.5 In (3975 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Front/Rear Track:": "58.1/57.1 In (1,476/1,450 Mm)",
+        "Wheelbase:": "98 In (2489 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2425 Lbs (1100 Kg)",
+        "Gross Weight Limit:": "3031 Lbs (1375 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "38.9 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "141 G/Km"
+      }
+    }
+  }
+]

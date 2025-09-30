@@ -1,0 +1,108 @@
+[
+  {
+    "id": 22151,
+    "automobile_id": 5550,
+    "name": "4.8L V8 8AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4806 Cm3",
+        "Power:": "294 Kw @ 6500 Rpm\r\n400 Hp @ 6500 Rpm\r\n394 Bhp @ 6500 Rpm",
+        "Torque:": "369 Lb-Ft @ 3500 Rpm\r\n500 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "22.5 Gallons (85.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "160 Mph (257 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Tiptronic S)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R18"
+      },
+      "Dimensions": {
+        "Length:": "190.8 In (4846 Mm)",
+        "Width:": "76.3 In (1938 Mm)",
+        "Height:": "67.1 In (1704 Mm)",
+        "Front/Rear Track:": "65.1/65.7 In (1,654/1,669 Mm)",
+        "Wheelbase:": "114 In (2896 Mm)",
+        "Ground Clearance:": "8.46 In (215 Mm)",
+        "Cargo Volume:": "23.6 / 62.8 Cuft (668 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4717.9 Lbs (2140 Kg)",
+        "Gross Weight Limit:": "6261.1 Lbs (2840 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.2 Mpg Us (14.5 L/100Km)",
+        "Highway:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Co2 Emissions:": "245 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22152,
+    "automobile_id": 5550,
+    "name": "3.0L V6 8AT AWD (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "244.9 Kw @ -55006500 Rpm\r\n333 Hp @ -55006500 Rpm\r\n328 Bhp @ -55006500 Rpm",
+        "Torque:": "325 Lb-Ft @ 3000-5250 Rpm\r\n440 Nm @ 3000-5250 Rpm",
+        "Electrical Motor Power:": "34.6 Kw (47 Hp)",
+        "Electrical Motor Torque:": "221.3 Lb-Ft (300 Nm)",
+        "Total Maximum Power:": "279.5 Kw (380 Hp)",
+        "Total Maximum Torque:": "427.8 Lb-Ft (580 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "22.5 Gallons (85.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Tiptronic S)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R18"
+      },
+      "Dimensions": {
+        "Length:": "190.8 In (4846 Mm)",
+        "Width:": "76.3 In (1938 Mm)",
+        "Height:": "67.1 In (1704 Mm)",
+        "Front/Rear Track:": "65.1/65.7 In (1,654/1,669 Mm)",
+        "Wheelbase:": "114 In (2896 Mm)",
+        "Ground Clearance:": "8.46 In (215 Mm)",
+        "Cargo Volume:": "20.5 Cuft (580 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4938 Lbs (2240 Kg)",
+        "Gross Weight Limit:": "6415 Lbs (2910 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Combined:": "27.6 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "193 G/Km"
+      }
+    }
+  }
+]

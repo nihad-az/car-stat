@@ -1,0 +1,102 @@
+[
+  {
+    "id": 25949,
+    "automobile_id": 6388,
+    "name": "1.6L 5MT (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1586 Cm3",
+        "Power:": "78 Kw @ 5900 Rpm\r\n106 Hp @ 5900 Rpm\r\n105 Bhp @ 5900 Rpm",
+        "Torque:": "103 Lb-Ft @ 4100 Rpm\r\n140 Nm @ 4100 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99.4 Mph (160 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/70R16"
+      },
+      "Dimensions": {
+        "Length:": "157.7 In (4006 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Front/Rear Track:": "60.6/61.4 In (1,539/1,560 Mm)",
+        "Wheelbase:": "96.1 In (2441 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "6.4 Cuft (181 L)",
+        "Aerodynamics (Cd):": "0.45"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2965.2 Lbs (1345 Kg)",
+        "Gross Weight Limit:": "3968.3 Lbs (1800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "210 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25950,
+    "automobile_id": 6388,
+    "name": "1.9L DDiS 5MT (129 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1870 Cm3",
+        "Power:": "95 Kw @ 3750 Rpm\r\n129 Hp @ 3750 Rpm\r\n127 Bhp @ 3750 Rpm",
+        "Torque:": "221 Lb-Ft @ 2000 Rpm\r\n300 Nm @ 2000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/70R16"
+      },
+      "Dimensions": {
+        "Length:": "157.7 In (4006 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Front/Rear Track:": "60.6/61.4 In (1,539/1,560 Mm)",
+        "Wheelbase:": "96.1 In (2441 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "6.5 Cuft (184 L)",
+        "Aerodynamics (Cd):": "0.45"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3240.8 Lbs (1470 Kg)",
+        "Gross Weight Limit:": "4122.6 Lbs (1870 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "195 G/Km"
+      }
+    }
+  }
+]

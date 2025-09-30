@@ -1,0 +1,102 @@
+[
+  {
+    "id": 85,
+    "automobile_id": 46,
+    "name": "3.0L V6 4AT (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2977 Cm3",
+        "Power:": "185 Kw @ 6600 Rpm\r\n252 Hp @ 6600 Rpm\r\n248 Bhp @ 6600 Rpm",
+        "Torque:": "210 Lb-Ft @ 5300 Rpm\r\n285 Nm @ 5300 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "161.6 Mph (260 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 Zr16 (Front) - 245/40 Zr17 (Rear)"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "46.1 In (1171 Mm)",
+        "Front/Rear Track:": "59.4/60.2 In (1,509/1,529 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "5 Cuft (142 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3065 Lbs (1390 Kg)",
+        "Gross Weight Limit:": "3550.1 Lbs (1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.8 Mpg Us (18.4 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Co2 Emissions:": "287 G/Km"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "automobile_id": 46,
+    "name": "3.2L V6 6MT (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3179 Cm3",
+        "Power:": "213 Kw @ 7100 Rpm\r\n290 Hp @ 7100 Rpm\r\n286 Bhp @ 7100 Rpm",
+        "Torque:": "224 Lb-Ft @ 5500 Rpm\r\n304 Nm @ 5500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "167.8 Mph (270 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45 Zr16 (Front) - 245/40 Zr17 (Rear)"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "46.1 In (1171 Mm)",
+        "Front/Rear Track:": "59.4/60.2 In (1,509/1,529 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "5 Cuft (142 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3069 Lbs (1392 Kg)",
+        "Gross Weight Limit:": "3550.1 Lbs (1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)",
+        "Co2 Emissions:": "291 G/Km"
+      }
+    }
+  }
+]

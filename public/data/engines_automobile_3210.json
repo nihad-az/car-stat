@@ -1,0 +1,74 @@
+[
+  {
+    "id": 13297,
+    "automobile_id": 3210,
+    "name": "1.6L HEV 6AT (226 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Electrical Motor Power:": "166.2 Kw (226 Hp)",
+        "Electrical Motor Torque:": "195 Lb-Ft (264 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "63.5X64.0 In (1613 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "30.7 Cuft (869 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3305 Lbs (1499 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "64 Kwh"
+      }
+    }
+  },
+  {
+    "id": 13298,
+    "automobile_id": 3210,
+    "name": "2.4L 6AT (181 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2359 Cm3",
+        "Power:": "133.1 Kw @ 6000 Rpm\r\n181 Hp @ 6000 Rpm\r\n178 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4000 Rpm\r\n237 Nm @ 4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Automatic Speed"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Front/Rear Track:": "63.5X64.0 In (1613 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.4 In (163 Mm)",
+        "Cargo Volume:": "30.7 Cuft (869 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3305 Lbs (1499 Kg)"
+      }
+    }
+  }
+]

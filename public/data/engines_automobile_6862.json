@@ -1,0 +1,167 @@
+[
+  {
+    "id": 27661,
+    "automobile_id": 6862,
+    "name": "2.0L TSI 7AT 4MOTION AWD (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "200.1 Kw @ - Rpm\r\n272 Hp @ - Rpm\r\n268 Bhp @ - Rpm",
+        "Torque:": "258 Lb-Ft @ 2000-5400 Rpm\r\n350 Nm @ 2000-5400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "188.2 In (4780 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "60.1 In (1527 Mm)",
+        "Front/Rear Track:": "62.2/61.5 In (1,580/1,562 Mm)",
+        "Wheelbase:": "109.8 In (2789 Mm)",
+        "Cargo Volume:": "22.6 Cuft (640 L)",
+        "Turning Circle (Curb To Curb):": "38.4 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3737 Lbs (1695 Kg)",
+        "Gross Weight Limit:": "5049 Lbs (2290 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "163 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Medium:": "28.3 Mpg Us (8.3 L/100Km)",
+        "High:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Extra High:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions (Combined):": "190 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27662,
+    "automobile_id": 6862,
+    "name": "2.0L TDI 7AT 4MOTION AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "139.7 Kw @ - Rpm\r\n190 Hp @ - Rpm\r\n187 Bhp @ - Rpm",
+        "Torque:": "295 Lb-Ft @ 1900-3300 Rpm\r\n400 Nm @ 1900-3300 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "188.2 In (4780 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "60.1 In (1527 Mm)",
+        "Front/Rear Track:": "62.2/61.5 In (1,580/1,562 Mm)",
+        "Wheelbase:": "109.8 In (2789 Mm)",
+        "Ground Clearance:": "6.8 In (173 Mm)",
+        "Cargo Volume:": "22.6 Cuft (640 L)",
+        "Turning Circle (Curb To Curb):": "5.6 Ft (1.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3803 Lbs (1725 Kg)",
+        "Gross Weight Limit:": "5115 Lbs (2320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42 Mpg Us (5.6 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "127 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Medium:": "37.9 Mpg Us (6.2 L/100Km)",
+        "High:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Extra High:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions (Combined):": "160 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27663,
+    "automobile_id": 6862,
+    "name": "2.0L TDI 7AT 4MOTION AWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "176.5 Kw @ - Rpm\r\n240 Hp @ - Rpm\r\n237 Bhp @ - Rpm",
+        "Torque:": "369 Lb-Ft @ 1750-2500 Rpm\r\n500 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Adblue Tank"
+      },
+      "Dimensions": {
+        "Ground Clearance:": "6.8 In (173 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "157 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Medium:": "30.5 Mpg Us (7.7 L/100Km)",
+        "High:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Extra High:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions (Combined):": "197 G/Km"
+      }
+    }
+  }
+]

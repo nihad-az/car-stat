@@ -1,0 +1,103 @@
+[
+  {
+    "id": 22236,
+    "automobile_id": 5601,
+    "name": "3.8L 5AT AWD (355 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3824 Cm3",
+        "Power:": "261 Kw @ 6600 Rpm\r\n355 Hp @ 6600 Rpm\r\n350 Bhp @ 6600 Rpm",
+        "Torque:": "295 Lb-Ft @ 4600 Rpm\r\n400 Nm @ 4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.7 Gallons (67.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "174 Mph (280 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 Zr19 || 295/30 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "174.3 In (4427 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "51.2 In (1300 Mm)",
+        "Front/Rear Track:": "58.5/60.9 In (1,486/1,547 Mm)",
+        "Wheelbase:": "92.5 In (2350 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "4.8 Cuft (136 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3340 Lbs (1515 Kg)",
+        "Gross Weight Limit:": "4112 Lbs (1865 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Co2 Emissions:": "286 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22237,
+    "automobile_id": 5601,
+    "name": "3.8L 6MT AWD (355 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3824 Cm3",
+        "Power:": "261 Kw @ 6600 Rpm\r\n355 Hp @ 6600 Rpm\r\n350 Bhp @ 6600 Rpm",
+        "Torque:": "295 Lb-Ft @ 4600 Rpm\r\n400 Nm @ 4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "179 Mph (288 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 Zr19 || 295/30 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "174.3 In (4427 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "51.2 In (1300 Mm)",
+        "Front/Rear Track:": "58.5/60.9 In (1,486/1,547 Mm)",
+        "Wheelbase:": "92.5 In (2350 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "4.8 Cuft (136 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4134 Lbs (1875 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.4 Mpg Us (17.6 L/100Km)",
+        "Highway:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Co2 Emissions:": "285 G/Km"
+      }
+    }
+  }
+]

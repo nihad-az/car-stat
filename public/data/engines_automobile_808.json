@@ -1,0 +1,832 @@
+[
+  {
+    "id": 3911,
+    "automobile_id": 808,
+    "name": "318i 6MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "105 Kw @ 6000 Rpm\r\n143 Hp @ 6000 Rpm\r\n141 Bhp @ 6000 Rpm",
+        "Torque:": "140 Lb-Ft @ 4250 Rpm\r\n190 Nm @ 4250 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91H"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59.3/59.8 In (1,506/1,519 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3516 Lbs (1595 Kg)",
+        "Gross Weight Limit:": "4464 Lbs (2025 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3912,
+    "automobile_id": 808,
+    "name": "320i 6AT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "125 Kw @ 6700 Rpm\r\n170 Hp @ 6700 Rpm\r\n168 Bhp @ 6700 Rpm",
+        "Torque:": "155 Lb-Ft @ 4250 Rpm\r\n210 Nm @ 4250 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3682 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4530 Lbs (2055 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3913,
+    "automobile_id": 808,
+    "name": "320i 6MT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "125 Kw @ 6700 Rpm\r\n170 Hp @ 6700 Rpm\r\n168 Bhp @ 6700 Rpm",
+        "Torque:": "155 Lb-Ft @ 4250 Rpm\r\n210 Nm @ 4250 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142 Mph (229 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3516 Lbs (1595 Kg)",
+        "Gross Weight Limit:": "4464 Lbs (2025 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3914,
+    "automobile_id": 808,
+    "name": "325i 6AT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "160 Kw @ 6100 Rpm\r\n218 Hp @ 6100 Rpm\r\n215 Bhp @ 6100 Rpm",
+        "Torque:": "200 Lb-Ft @ 2400-4200 Rpm\r\n271 Nm @ 2400-4200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "151 Mph (243 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4  Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3715 Lbs (1685 Kg)",
+        "Gross Weight Limit:": "4663 Lbs (2115 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "185 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3915,
+    "automobile_id": 808,
+    "name": "325i 6MT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "160 Kw @ 6100 Rpm\r\n218 Hp @ 6100 Rpm\r\n215 Bhp @ 6100 Rpm",
+        "Torque:": "200 Lb-Ft @ 2400-4200 Rpm\r\n271 Nm @ 2400-4200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "152 Mph (245 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3648 Lbs (1655 Kg)",
+        "Gross Weight Limit:": "4596 Lbs (2085 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "39.8 Mpg Us (5.9 L/100Km)",
+        "Combined:": "31.3 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3916,
+    "automobile_id": 808,
+    "name": "330i 6AT RWD (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "200 Kw @ 6700 Rpm\r\n272 Hp @ 6700 Rpm\r\n268 Bhp @ 6700 Rpm",
+        "Torque:": "236 Lb-Ft @ 2750-3000 Rpm\r\n320 Nm @ 2750-3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91Y Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3792 Lbs (1720 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions:": "190 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3917,
+    "automobile_id": 808,
+    "name": "330i 6MT RWD (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "200 Kw @ 6700 Rpm\r\n272 Hp @ 6700 Rpm\r\n268 Bhp @ 6700 Rpm",
+        "Torque:": "236 Lb-Ft @ 2750-3000 Rpm\r\n320 Nm @ 2750-3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91Y Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3758 Lbs (1705 Kg)",
+        "Gross Weight Limit:": "4707 Lbs (2135 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "30.1 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "182 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3918,
+    "automobile_id": 808,
+    "name": "335i 6MT RWD (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "225 Kw @ 5800 Rpm\r\n306 Hp @ 5800 Rpm\r\n302 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 1200-5000 Rpm\r\n400 Nm @ 1200-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.3 In (1,499/1,506 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3891 Lbs (1765 Kg)",
+        "Gross Weight Limit:": "4707 Lbs (2135 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3919,
+    "automobile_id": 808,
+    "name": "335i 7AT RWD (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "225 Kw @ 5800 Rpm\r\n306 Hp @ 5800 Rpm\r\n302 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 1200-5000 Rpm\r\n400 Nm @ 1200-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.3 In (1,499/1,506 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3858 Lbs (1750 Kg)",
+        "Gross Weight Limit:": "4806 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.3 Mpg Us (12.2 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3920,
+    "automobile_id": 808,
+    "name": "335is 6MT RWD (320 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2979 Cm3",
+        "Power:": "239 Kw @ 5900 Rpm\r\n325 Hp @ 5900 Rpm\r\n321 Bhp @ 5900 Rpm",
+        "Torque:": "332 Lb-Ft @ 1500 Rpm\r\n450 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.3 In (1,499/1,506 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001 Lbs (1815 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 3921,
+    "automobile_id": 808,
+    "name": "320d 6AT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "135 Kw @ 4000 Rpm\r\n184 Hp @ 4000 Rpm\r\n181 Bhp @ 4000 Rpm",
+        "Torque:": "280 Lb-Ft @ 1900-2750 Rpm\r\n380 Nm @ 1900-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3682 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4630 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "149 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3922,
+    "automobile_id": 808,
+    "name": "320d 6MT RWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "135 Kw @ 4000 Rpm\r\n184 Hp @ 4000 Rpm\r\n181 Bhp @ 4000 Rpm",
+        "Torque:": "280 Lb-Ft @ 1900-2750 Rpm\r\n380 Nm @ 1900-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142 Mph (229 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4  Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3649 Lbs (1655 Kg)",
+        "Gross Weight Limit:": "4597 Lbs (2085 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "135 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3923,
+    "automobile_id": 808,
+    "name": "325d 6AT RWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "150 Kw @ 3750 Rpm\r\n204 Hp @ 3750 Rpm\r\n201 Bhp @ 3750 Rpm",
+        "Torque:": "317 Lb-Ft @ 1750 Rpm\r\n430 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3869 Lbs (1755 Kg)",
+        "Gross Weight Limit:": "4806 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3924,
+    "automobile_id": 808,
+    "name": "325d 6MT RWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "150 Kw @ 3750 Rpm\r\n204 Hp @ 3750 Rpm\r\n201 Bhp @ 3750 Rpm",
+        "Torque:": "317 Lb-Ft @ 1750 Rpm\r\n430 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "148 Mph (238 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3836 Lbs (1740 Kg)",
+        "Gross Weight Limit:": "4564 Lbs (2070 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "160 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3925,
+    "automobile_id": 808,
+    "name": "330d 6AT RWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "180 Kw @ 4000 Rpm\r\n245 Hp @ 4000 Rpm\r\n241 Bhp @ 4000 Rpm",
+        "Torque:": "383 Lb-Ft @ 1750-3000 Rpm\r\n519 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91Y Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4 Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3891 Lbs (1765 Kg)",
+        "Gross Weight Limit:": "4839 Lbs (2195 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "170 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3926,
+    "automobile_id": 808,
+    "name": "330d 6MT RWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "180 Kw @ 4000 Rpm\r\n245 Hp @ 4000 Rpm\r\n241 Bhp @ 4000 Rpm",
+        "Torque:": "383 Lb-Ft @ 1750-3000 Rpm\r\n519 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91Y Rsc"
+      },
+      "Dimensions": {
+        "Length:": "181.6 In (4613 Mm)",
+        "Width:": "70.15 In (1782 Mm)",
+        "Height:": "54.5 In (1384 Mm)",
+        "Front/Rear Track:": "59/59.6 In (1,499/1,514 Mm)",
+        "Wheelbase:": "108.66 In (2760 Mm)",
+        "Ground Clearance:": "5.4 In (137 Mm)",
+        "Cargo Volume:": "7.4  Cuft (210 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3858 Lbs (1750 Kg)",
+        "Gross Weight Limit:": "4806 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "38.5 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "162 G/Km"
+      }
+    }
+  }
+]

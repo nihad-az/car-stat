@@ -1,0 +1,44 @@
+[
+  {
+    "id": 11804,
+    "automobile_id": 2827,
+    "name": "2.5L 8AT AWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "142.4 Kw @ - Rpm\r\n194 Hp @ - Rpm\r\n191 Bhp @ - Rpm",
+        "Torque:": "181 Lb-Ft @ - Rpm\r\n245 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 11805,
+    "automobile_id": 2827,
+    "name": "2.5L 8AT AWD (285 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "209.5 Kw @ - Rpm\r\n284.9 Hp @ - Rpm\r\n281 Bhp @ - Rpm",
+        "Torque:": "311 Lb-Ft @ - Rpm\r\n422 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs"
+      }
+    }
+  }
+]

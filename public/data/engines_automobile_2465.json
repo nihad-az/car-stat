@@ -1,0 +1,180 @@
+[
+  {
+    "id": 10592,
+    "automobile_id": 2465,
+    "name": "1.4",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1396 Cm3",
+        "Power:": "76 Kw @ 6000 Rpm\r\n103 Hp @ 6000 Rpm\r\n102 Bhp @ 6000 Rpm",
+        "Torque:": "94 Lb-Ft @ 5000 Rpm\r\n127 Nm @ 5000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "108.7 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/70 Hr13"
+      },
+      "Dimensions": {
+        "Length:": "170.1 In (4321 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "54.1/53.1 In (1,374/1,349 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2425.1 Lbs (1100 Kg)",
+        "Gross Weight Limit:": "3417.2 Lbs (1550 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "33.6 Mpg Us (7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10593,
+    "automobile_id": 2465,
+    "name": "1.5",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1481 Cm3",
+        "Power:": "55 Kw @ 5200 Rpm\r\n75 Hp @ 5200 Rpm\r\n74 Bhp @ 5200 Rpm",
+        "Torque:": "84 Lb-Ft @ 2900 Rpm\r\n114 Nm @ 2900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "17.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R13"
+      },
+      "Dimensions": {
+        "Length:": "170.1 In (4321 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "54.1/53.1 In (1,374/1,349 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2447 Lbs (1110 Kg)",
+        "Gross Weight Limit:": "3417.2 Lbs (1550 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10594,
+    "automobile_id": 2465,
+    "name": "1.6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "57 Kw @ 5000 Rpm\r\n78 Hp @ 5000 Rpm\r\n76 Bhp @ 5000 Rpm",
+        "Torque:": "90 Lb-Ft @ 2900 Rpm\r\n122 Nm @ 2900 Rpm",
+        "Fuel System:": "Monopoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99.4 Mph (160 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R13"
+      },
+      "Dimensions": {
+        "Length:": "170.1 In (4321 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "54.1/53.1 In (1,374/1,349 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2447 Lbs (1110 Kg)",
+        "Gross Weight Limit:": "3439.2 Lbs (1560 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "28.7 Mpg Us (8.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10595,
+    "automobile_id": 2465,
+    "name": "1.9 D",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1905 Cm3",
+        "Power:": "51 Kw @ 4600 Rpm\r\n69 Hp @ 4600 Rpm\r\n68 Bhp @ 4600 Rpm",
+        "Torque:": "89 Lb-Ft @ 2000 Rpm\r\n120 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "19.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R13"
+      },
+      "Dimensions": {
+        "Length:": "170.1 In (4321 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "54.1/53.1 In (1,374/1,349 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2524.3 Lbs (1145 Kg)",
+        "Gross Weight Limit:": "3439.2 Lbs (1560 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)"
+      }
+    }
+  }
+]

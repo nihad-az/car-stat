@@ -1,0 +1,102 @@
+[
+  {
+    "id": 7499,
+    "automobile_id": 1632,
+    "name": "0.8L 5MT (52 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "769 Cm3",
+        "Power:": "38 Kw @ 6000 Rpm\r\n52 Hp @ 6000 Rpm\r\n51 Bhp @ 6000 Rpm",
+        "Torque:": "53 Lb-Ft @ 4400 Rpm\r\n72 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10 Gallons (37.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90.1 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145/70/R13"
+      },
+      "Dimensions": {
+        "Length:": "137.6 In (3495 Mm)",
+        "Width:": "58.9 In (1496 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "51.6/50.2 In (1,311/1,275 Mm)",
+        "Wheelbase:": "92.3 In (2344 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "29.6 Cuft (838 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1708.9 Lbs (775 Kg)",
+        "Gross Weight Limit:": "2756.2 Lbs (1250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Highway:": "56 Mpg Us (4.2 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 7500,
+    "automobile_id": 1632,
+    "name": "1.0L 5MT (67 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "995 Cm3",
+        "Power:": "49 Kw @ 5400 Rpm\r\n67 Hp @ 5400 Rpm\r\n66 Bhp @ 5400 Rpm",
+        "Torque:": "67 Lb-Ft @ 4200 Rpm\r\n91 Nm @ 4200 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10 Gallons (37.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96.9 Mph (156 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145/70/R13"
+      },
+      "Dimensions": {
+        "Length:": "137.6 In (3495 Mm)",
+        "Width:": "58.9 In (1496 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "51.6/50.2 In (1,311/1,275 Mm)",
+        "Wheelbase:": "92.3 In (2344 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "29.6 Cuft (838 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1753 Lbs (795 Kg)",
+        "Gross Weight Limit:": "2800.3 Lbs (1270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "133 G/Km"
+      }
+    }
+  }
+]

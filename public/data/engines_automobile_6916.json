@@ -1,0 +1,869 @@
+[
+  {
+    "id": 27951,
+    "automobile_id": 6916,
+    "name": "1.4L TSI 4MOTION 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1395 Cm3",
+        "Power:": "110 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n249 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3058 Lbs (1387 Kg)",
+        "Gross Weight Limit:": "4277 Lbs (1940 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "115 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27952,
+    "automobile_id": 6916,
+    "name": "1.4L TSI BlueMotion 6MT FWD (125 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "92 Kw @ 5000-6000 Rpm\r\n125 Hp @ 5000-6000 Rpm\r\n123 Bhp @ 5000-6000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1400-4000 Rpm\r\n201 Nm @ 1400-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "129 Mph (208 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.4/61.7 In (1,585/1,567 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3014 Lbs (1367 Kg)",
+        "Gross Weight Limit:": "4211 Lbs (1910 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "123 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27953,
+    "automobile_id": 6916,
+    "name": "1.4L TSI BlueMotion 6MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1395 Cm3",
+        "Power:": "110 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n249 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.4/61.7 In (1,585/1,567 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3058 Lbs (1387 Kg)",
+        "Gross Weight Limit:": "4277 Lbs (1940 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "115 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27954,
+    "automobile_id": 6916,
+    "name": "1.4L TSI BlueMotion 7AT FWD (125 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1395 Cm3",
+        "Power:": "92 Kw @ 5000-6000 Rpm\r\n125 Hp @ 5000-6000 Rpm\r\n123 Bhp @ 5000-6000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1400-4000 Rpm\r\n201 Nm @ 1400-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "129 Mph (208 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3075 Lbs (1395 Kg)",
+        "Gross Weight Limit:": "4299 Lbs (1950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27955,
+    "automobile_id": 6916,
+    "name": "1.4L TSI BlueMotion 7AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1395 Cm3",
+        "Power:": "110 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n249 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3115 Lbs (1413 Kg)",
+        "Gross Weight Limit:": "4343 Lbs (1970 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "117 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27956,
+    "automobile_id": 6916,
+    "name": "1.8L TSI BlueMotion 7AT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "132 Kw @ 5100-6200 Rpm\r\n179 Hp @ 5100-6200 Rpm\r\n177 Bhp @ 5100-6200 Rpm",
+        "Torque:": "184 Lb-Ft @ 1250-5000 Rpm\r\n249 Nm @ 1250-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3263 Lbs (1480 Kg)",
+        "Gross Weight Limit:": "4475 Lbs (2030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "129 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27957,
+    "automobile_id": 6916,
+    "name": "2.0L TSI BlueMotion 6AT FWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "162 Kw @ 4500-6200 Rpm\r\n220 Hp @ 4500-6200 Rpm\r\n217 Bhp @ 4500-6200 Rpm",
+        "Torque:": "258 Lb-Ft @ 1500-4400 Rpm\r\n350 Nm @ 1500-4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "153 Mph (246 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3318 Lbs (1505 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "142 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27958,
+    "automobile_id": 6916,
+    "name": "1.6L TDI BlueMotion 6MT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "88 Kw @ 3600-4000 Rpm\r\n120 Hp @ 3600-4000 Rpm\r\n118 Bhp @ 3600-4000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3250 Rpm\r\n249 Nm @ 1500-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.4/61.7 In (1,585/1,567 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3183 Lbs (1444 Kg)",
+        "Gross Weight Limit:": "4387 Lbs (1990 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Co2 Emissions:": "105 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27959,
+    "automobile_id": 6916,
+    "name": "1.6L TDI BlueMotion 7AT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "103 Kw @ 4200 Rpm\r\n140 Hp @ 4200 Rpm\r\n138 Bhp @ 4200 Rpm",
+        "Torque:": "236 Lb-Ft @ 1750 Rpm\r\n320 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3217 Lbs (1459 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "103 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27960,
+    "automobile_id": 6916,
+    "name": "2.0L TDI 4MOTION 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "110 Kw @ 3500-4000 Rpm\r\n150 Hp @ 3500-4000 Rpm\r\n148 Bhp @ 3500-4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 1750-3000 Rpm\r\n340 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3523 Lbs (1598 Kg)",
+        "Gross Weight Limit:": "4894 Lbs (2220 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Combined:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Co2 Emissions:": "117 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27961,
+    "automobile_id": 6916,
+    "name": "2.0L TDI 4MOTION 7AT AWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "177 Kw @ 4000 Rpm\r\n241 Hp @ 4000 Rpm\r\n237 Bhp @ 4000 Rpm",
+        "Torque:": "369 Lb-Ft @ 1750-2500 Rpm\r\n500 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3794 Lbs (1721 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27962,
+    "automobile_id": 6916,
+    "name": "2.0L TDI BlueMotion 6AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "110 Kw @ 3500-4000 Rpm\r\n150 Hp @ 3500-4000 Rpm\r\n148 Bhp @ 3500-4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 1750-3000 Rpm\r\n340 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.4/61.7 In (1,585/1,567 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3309 Lbs (1501 Kg)",
+        "Gross Weight Limit:": "4497 Lbs (2040 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "116 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27963,
+    "automobile_id": 6916,
+    "name": "2.0L TDI BlueMotion 6MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "110 Kw @ 3500-4000 Rpm\r\n150 Hp @ 3500-4000 Rpm\r\n148 Bhp @ 3500-4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 1750-3000 Rpm\r\n340 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.4/61.7 In (1,585/1,567 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4453 Lbs (2020 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "106 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27964,
+    "automobile_id": 6916,
+    "name": "2.0L TDI SCR 4MOTION BlueMotion 6AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "139 Kw @ 3500-4000 Rpm\r\n189 Hp @ 3500-4000 Rpm\r\n186 Bhp @ 3500-4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1900-3300 Rpm\r\n400 Nm @ 1900-3300 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3558 Lbs (1614 Kg)",
+        "Gross Weight Limit:": "4894 Lbs (2220 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "131 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27965,
+    "automobile_id": 6916,
+    "name": "2.0L TDI SCR 4MOTION BlueMotion 7AT AWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "177 Kw @ 4000 Rpm\r\n241 Hp @ 4000 Rpm\r\n237 Bhp @ 4000 Rpm",
+        "Torque:": "369 Lb-Ft @ 1750-2500 Rpm\r\n500 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3794 Lbs (1721 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27966,
+    "automobile_id": 6916,
+    "name": "2.0L TDI SCR BlueMotion 6AT FWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "139 Kw @ 3500-4000 Rpm\r\n189 Hp @ 3500-4000 Rpm\r\n186 Bhp @ 3500-4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1900-3300 Rpm\r\n400 Nm @ 1900-3300 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3415 Lbs (1549 Kg)",
+        "Gross Weight Limit:": "4652 Lbs (2110 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Co2 Emissions:": "118 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27967,
+    "automobile_id": 6916,
+    "name": "2.0L TDI SCR BlueMotion 6MT FWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "139 Kw @ 3500-4000 Rpm\r\n189 Hp @ 3500-4000 Rpm\r\n186 Bhp @ 3500-4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1900-3300 Rpm\r\n400 Nm @ 1900-3300 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "187.7 In (4768 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "20.7 Cuft (586 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3318 Lbs (1505 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "48 Mpg Us (4.9 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Co2 Emissions:": "106 G/Km"
+      }
+    }
+  }
+]

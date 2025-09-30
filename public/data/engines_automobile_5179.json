@@ -1,0 +1,48 @@
+[
+  {
+    "id": 20901,
+    "automobile_id": 5179,
+    "name": "2.5L 5MT AWD  (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2498 Cm3",
+        "Power:": "85.8 Kw @ - Rpm\r\n116.6 Hp @ - Rpm\r\n115 Bhp @ - Rpm",
+        "Torque:": "207 Lb-Ft @ - Rpm\r\n280 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 20902,
+    "automobile_id": 5179,
+    "name": "2.5L 5MT RWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2498 Cm3",
+        "Power:": "85.8 Kw @ - Rpm\r\n116.6 Hp @ - Rpm\r\n115 Bhp @ - Rpm",
+        "Torque:": "207 Lb-Ft @ - Rpm\r\n280 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": 12802,
+    "automobile_id": 3075,
+    "name": "2.0L 8AT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "183.9 Kw @ 5500 Rpm\r\n250 Hp @ 5500 Rpm\r\n247 Bhp @ 5500 Rpm",
+        "Torque:": "269 Lb-Ft @ 1300-4500 Rpm\r\n365 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "28 Cuft (793 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4182 Lbs (1897 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions (Combined):": "209 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12803,
+    "automobile_id": 3075,
+    "name": "3.0L 8AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "220.6 Kw @ 4000 Rpm\r\n300 Hp @ 4000 Rpm\r\n296 Bhp @ 4000 Rpm",
+        "Torque:": "479 Lb-Ft @ 1500-2500 Rpm\r\n650 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "28 Cuft (793 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4447 Lbs (2017 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      }
+    }
+  },
+  {
+    "id": 12804,
+    "automobile_id": 3075,
+    "name": "2.0L 8AT PHEV AWD (404 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "1997 Cm3",
+        "Power:": "297.1 Kw @ 5500 Rpm\r\n404 Hp @ 5500 Rpm\r\n398 Bhp @ 5500 Rpm",
+        "Torque:": "472 Lb-Ft @ 1500-4400 Rpm\r\n640 Nm @ 1500-4400 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "18.2 Gallons (68.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4826 Lbs (2189 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "106.9 Mpg Us (2.2 L/100Km)",
+        "Co2 Emissions (Combined):": "49 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12805,
+    "automobile_id": 3075,
+    "name": "2.0L 8AT AWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "119.9 Kw @ 4250 Rpm\r\n163 Hp @ 4250 Rpm\r\n161 Bhp @ 4250 Rpm",
+        "Torque:": "280 Lb-Ft @ 1500-2500 Rpm\r\n380 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4301 Lbs (1951 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions (Combined):": "163 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12806,
+    "automobile_id": 3075,
+    "name": "2.0L 8AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "150 Kw @ 4250 Rpm\r\n204 Hp @ 4250 Rpm\r\n201 Bhp @ 4250 Rpm",
+        "Torque:": "317 Lb-Ft @ 1750-2500 Rpm\r\n430 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4301 Lbs (1951 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions (Combined):": "163 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12807,
+    "automobile_id": 3075,
+    "name": "3.0L 8AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "220.6 Kw @ 4000 Rpm\r\n300 Hp @ 4000 Rpm\r\n296 Bhp @ 4000 Rpm",
+        "Torque:": "479 Lb-Ft @ 1500-2500 Rpm\r\n650 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Mild Hybrid Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4592 Lbs (2083 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions (Combined):": "194 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12808,
+    "automobile_id": 3075,
+    "name": "3.0L 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "250.1 Kw @ 5500-6500 Rpm\r\n340 Hp @ 5500-6500 Rpm\r\n335 Bhp @ 5500-6500 Rpm",
+        "Torque:": "354 Lb-Ft @ 1500-4500 Rpm\r\n480 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4301 Lbs (1951 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  },
+  {
+    "id": 12809,
+    "automobile_id": 3075,
+    "name": "3.0L 8AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "294.2 Kw @ 5500-6500 Rpm\r\n400 Hp @ 5500-6500 Rpm\r\n395 Bhp @ 5500-6500 Rpm",
+        "Torque:": "406 Lb-Ft @ 2000-5000 Rpm\r\n550 Nm @ 2000-5000 Rpm",
+        "Fuel System:": "Electronic Control, Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "81.5 In (2070 Mm)",
+        "Height:": "64.7 In (1643 Mm)",
+        "Front/Rear Track:": "64.6/65 In (1,641/1,651 Mm)",
+        "Wheelbase:": "113.1 In (2873 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "26.7 Cuft (756 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4306 Lbs (1953 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  }
+]

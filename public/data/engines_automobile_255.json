@@ -1,0 +1,98 @@
+[
+  {
+    "id": 643,
+    "automobile_id": 255,
+    "name": "3.2L 4AT (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3229 Cm3",
+        "Power:": "250 Kw @ 5600 Rpm\r\n340 Hp @ 5600 Rpm\r\n335 Bhp @ 5600 Rpm",
+        "Torque:": "369 Lb-Ft @ 3000 Rpm\r\n500 Nm @ 3000 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "160 Mph (257 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 Zr18 || 265/35 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "182.3 In (4630 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "49.9 In (1267 Mm)",
+        "Front/Rear Track:": "60/60.2 In (1,524/1,529 Mm)",
+        "Wheelbase:": "102 In (2591 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "6.3 Cuft (178 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3638 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15.2 Mpg Us (15.5 L/100Km)",
+        "Co2 Emissions:": "370 G/Km"
+      }
+    }
+  },
+  {
+    "id": 644,
+    "automobile_id": 255,
+    "name": "3.2L 5MT (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3229 Cm3",
+        "Power:": "250 Kw @ 5600 Rpm\r\n340 Hp @ 5600 Rpm\r\n335 Bhp @ 5600 Rpm",
+        "Torque:": "369 Lb-Ft @ 3000 Rpm\r\n500 Nm @ 3000 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "165 Mph (266 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 Zr18 || 265/35 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "182.3 In (4630 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "49.9 In (1267 Mm)",
+        "Front/Rear Track:": "60/60.2 In (1,524/1,529 Mm)",
+        "Wheelbase:": "102 In (2591 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "6.3 Cuft (178 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3637 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15.2 Mpg Us (15.5 L/100Km)",
+        "Co2 Emissions:": "368 G/Km"
+      }
+    }
+  }
+]

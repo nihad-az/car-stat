@@ -1,0 +1,114 @@
+[
+  {
+    "id": 10531,
+    "automobile_id": 2430,
+    "name": "3.3L 3MT RWD (117 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3275 Cm3",
+        "Power:": "86 Kw @ 3800 Rpm\r\n117 Hp @ 3800 Rpm\r\n115 Bhp @ 3800 Rpm",
+        "Torque:": "190 Lb-Ft @ 2200 Rpm\r\n258 Nm @ 2200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50-R15"
+      },
+      "Dimensions": {
+        "Length:": "183.6 In (4663 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "58.5/58.5 In (1,486/1,486 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2758 Lbs (1251 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Combined:": "16.6 Mpg Us (14.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10532,
+    "automobile_id": 2430,
+    "name": "7.0L V8 4MT RWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7010 Cm3",
+        "Power:": "250.1 Kw @ 5600 Rpm\r\n340 Hp @ 5600 Rpm\r\n335 Bhp @ 5600 Rpm",
+        "Torque:": "440 Lb-Ft @ 3400 Rpm\r\n597 Nm @ 3400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "183.6 In (4663 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      }
+    }
+  },
+  {
+    "id": 10533,
+    "automobile_id": 2430,
+    "name": "7.0L V8 4MT RWD (406 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7010 Cm3",
+        "Power:": "298.6 Kw @ 5600 Rpm\r\n406 Hp @ 5600 Rpm\r\n400 Bhp @ 5600 Rpm",
+        "Torque:": "460 Lb-Ft @ 3200 Rpm\r\n624 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "183.6 In (4663 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "58.1/58.1 In (1,476/1,476 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3704 Lbs (1680 Kg)"
+      }
+    }
+  }
+]

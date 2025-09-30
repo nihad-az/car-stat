@@ -1,0 +1,275 @@
+[
+  {
+    "id": 26090,
+    "automobile_id": 6438,
+    "name": "Long Range 75 KWh AWD (346 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "254.5 Kw @ - Rpm\r\n346 Hp @ - Rpm\r\n341 Bhp @ - Rpm",
+        "Torque:": "376 Lb-Ft @ 0- Rpm\r\n510 Nm @ 0- Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45R18"
+      },
+      "Dimensions": {
+        "Length:": "184.8 In (4694 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.8 In (1443 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)",
+        "Aerodynamics (Cd):": "0.23"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4072 Lbs (1847 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "75 Kwh",
+        "Charging Time (Normal):": "6.5 Hours",
+        "Range:": "321.9 Miles (518.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 26091,
+    "automobile_id": 6438,
+    "name": "Long Range 75 KWh RWD (283 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "208.1 Kw @ - Rpm\r\n283 Hp @ - Rpm\r\n279 Bhp @ - Rpm",
+        "Torque:": "332 Lb-Ft @ 0- Rpm\r\n450 Nm @ 0- Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45R18"
+      },
+      "Dimensions": {
+        "Length:": "184.8 In (4694 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.8 In (1443 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)",
+        "Aerodynamics (Cd):": "0.23"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3805 Lbs (1726 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "75 Kwh",
+        "Charging Time (Normal):": "6 Hours",
+        "Range:": "325 Miles (523.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 26092,
+    "automobile_id": 6438,
+    "name": "Mid Range 62 KWh RWD (283 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "208.1 Kw @ - Rpm\r\n283 Hp @ - Rpm\r\n279 Bhp @ - Rpm",
+        "Torque:": "332 Lb-Ft @ - Rpm\r\n450 Nm @ - Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45R18"
+      },
+      "Dimensions": {
+        "Length:": "184.8 In (4694 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.8 In (1443 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)",
+        "Aerodynamics (Cd):": "0.23"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3686 Lbs (1672 Kg)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity:": "62 Kwh",
+        "Charging Time (Normal):": "7.5 Hours",
+        "Range:": "264.1 Miles (425.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 26093,
+    "automobile_id": 6438,
+    "name": "Performance 75 KWh AWD (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "331 Kw @ - Rpm\r\n450 Hp @ - Rpm\r\n444 Bhp @ - Rpm",
+        "Torque:": "471 Lb-Ft @ 0- Rpm\r\n639 Nm @ 0- Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "162 Mph (261 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35R20"
+      },
+      "Dimensions": {
+        "Length:": "184.8 In (4694 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.8 In (1443 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)",
+        "Aerodynamics (Cd):": "0.23"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4072 Lbs (1847 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "75 Kwh",
+        "Charging Time (Normal):": "6.5 Hours",
+        "Range:": "321.9 Miles (518.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 26094,
+    "automobile_id": 6438,
+    "name": "Standard Range 50 KWh RWD (283 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "208.1 Kw @ - Rpm\r\n283 Hp @ - Rpm\r\n279 Bhp @ - Rpm",
+        "Torque:": "332 Lb-Ft @ - Rpm\r\n450 Nm @ - Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45R18"
+      },
+      "Dimensions": {
+        "Length:": "184.8 In (4694 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.8 In (1443 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)",
+        "Aerodynamics (Cd):": "0.23"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3552 Lbs (1611 Kg)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity:": "50 Kwh",
+        "Charging Time (Normal):": "6 Hours",
+        "Range:": "220 Miles (354.1 Km)"
+      }
+    }
+  },
+  {
+    "id": 26095,
+    "automobile_id": 6438,
+    "name": "Standard Range Plus 54 KWh RWD (283 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "208.1 Kw @ - Rpm\r\n283 Hp @ - Rpm\r\n279 Bhp @ - Rpm",
+        "Torque:": "332 Lb-Ft @ - Rpm\r\n450 Nm @ - Rpm",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45R18"
+      },
+      "Dimensions": {
+        "Length:": "184.8 In (4694 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.8 In (1443 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "15 Cuft (425 L)",
+        "Aerodynamics (Cd):": "0.23"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3627 Lbs (1645 Kg)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity:": "54 Kwh",
+        "Charging Time (Normal):": "6.25 Hours",
+        "Range:": "249.8 Miles (402.0 Km)"
+      }
+    }
+  }
+]

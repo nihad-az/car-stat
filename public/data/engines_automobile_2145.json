@@ -1,0 +1,60 @@
+[
+  {
+    "id": 9021,
+    "automobile_id": 2145,
+    "name": "2.3L EcoBoost 6MT FWD (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "205.9 Kw @ 5500 Rpm\r\n280 Hp @ 5500 Rpm\r\n276 Bhp @ 5500 Rpm",
+        "Torque:": "310 Lb-Ft @ 3000-4000 Rpm\r\n420 Nm @ 3000-4000 Rpm",
+        "Fuel System:": "Turbocharge Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9022,
+    "automobile_id": 2145,
+    "name": "2.0L EcoBlue 6MT FWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "139.7 Kw @ 3500 Rpm\r\n190 Hp @ 3500 Rpm\r\n187 Bhp @ 3500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-3000 Rpm\r\n400 Nm @ 2000-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  }
+]

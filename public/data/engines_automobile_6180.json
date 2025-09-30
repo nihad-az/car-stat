@@ -1,0 +1,104 @@
+[
+  {
+    "id": 25241,
+    "automobile_id": 6180,
+    "name": "2.0L FSI 6AT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "110 Kw @ 6000 Rpm\r\n150 Hp @ 6000 Rpm\r\n148 Bhp @ 6000 Rpm",
+        "Torque:": "148 Lb-Ft @ 3500 Rpm\r\n201 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "180.3 In (4580 Mm)",
+        "Width:": "70.2 In (1783 Mm)",
+        "Height:": "60.3 In (1532 Mm)",
+        "Front/Rear Track:": "60.3/59.6 In (1,532/1,514 Mm)",
+        "Wheelbase:": "101.5 In (2578 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "21.4 Cuft (606 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2921.1 Lbs (1325 Kg)",
+        "Gross Weight Limit:": "4376.2 Lbs (1985 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "209 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25242,
+    "automobile_id": 6180,
+    "name": "2.0L TDI 6AT AWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "103 Kw @ 4000 Rpm\r\n140 Hp @ 4000 Rpm\r\n138 Bhp @ 4000 Rpm",
+        "Torque:": "320 Lb-Ft @ 1750 Rpm\r\n434 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "180.3 In (4580 Mm)",
+        "Width:": "70.2 In (1783 Mm)",
+        "Height:": "60.3 In (1532 Mm)",
+        "Front/Rear Track:": "60.3/59.6 In (1,532/1,514 Mm)",
+        "Wheelbase:": "101.5 In (2578 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)",
+        "Cargo Volume:": "21.4 Cuft (606 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3185.7 Lbs (1445 Kg)",
+        "Gross Weight Limit:": "4695.8 Lbs (2130 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "36.7 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "173 G/Km"
+      }
+    }
+  }
+]

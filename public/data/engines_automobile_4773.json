@@ -1,0 +1,42 @@
+[
+  {
+    "id": 18865,
+    "automobile_id": 4773,
+    "name": "3.5L V6 CVT AWD (284 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "211.8 Kw @ - Rpm\r\n287.9 Hp @ - Rpm\r\n284 Bhp @ - Rpm",
+        "Torque:": "259 Lb-Ft @ - Rpm\r\n351 Nm @ - Rpm"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt (Xtronic)"
+      },
+      "Dimensions": {
+        "Aerodynamics (Cd):": "0.33"
+      }
+    }
+  },
+  {
+    "id": 18866,
+    "automobile_id": 4773,
+    "name": "3.5L V6 CVT FWD (284 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "211.8 Kw @ - Rpm\r\n287.9 Hp @ - Rpm\r\n284 Bhp @ - Rpm",
+        "Torque:": "259 Lb-Ft @ - Rpm\r\n351 Nm @ - Rpm"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt (Xtronic)"
+      },
+      "Dimensions": {
+        "Aerodynamics (Cd):": "0.33"
+      }
+    }
+  }
+]

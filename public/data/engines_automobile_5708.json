@@ -1,0 +1,236 @@
+[
+  {
+    "id": 22502,
+    "automobile_id": 5708,
+    "name": "3.6L V6 Pentastar 8AT 4x2 (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3604 Cm3",
+        "Power:": "227 Kw @ 6400 Rpm\r\n308.6 Hp @ 6400 Rpm\r\n304 Bhp @ 6400 Rpm",
+        "Torque:": "269 Lb-Ft @ 4175 Rpm\r\n365 Nm @ 4175 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "209 In (5309 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "74.6 In (1895 Mm)",
+        "Front/Rear Track:": "68/67.5 In (1,727/1,715 Mm)",
+        "Wheelbase:": "120.5 In (3061 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4580 Lbs (2077 Kg)",
+        "Gross Weight Limit:": "6010 Lbs (2726 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22503,
+    "automobile_id": 5708,
+    "name": "3.6L V6 Pentastar 8AT 4x4 (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3604 Cm3",
+        "Power:": "227 Kw @ 6400 Rpm\r\n308.6 Hp @ 6400 Rpm\r\n304 Bhp @ 6400 Rpm",
+        "Torque:": "269 Lb-Ft @ 4175 Rpm\r\n365 Nm @ 4175 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "209 In (5309 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "74.6 In (1895 Mm)",
+        "Front/Rear Track:": "68/67.5 In (1,727/1,715 Mm)",
+        "Wheelbase:": "120.5 In (3061 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4720 Lbs (2141 Kg)",
+        "Gross Weight Limit:": "6300 Lbs (2858 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22504,
+    "automobile_id": 5708,
+    "name": "4.7L V8 6AT 4x2 (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4703 Cm3",
+        "Power:": "231.2 Kw @ 5650 Rpm\r\n314.3 Hp @ 5650 Rpm\r\n310 Bhp @ 5650 Rpm",
+        "Torque:": "330 Lb-Ft @ 3950 Rpm\r\n447 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "209 In (5309 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "74.6 In (1895 Mm)",
+        "Front/Rear Track:": "68/67.5 In (1,727/1,715 Mm)",
+        "Wheelbase:": "120.5 In (3061 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4685 Lbs (2125 Kg)",
+        "Gross Weight Limit:": "6025 Lbs (2733 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22505,
+    "automobile_id": 5708,
+    "name": "4.7L V8 6AT 4x4 (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4703 Cm3",
+        "Power:": "231.2 Kw @ 5650 Rpm\r\n314.3 Hp @ 5650 Rpm\r\n310 Bhp @ 5650 Rpm",
+        "Torque:": "330 Lb-Ft @ 3950 Rpm\r\n447 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "209 In (5309 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "75.2 In (1910 Mm)",
+        "Front/Rear Track:": "68/67.5 In (1,727/1,715 Mm)",
+        "Wheelbase:": "120.5 In (3061 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4910 Lbs (2227 Kg)",
+        "Gross Weight Limit:": "6025 Lbs (2733 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22506,
+    "automobile_id": 5708,
+    "name": "5.7L V8 HEMI 6AT 4x2 (395 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5654 Cm3",
+        "Power:": "294.6 Kw @ 5600 Rpm\r\n400.5 Hp @ 5600 Rpm\r\n395 Bhp @ 5600 Rpm",
+        "Torque:": "407 Lb-Ft @ 3950 Rpm\r\n552 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "209 In (5309 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "74.6 In (1895 Mm)",
+        "Front/Rear Track:": "68/67.5 In (1,727/1,715 Mm)",
+        "Wheelbase:": "120.5 In (3061 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4730 Lbs (2145 Kg)",
+        "Gross Weight Limit:": "6350 Lbs (2880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22507,
+    "automobile_id": 5708,
+    "name": "5.7L V8 HEMI 6AT 4x4 (395 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5654 Cm3",
+        "Power:": "294.6 Kw @ 5600 Rpm\r\n400.5 Hp @ 5600 Rpm\r\n395 Bhp @ 5600 Rpm",
+        "Torque:": "407 Lb-Ft @ 3950 Rpm\r\n552 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "209 In (5309 Mm)",
+        "Width:": "79.4 In (2017 Mm)",
+        "Height:": "75.2 In (1910 Mm)",
+        "Front/Rear Track:": "68/67.5 In (1,727/1,715 Mm)",
+        "Wheelbase:": "120.5 In (3061 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4930 Lbs (2236 Kg)",
+        "Gross Weight Limit:": "6350 Lbs (2880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

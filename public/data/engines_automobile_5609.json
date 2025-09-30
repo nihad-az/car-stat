@@ -1,0 +1,101 @@
+[
+  {
+    "id": 22252,
+    "automobile_id": 5609,
+    "name": "3.6L 5AT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3600 Cm3",
+        "Power:": "330.9 Kw @ 5700 Rpm\r\n450 Hp @ 5700 Rpm\r\n444 Bhp @ 5700 Rpm",
+        "Torque:": "457 Lb-Ft @  3500-4500 Rpm\r\n620 Nm @ 3500-4500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "186 Mph (299 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "295/30 R18"
+      },
+      "Dimensions": {
+        "Length:": "174.6 In (4435 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "51 In (1295 Mm)",
+        "Front/Rear Track:": "57.5 / 59.85 In (1,461/1,520 Mm)",
+        "Wheelbase:": "92.5 In (2350 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "3.5 Cuft (99 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3748 Lbs (1700 Kg)",
+        "Gross Weight Limit:": "4453 Lbs (2020 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.6 Mpg Us (22.2 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "16.6 Mpg Us (14.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22253,
+    "automobile_id": 5609,
+    "name": "3.6L 6MT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3600 Cm3",
+        "Power:": "330.9 Kw @ 5700 Rpm\r\n450 Hp @ 5700 Rpm\r\n444 Bhp @ 5700 Rpm",
+        "Torque:": "457 Lb-Ft @  3500-4500 Rpm\r\n620 Nm @ 3500-4500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "191 Mph (307 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "295/30 R18"
+      },
+      "Dimensions": {
+        "Length:": "174.6 In (4435 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "51 In (1295 Mm)",
+        "Front/Rear Track:": "57.5 / 59.85 In (1,461/1,520 Mm)",
+        "Wheelbase:": "92.5 In (2350 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "3.5 Cuft (99 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3660 Lbs (1660 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12 Mpg Us (19.6 L/100Km)",
+        "Highway:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Combined:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Co2 Emissions:": "309 G/Km"
+      }
+    }
+  }
+]

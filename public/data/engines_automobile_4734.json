@@ -1,0 +1,36 @@
+[
+  {
+    "id": 18774,
+    "automobile_id": 4734,
+    "name": "2.0L VC-Turbo 9AT FWD (244 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "179.7 Kw @ - Rpm\r\n244.3 Hp @ - Rpm\r\n241 Bhp @ - Rpm",
+        "Torque:": "260 Lb-Ft @ - Rpm\r\n353 Nm @ - Rpm",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      }
+    }
+  },
+  {
+    "id": 18775,
+    "automobile_id": 4734,
+    "name": "2.0L VC-Turbo 9AT i-AWD (244 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "179.7 Kw @ - Rpm\r\n244 Hp @ - Rpm\r\n241 Bhp @ - Rpm",
+        "Torque:": "260 Lb-Ft @ - Rpm\r\n353 Nm @ - Rpm",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      }
+    }
+  }
+]

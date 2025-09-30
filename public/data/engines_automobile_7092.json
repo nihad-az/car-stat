@@ -1,0 +1,166 @@
+[
+  {
+    "id": 29263,
+    "automobile_id": 7092,
+    "name": "2.0L T5 8AT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "183.9 Kw @ 5500 Rpm\r\n250 Hp @ 5500 Rpm\r\n247 Bhp @ 5500 Rpm",
+        "Torque:": "258 Lb-Ft @ 1800-4800 Rpm\r\n350 Nm @ 1800-4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55R18"
+      },
+      "Dimensions": {
+        "Length:": "188.3 In (4783 Mm)",
+        "Width:": "80.3 In (2040 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "164.9/163.3 In (4,188/4,148 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)",
+        "Aerodynamics (Frontal Area):": "2.3 M2",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)",
+        "Turning Circle (Wall To Wall):": "38.4 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001 - 4116 Lbs (1815 - 1867 Kg)",
+        "Gross Weight Limit:": "5115 - 5203 Lbs (2320 - 2360 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "178 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions (Combined):": "180 G/Km"
+      }
+    }
+  },
+  {
+    "id": 29264,
+    "automobile_id": 7092,
+    "name": "2.0L D3 8AT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "110.3 Kw @ 4250 Rpm\r\n150 Hp @ 4250 Rpm\r\n148 Bhp @ 4250 Rpm",
+        "Torque:": "258 Lb-Ft @ 1500-2500 Rpm\r\n350 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "I-Art Common Rail Direct Injections",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55R18"
+      },
+      "Dimensions": {
+        "Length:": "188.3 In (4783 Mm)",
+        "Width:": "80.3 In (2040 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "164.9/163.3 In (4,188/4,148 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)",
+        "Aerodynamics (Frontal Area):": "2.3 M2",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)",
+        "Turning Circle (Wall To Wall):": "38.4 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001 - 4116 Lbs (1815 - 1867 Kg)",
+        "Gross Weight Limit:": "5115 - 5203 Lbs (2320 - 2360 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "155 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions (Combined):": "155 G/Km"
+      }
+    }
+  },
+  {
+    "id": 29265,
+    "automobile_id": 7092,
+    "name": "2.0L D4 AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "139.7 Kw @ 4250 Rpm\r\n190 Hp @ 4250 Rpm\r\n187 Bhp @ 4250 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-2500 Rpm\r\n400 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "I-Art Common Rail Direct Injections",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55R18"
+      },
+      "Dimensions": {
+        "Length:": "188.3 In (4783 Mm)",
+        "Width:": "80.3 In (2040 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "164.9/163.3 In (4,188/4,148 Mm)",
+        "Wheelbase:": "113.2 In (2875 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "18.7 Cuft (530 L)",
+        "Aerodynamics (Frontal Area):": "2.3 M2",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle (Curb To Curb):": "37.1 Ft (11.3 M)",
+        "Turning Circle (Wall To Wall):": "38.4 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001 - 4116 Lbs (1815 - 1867 Kg)",
+        "Gross Weight Limit:": "5115 - 5203 Lbs (2320 - 2360 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions (Combined):": "155 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 26466,
+    "automobile_id": 6563,
+    "name": "4.6 V8 5AT (318 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4608 Cm3",
+        "Power:": "233.9 Kw @ 3600 Rpm\r\n317.9 Hp @ 3600 Rpm\r\n314 Bhp @ 3600 Rpm",
+        "Torque:": "339 Lb-Ft @ 3400 Rpm\r\n460 Nm @ 3400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/50R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "77.6 In (1971 Mm)",
+        "Height:": "73.4 In (1864 Mm)",
+        "Front/Rear Track:": "63.8/63.6 In (1,621/1,615 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.9 In (226 Mm)",
+        "Cargo Volume:": "9.1 Cuft (258 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5699 Lbs (2585 Kg)",
+        "Gross Weight Limit:": "7385 Lbs (3350 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Combined:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Co2 Emissions:": "308 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26467,
+    "automobile_id": 6563,
+    "name": "4.5 V8 D-4D 6AT (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4461 Cm3",
+        "Power:": "200.1 Kw @ 3600 Rpm\r\n272 Hp @ 3600 Rpm\r\n268 Bhp @ 3600 Rpm",
+        "Torque:": "479 Lb-Ft @ 1600 Rpm\r\n650 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/50R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "77.6 In (1971 Mm)",
+        "Height:": "73.4 In (1864 Mm)",
+        "Front/Rear Track:": "63.8/63.6 In (1,621/1,615 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.9 In (226 Mm)",
+        "Cargo Volume:": "9.1 Cuft (258 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5699 Lbs (2585 Kg)",
+        "Gross Weight Limit:": "7385 Lbs (3350 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Combined:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Co2 Emissions:": "250 G/Km"
+      }
+    }
+  }
+]

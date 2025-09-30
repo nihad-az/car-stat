@@ -1,0 +1,48 @@
+[
+  {
+    "id": 10885,
+    "automobile_id": 2552,
+    "name": "1.6L 5MT FWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "85.3 Kw @ 6000 Rpm\r\n116 Hp @ 6000 Rpm\r\n114 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4000 Rpm\r\n155 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      }
+    }
+  },
+  {
+    "id": 10886,
+    "automobile_id": 2552,
+    "name": "1.6L 6AT FWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "85.3 Kw @ 6000 Rpm\r\n116 Hp @ 6000 Rpm\r\n114 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4000 Rpm\r\n155 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      }
+    }
+  }
+]

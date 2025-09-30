@@ -1,0 +1,102 @@
+[
+  {
+    "id": 11431,
+    "automobile_id": 2700,
+    "name": "1.8 i-VTEC 6MT (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1799 Cm3",
+        "Power:": "103 Kw @ 6300 Rpm\r\n140 Hp @ 6300 Rpm\r\n138 Bhp @ 6300 Rpm",
+        "Torque:": "128 Lb-Ft @ 4300 Rpm\r\n174 Nm @ 4300 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "178.9 In (4544 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.2/60.8 In (1,504/1,544 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2632 Lbs (1194 Kg)",
+        "Gross Weight Limit:": "3693 Lbs (1675 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Highway:": "42.7 Mpg Us (5.5 L/100Km)",
+        "Combined:": "35.7 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "156 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11432,
+    "automobile_id": 2700,
+    "name": "1.3 IMA eCVT (94 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1339 Cm3",
+        "Power:": "69 Kw @ 6000 Rpm\r\n94 Hp @ 6000 Rpm\r\n93 Bhp @ 6000 Rpm",
+        "Torque:": "89 Lb-Ft @ 2500 Rpm\r\n121 Nm @ 2500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Ecvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "178.9 In (4544 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "59.2/60.8 In (1,504/1,544 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.3 Cuft (348 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3016 Lbs (1368 Kg)",
+        "Gross Weight Limit:": "3693 Lbs (1675 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  }
+]

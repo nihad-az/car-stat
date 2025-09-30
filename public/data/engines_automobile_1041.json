@@ -1,0 +1,134 @@
+[
+  {
+    "id": 5284,
+    "automobile_id": 1041,
+    "name": "2.5L 3AT FWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2471 Cm3",
+        "Power:": "82 Kw @ 5200 Rpm\r\n111 Hp @ 5200 Rpm\r\n110 Bhp @ 5200 Rpm",
+        "Torque:": "135 Lb-Ft @ 3200 Rpm\r\n183 Nm @ 3200 Rpm",
+        "Fuel System:": "Monopoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P 185/75 R 14"
+      },
+      "Dimensions": {
+        "Length:": "189 In (4801 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "53.7 In (1364 Mm)",
+        "Front/Rear Track:": "58.7/56.7 In (1,491/1,440 Mm)",
+        "Wheelbase:": "104.9 In (2664 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2868 Lbs (1301 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5285,
+    "automobile_id": 1041,
+    "name": "3.3L V6 3AT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3340 Cm3",
+        "Power:": "119 Kw @ 5200 Rpm\r\n162 Hp @ 5200 Rpm\r\n160 Bhp @ 5200 Rpm",
+        "Torque:": "185 Lb-Ft @ 2000 Rpm\r\n251 Nm @ 2000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P 185/75 R 14"
+      },
+      "Dimensions": {
+        "Length:": "189 In (4801 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "53.7 In (1364 Mm)",
+        "Front/Rear Track:": "58.7/56.7 In (1,491/1,440 Mm)",
+        "Wheelbase:": "104.9 In (2664 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2952 Lbs (1339 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.1 Mpg Us (12.3 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5286,
+    "automobile_id": 1041,
+    "name": "3.3L V6 4AT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3340 Cm3",
+        "Power:": "119 Kw @ 5200 Rpm\r\n162 Hp @ 5200 Rpm\r\n160 Bhp @ 5200 Rpm",
+        "Torque:": "185 Lb-Ft @ 2000 Rpm\r\n251 Nm @ 2000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P 185/75 R 14"
+      },
+      "Dimensions": {
+        "Length:": "189 In (4801 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "53.7 In (1364 Mm)",
+        "Front/Rear Track:": "58.7/56.7 In (1,491/1,440 Mm)",
+        "Wheelbase:": "104.9 In (2664 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2791 Lbs (1266 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)",
+        "Co2 Emissions:": "280 G/Km"
+      }
+    }
+  }
+]

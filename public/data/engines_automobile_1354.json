@@ -1,0 +1,86 @@
+[
+  {
+    "id": 6234,
+    "automobile_id": 1354,
+    "name": "5.7L V8 3AT RWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5733 Cm3",
+        "Power:": "182.7 Kw @ 5200 Rpm\r\n248 Hp @ 5200 Rpm\r\n245 Bhp @ 5200 Rpm",
+        "Torque:": "280 Lb-Ft @ 4000 Rpm\r\n380 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "F60 - 15"
+      },
+      "Dimensions": {
+        "Length:": "195.4 In (4963 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "49.1 In (1247 Mm)",
+        "Front/Rear Track:": "61.3/60 In (1,557/1,524 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "6.4 Cuft (181 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3752 Lbs (1702 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "10.5 Mpg Us (22.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6235,
+    "automobile_id": 1354,
+    "name": "5.7L V8 4MT RWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5733 Cm3",
+        "Power:": "182.7 Kw @ 5200 Rpm\r\n248 Hp @ 5200 Rpm\r\n245 Bhp @ 5200 Rpm",
+        "Torque:": "280 Lb-Ft @ 4000 Rpm\r\n380 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "F60 - 15"
+      },
+      "Dimensions": {
+        "Length:": "195.4 In (4963 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "49.1 In (1247 Mm)",
+        "Front/Rear Track:": "61.3/60 In (1,557/1,524 Mm)",
+        "Wheelbase:": "108 In (2743 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "6.4 Cuft (181 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3726 Lbs (1690 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "11.9 Mpg Us (19.8 L/100Km)"
+      }
+    }
+  }
+]

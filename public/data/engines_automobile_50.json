@@ -1,0 +1,185 @@
+[
+  {
+    "id": 94,
+    "automobile_id": 50,
+    "name": "2.3L 4AT FWD (176 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2451 Cm3",
+        "Power:": "129.4 Kw @ 6300 Rpm\r\n176 Hp @ 6300 Rpm\r\n174 Bhp @ 6300 Rpm",
+        "Torque:": "170 Lb-Ft @ 3900 Rpm\r\n230 Nm @ 3900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "59.8/59.4 In (1,519/1,509 Mm)",
+        "Wheelbase:": "111.8 In (2840 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3042 Lbs (1380 Kg)"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "automobile_id": 50,
+    "name": "3.2L V6 4AT FWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3206 Cm3",
+        "Power:": "149.3 Kw @ 5600 Rpm\r\n203 Hp @ 5600 Rpm\r\n200 Bhp @ 5600 Rpm",
+        "Torque:": "216 Lb-Ft @ 4700 Rpm\r\n293 Nm @ 4700 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "191.7 In (4869 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "61/59.4 In (1,549/1,509 Mm)",
+        "Wheelbase:": "111.8 In (2840 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472 Lbs (1575 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "automobile_id": 50,
+    "name": "3.2L V6 4AT FWD (228 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3206 Cm3",
+        "Power:": "167.7 Kw @ 6200 Rpm\r\n228 Hp @ 6200 Rpm\r\n225 Bhp @ 6200 Rpm",
+        "Torque:": "216 Lb-Ft @ 4700 Rpm\r\n293 Nm @ 4700 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "191.7 In (4869 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "61/59.4 In (1,549/1,509 Mm)",
+        "Wheelbase:": "111.8 In (2840 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3513 Lbs (1593 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 97,
+    "automobile_id": 50,
+    "name": "Type S 3.2L V6 5AT FWD (263 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3210 Cm3",
+        "Power:": "193.4 Kw @ 6100 Rpm\r\n263 Hp @ 6100 Rpm\r\n259 Bhp @ 6100 Rpm",
+        "Torque:": "232 Lb-Ft @ 3500 Rpm\r\n314 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "192.9 In (4900 Mm)",
+        "Width:": "70.3 In (1786 Mm)",
+        "Height:": "56.1 In (1425 Mm)",
+        "Front/Rear Track:": "179.2/178.5 In (4,552/4,534 Mm)",
+        "Wheelbase:": "108.1 In (2746 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.1 Cuft (399 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3611 Lbs (1638 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  }
+]

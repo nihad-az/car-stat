@@ -1,0 +1,100 @@
+[
+  {
+    "id": 22392,
+    "automobile_id": 5687,
+    "name": "1.2 5MT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1149 Cm3",
+        "Power:": "55 Kw @ 5500 Rpm\r\n75 Hp @ 5500 Rpm\r\n74 Bhp @ 5500 Rpm",
+        "Torque:": "77 Lb-Ft @ 4250 Rpm\r\n104 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/60 R14"
+      },
+      "Dimensions": {
+        "Length:": "146.1 In (3711 Mm)",
+        "Width:": "64.7 In (1643 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "55.9/55.5 In (1,420/1,410 Mm)",
+        "Wheelbase:": "94.3 In (2395 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2127 Lbs (965 Kg)",
+        "Gross Weight Limit:": "2789 Lbs (1265 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22393,
+    "automobile_id": 5687,
+    "name": "1.2 AMT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1149 Cm3",
+        "Power:": "55 Kw @ 5500 Rpm\r\n75 Hp @ 5500 Rpm\r\n74 Bhp @ 5500 Rpm",
+        "Torque:": "77 Lb-Ft @ 4250 Rpm\r\n104 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98.7 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/60 R14"
+      },
+      "Dimensions": {
+        "Length:": "146.1 In (3711 Mm)",
+        "Width:": "64.7 In (1643 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "55.9/55.5 In (1,420/1,410 Mm)",
+        "Wheelbase:": "94.3 In (2395 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2127 Lbs (965 Kg)",
+        "Gross Weight Limit:": "2789 Lbs (1265 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Highway:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  }
+]

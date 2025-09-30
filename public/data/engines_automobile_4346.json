@@ -1,0 +1,91 @@
+[
+  {
+    "id": 17741,
+    "automobile_id": 4346,
+    "name": "170 S 4MT (50 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1912 Cm3",
+        "Power:": "36.8 Kw @ 4000 Rpm\r\n50 Hp @ 4000 Rpm\r\n49 Bhp @ 4000 Rpm",
+        "Torque:": "83 Lb-Ft @ 1800 Rpm\r\n112 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "68 Mph (109 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.25-16"
+      },
+      "Dimensions": {
+        "Length:": "156.7 In (3980 Mm)",
+        "Width:": "61.8 In (1570 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "52/51.6 In (1,321/1,311 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2800 Lbs (1270 Kg)",
+        "Gross Weight Limit:": "3373 Lbs (1530 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "261 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17742,
+    "automobile_id": 4346,
+    "name": "170 V 4MT (38 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "27.9 Kw @ 3400 Rpm\r\n38 Hp @ 3400 Rpm\r\n37 Bhp @ 3400 Rpm",
+        "Torque:": "74 Lb-Ft @ 1800 Rpm\r\n100 Nm @ 1800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "67 Mph (108 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "52 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.25-16"
+      },
+      "Dimensions": {
+        "Length:": "168.1 In (4270 Mm)",
+        "Width:": "61.8 In (1570 Mm)",
+        "Front/Rear Track:": "52/51.6 In (1,321/1,311 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2668 Lbs (1210 Kg)",
+        "Gross Weight Limit:": "3307 Lbs (1500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "261 G/Km"
+      }
+    }
+  }
+]

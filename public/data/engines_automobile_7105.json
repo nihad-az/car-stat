@@ -1,0 +1,423 @@
+[
+  {
+    "id": 29366,
+    "automobile_id": 7105,
+    "name": "2.0L T5 8AT AWD (254 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "186.8 Kw @ 5500 Rpm\r\n254 Hp @ 5500 Rpm\r\n251 Bhp @ 5500 Rpm",
+        "Torque:": "258 Lb-Ft @ 1500-4800 Rpm\r\n350 Nm @ 1500-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Aerodynamics (Frontal Area):": "2.78 M2",
+        "Turning Circle (Curb To Curb):": "38.7 Ft (11.8 M)",
+        "Turning Circle (Wall To Wall):": "40 Ft (12.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4524 - 5124 Lbs (2052 - 2324 Kg)",
+        "Gross Weight Limit:": "5666 - 6636 Lbs (2570 - 3010 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Battery",
+        "Nominal Capacity:": "11.6 Kwh"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions (Combined):": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 29367,
+    "automobile_id": 7105,
+    "name": "2.0L T6 8AT AWD (320 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "235.4 Kw @ 5700 Rpm\r\n320 Hp @ 5700 Rpm\r\n316 Bhp @ 5700 Rpm",
+        "Torque:": "295 Lb-Ft @ 2200-4500 Rpm\r\n400 Nm @ 2200-4500 Rpm",
+        "Fuel System:": "Supercharged And Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Frontal Area):": "2.78 M2",
+        "Aerodynamics (Cd):": "0.29",
+        "Turning Circle (Curb To Curb):": "38.7 Ft (11.8 M)",
+        "Turning Circle (Wall To Wall):": "40 Ft (12.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4464 - 5124 Lbs (2025 - 2324 Kg)",
+        "Gross Weight Limit:": "5666 - 6636 Lbs (2570 - 3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "179 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions (Combined):": "186 G/Km"
+      }
+    }
+  },
+  {
+    "id": 29368,
+    "automobile_id": 7105,
+    "name": "2.0L T8 8AT AWD (320 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "235.4 Kw @ 5700 Rpm\r\n320 Hp @ 5700 Rpm\r\n316 Bhp @ 5700 Rpm",
+        "Torque:": "295 Lb-Ft @ 2200-4500 Rpm\r\n400 Nm @ 2200-4500 Rpm",
+        "Electrical Motor Power:": "65 Kw (88 Hp)",
+        "Electrical Motor Torque:": "177 Lb-Ft (240 Nm)",
+        "Fuel System:": "Supercharged And Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Aerodynamics (Frontal Area):": "2.78 M2",
+        "Turning Circle (Curb To Curb):": "38.7 Ft (11.8 M)",
+        "Turning Circle (Wall To Wall):": "40 Ft (12.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4464 - 5124 Lbs (2025 - 2324 Kg)",
+        "Gross Weight Limit:": "5666 - 6636 Lbs (2570 - 3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "112 Mpg Us (2.1 L/100Km)",
+        "Co2 Emissions:": "49 G/Km"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "9.2 Kwh"
+      }
+    }
+  },
+  {
+    "id": 29369,
+    "automobile_id": 7105,
+    "name": "2.0L D4 8AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "139 Kw @ 4250 Rpm\r\n190 Hp @ 4250 Rpm\r\n186 Bhp @ 4250 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750 Rpm\r\n400 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4123 Lbs (1870 Kg)",
+        "Gross Weight Limit:": "5930 Lbs (2690 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 29370,
+    "automobile_id": 7105,
+    "name": "2.0L D4 8AT FWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "139.7 Kw @ 4250 Rpm\r\n190 Hp @ 4250 Rpm\r\n187 Bhp @ 4250 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750 Rpm\r\n400 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.8 Gallons (71.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Aerodynamics (Frontal Area):": "2.78 M2",
+        "Turning Circle (Curb To Curb):": "38.7 Ft (11.8 M)",
+        "Turning Circle (Wall To Wall):": "40 Ft (12.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4524 - 5124 Lbs (2052 - 2324 Kg)",
+        "Gross Weight Limit:": "49758 - 6636 Lbs (22570 - 3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "136 G/Km"
+      }
+    }
+  },
+  {
+    "id": 29371,
+    "automobile_id": 7105,
+    "name": "2.0L D5 8AT AWD (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "166 Kw @ 4250 Rpm\r\n225 Hp @ 4250 Rpm\r\n223 Bhp @ 4250 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750-2500 Rpm\r\n470 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/40R21"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4475 Lbs (2030 Kg)",
+        "Gross Weight Limit:": "6063 Lbs (2750 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "152 G/Km"
+      }
+    }
+  },
+  {
+    "id": 29372,
+    "automobile_id": 7105,
+    "name": "2.0L T8 8AT AWD (303 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "222.9 Kw @ 6000 Rpm\r\n303 Hp @ 6000 Rpm\r\n299 Bhp @ 6000 Rpm",
+        "Torque:": "295 Lb-Ft @ 2200-4800 Rpm\r\n400 Nm @ 2200-4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5181 Lbs (2350 Kg)",
+        "Gross Weight Limit:": "6636 Lbs (3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "64 G/Km"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Battery",
+        "Nominal Capacity:": "11.6 Kwh"
+      }
+    }
+  },
+  {
+    "id": 29373,
+    "automobile_id": 7105,
+    "name": "2.0L T8 8AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1969 Cm3",
+        "Power:": "235 Kw @ 5700 Rpm\r\n320 Hp @ 5700 Rpm\r\n315 Bhp @ 5700 Rpm",
+        "Torque:": "295 Lb-Ft @ 2200 Rpm\r\n400 Nm @ 2200 Rpm",
+        "Fuel System:": "Supercharged And Turbocharged Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45R20"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "65.7/65.8 In (1,669/1,671 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "23.7 Cuft (671 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5181 Lbs (2350 Kg)",
+        "Gross Weight Limit:": "6636 Lbs (3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "87.1 Mpg Us (2.7 L/100Km)",
+        "Co2 Emissions:": "64 G/Km"
+      }
+    }
+  }
+]

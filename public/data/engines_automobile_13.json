@@ -1,0 +1,117 @@
+[
+  {
+    "id": 19,
+    "automobile_id": 13,
+    "name": "2.0L 10AT (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "200.1 Kw @ - Rpm\r\n272 Hp @ - Rpm\r\n268 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "194.6 In (4943 Mm)",
+        "Width:": "75.2 In (1910 Mm)",
+        "Height:": "56.4 In (1433 Mm)",
+        "Front/Rear Track:": "64.0X64.6 In (1626 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Cargo Volume:": "13.5 Cuft (382 L)"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "automobile_id": 13,
+    "name": "2.4L 8AT (206 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "151.5 Kw @ - Rpm\r\n206 Hp @ - Rpm\r\n203 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "191.7 In (4869 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "62.8X63.1 In (1595 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Cargo Volume:": "13.2 Cuft (374 L)"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "automobile_id": 13,
+    "name": "3.0L 10AT",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "194.6 In (4943 Mm)",
+        "Width:": "75.2 In (1910 Mm)",
+        "Height:": "56.4 In (1433 Mm)",
+        "Front/Rear Track:": "64.0X64.6 In (1626 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Cargo Volume:": "13.5 Cuft (382 L)"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "automobile_id": 13,
+    "name": "3.5L V6 9AT AWD (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "213.3 Kw @ - Rpm\r\n290 Hp @ - Rpm\r\n286 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "191.7 In (4869 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "62.8X63.1 In (1595 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Cargo Volume:": "13.2 Cuft (374 L)"
+      }
+    }
+  }
+]

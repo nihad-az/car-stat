@@ -1,0 +1,100 @@
+[
+  {
+    "id": 24581,
+    "automobile_id": 6087,
+    "name": "2.8 V6 6MT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2791 Cm3",
+        "Power:": "150 Kw @ 6000 Rpm\r\n204 Hp @ 6000 Rpm\r\n201 Bhp @ 6000 Rpm",
+        "Torque:": "199 Lb-Ft @ 3200 Rpm\r\n270 Nm @ 3200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147.3 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45R17"
+      },
+      "Dimensions": {
+        "Length:": "164.7 In (4183 Mm)",
+        "Width:": "68.6 In (1742 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "59.1/58.3 In (1,501/1,481 Mm)",
+        "Wheelbase:": "98.9 In (2512 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3251.8 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4431.3 Lbs (2010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions:": "264 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24582,
+    "automobile_id": 6087,
+    "name": "1.9 TDI 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1896 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 2000 Rpm\r\n320 Nm @ 2000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55Wr16"
+      },
+      "Dimensions": {
+        "Length:": "164.7 In (4183 Mm)",
+        "Width:": "68.6 In (1742 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "59.1/58.3 In (1,501/1,481 Mm)",
+        "Wheelbase:": "98.9 In (2512 Mm)",
+        "Cargo Volume:": "12 Cuft (340 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2813.1 Lbs (1276 Kg)",
+        "Gross Weight Limit:": "3992.6 Lbs (1811 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "143 G/Km"
+      }
+    }
+  }
+]

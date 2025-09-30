@@ -1,0 +1,100 @@
+[
+  {
+    "id": 18040,
+    "automobile_id": 4548,
+    "name": "1.8L TCI 5MT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1796 Cm3",
+        "Power:": "118 Kw @ 5500 Rpm\r\n160 Hp @ 5500 Rpm\r\n158 Bhp @ 5500 Rpm",
+        "Torque:": "159 Lb-Ft @ 1750-4500 Rpm\r\n216 Nm @ 1750-4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "183.1 In (4651 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "61.3/61.2 In (1,557/1,554 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.7 Cuft (473 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3274 Lbs (1485 Kg)",
+        "Gross Weight Limit:": "4497 Lbs (2040 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Highway:": "48.7 Mpg Us (4.8 L/100Km)",
+        "Combined:": "37.7 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "174 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18041,
+    "automobile_id": 4548,
+    "name": "1.9L DTi 6MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1849 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "258 Lb-Ft @ 1800 Rpm\r\n350 Nm @ 1800 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "183.1 In (4651 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "61.3/61.2 In (1,557/1,554 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.7 Cuft (473 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3274 Lbs (1485 Kg)",
+        "Gross Weight Limit:": "4497 Lbs (2040 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Highway:": "59 Mpg Us (4 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  }
+]

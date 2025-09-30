@@ -1,0 +1,714 @@
+[
+  {
+    "id": 9416,
+    "automobile_id": 2215,
+    "name": "1.0L EcoBoost 6MT FWD (125 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "91.9 Kw @ 6000 Rpm\r\n125 Hp @ 6000 Rpm\r\n123 Bhp @ 6000 Rpm",
+        "Torque:": "125 Lb-Ft @ 1400-4500 Rpm\r\n170 Nm @ 1400-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3042 Lbs (1380 Kg)",
+        "Gross Weight Limit:": "4696 Lbs (2130 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9417,
+    "automobile_id": 2215,
+    "name": "1.5L EcoBoost 6AT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "117.7 Kw @ 6000 Rpm\r\n160 Hp @ 6000 Rpm\r\n158 Bhp @ 6000 Rpm",
+        "Torque:": "177 Lb-Ft @ 1500-4500 Rpm\r\n240 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "133 Mph (214 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4828 Lbs (2190 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "146 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9418,
+    "automobile_id": 2215,
+    "name": "1.5L EcoBoost 6MT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1499 Cm3",
+        "Power:": "117.7 Kw @ 6000 Rpm\r\n160 Hp @ 6000 Rpm\r\n158 Bhp @ 6000 Rpm",
+        "Torque:": "177 Lb-Ft @ 1500-4500 Rpm\r\n240 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3109 Lbs (1410 Kg)",
+        "Gross Weight Limit:": "4762 Lbs (2160 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9419,
+    "automobile_id": 2215,
+    "name": "2.0L EcoBoost 6AT FWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "149.3 Kw @ 5300 Rpm\r\n203 Hp @ 5300 Rpm\r\n200 Bhp @ 5300 Rpm",
+        "Torque:": "255 Lb-Ft @ 2700-3500 Rpm\r\n345 Nm @ 2700-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3283 Lbs (1489 Kg)",
+        "Gross Weight Limit:": "4916 Lbs (2230 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9420,
+    "automobile_id": 2215,
+    "name": "2.0L EcoBoost 6AT FWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "176.5 Kw @ 5400 Rpm\r\n240 Hp @ 5400 Rpm\r\n237 Bhp @ 5400 Rpm",
+        "Torque:": "255 Lb-Ft @ 2300-4900 Rpm\r\n345 Nm @ 2300-4900 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3283 Lbs (1489 Kg)",
+        "Gross Weight Limit:": "4916 Lbs (2230 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9421,
+    "automobile_id": 2215,
+    "name": "1.5L TDCi 6MT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "88.3 Kw @ 3600 Rpm\r\n120 Hp @ 3600 Rpm\r\n118 Bhp @ 3600 Rpm",
+        "Torque:": "199 Lb-Ft @ 1750-2500 Rpm\r\n270 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119 Mph (192 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3283 Lbs (1489 Kg)",
+        "Gross Weight Limit:": "4916 Lbs (2230 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "104 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9422,
+    "automobile_id": 2215,
+    "name": "1.6L TDCi 6MT FWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1560 Cm3",
+        "Power:": "84.6 Kw @ 3600 Rpm\r\n115 Hp @ 3600 Rpm\r\n113 Bhp @ 3600 Rpm",
+        "Torque:": "199 Lb-Ft @ 1750-2000 Rpm\r\n270 Nm @ 1750-2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119 Mph (192 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3131 Lbs (1420 Kg)",
+        "Gross Weight Limit:": "4806 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "49 Mpg Us (4.8 L/100Km)",
+        "Highway:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Combined:": "56 Mpg Us (4.2 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9423,
+    "automobile_id": 2215,
+    "name": "2.0L TDCi 6AT AWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "132.4 Kw @ 3500 Rpm\r\n180 Hp @ 3500 Rpm\r\n178 Bhp @ 3500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-2500 Rpm\r\n400 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3505 Lbs (1590 Kg)",
+        "Gross Weight Limit:": "5137 Lbs (2330 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.2 Mpg Us (6 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9424,
+    "automobile_id": 2215,
+    "name": "2.0L TDCi 6AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "110.3 Kw @ 3500 Rpm\r\n150 Hp @ 3500 Rpm\r\n148 Bhp @ 3500 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000-2500 Rpm\r\n350 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3320 Lbs (1506 Kg)",
+        "Gross Weight Limit:": "5004 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "125 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9425,
+    "automobile_id": 2215,
+    "name": "2.0L TDCi 6AT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "132.4 Kw @ 3500 Rpm\r\n180 Hp @ 3500 Rpm\r\n178 Bhp @ 3500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-2500 Rpm\r\n400 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3338 Lbs (1514 Kg)",
+        "Gross Weight Limit:": "5004 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "125 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9426,
+    "automobile_id": 2215,
+    "name": "2.0L TDCi 6AT FWD (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "154.4 Kw @ 3750 Rpm\r\n210 Hp @ 3750 Rpm\r\n207 Bhp @ 3750 Rpm",
+        "Torque:": "332 Lb-Ft @ 2000-2250 Rpm\r\n450 Nm @ 2000-2250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)",
+        "Gross Weight Limit:": "5027 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42 Mpg Us (5.6 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9427,
+    "automobile_id": 2215,
+    "name": "2.0L TDCi 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "110.3 Kw @ 3500 Rpm\r\n150 Hp @ 3500 Rpm\r\n148 Bhp @ 3500 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000-2500 Rpm\r\n350 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3486 Lbs (1581 Kg)",
+        "Gross Weight Limit:": "5159 Lbs (2340 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "49 Mpg Us (4.8 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9428,
+    "automobile_id": 2215,
+    "name": "2.0L TDCi 6MT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "110.3 Kw @ 3500 Rpm\r\n150 Hp @ 3500 Rpm\r\n148 Bhp @ 3500 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000-2500 Rpm\r\n350 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3314 Lbs (1503 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "115 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9429,
+    "automobile_id": 2215,
+    "name": "2.0L TDCi 6MT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "132.4 Kw @ 3500 Rpm\r\n180 Hp @ 3500 Rpm\r\n178 Bhp @ 3500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-2500 Rpm\r\n400 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.5 Gallons (62.5 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16 H"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "58.3 In (1481 Mm)",
+        "Front/Rear Track:": "63/62.8 In (1,600/1,595 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "19.4 Cuft (549 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3327 Lbs (1509 Kg)",
+        "Gross Weight Limit:": "5004 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "115 G/Km"
+      }
+    }
+  }
+]

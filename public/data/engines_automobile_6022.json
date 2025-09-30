@@ -1,0 +1,85 @@
+[
+  {
+    "id": 24131,
+    "automobile_id": 6022,
+    "name": "2.2L 5MT (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "106 Kw @ 5400 Rpm\r\n144 Hp @ 5400 Rpm\r\n142 Bhp @ 5400 Rpm",
+        "Torque:": "152 Lb-Ft @ 4000 Rpm\r\n206 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "181.3 In (4605 Mm)",
+        "Width:": "71.6 In (1819 Mm)",
+        "Height:": "66.3 In (1684 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "30.8 Cuft (872 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3279 Lbs (1487 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "223.7 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24132,
+    "automobile_id": 6022,
+    "name": "3.0L V6 5AT (181 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2962 Cm3",
+        "Power:": "135 Kw @ 5800 Rpm\r\n184 Hp @ 5800 Rpm\r\n181 Bhp @ 5800 Rpm",
+        "Torque:": "195 Lb-Ft @ 4500 Rpm\r\n264 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65Sr16"
+      },
+      "Dimensions": {
+        "Length:": "181.3 In (4605 Mm)",
+        "Width:": "71.6 In (1819 Mm)",
+        "Height:": "66.3 In (1684 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "106.6 In (2708 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "30.8 Cuft (872 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3522 Lbs (1598 Kg)"
+      }
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 25883,
+    "automobile_id": 6377,
+    "name": "2.5L 5AT RWD (152 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2500 Cm3",
+        "Power:": "112 Kw @ 5200 Rpm\r\n152 Hp @ 5200 Rpm\r\n150 Bhp @ 5200 Rpm",
+        "Torque:": "171 Lb-Ft @ 4400 Rpm\r\n232 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P265/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "206.6 In (5248 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "125.9 / 139.9 In (3,198/3,553 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "27.1 / 33.5 Cuft (767 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3801 Lbs (1724 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25884,
+    "automobile_id": 6377,
+    "name": "2.5L 5MT RWD (152 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2500 Cm3",
+        "Power:": "112 Kw @ 5200 Rpm\r\n152 Hp @ 5200 Rpm\r\n150 Bhp @ 5200 Rpm",
+        "Torque:": "171 Lb-Ft @ 4400 Rpm\r\n232 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P265/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "206.6 In (5248 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "125.9 / 139.9 In (3,198/3,553 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "27.1 / 33.5 Cuft (767 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3686 Lbs (1672 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25885,
+    "automobile_id": 6377,
+    "name": "4.0L V6 5AT AWD (261 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4000 Cm3",
+        "Power:": "194 Kw @ 5600 Rpm\r\n264 Hp @ 5600 Rpm\r\n260 Bhp @ 5600 Rpm",
+        "Torque:": "281 Lb-Ft @ 4000 Rpm\r\n381 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P265/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "206.6 In (5248 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "125.9 / 139.9 In (3,198/3,553 Mm)",
+        "Ground Clearance:": "8.9 In (226 Mm)",
+        "Cargo Volume:": "27.1 / 33.5 Cuft (767 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4248 Lbs (1927 Kg)",
+        "Gross Weight Limit:": "5730 Lbs (2599 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

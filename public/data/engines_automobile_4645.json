@@ -1,0 +1,171 @@
+[
+  {
+    "id": 18518,
+    "automobile_id": 4645,
+    "name": "3.5L V6 4AT AWD (178 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3496 Cm3",
+        "Power:": "131 Kw @ 4750 Rpm\r\n178 Hp @ 4750 Rpm\r\n176 Bhp @ 4750 Rpm",
+        "Torque:": "218 Lb-Ft @ 3500 Rpm\r\n295 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "201.2 In (5110 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "59.8/59.6 In (1,519/1,514 Mm)",
+        "Wheelbase:": "118.1 In (3000 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Aerodynamics (Cd):": "0.46"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4057 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5545 Lbs (2515 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Co2 Emissions:": "304 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18519,
+    "automobile_id": 4645,
+    "name": "2.5L DI-D 5MT RWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2477 Cm3",
+        "Power:": "85 Kw @ 4000 Rpm\r\n116 Hp @ 4000 Rpm\r\n114 Bhp @ 4000 Rpm",
+        "Torque:": "182 Lb-Ft @ 2000 Rpm\r\n247 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "201.2 In (5110 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "59.8/59.6 In (1,519/1,514 Mm)",
+        "Wheelbase:": "118.1 In (3000 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Aerodynamics (Cd):": "0.46"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527 Lbs (1600 Kg)",
+        "Gross Weight Limit:": "5622 Lbs (2550 Kg)"
+      }
+    }
+  },
+  {
+    "id": 18520,
+    "automobile_id": 4645,
+    "name": "2.5L DI-D 6MT RWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2477 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "237 Lb-Ft @ 2000 Rpm\r\n321 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "201.2 In (5110 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "59.8/59.6 In (1,519/1,514 Mm)",
+        "Wheelbase:": "118.1 In (3000 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Aerodynamics (Cd):": "0.46"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4123 Lbs (1870 Kg)",
+        "Gross Weight Limit:": "6173 Lbs (2800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18521,
+    "automobile_id": 4645,
+    "name": "3.2L DI-D 5MT RWD (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "3200 Cm3",
+        "Power:": "121 Kw @ 4000 Rpm\r\n165 Hp @ 4000 Rpm\r\n162 Bhp @ 4000 Rpm",
+        "Torque:": "259 Lb-Ft @ 2000 Rpm\r\n351 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "201.2 In (5110 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "59.8/59.6 In (1,519/1,514 Mm)",
+        "Wheelbase:": "118.1 In (3000 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Aerodynamics (Cd):": "0.46"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4277 Lbs (1940 Kg)",
+        "Gross Weight Limit:": "6283 Lbs (2850 Kg)"
+      }
+    }
+  }
+]

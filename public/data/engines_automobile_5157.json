@@ -1,0 +1,86 @@
+[
+  {
+    "id": 20789,
+    "automobile_id": 5157,
+    "name": "1.0L 4AT FWD (66 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "48.5 Kw @ 6000 Rpm\r\n66 Hp @ 6000 Rpm\r\n65 Bhp @ 6000 Rpm",
+        "Torque:": "66 Lb-Ft @ 3600 Rpm\r\n90 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R14"
+      },
+      "Dimensions": {
+        "Length:": "143.3 In (3640 Mm)",
+        "Width:": "63.8 In (1621 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "55.5/55.3 In (1,410/1,405 Mm)",
+        "Wheelbase:": "96.7 In (2456 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1852 Lbs (840 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "47 Mpg Us (5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 20790,
+    "automobile_id": 5157,
+    "name": "1.0L 5MT FWD (66 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "48.5 Kw @ 6000 Rpm\r\n66 Hp @ 6000 Rpm\r\n65 Bhp @ 6000 Rpm",
+        "Torque:": "66 Lb-Ft @ 3600 Rpm\r\n90 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R14"
+      },
+      "Dimensions": {
+        "Length:": "143.3 In (3640 Mm)",
+        "Width:": "63.8 In (1621 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "55.5/55.3 In (1,410/1,405 Mm)",
+        "Wheelbase:": "96.7 In (2456 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1808 Lbs (820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)"
+      }
+    }
+  }
+]

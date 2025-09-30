@@ -1,0 +1,97 @@
+[
+  {
+    "id": 6164,
+    "automobile_id": 1337,
+    "name": "3.4L V6 4AT AWD (188 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3400 Cm3",
+        "Power:": "138 Kw @ 5200 Rpm\r\n188 Hp @ 5200 Rpm\r\n185 Bhp @ 5200 Rpm",
+        "Torque:": "210 Lb-Ft @ 4000 Rpm\r\n285 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R 15"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "61.5/63.3 In (1,562/1,608 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "118.7 Cuft (3361 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3704 Lbs (1680 Kg)",
+        "Gross Weight Limit:": "5358.2 Lbs (2430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.3 Mpg Us (16.4 L/100Km)",
+        "Highway:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Combined:": "18.4 Mpg Us (12.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6165,
+    "automobile_id": 1337,
+    "name": "3.4L V6 4AT FWD (188 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3400 Cm3",
+        "Power:": "138 Kw @ 5200 Rpm\r\n188 Hp @ 5200 Rpm\r\n185 Bhp @ 5200 Rpm",
+        "Torque:": "210 Lb-Ft @ 4000 Rpm\r\n285 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116.2 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R 15"
+      },
+      "Dimensions": {
+        "Length:": "186.9 In (4747 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "61.5/63.3 In (1,562/1,608 Mm)",
+        "Wheelbase:": "112 In (2845 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "118.7 Cuft (3361 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3700 Lbs (1678 Kg)",
+        "Gross Weight Limit:": "5358.2 Lbs (2430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  }
+]

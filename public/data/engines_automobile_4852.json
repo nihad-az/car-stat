@@ -1,0 +1,102 @@
+[
+  {
+    "id": 19105,
+    "automobile_id": 4852,
+    "name": "4.0L V6 5AT AWD (269 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3954 Cm3",
+        "Power:": "198 Kw @ 5600 Rpm\r\n269 Hp @ 5600 Rpm\r\n266 Bhp @ 5600 Rpm",
+        "Torque:": "284 Lb-Ft @ 4000 Rpm\r\n385 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118.1 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/65R17"
+      },
+      "Dimensions": {
+        "Length:": "186.6 In (4740 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "69.3 In (1760 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4784 Lbs (2170 Kg)",
+        "Gross Weight Limit:": "6349.3 Lbs (2880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.6 Mpg Us (18.7 L/100Km)",
+        "Highway:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Combined:": "17.4 Mpg Us (13.5 L/100Km)",
+        "Co2 Emissions:": "327 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19106,
+    "automobile_id": 4852,
+    "name": "2.5L dCi 6MT AWD (171 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "126 Kw @ 4000 Rpm\r\n171 Hp @ 4000 Rpm\r\n169 Bhp @ 4000 Rpm",
+        "Torque:": "297 Lb-Ft @ 2000 Rpm\r\n403 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "108.7 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70R16"
+      },
+      "Dimensions": {
+        "Length:": "186.6 In (4740 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "69.3 In (1760 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "9.3 In (236 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4665 Lbs (2116 Kg)",
+        "Gross Weight Limit:": "6349.3 Lbs (2880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.6 Mpg Us (12 L/100Km)",
+        "Highway:": "27.3 Mpg Us (8.6 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "264 G/Km"
+      }
+    }
+  }
+]

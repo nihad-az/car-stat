@@ -1,0 +1,190 @@
+[
+  {
+    "id": 11226,
+    "automobile_id": 2640,
+    "name": "1.5L Turbo CVT (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "139.7 Kw @ 5600 Rpm\r\n190 Hp @ 5600 Rpm\r\n187 Bhp @ 5600 Rpm",
+        "Torque:": "179 Lb-Ft @ 2000-5000 Rpm\r\n243 Nm @ 2000-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "63/63.7 In (1,600/1,618 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)"
+      }
+    }
+  },
+  {
+    "id": 11227,
+    "automobile_id": 2640,
+    "name": "1.5L VTEC CVT (212 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "155.9 Kw @ - Rpm\r\n212 Hp @ - Rpm\r\n209 Bhp @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.6 In (4587 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "63/63.7 In (1,600/1,618 Mm)",
+        "Wheelbase:": "104.7 In (2659 Mm)"
+      }
+    }
+  },
+  {
+    "id": 11228,
+    "automobile_id": 2640,
+    "name": "2.0L I-VTEC CVT (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1993 Cm3",
+        "Power:": "106.6 Kw @ 6200 Rpm\r\n145 Hp @ 6200 Rpm\r\n143 Bhp @ 6200 Rpm",
+        "Torque:": "129 Lb-Ft @ 4000 Rpm\r\n175 Nm @ 4000 Rpm",
+        "Electrical Motor Power:": "135.3 Kw (184 Hp)",
+        "Electrical Motor Torque:": "232.3 Lb-Ft (315 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "15.1 Gallons (57.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60R18"
+      },
+      "Dimensions": {
+        "Length:": "181.1 In (4600 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "63/63.7 In (1,600/1,618 Mm)",
+        "Wheelbase:": "104.8 In (2662 Mm)",
+        "Ground Clearance:": "7.2 In (183 Mm)",
+        "Cargo Volume:": "17.6 Cuft (498 L)",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3558 - 3653 Lbs (1614 - 1657 Kg)",
+        "Gross Weight Limit:": "4938 Lbs (2240 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "47 Mpg Us (5 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "120 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions (Low):": "179 G/Km",
+        "Medium:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions (Medium):": "122 G/Km",
+        "High:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions (High):": "129 G/Km",
+        "Extra High:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions (Extra High):": "189 G/Km",
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions (Combined):": "156 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11229,
+    "automobile_id": 2640,
+    "name": "2.0L I-VTEC CVT AWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1993 Cm3",
+        "Power:": "106.6 Kw @ 6200 Rpm\r\n145 Hp @ 6200 Rpm\r\n143 Bhp @ 6200 Rpm",
+        "Torque:": "129 Lb-Ft @ 4000 Rpm\r\n175 Nm @ 4000 Rpm",
+        "Electrical Motor Power:": "135.3 Kw (184 Hp)",
+        "Electrical Motor Torque:": "232.3 Lb-Ft (315 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "15.1 Gallons (57.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60R18"
+      },
+      "Dimensions": {
+        "Length:": "181.1 In (4600 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "63/63.7 In (1,600/1,618 Mm)",
+        "Wheelbase:": "104.8 In (2662 Mm)",
+        "Ground Clearance:": "7.6 In (193 Mm)",
+        "Cargo Volume:": "17.6 Cuft (498 L)",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3686 - 3805 Lbs (1672 - 1726 Kg)",
+        "Gross Weight Limit:": "5016 Lbs (2275 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions:": "126 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions (Low):": "188 G/Km",
+        "Co2 Emissions (Medium):": "123 G/Km",
+        "High:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions (High):": "142 G/Km",
+        "Extra High:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions (Extra High):": "202 G/Km",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions (Combined):": "166 G/Km"
+      }
+    }
+  }
+]

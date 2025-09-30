@@ -1,0 +1,100 @@
+[
+  {
+    "id": 5746,
+    "automobile_id": 1220,
+    "name": "2.0L SIDI 6AT FWD (262 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2000 Cm3",
+        "Power:": "193 Kw @ 5300 Rpm\r\n263 Hp @ 5300 Rpm\r\n259 Bhp @ 5300 Rpm",
+        "Torque:": "295 Lb-Ft @ 5200 Rpm\r\n400 Nm @ 5200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55R17"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Front/Rear Track:": "62.1/62 In (1,577/1,575 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "16.3 Cuft (462 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3635 Lbs (1649 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5747,
+    "automobile_id": 1220,
+    "name": "2.5L ECOTEC 6AT FWD (198 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2457 Cm3",
+        "Power:": "147 Kw @ 6200 Rpm\r\n200 Hp @ 6200 Rpm\r\n197 Bhp @ 6200 Rpm",
+        "Torque:": "191 Lb-Ft @ 4500 Rpm\r\n259 Nm @ 4500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55R17"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "73 In (1854 Mm)",
+        "Height:": "57.6 In (1463 Mm)",
+        "Front/Rear Track:": "62.1/62 In (1,577/1,575 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "16.3 Cuft (462 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4630 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  }
+]

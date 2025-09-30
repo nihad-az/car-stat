@@ -1,0 +1,92 @@
+[
+  {
+    "id": 26299,
+    "automobile_id": 6514,
+    "name": "2.0L 6AT RWD (205 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "152.9 Kw @ 7000 Rpm\r\n207.8 Hp @ 7000 Rpm\r\n205 Bhp @ 7000 Rpm",
+        "Torque:": "156 Lb-Ft @ 6400-6600 Rpm\r\n212 Nm @ 6400-6600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "166.7 In (4234 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "50.6 In (1285 Mm)",
+        "Front/Rear Track:": "59.8/59.8 In (1,519/1,519 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "6.9 Cuft (195 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2774 Lbs (1258 Kg)",
+        "Gross Weight Limit:": "3682 Lbs (1670 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26300,
+    "automobile_id": 6514,
+    "name": "2.0L 6MT RWD (205 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "152.9 Kw @ 7000 Rpm\r\n207.8 Hp @ 7000 Rpm\r\n205 Bhp @ 7000 Rpm",
+        "Torque:": "156 Lb-Ft @ 6400-6600 Rpm\r\n212 Nm @ 6400-6600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "166.7 In (4234 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "50.6 In (1285 Mm)",
+        "Front/Rear Track:": "59.8/59.8 In (1,519/1,519 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "6.9 Cuft (195 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2774 Lbs (1258 Kg)",
+        "Gross Weight Limit:": "3682 Lbs (1670 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  }
+]

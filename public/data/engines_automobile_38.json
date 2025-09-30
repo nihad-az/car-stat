@@ -1,0 +1,51 @@
+[
+  {
+    "id": 71,
+    "automobile_id": 38,
+    "name": "2.0L 5AT (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "114 Kw @ 6500 Rpm\r\n160 Hp @ 6500 Rpm\r\n153 Bhp @ 6500 Rpm",
+        "Torque:": "141 Lb-Ft @ 4000 Rpm\r\n191 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "172.4 In (4379 Mm)",
+        "Width:": "67.9 In (1725 Mm)",
+        "Height:": "54.9 In (1394 Mm)",
+        "Front/Rear Track:": "58.5/58.5 In (1,486/1,486 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2734 Lbs (1240 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)",
+        "Combined:": "29.5 Mpg Us (8 L/100Km)",
+        "Co2 Emissions:": "189 G/Km"
+      }
+    }
+  }
+]

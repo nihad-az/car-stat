@@ -1,0 +1,96 @@
+[
+  {
+    "id": 7246,
+    "automobile_id": 1560,
+    "name": "2.2 (101 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2175 Cm3",
+        "Power:": "75 Kw @ 5500 Rpm\r\n101 Hp @ 5500 Rpm\r\n101 Bhp @ 5500 Rpm",
+        "Torque:": "121 Lb-Ft @ 3000 Rpm\r\n164 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "190.6 In (4841 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "59/51 In (1,499/1,295 Mm)",
+        "Wheelbase:": "123 In (3124 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2822 Lbs (1280 Kg)"
+      }
+    }
+  },
+  {
+    "id": 7247,
+    "automobile_id": 1560,
+    "name": "2.2 (107 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2175 Cm3",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110.6 Mph (178 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      }
+    }
+  },
+  {
+    "id": 7248,
+    "automobile_id": 1560,
+    "name": "2.2 (127 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2175 Cm3",
+        "Power:": "93 Kw @ 5250 Rpm\r\n127 Hp @ 5250 Rpm\r\n125 Bhp @ 5250 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116.8 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "190.5 In (4839 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Front/Rear Track:": "59/51 In (1,499/1,295 Mm)",
+        "Wheelbase:": "123 In (3124 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2866 Lbs (1300 Kg)"
+      }
+    }
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 14542,
+    "automobile_id": 3587,
+    "name": "250 6AT FWD (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2494 Cm3",
+        "Power:": "135 Kw @ 6000 Rpm\r\n184 Hp @ 6000 Rpm\r\n181 Bhp @ 6000 Rpm",
+        "Torque:": "173 Lb-Ft @ 4100 Rpm\r\n235 Nm @ 4100 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed, Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "192.7 In (4895 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.6/42.7 In (1,590/1,085 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3660 Lbs (1660 Kg)",
+        "Gross Weight Limit:": "4630 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.4 Mpg Us (11 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14543,
+    "automobile_id": 3587,
+    "name": "350 6AT FWD (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3458 Cm3",
+        "Power:": "197 Kw @ 6200 Rpm\r\n268 Hp @ 6200 Rpm\r\n264 Bhp @ 6200 Rpm",
+        "Torque:": "248 Lb-Ft @ 4700 Rpm\r\n336 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed, Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55Vr17"
+      },
+      "Dimensions": {
+        "Length:": "192.7 In (4895 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.6/62 In (1,590/1,575 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "15.2 Cuft (430 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4696 Lbs (2130 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14544,
+    "automobile_id": 3587,
+    "name": "300h CVT FWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2494 Cm3",
+        "Power:": "118 Kw @ 5700 Rpm\r\n160 Hp @ 5700 Rpm\r\n158 Bhp @ 5700 Rpm",
+        "Torque:": "157 Lb-Ft @ 4500 Rpm\r\n213 Nm @ 4500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Continuously Variable Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55Vr17"
+      },
+      "Dimensions": {
+        "Length:": "192.7 In (4895 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "62.6/62.4 In (1,590/1,585 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "15.2 Cuft (430 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3702 Lbs (1679 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "40 Mpg Us (5.9 L/100Km)"
+      }
+    }
+  }
+]

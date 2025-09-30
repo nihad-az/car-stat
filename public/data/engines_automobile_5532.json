@@ -1,0 +1,102 @@
+[
+  {
+    "id": 22125,
+    "automobile_id": 5532,
+    "name": "3.4L 7AT AWD (350 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3436 Cm3",
+        "Power:": "257 Kw @ 7400 Rpm\r\n349 Hp @ 7400 Rpm\r\n345 Bhp @ 7400 Rpm",
+        "Torque:": "288 Lb-Ft @ 5600 Rpm\r\n390 Nm @ 5600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "176 Mph (283 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Double Clutch Transmission (Porsche Doppelkupplung - Pdk)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 R19 || 295/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "176.8 In (4491 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "51.3 In (1303 Mm)",
+        "Front/Rear Track:": "60.3/61.4 In (1,532/1,560 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3197 Lbs (1450 Kg)",
+        "Gross Weight Limit:": "4112 Lbs (1865 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "203 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22126,
+    "automobile_id": 5532,
+    "name": "3.4L 7MT  AWD (350 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3436 Cm3",
+        "Power:": "257 Kw @ 7400 Rpm\r\n350 Hp @ 7400 Rpm\r\n345 Bhp @ 7400 Rpm",
+        "Torque:": "288 Lb-Ft @ 5600 Rpm\r\n390 Nm @ 5600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "177 Mph (285 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 R19 || 295/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "176.8 In (4491 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "51.3 In (1303 Mm)",
+        "Front/Rear Track:": "60.3/61.4 In (1,532/1,560 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4068 Lbs (1845 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "33 Mpg Us (7.1 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "219 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5563,
+    "automobile_id": 1164,
+    "name": "3.6L V6 9AT AWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "228 Kw @ 6800 Rpm\r\n310 Hp @ 6800 Rpm\r\n306 Bhp @ 6800 Rpm",
+        "Torque:": "266 Lb-Ft @ 2800 Rpm\r\n361 Nm @ 2800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "204.3 In (5189 Mm)",
+        "Width:": "78.6 In (1996 Mm)",
+        "Height:": "70.7 In (1796 Mm)",
+        "Front/Rear Track:": "67.30X67 In (1709 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5564,
+    "automobile_id": 1164,
+    "name": "3.6L V6 9AT FWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "228 Kw @ 6800 Rpm\r\n310 Hp @ 6800 Rpm\r\n306 Bhp @ 6800 Rpm",
+        "Torque:": "266 Lb-Ft @ 2800 Rpm\r\n361 Nm @ 2800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.4 Gallons (73.4 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "204.3 In (5189 Mm)",
+        "Width:": "78.6 In (1996 Mm)",
+        "Height:": "70.7 In (1796 Mm)",
+        "Front/Rear Track:": "67.30X67 In (1709 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": 83,
+    "automobile_id": 45,
+    "name": "2.0L 5AT (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "117.7 Kw @ 6500 Rpm\r\n160 Hp @ 6500 Rpm\r\n158 Bhp @ 6500 Rpm",
+        "Torque:": "141 Lb-Ft @ 4000 Rpm\r\n191 Nm @ 4000 Rpm",
+        "Fuel System:": "Multi-Point Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "172.2 In (4374 Mm)",
+        "Width:": "67.9 In (1725 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "58.4/58.4 In (1,483/1,483 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "4.4 In (112 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "automobile_id": 45,
+    "name": "2.0L 6MT (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "147.1 Kw @ 7400 Rpm\r\n200 Hp @ 7400 Rpm\r\n197 Bhp @ 7400 Rpm",
+        "Torque:": "145 Lb-Ft @ 5900 Rpm\r\n196 Nm @ 5900 Rpm",
+        "Fuel System:": "Multi-Point Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "172.2 In (4374 Mm)",
+        "Width:": "67.9 In (1725 Mm)",
+        "Height:": "54.7 In (1389 Mm)",
+        "Front/Rear Track:": "58.4/58.4 In (1,483/1,483 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "4.4 In (112 Mm)",
+        "Cargo Volume:": "17.8 Cuft (504 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2778 Lbs (1260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "207 G/Km"
+      }
+    }
+  }
+]

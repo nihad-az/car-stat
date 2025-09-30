@@ -1,0 +1,84 @@
+[
+  {
+    "id": 6283,
+    "automobile_id": 1373,
+    "name": "3.9 3MT (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3859 Cm3",
+        "Power:": "104.4 Kw @ 4200 Rpm\r\n141.9 Hp @ 4200 Rpm\r\n140 Bhp @ 4200 Rpm",
+        "Torque:": "285 Lb-Ft @ 2400 Rpm\r\n386 Nm @ 2400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70 - 15"
+      },
+      "Dimensions": {
+        "Length:": "197.5 In (5017 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "58/58.9 In (1,473/1,496 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "14 Mpg Us (16.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6284,
+    "automobile_id": 1373,
+    "name": "4.3 V8 3MT (162 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4344 Cm3",
+        "Power:": "120.8 Kw @ 4400 Rpm\r\n164.2 Hp @ 4400 Rpm\r\n162 Bhp @ 4400 Rpm",
+        "Torque:": "257 Lb-Ft @ - Rpm\r\n348 Nm @ - Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70 - 15"
+      },
+      "Dimensions": {
+        "Length:": "197.5 In (5017 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Front/Rear Track:": "58/58.9 In (1,473/1,496 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3342 Lbs (1516 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "13 Mpg Us (18.1 L/100Km)"
+      }
+    }
+  }
+]

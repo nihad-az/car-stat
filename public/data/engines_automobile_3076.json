@@ -1,0 +1,136 @@
+[
+  {
+    "id": 12810,
+    "automobile_id": 3076,
+    "name": "2.0L 8AT (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "183.9 Kw @ - Rpm\r\n250 Hp @ - Rpm\r\n247 Bhp @ - Rpm",
+        "Torque:": "269 Lb-Ft @ - Rpm\r\n365 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions:": "181 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12811,
+    "automobile_id": 3076,
+    "name": "2.0L 8AT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "183.9 Kw @ - Rpm\r\n250 Hp @ - Rpm\r\n247 Bhp @ - Rpm",
+        "Torque:": "269 Lb-Ft @ - Rpm\r\n365 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 12812,
+    "automobile_id": 3076,
+    "name": "2.0L 8AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "220.6 Kw @ - Rpm\r\n300 Hp @ - Rpm\r\n296 Bhp @ - Rpm",
+        "Torque:": "295 Lb-Ft @ - Rpm\r\n400 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 12813,
+    "automobile_id": 3076,
+    "name": "2.0L 8AT (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "150 Kw @ - Rpm\r\n204 Hp @ - Rpm\r\n201 Bhp @ - Rpm",
+        "Torque:": "317 Lb-Ft @ - Rpm\r\n430 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "130 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12814,
+    "automobile_id": 3076,
+    "name": "2.0L 8AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "150 Kw @ - Rpm\r\n204 Hp @ - Rpm\r\n201 Bhp @ - Rpm",
+        "Torque:": "317 Lb-Ft @ - Rpm\r\n430 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid Diesel"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "137 G/Km"
+      }
+    }
+  }
+]

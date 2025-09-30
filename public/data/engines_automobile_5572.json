@@ -1,0 +1,104 @@
+[
+  {
+    "id": 22182,
+    "automobile_id": 5572,
+    "name": "3.6L 6MT (345 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3614 Cm3",
+        "Power:": "254 Kw @ 6500 Rpm\r\n345 Hp @ 6500 Rpm\r\n341 Bhp @ 6500 Rpm",
+        "Torque:": "288 Lb-Ft @ 4400 Rpm\r\n390 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.7 Gallons (67.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "180 Mph (290 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 Zr18 || 265/40 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "174.6 In (4435 Mm)",
+        "Width:": "71.2 In (1808 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "58.5/60.4 In (1,486/1,534 Mm)",
+        "Wheelbase:": "92.5 In (2350 Mm)",
+        "Ground Clearance:": "4.45 In (113 Mm)",
+        "Cargo Volume:": "4.8 Cuft (136 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4144.7 Lbs (1880 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.1 Mpg Us (15.6 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "20.6 Mpg Us (11.4 L/100Km)",
+        "Co2 Emissions:": "245 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22183,
+    "automobile_id": 5572,
+    "name": "3.6L 7AT (345 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3614 Cm3",
+        "Power:": "254 Kw @ 6500 Rpm\r\n345 Hp @ 6500 Rpm\r\n341 Bhp @ 6500 Rpm",
+        "Torque:": "288 Lb-Ft @ 4400 Rpm\r\n390 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.7 Gallons (67.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "178 Mph (286 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (Pdk)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 Zr18 || 265/40 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "174.6 In (4435 Mm)",
+        "Width:": "71.2 In (1808 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "58.5/60.4 In (1,486/1,534 Mm)",
+        "Wheelbase:": "92.5 In (2350 Mm)",
+        "Ground Clearance:": "4.45 In (113 Mm)",
+        "Cargo Volume:": "4.8 Cuft (136 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3318 Lbs (1505 Kg)",
+        "Gross Weight Limit:": "4211 Lbs (1910 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.8 Mpg Us (14.9 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Co2 Emissions:": "233 G/Km"
+      }
+    }
+  }
+]

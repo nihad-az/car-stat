@@ -1,0 +1,129 @@
+[
+  {
+    "id": 21260,
+    "automobile_id": 5241,
+    "name": "1.4L 5MT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1360 Cm3",
+        "Power:": "55 Kw @ 5500 Rpm\r\n75 Hp @ 5500 Rpm\r\n74 Bhp @ 5500 Rpm",
+        "Torque:": "89 Lb-Ft @ 3400 Rpm\r\n120 Nm @ 3400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R 14"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "65.2 In (1656 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "56.6/56.2 In (1,438/1,427 Mm)",
+        "Wheelbase:": "96.1 In (2441 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      }
+    }
+  },
+  {
+    "id": 21261,
+    "automobile_id": 5241,
+    "name": "1.6L 16V 4AT (110 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1586 Cm3",
+        "Power:": "80.9 Kw @ 5600 Rpm\r\n110 Hp @ 5600 Rpm\r\n108 Bhp @ 5600 Rpm",
+        "Torque:": "105 Lb-Ft @ 4000 Rpm\r\n142 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50 R15"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "65.2 In (1656 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "56.6/56.2 In (1,438/1,427 Mm)",
+        "Wheelbase:": "96.1 In (2441 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.3 Mpg Us (10.1 L/100Km)",
+        "Highway:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 21262,
+    "automobile_id": 5241,
+    "name": "1.6L 16V 5MT (110 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1586 Cm3",
+        "Power:": "80.9 Kw @ 5600 Rpm\r\n110 Hp @ 5600 Rpm\r\n108 Bhp @ 5600 Rpm",
+        "Torque:": "105 Lb-Ft @ 4000 Rpm\r\n142 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50 R15"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "65.2 In (1656 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "56.6/56.2 In (1,438/1,427 Mm)",
+        "Wheelbase:": "96.1 In (2441 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)"
+      }
+    }
+  }
+]

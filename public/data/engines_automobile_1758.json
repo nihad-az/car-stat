@@ -1,0 +1,715 @@
+[
+  {
+    "id": 7865,
+    "automobile_id": 1758,
+    "name": "3.7L 3AT RWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3682 Cm3",
+        "Power:": "82 Kw @ 4000 Rpm\r\n111 Hp @ 4000 Rpm\r\n110 Bhp @ 4000 Rpm",
+        "Torque:": "185 Lb-Ft @ 2400 Rpm\r\n251 Nm @ 2400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3340 Lbs (1515 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "15.8 Mpg Us (14.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7866,
+    "automobile_id": 1758,
+    "name": "3.7L 3MT RWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3682 Cm3",
+        "Power:": "82 Kw @ 4000 Rpm\r\n111 Hp @ 4000 Rpm\r\n110 Bhp @ 4000 Rpm",
+        "Torque:": "185 Lb-Ft @ 2400 Rpm\r\n251 Nm @ 2400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3340 Lbs (1515 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7867,
+    "automobile_id": 1758,
+    "name": "5.2L V8 3AT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5210 Cm3",
+        "Power:": "111.9 Kw @ 3600 Rpm\r\n152 Hp @ 3600 Rpm\r\n150 Bhp @ 3600 Rpm",
+        "Torque:": "265 Lb-Ft @ 2000 Rpm\r\n359 Nm @ 2000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571 Lbs (1620 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "13.5 Mpg Us (17.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7868,
+    "automobile_id": 1758,
+    "name": "5.2L V8 3AT RWD (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5210 Cm3",
+        "Power:": "171.5 Kw @ 4000 Rpm\r\n233 Hp @ 4000 Rpm\r\n230 Bhp @ 4000 Rpm",
+        "Torque:": "240 Lb-Ft @ 4400 Rpm\r\n325 Nm @ 4400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "14 Mpg Us (16.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7869,
+    "automobile_id": 1758,
+    "name": "5.2L V8 3MT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5210 Cm3",
+        "Power:": "111.9 Kw @ 3600 Rpm\r\n152 Hp @ 3600 Rpm\r\n150 Bhp @ 3600 Rpm",
+        "Torque:": "265 Lb-Ft @ 2000 Rpm\r\n359 Nm @ 2000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571 Lbs (1620 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "14 Mpg Us (16.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7870,
+    "automobile_id": 1758,
+    "name": "5.2L V8 3MT RWD (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5210 Cm3",
+        "Power:": "171.5 Kw @ 4000 Rpm\r\n233.2 Hp @ 4000 Rpm\r\n230 Bhp @ 4000 Rpm",
+        "Torque:": "240 Lb-Ft @ 4400 Rpm\r\n325 Nm @ 4400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "14 Mpg Us (16.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7871,
+    "automobile_id": 1758,
+    "name": "5.9L V8 3AT RWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5898 Cm3",
+        "Power:": "149.1 Kw @ 4000 Rpm\r\n203 Hp @ 4000 Rpm\r\n200 Bhp @ 4000 Rpm",
+        "Torque:": "290 Lb-Ft @ 3200 Rpm\r\n393 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3706 Lbs (1681 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "12.6 Mpg Us (18.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7872,
+    "automobile_id": 1758,
+    "name": "5.9L V8 4MT RWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5898 Cm3",
+        "Power:": "149.1 Kw @ 4000 Rpm\r\n203 Hp @ 4000 Rpm\r\n200 Bhp @ 4000 Rpm",
+        "Torque:": "290 Lb-Ft @ 3200 Rpm\r\n393 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3706 Lbs (1681 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "13.2 Mpg Us (17.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7873,
+    "automobile_id": 1758,
+    "name": "6.3L V8 3AT RWD (275 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6277 Cm3",
+        "Power:": "205.1 Kw @ 4400 Rpm\r\n279 Hp @ 4400 Rpm\r\n275 Bhp @ 4400 Rpm",
+        "Torque:": "374 Lb-Ft @ 2800 Rpm\r\n507 Nm @ 2800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3627 Lbs (1645 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "12.9 Mpg Us (18.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7874,
+    "automobile_id": 1758,
+    "name": "6.3L V8 4MT RWD (275 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6277 Cm3",
+        "Power:": "205.1 Kw @ 4400 Rpm\r\n279 Hp @ 4400 Rpm\r\n275 Bhp @ 4400 Rpm",
+        "Torque:": "374 Lb-Ft @ 2800 Rpm\r\n507 Nm @ 2800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3704 Lbs (1680 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "12.2 Mpg Us (19.3 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7875,
+    "automobile_id": 1758,
+    "name": "6.5 V8 4MT RWD (255 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6551 Cm3",
+        "Power:": "190.2 Kw @ 4800 Rpm\r\n259 Hp @ 4800 Rpm\r\n255 Bhp @ 4800 Rpm",
+        "Torque:": "340 Lb-Ft @ 3200 Rpm\r\n461 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3657 Lbs (1659 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "12 Mpg Us (19.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7876,
+    "automobile_id": 1758,
+    "name": "6.5L V8 3AT RWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6551 Cm3",
+        "Power:": "141.7 Kw @ 4400 Rpm\r\n193 Hp @ 4400 Rpm\r\n190 Bhp @ 4400 Rpm",
+        "Torque:": "311 Lb-Ft @ 2400 Rpm\r\n421 Nm @ 2400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3578 Lbs (1623 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "12.5 Mpg Us (18.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7877,
+    "automobile_id": 1758,
+    "name": "6.5L V8 3AT RWD (255 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6551 Cm3",
+        "Power:": "190.2 Kw @ 4800 Rpm\r\n259 Hp @ 4800 Rpm\r\n255 Bhp @ 4800 Rpm",
+        "Torque:": "340 Lb-Ft @ 3200 Rpm\r\n461 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3657 Lbs (1659 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "11 Mpg Us (21.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7878,
+    "automobile_id": 1758,
+    "name": "7.0L V8 3AT RWD (425 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6974 Cm3",
+        "Power:": "316.9 Kw @ 5000 Rpm\r\n431 Hp @ 5000 Rpm\r\n425 Bhp @ 5000 Rpm",
+        "Torque:": "490 Lb-Ft @ 4000 Rpm\r\n664 Nm @ 4000 Rpm",
+        "Fuel System:": "2 Carburetors",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3968 Lbs (1800 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "9 Mpg Us (26.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7879,
+    "automobile_id": 1758,
+    "name": "7.0L V8 4MT RWD (425 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6974 Cm3",
+        "Power:": "316.9 Kw @ 5000 Rpm\r\n431 Hp @ 5000 Rpm\r\n425 Bhp @ 5000 Rpm",
+        "Torque:": "490 Lb-Ft @ 4000 Rpm\r\n664 Nm @ 4000 Rpm",
+        "Fuel System:": "2 Carburetors",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4079 Lbs (1850 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "9.5 Mpg Us (24.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7880,
+    "automobile_id": 1758,
+    "name": "7.2L V8 3AT RWD (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7206 Cm3",
+        "Power:": "275.9 Kw @ 4600 Rpm\r\n375 Hp @ 4600 Rpm\r\n370 Bhp @ 4600 Rpm",
+        "Torque:": "480 Lb-Ft @ 3200 Rpm\r\n651 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3858 Lbs (1750 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "9.7 Mpg Us (24.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7881,
+    "automobile_id": 1758,
+    "name": "7.2L V8 4MT RWD (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7206 Cm3",
+        "Power:": "275.9 Kw @ 4600 Rpm\r\n375 Hp @ 4600 Rpm\r\n370 Bhp @ 4600 Rpm",
+        "Torque:": "480 Lb-Ft @ 3200 Rpm\r\n651 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E78 - 14"
+      },
+      "Dimensions": {
+        "Length:": "205.4 In (5217 Mm)",
+        "Width:": "79.1 In (2009 Mm)",
+        "Height:": "52.2 In (1326 Mm)",
+        "Front/Rear Track:": "59.7/61.6 In (1,516/1,565 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3880 Lbs (1760 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "10.5 Mpg Us (22.4 L/100Km)"
+      }
+    }
+  }
+]

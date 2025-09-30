@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5104,
+    "automobile_id": 930,
+    "name": "0.3",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "1",
+        "Displacement:": "298 Cm3",
+        "Power:": "9.7 Kw @ 5200 Rpm\r\n13 Hp @ 5200 Rpm\r\n13 Bhp @ 5200 Rpm",
+        "Torque:": "13 Lb-Ft @ 4600 Rpm\r\n18 Nm @ 4600 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "51 Mph (82 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "88.6 In (2250 Mm)",
+        "Width:": "52.8 In (1341 Mm)",
+        "Height:": "52 In (1321 Mm)",
+        "Front/Rear Track:": "47.2 In (1199 Mm)",
+        "Wheelbase:": "59.1 In (1501 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "777.9 Lbs (353 Kg)"
+      }
+    }
+  },
+  {
+    "id": 5105,
+    "automobile_id": 930,
+    "name": "0.6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "B2",
+        "Displacement:": "582 Cm3",
+        "Power:": "15 Kw @ 4000 Rpm\r\n20 Hp @ 4000 Rpm\r\n20 Bhp @ 4000 Rpm",
+        "Torque:": "29 Lb-Ft @ 2500 Rpm\r\n39 Nm @ 2500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "116 In (2946 Mm)",
+        "Width:": "54 In (1372 Mm)",
+        "Height:": "56 In (1422 Mm)",
+        "Front/Rear Track:": "49/46.5 In (1,245/1,181 Mm)",
+        "Wheelbase:": "76 In (1930 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1123.6 Lbs (510 Kg)"
+      }
+    }
+  }
+]

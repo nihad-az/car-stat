@@ -1,0 +1,88 @@
+[
+  {
+    "id": 7244,
+    "automobile_id": 1559,
+    "name": "2.2L 4AT (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2175 Cm3",
+        "Power:": "78 Kw @ 5500 Rpm\r\n106 Hp @ 5500 Rpm\r\n105 Bhp @ 5500 Rpm",
+        "Torque:": "123 Lb-Ft @ 3500 Rpm\r\n167 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "100 Mph (161 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "192.9 In (4900 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "59.7/51.8 In (1,516/1,316 Mm)",
+        "Wheelbase:": "123 In (3124 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2954 Lbs (1340 Kg)",
+        "Gross Weight Limit:": "3924 Lbs (1780 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.7 Mpg Us (12.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 7245,
+    "automobile_id": 1559,
+    "name": "2.2L 4MT (106 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2175 Cm3",
+        "Power:": "78 Kw @ 5500 Rpm\r\n106 Hp @ 5500 Rpm\r\n105 Bhp @ 5500 Rpm",
+        "Torque:": "123 Lb-Ft @ 3500 Rpm\r\n167 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "192.9 In (4900 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "59.7/51.8 In (1,516/1,316 Mm)",
+        "Wheelbase:": "123 In (3124 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2943 Lbs (1335 Kg)",
+        "Gross Weight Limit:": "3924 Lbs (1780 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.1 Mpg Us (11.7 L/100Km)"
+      }
+    }
+  }
+]

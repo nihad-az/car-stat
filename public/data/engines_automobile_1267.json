@@ -1,0 +1,100 @@
+[
+  {
+    "id": 5931,
+    "automobile_id": 1267,
+    "name": "6.2 V8 LS3 6AT (430 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "321 Kw @ 5900 Rpm\r\n437 Hp @ 5900 Rpm\r\n430 Bhp @ 5900 Rpm",
+        "Torque:": "436 Lb-Ft @ 5900 Rpm\r\n591 Nm @ 5900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "190 Mph (306 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/40Zr18 || P285/35Zr19"
+      },
+      "Dimensions": {
+        "Length:": "174.6 In (4435 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "49 In (1245 Mm)",
+        "Front/Rear Track:": "62.1/60.7 In (1,577/1,542 Mm)",
+        "Wheelbase:": "105.7 In (2685 Mm)",
+        "Ground Clearance:": "4 In (102 Mm)",
+        "Cargo Volume:": "11 Cuft (311 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3221 Lbs (1461 Kg)",
+        "Gross Weight Limit:": "3329 Lbs (1510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5932,
+    "automobile_id": 1267,
+    "name": "6.2 V8 LS3 6MT (430 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "321 Kw @ 5900 Rpm\r\n437 Hp @ 5900 Rpm\r\n430 Bhp @ 5900 Rpm",
+        "Torque:": "436 Lb-Ft @ 5900 Rpm\r\n591 Nm @ 5900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "190 Mph (306 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/40Zr18 || P285/35Zr19"
+      },
+      "Dimensions": {
+        "Length:": "174.6 In (4435 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "49 In (1245 Mm)",
+        "Front/Rear Track:": "62.1/60.7 In (1,577/1,542 Mm)",
+        "Wheelbase:": "105.7 In (2685 Mm)",
+        "Ground Clearance:": "4 In (102 Mm)",
+        "Cargo Volume:": "11 Cuft (311 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3221 Lbs (1461 Kg)",
+        "Gross Weight Limit:": "3329 Lbs (1510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

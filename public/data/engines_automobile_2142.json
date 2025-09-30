@@ -1,0 +1,68 @@
+[
+  {
+    "id": 9017,
+    "automobile_id": 2142,
+    "name": "5.0L V8 10AT (460 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "338.3 Kw @ 7500 Rpm\r\n460 Hp @ 7500 Rpm\r\n454 Bhp @ 7500 Rpm",
+        "Torque:": "390 Lb-Ft @ 4600 Rpm\r\n529 Nm @ 4600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 9018,
+    "automobile_id": 2142,
+    "name": "5.0L V8 6MT (460 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "338.3 Kw @ 7500 Rpm\r\n460 Hp @ 7500 Rpm\r\n454 Bhp @ 7500 Rpm",
+        "Torque:": "390 Lb-Ft @ 4900 Rpm\r\n529 Nm @ 4900 Rpm",
+        "Fuel System:": "Direct/Indirect Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "267 Mph (430 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R 19"
+      },
+      "Dimensions": {
+        "Length:": "188.9 In (4798 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "54.4 In (1382 Mm)",
+        "Front/Rear Track:": "62.8/64.8 In (1,595/1,646 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Cargo Volume:": "14.4 Cuft (408 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4054 Lbs (1839 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Medium:": "19 Mpg Us (12.4 L/100Km)",
+        "Co2 Emissions (Medium):": "284 G/Km"
+      }
+    }
+  }
+]

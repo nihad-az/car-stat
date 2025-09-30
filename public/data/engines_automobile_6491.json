@@ -1,0 +1,137 @@
+[
+  {
+    "id": 26217,
+    "automobile_id": 6491,
+    "name": "1.0L CVT (69 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "996 Cm3",
+        "Power:": "50.7 Kw @ 6000 Rpm\r\n69 Hp @ 6000 Rpm\r\n68 Bhp @ 6000 Rpm",
+        "Torque:": "68 Lb-Ft @ 4400 Rpm\r\n92 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drum"
+      },
+      "Dimensions": {
+        "Length:": "161.6 In (4105 Mm)",
+        "Width:": "66 In (1676 Mm)",
+        "Height:": "58.9 In (1496 Mm)",
+        "Front/Rear Track:": "58.8X58.4 In (1494 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "15.86 Cuft (449 L)",
+        "Turning Circle:": "31.5 Ft (9.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2072 - 2138 Lbs (940 - 970 Kg)",
+        "Gross Weight Limit:": "2745 Lbs (1245 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "48 Mpg Us (4.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26218,
+    "automobile_id": 6491,
+    "name": "1.5L 6MT (111 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1497 Cm3",
+        "Power:": "81.6 Kw @ 6000 Rpm\r\n111 Hp @ 6000 Rpm\r\n109 Bhp @ 6000 Rpm",
+        "Torque:": "100 Lb-Ft @ 4400 Rpm\r\n136 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65R15 84H 15X5J"
+      },
+      "Dimensions": {
+        "Length:": "155.3 In (3945 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "59.4 In (1509 Mm)",
+        "Front/Rear Track:": "58.5/57.9 In (1,486/1,471 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2524 Lbs (1145 Kg)",
+        "Gross Weight Limit:": "3406 Lbs (1545 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "136 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26219,
+    "automobile_id": 6491,
+    "name": "1.5L eCVT (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1490 Cm3",
+        "Power:": "66.9 Kw @ 5500 Rpm\r\n91 Hp @ 5500 Rpm\r\n90 Bhp @ 5500 Rpm",
+        "Torque:": "89 Lb-Ft @ 3600 Rpm\r\n120 Nm @ 3600 Rpm",
+        "Electrical Motor Power:": "59 Kw (80 Hp)",
+        "Electrical Motor Torque:": "104 Lb-Ft (141 Nm)",
+        "Total Maximum Power:": "85.3 Kw (116 Hp)",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Ecvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55R16"
+      },
+      "Dimensions": {
+        "Length:": "155.1 In (3940 Mm)",
+        "Width:": "68.7 In (1745 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "59.8/59.6 In (1,519/1,514 Mm)",
+        "Wheelbase:": "100.8 In (2560 Mm)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2392 - 2557 Lbs (1085 - 1160 Kg)",
+        "Gross Weight Limit:": "3560 Lbs (1615 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  }
+]

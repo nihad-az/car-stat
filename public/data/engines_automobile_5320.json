@@ -1,0 +1,50 @@
+[
+  {
+    "id": 21786,
+    "automobile_id": 5320,
+    "name": "Long range Dual motor 102 KWh (544 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "400.1 Kw (544 Hp)",
+        "Total Maximum Torque:": "506 Lb-Ft (686 Nm)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.8 S"
+      },
+      "Dimensions": {
+        "Length:": "190.5 In (4839 Mm)",
+        "Width:": "84.2 In (2139 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Wheelbase:": "118.1 In (3000 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Range:": "372.8 Miles (600.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 21787,
+    "automobile_id": 5320,
+    "name": "Long range Single motor 102 KWh (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "200.1 Kw (272 Hp)",
+        "Total Maximum Torque:": "253 Lb-Ft (343 Nm)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.8 S"
+      },
+      "Dimensions": {
+        "Length:": "190.5 In (4839 Mm)",
+        "Width:": "84.2 In (2139 Mm)",
+        "Height:": "60.8 In (1544 Mm)",
+        "Wheelbase:": "118.1 In (3000 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Range:": "372.8 Miles (600.0 Km)"
+      }
+    }
+  }
+]

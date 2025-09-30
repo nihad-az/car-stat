@@ -1,0 +1,183 @@
+[
+  {
+    "id": 13047,
+    "automobile_id": 3152,
+    "name": "1.3L GSE 6AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "110.3 Kw @ - Rpm\r\n150 Hp @ - Rpm\r\n148 Bhp @ - Rpm",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 13048,
+    "automobile_id": 3152,
+    "name": "1.3L GSE 6MT (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "95.6 Kw @ - Rpm\r\n130 Hp @ - Rpm\r\n128 Bhp @ - Rpm",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 13049,
+    "automobile_id": 3152,
+    "name": "2.4L 9AT AWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2360 Cm3",
+        "Power:": "130.2 Kw @ 6400 Rpm\r\n177 Hp @ 6400 Rpm\r\n175 Bhp @ 6400 Rpm",
+        "Torque:": "172 Lb-Ft @ 3900 Rpm\r\n233 Nm @ 3900 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.5 Gallons (51.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55R18 Bsw"
+      },
+      "Dimensions": {
+        "Length:": "173.4 In (4404 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "64.6 In (1641 Mm)",
+        "Front/Rear Track:": "60.7/60.3 In (1,542/1,532 Mm)",
+        "Wheelbase:": "103.8 In (2637 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3327 Lbs (1509 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "11.4 Kwh"
+      }
+    }
+  },
+  {
+    "id": 13050,
+    "automobile_id": 3152,
+    "name": "1.6L MultiJet 6MT (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "95.6 Kw @ 3750 Rpm\r\n130 Hp @ 3750 Rpm\r\n128 Bhp @ 3750 Rpm",
+        "Torque:": "236 Lb-Ft @ 1500 Rpm\r\n320 Nm @ 1500 Rpm",
+        "Electrical Motor Power:": "44.1 Kw (60 Hp)",
+        "Electrical Motor Torque:": "184.4 Lb-Ft (250 Nm)",
+        "Total Maximum Power:": "176.5 Kw (240 Hp)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "11.4 Kwh"
+      }
+    }
+  },
+  {
+    "id": 13051,
+    "automobile_id": 3152,
+    "name": "1.3L PHEV 6AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "95.6 Kw @ - Rpm\r\n130 Hp @ - Rpm\r\n128 Bhp @ - Rpm",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Electrical Motor Power:": "44.1 Kw (60 Hp)",
+        "Electrical Motor Torque:": "184.4 Lb-Ft (250 Nm)",
+        "Total Maximum Power:": "139.7 Kw (190 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "81 Mph (130 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "11.4 Kwh"
+      }
+    }
+  },
+  {
+    "id": 13052,
+    "automobile_id": 3152,
+    "name": "1.3L PHEV 6AT AWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "139.7 Kw @ - Rpm\r\n190 Hp @ - Rpm\r\n187 Bhp @ - Rpm",
+        "Torque:": "199 Lb-Ft @ - Rpm\r\n270 Nm @ - Rpm",
+        "Electrical Motor Power:": "44.1 Kw (60 Hp)",
+        "Electrical Motor Torque:": "184.4 Lb-Ft (250 Nm)",
+        "Total Maximum Power:": "176.5 Kw (240 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "81 Mph (130 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "11.4 Kwh"
+      }
+    }
+  }
+]

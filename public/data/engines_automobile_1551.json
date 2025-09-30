@@ -1,0 +1,91 @@
+[
+  {
+    "id": 7225,
+    "automobile_id": 1551,
+    "name": "0.7L 4MT (35 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "B2",
+        "Displacement:": "652 Cm3",
+        "Power:": "26 Kw @ 5500 Rpm\r\n35 Hp @ 5500 Rpm\r\n35 Bhp @ 5500 Rpm",
+        "Torque:": "38 Lb-Ft @ 3500 Rpm\r\n51 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "78.3 Mph (126 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "23.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "135Sr13"
+      },
+      "Dimensions": {
+        "Length:": "135 In (3429 Mm)",
+        "Width:": "60.6 In (1539 Mm)",
+        "Height:": "54.3 In (1379 Mm)",
+        "Front/Rear Track:": "50.8/48.8 In (1,290/1,240 Mm)",
+        "Wheelbase:": "87.8 In (2230 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "6 Cuft (170 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1488.1 Lbs (675 Kg)",
+        "Gross Weight Limit:": "2259.7 Lbs (1025 Kg)"
+      }
+    }
+  },
+  {
+    "id": 7226,
+    "automobile_id": 1551,
+    "name": "1.1L 4MT (50 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1124 Cm3",
+        "Power:": "36 Kw @ 5500 Rpm\r\n50 Hp @ 5500 Rpm\r\n48 Bhp @ 5500 Rpm",
+        "Torque:": "60 Lb-Ft @ 2500 Rpm\r\n81 Nm @ 2500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15,6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "135Sr13"
+      },
+      "Dimensions": {
+        "Length:": "135 In (3429 Mm)",
+        "Width:": "60.6 In (1539 Mm)",
+        "Height:": "54.3 In (1379 Mm)",
+        "Front/Rear Track:": "50.8/48.8 In (1,290/1,240 Mm)",
+        "Wheelbase:": "87.8 In (2230 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "6 Cuft (170 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1651.3 Lbs (749 Kg)",
+        "Gross Weight Limit:": "2403 Lbs (1090 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "42 Mpg Us (5.6 L/100Km)"
+      }
+    }
+  }
+]

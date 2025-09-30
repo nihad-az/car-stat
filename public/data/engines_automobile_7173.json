@@ -1,0 +1,88 @@
+[
+  {
+    "id": 30000,
+    "automobile_id": 7173,
+    "name": "1.1L CVT RWD (47 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1108 Cm3",
+        "Power:": "35 Kw @ 5000 Rpm\r\n47 Hp @ 5000 Rpm\r\n47 Bhp @ 5000 Rpm",
+        "Torque:": "55 Lb-Ft @ 2700 Rpm\r\n75 Nm @ 2700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "82 Mph (132 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "23.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "135Sr13"
+      },
+      "Dimensions": {
+        "Length:": "153.7 In (3904 Mm)",
+        "Width:": "60.5 In (1537 Mm)",
+        "Height:": "54.8 In (1392 Mm)",
+        "Front/Rear Track:": "51.5/48.8 In (1,308/1,240 Mm)",
+        "Wheelbase:": "88.5 In (2248 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "10.24 Cuft (290 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1836 Lbs (833 Kg)",
+        "Gross Weight Limit:": "2645.5 Lbs (1200 Kg)"
+      }
+    }
+  },
+  {
+    "id": 30001,
+    "automobile_id": 7173,
+    "name": "1.3L CVT RWD (57 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1289 Cm3",
+        "Power:": "42 Kw @ 4520 Rpm\r\n57 Hp @ 4520 Rpm\r\n56 Bhp @ 4520 Rpm",
+        "Torque:": "69 Lb-Ft @ 2820 Rpm\r\n94 Nm @ 2820 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "88.2 Mph (142 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "153.7 In (3904 Mm)",
+        "Width:": "60.5 In (1537 Mm)",
+        "Height:": "54.3 In (1379 Mm)",
+        "Front/Rear Track:": "51.5/48.9 In (1,308/1,242 Mm)",
+        "Wheelbase:": "88.5 In (2248 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "10.24 Cuft (290 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1840.9 Lbs (835 Kg)",
+        "Gross Weight Limit:": "2777.8 Lbs (1260 Kg)"
+      }
+    }
+  }
+]

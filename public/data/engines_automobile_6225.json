@@ -1,0 +1,102 @@
+[
+  {
+    "id": 25406,
+    "automobile_id": 6225,
+    "name": "0.7L 6AT FWD (61 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "698 Cm3",
+        "Power:": "45 Kw @ 5250 Rpm\r\n61 Hp @ 5250 Rpm\r\n60 Bhp @ 5250 Rpm",
+        "Torque:": "70 Lb-Ft @ 2000–4000 Rpm\r\n95 Nm @ 2000–4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "84 Mph (135 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145/65 R15 || 175/55 R15"
+      },
+      "Dimensions": {
+        "Length:": "98.4 In (2499 Mm)",
+        "Width:": "59.6 In (1514 Mm)",
+        "Height:": "61 In (1549 Mm)",
+        "Front/Rear Track:": "50.1/53.3 In (1,273/1,354 Mm)",
+        "Wheelbase:": "71.3 In (1811 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "5.3/12.8 Cuft (150 L)",
+        "Aerodynamics (Cd):": "0.38"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1631 Lbs (740 Kg)",
+        "Gross Weight Limit:": "2183 Lbs (990 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "113 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25407,
+    "automobile_id": 6225,
+    "name": "0.8L CDi 6AT FWD (41 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "799 Cm3",
+        "Power:": "30.1 Kw @ 4200 Rpm\r\n41 Hp @ 4200 Rpm\r\n40 Bhp @ 4200 Rpm",
+        "Torque:": "74 Lb-Ft @ 1800–2800 Rpm\r\n100 Nm @ 1800–2800 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "84 Mph (135 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "20.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145/65 R15 || 175/55 R15"
+      },
+      "Dimensions": {
+        "Length:": "98.4 In (2499 Mm)",
+        "Width:": "59.6 In (1514 Mm)",
+        "Height:": "61 In (1549 Mm)",
+        "Front/Rear Track:": "50.1/53.3 In (1,273/1,354 Mm)",
+        "Wheelbase:": "71.3 In (1811 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "5.3 Cuft (150 L)",
+        "Aerodynamics (Cd):": "0.38"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1609 Lbs (730 Kg)",
+        "Gross Weight Limit:": "2183 Lbs (990 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "60.3 Mpg Us (3.9 L/100Km)",
+        "Highway:": "75.9 Mpg Us (3.1 L/100Km)",
+        "Combined:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Co2 Emissions:": "90 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": 5446,
+    "automobile_id": 1110,
+    "name": "3.6L V6 5AT (264 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "194 Kw @ 6500 Rpm\r\n264 Hp @ 6500 Rpm\r\n260 Bhp @ 6500 Rpm",
+        "Torque:": "250 Lb-Ft @ 2700-3200 Rpm\r\n339 Nm @ 2700-3200 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124.9 Mph (201 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Front 235/65 R17 Rear 255/60 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "67.8 In (1722 Mm)",
+        "Front/Rear Track:": "61.7/61.7 In (1,567/1,567 Mm)",
+        "Wheelbase:": "116.4 In (2957 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "68.9 Cuft (1951 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4229.2 Lbs (1918 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.6 Mpg Us (18.7 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "18.1 Mpg Us (13 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5447,
+    "automobile_id": 1110,
+    "name": "4.6L V8 5AT (325 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4572 Cm3",
+        "Power:": "239 Kw @ 6400 Rpm\r\n325 Hp @ 6400 Rpm\r\n321 Bhp @ 6400 Rpm",
+        "Torque:": "315 Lb-Ft @ 4400 Rpm\r\n427 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Front 236/65 R17 Rear 255/60 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.9 In (4950 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "67.8 In (1722 Mm)",
+        "Front/Rear Track:": "61.9/62.2 In (1,572/1,580 Mm)",
+        "Wheelbase:": "116.4 In (2957 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "68.9 Cuft (1951 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4392.4 Lbs (1992 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.1 Mpg Us (15.6 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

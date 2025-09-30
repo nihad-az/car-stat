@@ -1,0 +1,100 @@
+[
+  {
+    "id": 6155,
+    "automobile_id": 1332,
+    "name": "5.7L V8 4AT (325 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5665 Cm3",
+        "Power:": "242 Kw @ 5200 Rpm\r\n329 Hp @ 5200 Rpm\r\n325 Bhp @ 5200 Rpm",
+        "Torque:": "350 Lb-Ft @ 4000 Rpm\r\n475 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45 Zr 17"
+      },
+      "Dimensions": {
+        "Length:": "193.5 In (4915 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "51.8 In (1316 Mm)",
+        "Front/Rear Track:": "60.7/60.6 In (1,542/1,539 Mm)",
+        "Wheelbase:": "101.1 In (2568 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "7.5 Cuft (212 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4260.1 Lbs (1932 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6156,
+    "automobile_id": 1332,
+    "name": "5.7L V8 6MT (325 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5665 Cm3",
+        "Power:": "242 Kw @ 5200 Rpm\r\n329 Hp @ 5200 Rpm\r\n325 Bhp @ 5200 Rpm",
+        "Torque:": "350 Lb-Ft @ 4000 Rpm\r\n475 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "157.8 Mph (254 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/45 Zr 17"
+      },
+      "Dimensions": {
+        "Length:": "193.5 In (4915 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "51.8 In (1316 Mm)",
+        "Front/Rear Track:": "60.7/60.6 In (1,542/1,539 Mm)",
+        "Wheelbase:": "101.1 In (2568 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "7.5 Cuft (212 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3578.7 Lbs (1623 Kg)",
+        "Gross Weight Limit:": "4260.1 Lbs (1932 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 774,
+    "automobile_id": 331,
+    "name": "4.0L TSI V8 8AT AWD (507 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3956 Cm3",
+        "Power:": "372.9 Kw @ - Rpm\r\n507 Hp @ - Rpm\r\n500 Bhp @ - Rpm",
+        "Torque:": "567 Lb-Ft @ - Rpm\r\n769 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Tiptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/45 R 21 113 Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "197.1 In (5006 Mm)",
+        "Width:": "86.2 In (2189 Mm)",
+        "Height:": "67.2 In (1707 Mm)",
+        "Front/Rear Track:": "66.1/66.4 In (1,679/1,687 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "21.4 Cuft (606 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  },
+  {
+    "id": 775,
+    "automobile_id": 331,
+    "name": "4.0L TDI V8 8AT AWD (435 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3956 Cm3",
+        "Power:": "319.9 Kw @ 3750-4750 Rpm\r\n435 Hp @ 3750-4750 Rpm\r\n429 Bhp @ 3750-4750 Rpm",
+        "Torque:": "664 Lb-Ft @ 1250-3250 Rpm\r\n900 Nm @ 1250-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Tiptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "285/45 R 21 113 Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "197.1 In (5006 Mm)",
+        "Width:": "86.2 In (2189 Mm)",
+        "Height:": "67.2 In (1707 Mm)",
+        "Front/Rear Track:": "66.1/66.4 In (1,679/1,687 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Cargo Volume:": "21.4 Cuft (606 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  }
+]

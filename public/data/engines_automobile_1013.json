@@ -1,0 +1,62 @@
+[
+  {
+    "id": 5218,
+    "automobile_id": 1013,
+    "name": "3.6L V6 9AT FWD (301 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3649 Cm3",
+        "Power:": "224.5 Kw @ - Rpm\r\n305 Hp @ - Rpm\r\n301 Bhp @ - Rpm",
+        "Torque:": "260 Lb-Ft @ - Rpm\r\n353 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Cargo Volume:": "23.6 Cuft (668 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5219,
+    "automobile_id": 1013,
+    "name": "3.6L V6 AWD 9AT (301 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3649 Cm3",
+        "Power:": "224.5 Kw @ - Rpm\r\n305 Hp @ - Rpm\r\n301 Bhp @ - Rpm",
+        "Torque:": "260 Lb-Ft @ - Rpm\r\n353 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Cargo Volume:": "23.6 Cuft (668 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  }
+]

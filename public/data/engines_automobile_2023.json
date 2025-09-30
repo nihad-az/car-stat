@@ -1,0 +1,93 @@
+[
+  {
+    "id": 8790,
+    "automobile_id": 2023,
+    "name": "1.3L 5MT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1290 Cm3",
+        "Power:": "55 Kw @ 6600 Rpm\r\n75 Hp @ 6600 Rpm\r\n74 Bhp @ 6600 Rpm",
+        "Torque:": "72 Lb-Ft @ 3400 Rpm\r\n98 Nm @ 3400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105 Mph (169 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "820 X 80-120 // 740 X 65"
+      },
+      "Dimensions": {
+        "Length:": "150.8 In (3830 Mm)",
+        "Width:": "61.8 In (1570 Mm)",
+        "Height:": "46.1 In (1171 Mm)",
+        "Front/Rear Track:": "52.6/52.9 In (1,336/1,344 Mm)",
+        "Wheelbase:": "86.7 In (2202 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "9.8 Cuft (278 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1940 Lbs (880 Kg)"
+      }
+    }
+  },
+  {
+    "id": 8791,
+    "automobile_id": 2023,
+    "name": "1.5L 5MT (86 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "63 Kw @ 6000 Rpm\r\n86 Hp @ 6000 Rpm\r\n84 Bhp @ 6000 Rpm",
+        "Torque:": "87 Lb-Ft @ 3200 Rpm\r\n118 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145/80 R13 // 740-65"
+      },
+      "Dimensions": {
+        "Length:": "150.8 In (3830 Mm)",
+        "Width:": "61.8 In (1570 Mm)",
+        "Height:": "46.1 In (1171 Mm)",
+        "Front/Rear Track:": "52.6/52.9 In (1,336/1,344 Mm)",
+        "Wheelbase:": "86.7 In (2202 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "9.8 Cuft (278 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2015 Lbs (914 Kg)",
+        "Gross Weight Limit:": "2469 Lbs (1120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "193 G/Km"
+      }
+    }
+  }
+]

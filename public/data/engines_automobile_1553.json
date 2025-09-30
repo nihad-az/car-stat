@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7231,
+    "automobile_id": 1553,
+    "name": "2.3 (117 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2347 Cm3",
+        "Power:": "86 Kw @ 5500 Rpm\r\n117 Hp @ 5500 Rpm\r\n115 Bhp @ 5500 Rpm",
+        "Torque:": "135 Lb-Ft @ 3500 Rpm\r\n183 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.2 Mph (179 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Dimensions": {
+        "Length:": "198 In (5029 Mm)",
+        "Width:": "71 In (1803 Mm)",
+        "Height:": "60.2 In (1529 Mm)",
+        "Wheelbase:": "123 In (3124 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3157 Lbs (1432 Kg)"
+      }
+    }
+  },
+  {
+    "id": 7232,
+    "automobile_id": 1553,
+    "name": "2.3 (132 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2347 Cm3",
+        "Power:": "97 Kw @ 5250 Rpm\r\n132 Hp @ 5250 Rpm\r\n130 Bhp @ 5250 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      }
+    }
+  }
+]

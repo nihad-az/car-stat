@@ -1,0 +1,96 @@
+[
+  {
+    "id": 27055,
+    "automobile_id": 6710,
+    "name": "3.0L V6 5MT AWD (145 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2959 Cm3",
+        "Power:": "106.6 Kw @ 4600 Rpm\r\n145 Hp @ 4600 Rpm\r\n143 Bhp @ 4600 Rpm",
+        "Torque:": "177 Lb-Ft @ 3400 Rpm\r\n240 Nm @ 3400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "102.5 Mph (165 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215R15"
+      },
+      "Dimensions": {
+        "Length:": "176.8 In (4491 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "56.3/56.3 In (1,430/1,430 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3895.6 Lbs (1767 Kg)",
+        "Gross Weight Limit:": "5357.2 Lbs (2430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16.1 Mpg Us (14.6 L/100Km)",
+        "Co2 Emissions:": "347.5 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27056,
+    "automobile_id": 6710,
+    "name": "2.4L TD 5MT AWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V4",
+        "Displacement:": "2446 Cm3",
+        "Power:": "66 Kw @ 3500 Rpm\r\n90 Hp @ 3500 Rpm\r\n89 Bhp @ 3500 Rpm",
+        "Torque:": "159 Lb-Ft @ 2400 Rpm\r\n215 Nm @ 2400 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90.1 Mph (145 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215R15"
+      },
+      "Dimensions": {
+        "Length:": "176.8 In (4491 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "56.3/56.3 In (1,430/1,430 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3968.3 Lbs (1800 Kg)",
+        "Gross Weight Limit:": "5357.2 Lbs (2430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

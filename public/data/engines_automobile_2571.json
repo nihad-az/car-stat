@@ -1,0 +1,96 @@
+[
+  {
+    "id": 10956,
+    "automobile_id": 2571,
+    "name": "2.5 6AT (155 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2492 Cm3",
+        "Power:": "115 Kw @ 5800 Rpm\r\n155 Hp @ 5800 Rpm\r\n154 Bhp @ 5800 Rpm",
+        "Torque:": "174 Lb-Ft @ 4600 Rpm\r\n236 Nm @ 4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "61/60.8 In (1,549/1,544 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "16.8 Cuft (476 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3304.7 Lbs (1499 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "221 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10957,
+    "automobile_id": 2571,
+    "name": "2.0 D 6AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 2000 Rpm\r\n320 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "189.1 In (4803 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "61/60.8 In (1,549/1,544 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "16.8 Cuft (476 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31.3 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  }
+]

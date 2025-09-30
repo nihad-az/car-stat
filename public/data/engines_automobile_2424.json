@@ -1,0 +1,48 @@
+[
+  {
+    "id": 10501,
+    "automobile_id": 2424,
+    "name": "5.8",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5766 Cm3",
+        "Power:": "246 Kw @ 5400 Rpm\r\n335 Hp @ 5400 Rpm\r\n330 Bhp @ 5400 Rpm",
+        "Torque:": "370 Lb-Ft @ 4000 Rpm\r\n502 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "F60 X 15"
+      }
+    }
+  },
+  {
+    "id": 10502,
+    "automobile_id": 2424,
+    "name": "7.0",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7010 Cm3",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Tires Specs": {
+        "Tire Size:": "F60 X 15"
+      }
+    }
+  }
+]

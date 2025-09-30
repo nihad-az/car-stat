@@ -1,0 +1,597 @@
+[
+  {
+    "id": 24931,
+    "automobile_id": 6148,
+    "name": "1.4L TSI 6AT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "110.3 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n250 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3583 Lbs (1625 Kg)",
+        "Gross Weight Limit:": "4905 Lbs (2225 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "Infinity Mpg Us (0 L/100Km)",
+        "Highway:": "Infinity Mpg Us (0 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "164 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24932,
+    "automobile_id": 6148,
+    "name": "1.4L TSI 6MT FWD (125 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "91.9 Kw @ 5000-6000 Rpm\r\n125 Hp @ 5000-6000 Rpm\r\n123 Bhp @ 5000-6000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1400-4000 Rpm\r\n200 Nm @ 1400-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "12 Mph (19 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3366 Lbs (1527 Kg)",
+        "Gross Weight Limit:": "4634 Lbs (2102 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "140 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24933,
+    "automobile_id": 6148,
+    "name": "1.4L TSI ACT 6AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "110.3 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n250 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3419 Lbs (1551 Kg)",
+        "Gross Weight Limit:": "4687 Lbs (2126 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "141 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24934,
+    "automobile_id": 6148,
+    "name": "1.4L TSI ACT 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1390 Cm3",
+        "Power:": "110.3 Kw @ 5000-6000 Rpm\r\n150 Hp @ 5000-6000 Rpm\r\n148 Bhp @ 5000-6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3500 Rpm\r\n250 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)",
+        "Gross Weight Limit:": "4883 Lbs (2215 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions:": "153 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24935,
+    "automobile_id": 6148,
+    "name": "2.0L TSI 7AT AWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "132.4 Kw @ 3900-6000 Rpm\r\n180 Hp @ 3900-6000 Rpm\r\n178 Bhp @ 3900-6000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1400-3940 Rpm\r\n320 Nm @ 1400-3940 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3763 Lbs (1707 Kg)",
+        "Gross Weight Limit:": "5086 Lbs (2307 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24936,
+    "automobile_id": 6148,
+    "name": "2.0L TDI 6MT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "110.3 Kw @ 3500-4000 Rpm\r\n150 Hp @ 3500-4000 Rpm\r\n148 Bhp @ 3500-4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 1750-3000 Rpm\r\n340 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3779 Lbs (1714 Kg)",
+        "Gross Weight Limit:": "5101 Lbs (2314 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24937,
+    "automobile_id": 6148,
+    "name": "2.0L TDI 6MT FWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "85.3 Kw @ 2750-4500 Rpm\r\n116 Hp @ 2750-4500 Rpm\r\n114 Bhp @ 2750-4500 Rpm",
+        "Torque:": "236 Lb-Ft @ 1700-2500 Rpm\r\n320 Nm @ 1700-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3640 Lbs (1651 Kg)"
+      }
+    }
+  },
+  {
+    "id": 24938,
+    "automobile_id": 6148,
+    "name": "2.0L TDI 7AT AWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "110.3 Kw @ 3500-4000 Rpm\r\n150 Hp @ 3500-4000 Rpm\r\n148 Bhp @ 3500-4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 1750-3000 Rpm\r\n340 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3860 Lbs (1751 Kg)",
+        "Gross Weight Limit:": "5260 Lbs (2386 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "147 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24939,
+    "automobile_id": 6148,
+    "name": "2.0L TDI 7AT AWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "130.2 Kw @ 3500-4000 Rpm\r\n177 Hp @ 3500-4000 Rpm\r\n175 Bhp @ 3500-4000 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750-3000 Rpm\r\n380 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3763 Lbs (1707 Kg)"
+      }
+    }
+  },
+  {
+    "id": 24940,
+    "automobile_id": 6148,
+    "name": "2.0L TDI 7AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "139.7 Kw @ 3500-4000 Rpm\r\n190 Hp @ 3500-4000 Rpm\r\n187 Bhp @ 3500-4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-3250 Rpm\r\n400 Nm @ 1750-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3964 Lbs (1798 Kg)",
+        "Gross Weight Limit:": "5459 Lbs (2476 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24941,
+    "automobile_id": 6148,
+    "name": "2.0L TDI 7AT AWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "147.1 Kw @ 3600-4100 Rpm\r\n200 Hp @ 3600-4100 Rpm\r\n197 Bhp @ 3600-4100 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750-3500 Rpm\r\n400 Nm @ 1750-3500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3849 Lbs (1746 Kg)",
+        "Gross Weight Limit:": "5223 Lbs (2369 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "140 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Medium:": "38.6 Mpg Us (6.1 L/100Km)",
+        "High:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Extra High:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions (Combined):": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24942,
+    "automobile_id": 6148,
+    "name": "2.0L TDI 7AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "110.3 Kw @ 3500-4000 Rpm\r\n150 Hp @ 3500-4000 Rpm\r\n148 Bhp @ 3500-4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 1750-3000 Rpm\r\n340 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.9 In (4696 Mm)",
+        "Width:": "74.1 In (1882 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "62.4/62 In (1,585/1,575 Mm)",
+        "Wheelbase:": "109.9 In (2791 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "23 Cuft (651 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3779 Lbs (1714 Kg)",
+        "Gross Weight Limit:": "5115 Lbs (2320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "131 G/Km"
+      }
+    }
+  }
+]

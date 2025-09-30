@@ -1,0 +1,134 @@
+[
+  {
+    "id": 527,
+    "automobile_id": 171,
+    "name": "0.8 4MT (40 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "845 Cm3",
+        "Power:": "29.5 Kw @ 5000 Rpm\r\n40 Hp @ 5000 Rpm\r\n40 Bhp @ 5000 Rpm",
+        "Torque:": "48 Lb-Ft @ 3300 Rpm\r\n65 Nm @ 3300 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "88 Mph (142 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145-380"
+      },
+      "Dimensions": {
+        "Length:": "156.7 In (3980 Mm)",
+        "Width:": "58.7 In (1491 Mm)",
+        "Height:": "48.8 In (1240 Mm)",
+        "Front/Rear Track:": "49.2/48 In (1,250/1,219 Mm)",
+        "Wheelbase:": "85.8 In (2179 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1246 Lbs (565 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 528,
+    "automobile_id": 171,
+    "name": "0.9 4MT (50 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "904 Cm3",
+        "Power:": "36.8 Kw @ 5500 Rpm\r\n50 Hp @ 5500 Rpm\r\n49 Bhp @ 5500 Rpm",
+        "Torque:": "50 Lb-Ft @ 2000 Rpm\r\n68 Nm @ 2000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145-380"
+      },
+      "Dimensions": {
+        "Length:": "156.7 In (3980 Mm)",
+        "Width:": "58.7 In (1491 Mm)",
+        "Height:": "48.8 In (1240 Mm)",
+        "Front/Rear Track:": "49.2/48 In (1,250/1,219 Mm)",
+        "Wheelbase:": "85.8 In (2179 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1246 Lbs (565 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.4 Mpg Us (8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 529,
+    "automobile_id": 171,
+    "name": "1.0 5MT (68 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "998 Cm3",
+        "Power:": "50 Kw @ 6250 Rpm\r\n68 Hp @ 6250 Rpm\r\n67 Bhp @ 6250 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145-380"
+      },
+      "Dimensions": {
+        "Length:": "156.7 In (3980 Mm)",
+        "Width:": "58.7 In (1491 Mm)",
+        "Height:": "48.8 In (1240 Mm)",
+        "Front/Rear Track:": "49.2/48 In (1,250/1,219 Mm)",
+        "Wheelbase:": "85.8 In (2179 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1213 Lbs (550 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)"
+      }
+    }
+  }
+]

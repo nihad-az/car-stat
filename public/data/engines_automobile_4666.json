@@ -1,0 +1,96 @@
+[
+  {
+    "id": 18591,
+    "automobile_id": 4666,
+    "name": "1.8 GDI",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1834 Cm3",
+        "Power:": "88 Kw @ 5250 Rpm\r\n120 Hp @ 5250 Rpm\r\n118 Bhp @ 5250 Rpm",
+        "Torque:": "128 Lb-Ft @ 3500 Rpm\r\n174 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "104.4 Mph (168 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65Sr16"
+      },
+      "Dimensions": {
+        "Length:": "147.2 In (3739 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "56.7/56.7 In (1,440/1,440 Mm)",
+        "Wheelbase:": "89.8 In (2281 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2777.8 Lbs (1260 Kg)",
+        "Gross Weight Limit:": "3725.8 Lbs (1690 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "30.1 Mpg Us (7.8 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions:": "217 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18592,
+    "automobile_id": 4666,
+    "name": "2.0 GDI",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "95 Kw @ 5000 Rpm\r\n129 Hp @ 5000 Rpm\r\n127 Bhp @ 5000 Rpm",
+        "Torque:": "140 Lb-Ft @ 3500 Rpm\r\n190 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 R16S"
+      },
+      "Dimensions": {
+        "Length:": "147.2 In (3739 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "66.9 In (1699 Mm)",
+        "Front/Rear Track:": "56.7/56.7 In (1,440/1,440 Mm)",
+        "Wheelbase:": "89.8 In (2281 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2810.9 Lbs (1275 Kg)",
+        "Gross Weight Limit:": "3803 Lbs (1725 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.4 Mpg Us (12.1 L/100Km)",
+        "Highway:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "225 G/Km"
+      }
+    }
+  }
+]

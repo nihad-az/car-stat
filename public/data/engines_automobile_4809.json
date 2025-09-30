@@ -1,0 +1,86 @@
+[
+  {
+    "id": 18975,
+    "automobile_id": 4809,
+    "name": "24 kW FWD (109 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "80 Kw @ 2730-9800 Rpm\r\n109 Hp @ 2730-9800 Rpm\r\n107 Bhp @ 2730-9800 Rpm",
+        "Torque:": "187 Lb-Ft @ 0-2730 Rpm\r\n254 Nm @ 0-2730 Rpm",
+        "Fuel System:": "Laminated Lithium Ion Battery Pack",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "175 In (4445 Mm)",
+        "Width:": "69.7 In (1770 Mm)",
+        "Height:": "61 In (1549 Mm)",
+        "Front/Rear Track:": "60.4/60.4 In (1,534/1,534 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "11.65 Cuft (330 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3454.6 Lbs (1567 Kg)",
+        "Gross Weight Limit:": "4332.1 Lbs (1965 Kg)"
+      }
+    }
+  },
+  {
+    "id": 18976,
+    "automobile_id": 4809,
+    "name": "30 kWh FWD (109 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "80 Kw @ 2730-9800 Rpm\r\n109 Hp @ 2730-9800 Rpm\r\n107 Bhp @ 2730-9800 Rpm",
+        "Torque:": "187 Lb-Ft @ 0-2730 Rpm\r\n254 Nm @ 0-2730 Rpm",
+        "Fuel System:": "30 Kwh Laminated Lithium Ion Battery Pack",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "175 In (4445 Mm)",
+        "Width:": "69.7 In (1770 Mm)",
+        "Height:": "61 In (1549 Mm)",
+        "Front/Rear Track:": "60.4/60.4 In (1,534/1,534 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Cargo Volume:": "11.65 Cuft (330 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3508 Lbs (1591 Kg)",
+        "Gross Weight Limit:": "4332.1 Lbs (1965 Kg)"
+      }
+    }
+  }
+]

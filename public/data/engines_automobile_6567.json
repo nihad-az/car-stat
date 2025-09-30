@@ -1,0 +1,100 @@
+[
+  {
+    "id": 26478,
+    "automobile_id": 6567,
+    "name": "2.5L D-4D 5MT 2WD (144 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2498 Cm3",
+        "Power:": "106 Kw @ 3400 Rpm\r\n144 Hp @ 3400 Rpm\r\n142 Bhp @ 3400 Rpm",
+        "Torque:": "253 Lb-Ft @ 2800 Rpm\r\n343 Nm @ 2800 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80R16"
+      },
+      "Dimensions": {
+        "Length:": "207.1 In (5260 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "72.8 In (1849 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "121.5 In (3086 Mm)",
+        "Ground Clearance:": "10.6 In (269 Mm)",
+        "Aerodynamics (Cd):": "0.45"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3891 Lbs (1765 Kg)",
+        "Gross Weight Limit:": "6636 Lbs (3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "193 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26479,
+    "automobile_id": 6567,
+    "name": "2.5L D-4D 5MT 4WD (144 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2498 Cm3",
+        "Power:": "106 Kw @ 3400 Rpm\r\n144 Hp @ 3400 Rpm\r\n142 Bhp @ 3400 Rpm",
+        "Torque:": "253 Lb-Ft @ 2800 Rpm\r\n343 Nm @ 2800 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/80R16"
+      },
+      "Dimensions": {
+        "Length:": "207.1 In (5260 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "72.8 In (1849 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "121.5 In (3086 Mm)",
+        "Ground Clearance:": "10.6 In (269 Mm)",
+        "Aerodynamics (Cd):": "0.45"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4321 Lbs (1960 Kg)",
+        "Gross Weight Limit:": "6636 Lbs (3010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "194 G/Km"
+      }
+    }
+  }
+]

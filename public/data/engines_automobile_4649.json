@@ -1,0 +1,98 @@
+[
+  {
+    "id": 18536,
+    "automobile_id": 4649,
+    "name": "3.0 V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2972 Cm3",
+        "Power:": "125 Kw @ 5000 Rpm\r\n170 Hp @ 5000 Rpm\r\n168 Bhp @ 5000 Rpm",
+        "Torque:": "188 Lb-Ft @ 4500 Rpm\r\n255 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Automatic, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "181.5 In (4610 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "67.7 In (1720 Mm)",
+        "Front/Rear Track:": "55.9/56.7 In (1,420/1,440 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Cargo Volume:": "17.6 Cuft (498 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4056.5 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5533.6 Lbs (2510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.4 Mpg Us (17.6 L/100Km)",
+        "Highway:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Combined:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Co2 Emissions:": "310 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18537,
+    "automobile_id": 4649,
+    "name": "2.5 TD",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2477 Cm3",
+        "Power:": "85 Kw @ 4000 Rpm\r\n115 Hp @ 4000 Rpm\r\n114 Bhp @ 4000 Rpm",
+        "Torque:": "177 Lb-Ft @ 2000 Rpm\r\n240 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/75 R15"
+      },
+      "Dimensions": {
+        "Length:": "181.5 In (4610 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "67.7 In (1720 Mm)",
+        "Front/Rear Track:": "55.9/56.7 In (1,420/1,440 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Cargo Volume:": "17.6 Cuft (498 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4001.4 Lbs (1815 Kg)",
+        "Gross Weight Limit:": "5533.6 Lbs (2510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.1 Mpg Us (13 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Co2 Emissions:": "275 G/Km"
+      }
+    }
+  }
+]

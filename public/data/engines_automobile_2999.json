@@ -1,0 +1,44 @@
+[
+  {
+    "id": 12557,
+    "automobile_id": 2999,
+    "name": "5.6L V8 7AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "294.2 Kw @ - Rpm\r\n400 Hp @ - Rpm\r\n395 Bhp @ - Rpm",
+        "Torque:": "413 Lb-Ft @ - Rpm\r\n560 Nm @ - Rpm",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 12558,
+    "automobile_id": 2999,
+    "name": "5.6L V8 7AT RWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "294.2 Kw @ - Rpm\r\n400 Hp @ - Rpm\r\n395 Bhp @ - Rpm",
+        "Torque:": "413 Lb-Ft @ - Rpm\r\n560 Nm @ - Rpm",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  }
+]

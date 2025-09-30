@@ -1,0 +1,166 @@
+[
+  {
+    "id": 12575,
+    "automobile_id": 3004,
+    "name": "3.7L V6 7AT AWD (330 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "242.7 Kw @ 7000 Rpm\r\n330 Hp @ 7000 Rpm\r\n325 Bhp @ 7000 Rpm",
+        "Torque:": "270 Lb-Ft @ 5200 Rpm\r\n366 Nm @ 5200 Rpm",
+        "Fuel System:": "Sequential Multi-Port Fuel Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.6 In (1514 Mm)",
+        "Front/Rear Track:": "62/61.6 In (1,575/1,565 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4057 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5137 Lbs (2330 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12576,
+    "automobile_id": 3004,
+    "name": "3.7L V6 7AT FWD (330 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "242.7 Kw @ 7000 Rpm\r\n330 Hp @ 7000 Rpm\r\n325 Bhp @ 7000 Rpm",
+        "Torque:": "270 Lb-Ft @ 5200 Rpm\r\n366 Nm @ 5200 Rpm",
+        "Fuel System:": "Sequential Multi-Port Fuel Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3876 Lbs (1758 Kg)",
+        "Gross Weight Limit:": "5006 Lbs (2271 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12577,
+    "automobile_id": 3004,
+    "name": "5.6L V8 7AT AWD (420 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "308.9 Kw @ 6000 Rpm\r\n420 Hp @ 6000 Rpm\r\n414 Bhp @ 6000 Rpm",
+        "Torque:": "417 Lb-Ft @ 4400 Rpm\r\n565 Nm @ 4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.6 In (1514 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4043 Lbs (1834 Kg)",
+        "Gross Weight Limit:": "5143 Lbs (2333 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12578,
+    "automobile_id": 3004,
+    "name": "5.6L V8 7AT AWD (420 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "308.9 Kw @ 6000 Rpm\r\n420 Hp @ 6000 Rpm\r\n414 Bhp @ 6000 Rpm",
+        "Torque:": "417 Lb-Ft @ 4400 Rpm\r\n565 Nm @ 4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "59.6 In (1514 Mm)",
+        "Front/Rear Track:": "62/61.8 In (1,575/1,570 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4239 Lbs (1923 Kg)",
+        "Gross Weight Limit:": "5279 Lbs (2395 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  }
+]

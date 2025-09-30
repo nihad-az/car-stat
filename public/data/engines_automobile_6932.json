@@ -1,0 +1,104 @@
+[
+  {
+    "id": 28050,
+    "automobile_id": 6932,
+    "name": "1.0L 5AT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "55 Kw @ 6200 Rpm\r\n75 Hp @ 6200 Rpm\r\n74 Bhp @ 6200 Rpm",
+        "Torque:": "70 Lb-Ft @ 3000-4300 Rpm\r\n95 Nm @ 3000-4300 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/50R16"
+      },
+      "Dimensions": {
+        "Length:": "139.4 In (3541 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "58.6 In (1488 Mm)",
+        "Front/Rear Track:": "56.2/56.1 In (1,427/1,425 Mm)",
+        "Wheelbase:": "95.3 In (2421 Mm)",
+        "Ground Clearance:": "6.66 In (169 Mm)",
+        "Cargo Volume:": "8.9 Cuft (252 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2187 Lbs (992 Kg)",
+        "Gross Weight Limit:": "2888 Lbs (1310 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Co2 Emissions:": "106 G/Km"
+      }
+    }
+  },
+  {
+    "id": 28051,
+    "automobile_id": 6932,
+    "name": "1.0L 5MT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "55 Kw @ 6200 Rpm\r\n75 Hp @ 6200 Rpm\r\n74 Bhp @ 6200 Rpm",
+        "Torque:": "70 Lb-Ft @ 3000-4300 Rpm\r\n95 Nm @ 3000-4300 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "104 Mph (167 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/50R16"
+      },
+      "Dimensions": {
+        "Length:": "139.4 In (3541 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "58.6 In (1488 Mm)",
+        "Front/Rear Track:": "56.2/56.1 In (1,427/1,425 Mm)",
+        "Wheelbase:": "95.3 In (2421 Mm)",
+        "Ground Clearance:": "6.66 In (169 Mm)",
+        "Cargo Volume:": "8.9 Cuft (252 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2048 Lbs (929 Kg)",
+        "Gross Weight Limit:": "2844 Lbs (1290 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6274,
+    "automobile_id": 1367,
+    "name": "3.9L 3MT RWD (147 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3855 Cm3",
+        "Power:": "108.1 Kw @ 4200 Rpm\r\n147 Hp @ 4200 Rpm\r\n145 Bhp @ 4200 Rpm",
+        "Torque:": "215 Lb-Ft @ 2400 Rpm\r\n291 Nm @ 2400 Rpm",
+        "Fuel System:": "Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20 Gallons (75.7 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "97 Mph (156 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed  Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drum",
+        "Rear:": "Drum"
+      },
+      "Dimensions": {
+        "Length:": "209.1 In (5311 Mm)",
+        "Width:": "77.7 In (1974 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "58.8/58.8 In (1,494/1,494 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Aerodynamics (Cd):": "0.55",
+        "Turning Circle (Curb To Curb):": "37.4 Ft (11.4 M)",
+        "Turning Circle (Wall To Wall):": "41.3 Ft (12.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3613 Lbs (1639 Kg)"
+      }
+    }
+  },
+  {
+    "id": 6275,
+    "automobile_id": 1367,
+    "name": "5.7L V8 3MT RWD (284 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5697 Cm3",
+        "Power:": "208.8 Kw @ 4800 Rpm\r\n284 Hp @ 4800 Rpm\r\n280 Bhp @ 4800 Rpm",
+        "Torque:": "355 Lb-Ft @ 3200 Rpm\r\n481 Nm @ 3200 Rpm",
+        "Fuel System:": "Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20 Gallons (75.7 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed  Manual"
+      },
+      "Dimensions": {
+        "Length:": "209.1 In (5311 Mm)",
+        "Width:": "77.7 In (1974 Mm)",
+        "Height:": "59.1 In (1501 Mm)",
+        "Front/Rear Track:": "58.8/58.8 In (1,494/1,494 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3613 Lbs (1639 Kg)"
+      }
+    }
+  }
+]

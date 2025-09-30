@@ -1,0 +1,102 @@
+[
+  {
+    "id": 15882,
+    "automobile_id": 4005,
+    "name": "400 V6 9AT RWD (367 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "270 Kw @ 5500-6000 Rpm\r\n367.1 Hp @ 5500-6000 Rpm\r\n362 Bhp @ 5500-6000 Rpm",
+        "Torque:": "369 Lb-Ft @ 2000-4200 Rpm\r\n500 Nm @ 2000-4200 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "9-Speed Automatic (9G-Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 R 18"
+      },
+      "Dimensions": {
+        "Length:": "182.3 In (4630 Mm)",
+        "Width:": "73.9 In (1877 Mm)",
+        "Height:": "51.8 In (1316 Mm)",
+        "Front/Rear Track:": "63/63.1 In (1,600/1,603 Mm)",
+        "Wheelbase:": "101.8 In (2586 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "12.2 Cuft (345 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3825 Lbs (1735 Kg)",
+        "Gross Weight Limit:": "4663 Lbs (2115 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "175 G/Km"
+      }
+    }
+  },
+  {
+    "id": 15883,
+    "automobile_id": 4005,
+    "name": "500 V8 9AT RWD (455 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4663 Cm3",
+        "Power:": "335 Kw @ 5250 Rpm\r\n455.5 Hp @ 5250 Rpm\r\n449 Bhp @ 5250 Rpm",
+        "Torque:": "516 Lb-Ft @ 1800-3500 Rpm\r\n700 Nm @ 1800-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "9-Speed Automatic (9G-Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 R 18"
+      },
+      "Dimensions": {
+        "Length:": "182.3 In (4630 Mm)",
+        "Width:": "73.9 In (1877 Mm)",
+        "Height:": "51.8 In (1316 Mm)",
+        "Front/Rear Track:": "63/63.1 In (1,600/1,603 Mm)",
+        "Wheelbase:": "101.8 In (2586 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "12.2 Cuft (345 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3957 Lbs (1795 Kg)",
+        "Gross Weight Limit:": "4795 Lbs (2175 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 7292,
+    "automobile_id": 1578,
+    "name": "1.2L TCe 130 AWD ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Power:": "69.1 Kw @ - Rpm\r\n94 Hp @ - Rpm\r\n93 Bhp @ - Rpm",
+        "Electrical Motor Power:": "36 Kw (49 Hp)",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "0.8 Kwh"
+      }
+    }
+  },
+  {
+    "id": 7293,
+    "automobile_id": 1578,
+    "name": "1.2L TCe 130 FWD ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Power:": "69.1 Kw @ - Rpm\r\n94 Hp @ - Rpm\r\n93 Bhp @ - Rpm",
+        "Electrical Motor Power:": "36 Kw (49 Hp)",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "0.8 Kwh"
+      }
+    }
+  },
+  {
+    "id": 7294,
+    "automobile_id": 1578,
+    "name": "1.6L Hybrid 140",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "69.1 Kw @ - Rpm\r\n94 Hp @ - Rpm\r\n93 Bhp @ - Rpm",
+        "Electrical Motor Power:": "36 Kw (49 Hp)",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.2 Kwh"
+      }
+    }
+  },
+  {
+    "id": 7295,
+    "automobile_id": 1578,
+    "name": "ECO-G 100",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Electrical Motor Power:": "36 Kw (49 Hp)",
+        "Fuel:": "Liquefied Petroleum Gas (Lpg)",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)",
+        "Fuel Capacity (Cng):": "13.2 Gallons (50.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      }
+    }
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "id": 12790,
+    "automobile_id": 3073,
+    "name": "2.0L 8AT (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "220.6 Kw @ 5500 Rpm\r\n300 Hp @ 5500 Rpm\r\n296 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1500-4500 Rpm\r\n400 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/35/Zr20 // 305/30/Zr20"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.9/64.9 In (1,598/1,648 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3516 Lbs (1595 Kg)",
+        "Gross Weight Limit:": "4244 Lbs (1925 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "184 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Co2 Emissions (Low):": "302 G/Km",
+        "Medium:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions (Medium):": "218 G/Km",
+        "High:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions (High):": "190 G/Km",
+        "Extra High:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions (Extra High):": "201 G/Km",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions (Combined):": "215 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12791,
+    "automobile_id": 3073,
+    "name": "3.0L V6 8AT (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "279.5 Kw @ 6250 Rpm\r\n380 Hp @ 6250 Rpm\r\n375 Bhp @ 6250 Rpm",
+        "Torque:": "339 Lb-Ft @ 4500-5000 Rpm\r\n460 Nm @ 4500-5000 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "171 Mph (275 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/35/Zr20 // 305/30/Zr20"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.9/64.9 In (1,598/1,648 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3631 Lbs (1647 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.6 Mpg Us (12 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Co2 Emissions:": "203 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12792,
+    "automobile_id": 3073,
+    "name": "3.0L V6 8AT AWD (380 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "220.6 Kw @ 5500 Rpm\r\n300 Hp @ 5500 Rpm\r\n296 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1500-4500 Rpm\r\n400 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.6 Gallons (62.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "171 Mph (275 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/35/Zr20 // 305/30/Zr20"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.9/64.9 In (1,598/1,648 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3805 Lbs (1726 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions:": "211 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Co2 Emissions (Low):": "302 G/Km",
+        "Medium:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions (Medium):": "218 G/Km",
+        "High:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions (High):": "190 G/Km",
+        "Extra High:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions (Extra High):": "201 G/Km",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions (Combined):": "215 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12793,
+    "automobile_id": 3073,
+    "name": "5.0L V8 8AT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "331 Kw @ 6000 Rpm\r\n450 Hp @ 6000 Rpm\r\n444 Bhp @ 6000 Rpm",
+        "Torque:": "428 Lb-Ft @ 2500-5000 Rpm\r\n580 Nm @ 2500-5000 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "177 Mph (285 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/35/Zr20 // 305/30/Zr20"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.9/64.9 In (1,598/1,648 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3825 Lbs (1735 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.5 Mpg Us (15.2 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Co2 Emissions:": "244 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "13.8 Mpg Us (17 L/100Km)",
+        "Co2 Emissions (Low):": "389 G/Km",
+        "Medium:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Co2 Emissions (Medium):": "238 G/Km",
+        "High:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions (High):": "205 G/Km",
+        "Extra High:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Co2 Emissions (Extra High):": "215 G/Km",
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Co2 Emissions (Combined):": "239 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12794,
+    "automobile_id": 3073,
+    "name": "5.0L V8 8AT AWD (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "331 Kw @ 6000 Rpm\r\n450 Hp @ 6000 Rpm\r\n444 Bhp @ 6000 Rpm",
+        "Torque:": "428 Lb-Ft @ 2500-5000 Rpm\r\n580 Nm @ 2500-5000 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "177 Mph (285 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/35/Zr20 // 305/30/Zr20"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.9/64.9 In (1,598/1,648 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4008 Lbs (1818 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.2 Mpg Us (15.5 L/100Km)",
+        "Highway:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "252 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "13.4 Mpg Us (17.6 L/100Km)",
+        "Co2 Emissions (Low):": "397 G/Km",
+        "Medium:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Co2 Emissions (Medium):": "247 G/Km",
+        "High:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Co2 Emissions (High):": "207 G/Km",
+        "Extra High:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions (Extra High):": "222 G/Km",
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Co2 Emissions (Combined):": "246 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12795,
+    "automobile_id": 3073,
+    "name": "5.0L V8 8AT AWD (575 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "422.9 Kw @ 6500 Rpm\r\n575 Hp @ 6500 Rpm\r\n567 Bhp @ 6500 Rpm",
+        "Torque:": "516 Lb-Ft @ 3500-5000 Rpm\r\n700 Nm @ 3500-5000 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "186 Mph (299 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/35/Zr20 // 305/30/Zr20"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.9/64.9 In (1,598/1,648 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4008 Lbs (1818 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "252 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Low:": "13.4 Mpg Us (17.6 L/100Km)",
+        "Co2 Emissions (Low):": "398 G/Km",
+        "Medium:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Co2 Emissions (Medium):": "247 G/Km",
+        "High:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions (High):": "205 G/Km",
+        "Extra High:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Co2 Emissions (Extra High):": "217 G/Km",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions (Combined):": "243 G/Km"
+      }
+    }
+  }
+]

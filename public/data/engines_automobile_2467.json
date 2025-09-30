@@ -1,0 +1,89 @@
+[
+  {
+    "id": 10600,
+    "automobile_id": 2467,
+    "name": "1.3L 4MT (71 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1295 Cm3",
+        "Power:": "52.2 Kw @ 5000 Rpm\r\n71 Hp @ 5000 Rpm\r\n70 Bhp @ 5000 Rpm",
+        "Torque:": "77 Lb-Ft @ 3200 Rpm\r\n104 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "20.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.60 X 13"
+      },
+      "Dimensions": {
+        "Length:": "166.7 In (4234 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "51.1/50.2 In (1,298/1,275 Mm)",
+        "Wheelbase:": "98.7 In (2507 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2141 Lbs (971 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "28.6 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions:": "195 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10601,
+    "automobile_id": 2467,
+    "name": "1.5L 4MT (81 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1481 Cm3",
+        "Power:": "59.7 Kw @ 5400 Rpm\r\n81 Hp @ 5400 Rpm\r\n80 Bhp @ 5400 Rpm",
+        "Torque:": "89 Lb-Ft @ 3200 Rpm\r\n121 Nm @ 3200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "166.4 In (4227 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "51.1/50.2 In (1,298/1,275 Mm)",
+        "Wheelbase:": "98.7 In (2507 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2141 Lbs (971 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "28.6 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions:": "195 G/Km"
+      }
+    }
+  }
+]

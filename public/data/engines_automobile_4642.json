@@ -1,0 +1,81 @@
+[
+  {
+    "id": 18512,
+    "automobile_id": 4642,
+    "name": "3.7L V6 5AT (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3701 Cm3",
+        "Power:": "154.5 Kw @ 5200 Rpm\r\n210 Hp @ 5200 Rpm\r\n207 Bhp @ 5200 Rpm",
+        "Torque:": "235 Lb-Ft @ 3600 Rpm\r\n319 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/65R16"
+      },
+      "Dimensions": {
+        "Length:": "219.9 In (5585 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "68.6 In (1742 Mm)",
+        "Front/Rear Track:": "62.8/62.9 In (1,595/1,598 Mm)",
+        "Wheelbase:": "131.3 In (3335 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "6002 Lbs (2722 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "17.9 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18513,
+    "automobile_id": 4642,
+    "name": "4.7L V8 5AT (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4701 Cm3",
+        "Power:": "171 Kw @ 4600 Rpm\r\n230 Hp @ 4600 Rpm\r\n229 Bhp @ 4600 Rpm",
+        "Torque:": "290 Lb-Ft @ 3600 Rpm\r\n393 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "219.9 In (5585 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "68.6 In (1742 Mm)",
+        "Front/Rear Track:": "62.8/62.9 In (1,595/1,598 Mm)",
+        "Wheelbase:": "131.3 In (3335 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

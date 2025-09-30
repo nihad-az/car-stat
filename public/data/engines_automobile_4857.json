@@ -1,0 +1,46 @@
+[
+  {
+    "id": 19123,
+    "automobile_id": 4857,
+    "name": "2.0L CVT AWD (137 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "100.7 Kw @ - Rpm\r\n137 Hp @ - Rpm\r\n135 Bhp @ - Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt (Xtronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 19124,
+    "automobile_id": 4857,
+    "name": "2.0L CVT FWD (137 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "100.7 Kw @ - Rpm\r\n137 Hp @ - Rpm\r\n135 Bhp @ - Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt (Xtronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  }
+]

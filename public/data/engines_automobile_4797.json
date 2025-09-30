@@ -1,0 +1,98 @@
+[
+  {
+    "id": 18936,
+    "automobile_id": 4797,
+    "name": "2.5L CVT FWD (182 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "134 Kw @ 6000 Rpm\r\n182 Hp @ 6000 Rpm\r\n180 Bhp @ 6000 Rpm",
+        "Torque:": "180 Lb-Ft @ 4000 Rpm\r\n244 Nm @ 4000 Rpm",
+        "Fuel System:": "Sequential Multi-Port Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "191.5 In (4864 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "62.4/62.4 In (1,585/1,585 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Cargo Volume:": "15.4 Cuft (436 L)",
+        "Aerodynamics (Cd):": "0.299"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3108 Lbs (1410 Kg)",
+        "Gross Weight Limit:": "4211 Lbs (1910 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "38 Mpg Us (6.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18937,
+    "automobile_id": 4797,
+    "name": "3.5L V6 CVT FWD (270 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "199 Kw @ 6000 Rpm\r\n271 Hp @ 6000 Rpm\r\n267 Bhp @ 6000 Rpm",
+        "Torque:": "185 Lb-Ft @ 4400 Rpm\r\n251 Nm @ 4400 Rpm",
+        "Fuel System:": "Sequential Multi-Port Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60R16"
+      },
+      "Dimensions": {
+        "Length:": "191.5 In (4864 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "58.1 In (1476 Mm)",
+        "Front/Rear Track:": "62/62 In (1,575/1,575 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Cargo Volume:": "15.4 Cuft (436 L)",
+        "Aerodynamics (Cd):": "0.299"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3295 Lbs (1495 Kg)",
+        "Gross Weight Limit:": "4381 Lbs (1987 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  }
+]

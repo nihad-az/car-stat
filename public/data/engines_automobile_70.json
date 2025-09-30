@@ -1,0 +1,99 @@
+[
+  {
+    "id": 132,
+    "automobile_id": 70,
+    "name": "2.0L Turbo Q4 8AT AWD (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "205.9 Kw @ 5250 Rpm\r\n280 Hp @ 5250 Rpm\r\n276 Bhp @ 5250 Rpm",
+        "Torque:": "295 Lb-Ft @ 2250 Rpm\r\n400 Nm @ 2250 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Zf"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/55 R19 101Y"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "74.9 In (1902 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Front/Rear Track:": "64.1/65.9 In (1,628/1,674 Mm)",
+        "Wheelbase:": "110.9 In (2817 Mm)",
+        "Cargo Volume:": "18.5 Cuft (524 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle:": "39.4 Ft (12.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3704 Lbs (1680 Kg)",
+        "Gross Weight Limit:": "5181 Lbs (2350 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions (Combined):": "191 G/Km"
+      }
+    }
+  },
+  {
+    "id": 133,
+    "automobile_id": 70,
+    "name": "2.2L MultiJet Q4 8AT AWD (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "154.5 Kw @ 3500 Rpm\r\n210 Hp @ 3500 Rpm\r\n207 Bhp @ 3500 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750 Rpm\r\n470 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Zf"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/55 R19 101Y"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "74.9 In (1902 Mm)",
+        "Height:": "66.7 In (1694 Mm)",
+        "Front/Rear Track:": "64.1/65.9 In (1,628/1,674 Mm)",
+        "Wheelbase:": "110.9 In (2817 Mm)",
+        "Cargo Volume:": "18.5 Cuft (524 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "39.4 Ft (12.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3847 Lbs (1745 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions (Combined):": "158 G/Km"
+      }
+    }
+  }
+]

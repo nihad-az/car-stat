@@ -1,0 +1,85 @@
+[
+  {
+    "id": 21870,
+    "automobile_id": 5357,
+    "name": "3.4L V6 4AT (148 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3353 Cm3",
+        "Power:": "109 Kw @ 4600 Rpm\r\n148 Hp @ 4600 Rpm\r\n146 Bhp @ 4600 Rpm",
+        "Torque:": "190 Lb-Ft @ 3150 Rpm\r\n257 Nm @ 3150 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124.3 Mph (200 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60R16"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "52 In (1321 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3368.7 Lbs (1528 Kg)",
+        "Gross Weight Limit:": "4409.2 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions:": "214.2 G/Km"
+      }
+    }
+  },
+  {
+    "id": 21871,
+    "automobile_id": 5357,
+    "name": "3.8L V6 5MT (196 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3791 Cm3",
+        "Power:": "144 Kw @ 5100 Rpm\r\n196 Hp @ 5100 Rpm\r\n193 Bhp @ 5100 Rpm",
+        "Torque:": "223 Lb-Ft @ 4200 Rpm\r\n302 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60R16"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "51.9 In (1318 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3664.1 Lbs (1662 Kg)",
+        "Gross Weight Limit:": "4279.2 Lbs (1941 Kg)"
+      }
+    }
+  }
+]

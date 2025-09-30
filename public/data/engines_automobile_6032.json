@@ -1,0 +1,95 @@
+[
+  {
+    "id": 24150,
+    "automobile_id": 6032,
+    "name": "2.4L VVTi 4AT (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2362 Cm3",
+        "Power:": "120 Kw @ 6000 Rpm\r\n163 Hp @ 6000 Rpm\r\n161 Bhp @ 6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 4000 Rpm\r\n220 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45Z R17"
+      },
+      "Dimensions": {
+        "Length:": "174 In (4420 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "59.3/59.3 In (1,506/1,506 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2987 Lbs (1355 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 24151,
+    "automobile_id": 6032,
+    "name": "2.4L VVTi 5MT (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2362 Cm3",
+        "Power:": "120 Kw @ 6000 Rpm\r\n163 Hp @ 6000 Rpm\r\n161 Bhp @ 6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 4000 Rpm\r\n220 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45Z R17"
+      },
+      "Dimensions": {
+        "Length:": "174 In (4420 Mm)",
+        "Width:": "66.9 In (1699 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "59.3/59.3 In (1,506/1,506 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2932 Lbs (1330 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  }
+]

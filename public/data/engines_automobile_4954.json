@@ -1,0 +1,92 @@
+[
+  {
+    "id": 19449,
+    "automobile_id": 4954,
+    "name": "4.2L 4AT AWD (270 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "4195 Cm3",
+        "Power:": "201 Kw @ 6000 Rpm\r\n275 Hp @ 6000 Rpm\r\n270 Bhp @ 6000 Rpm",
+        "Torque:": "275 Lb-Ft @ 3600 Rpm\r\n373 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "74.5 In (1892 Mm)",
+        "Front/Rear Track:": "2.5/2.4 In (64/61 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "39.8 Cuft (1127 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4628 Lbs (2099 Kg)",
+        "Gross Weight Limit:": "5750 Lbs (2608 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 19450,
+    "automobile_id": 4954,
+    "name": "4.2L 4AT RWD (270 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "4195 Cm3",
+        "Power:": "201 Kw @ 6000 Rpm\r\n275 Hp @ 6000 Rpm\r\n270 Bhp @ 6000 Rpm",
+        "Torque:": "275 Lb-Ft @ 3600 Rpm\r\n373 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "191.8 In (4872 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "74.5 In (1892 Mm)",
+        "Front/Rear Track:": "2.5/2.4 In (64/61 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "39.8 Cuft (1127 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4442 Lbs (2015 Kg)",
+        "Gross Weight Limit:": "5550 Lbs (2517 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  }
+]

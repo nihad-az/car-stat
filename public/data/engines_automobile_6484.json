@@ -1,0 +1,91 @@
+[
+  {
+    "id": 26199,
+    "automobile_id": 6484,
+    "name": "3.5L V6 8AT FWD (301 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "221.4 Kw @ 6600 Rpm\r\n301 Hp @ 6600 Rpm\r\n297 Bhp @ 6600 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40R19"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "63.0X63.6 In (1600 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "16.09 Cuft (456 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26200,
+    "automobile_id": 6484,
+    "name": "2.5L e-CVT FWD (118 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2498 Cm3",
+        "Power:": "86.8 Kw @ 5700 Rpm\r\n118 Hp @ 5700 Rpm\r\n116 Bhp @ 5700 Rpm",
+        "Torque:": "149 Lb-Ft @ 3600-5200 Rpm\r\n202 Nm @ 3600-5200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Ecvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40R19"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "63.0X63.6 In (1600 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "16.09 Cuft (456 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3638 Lbs (1650 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "43 Mpg Us (5.5 L/100Km)",
+        "Highway:": "44 Mpg Us (5.3 L/100Km)",
+        "Combined:": "44 Mpg Us (5.3 L/100Km)"
+      }
+    }
+  }
+]

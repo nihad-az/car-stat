@@ -1,0 +1,100 @@
+[
+  {
+    "id": 20999,
+    "automobile_id": 5197,
+    "name": "1.6L THP 6MT FWD (205 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "150.8 Kw @ 6000 Rpm\r\n205 Hp @ 6000 Rpm\r\n202 Bhp @ 6000 Rpm",
+        "Torque:": "210 Lb-Ft @ 1750 Rpm\r\n285 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R18 W"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "71 In (1803 Mm)",
+        "Height:": "57.4 In (1458 Mm)",
+        "Front/Rear Track:": "61.1/60.8 In (1,552/1,544 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "19.6 Cuft (555 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3064 Lbs (1390 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "134 G/Km"
+      }
+    }
+  },
+  {
+    "id": 21000,
+    "automobile_id": 5197,
+    "name": "2.0L BlueHDi 6AT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "132.4 Kw @ 3750 Rpm\r\n180 Hp @ 3750 Rpm\r\n178 Bhp @ 3750 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R18 W"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "71 In (1803 Mm)",
+        "Height:": "57.4 In (1458 Mm)",
+        "Front/Rear Track:": "61.1/60.8 In (1,552/1,544 Mm)",
+        "Wheelbase:": "107.5 In (2731 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "19.6 Cuft (555 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3307 Lbs (1500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "49 Mpg Us (4.8 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Co2 Emissions:": "107 G/Km"
+      }
+    }
+  }
+]

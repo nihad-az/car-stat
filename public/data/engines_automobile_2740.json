@@ -1,0 +1,100 @@
+[
+  {
+    "id": 11550,
+    "automobile_id": 2740,
+    "name": "2.0L 4AT AWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "110 Kw @ 6500 Rpm\r\n150 Hp @ 6500 Rpm\r\n148 Bhp @ 6500 Rpm",
+        "Torque:": "142 Lb-Ft @ 4000 Rpm\r\n192 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "104 Mph (167 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70R15"
+      },
+      "Dimensions": {
+        "Length:": "179.5 In (4559 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "67.3 In (1709 Mm)",
+        "Front/Rear Track:": "60.6/61.4 In (1,539/1,560 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "18.6 Cuft (527 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3020 Lbs (1370 Kg)",
+        "Gross Weight Limit:": "4321 Lbs (1960 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "221 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11551,
+    "automobile_id": 2740,
+    "name": "2.0L 5MT AWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "110 Kw @ 6500 Rpm\r\n150 Hp @ 6500 Rpm\r\n148 Bhp @ 6500 Rpm",
+        "Torque:": "142 Lb-Ft @ 4000 Rpm\r\n192 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70R15"
+      },
+      "Dimensions": {
+        "Length:": "179.5 In (4559 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "67.3 In (1709 Mm)",
+        "Front/Rear Track:": "60.6/61.4 In (1,539/1,560 Mm)",
+        "Wheelbase:": "103.5 In (2629 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "18.6 Cuft (527 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2998.3 Lbs (1360 Kg)",
+        "Gross Weight Limit:": "4254.9 Lbs (1930 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Co2 Emissions:": "216 G/Km"
+      }
+    }
+  }
+]

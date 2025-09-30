@@ -1,0 +1,159 @@
+[
+  {
+    "id": 22532,
+    "automobile_id": 5714,
+    "name": "5.7L V8 HEMI 6AT 4x2 (383 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5654 Cm3",
+        "Power:": "285.6 Kw @ 5600 Rpm\r\n388 Hp @ 5600 Rpm\r\n383 Bhp @ 5600 Rpm",
+        "Torque:": "400 Lb-Ft @ 4000 Rpm\r\n542 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "30.9 Gallons (117.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/70 R18 118T"
+      },
+      "Dimensions": {
+        "Length:": "230.4 In (5852 Mm)",
+        "Width:": "103.5 In (2629 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "68.6/75.8 In (1,742/1,925 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5970 Lbs (2708 Kg)",
+        "Gross Weight Limit:": "10100 Lbs (4581 Kg)"
+      }
+    }
+  },
+  {
+    "id": 22533,
+    "automobile_id": 5714,
+    "name": "5.7L V8 HEMI 6AT 4x4 (383 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5654 Cm3",
+        "Power:": "285.6 Kw @ 5600 Rpm\r\n388 Hp @ 5600 Rpm\r\n383 Bhp @ 5600 Rpm",
+        "Torque:": "400 Lb-Ft @ 4000 Rpm\r\n542 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "30.9 Gallons (117.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "230.4 In (5852 Mm)",
+        "Width:": "103.5 In (2629 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "68.6/75.8 In (1,742/1,925 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6170 Lbs (2799 Kg)",
+        "Gross Weight Limit:": "10300 Lbs (4672 Kg)"
+      }
+    }
+  },
+  {
+    "id": 22534,
+    "automobile_id": 5714,
+    "name": "6.7L Cummins 6AT 4x2 (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "6686 Cm3",
+        "Power:": "275.9 Kw @ - Rpm\r\n375 Hp @ - Rpm\r\n370 Bhp @ - Rpm",
+        "Torque:": "800 Lb-Ft @ - Rpm\r\n1085 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "30.9 Gallons (117.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/70 R18 118T"
+      },
+      "Dimensions": {
+        "Length:": "230.4 In (5852 Mm)",
+        "Width:": "103.5 In (2629 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "68.6/75.8 In (1,742/1,925 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6890 Lbs (3125 Kg)",
+        "Gross Weight Limit:": "11100 Lbs (5035 Kg)"
+      }
+    }
+  },
+  {
+    "id": 22535,
+    "automobile_id": 5714,
+    "name": "6.7L Cummins 6AT 4x4 (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "6686 Cm3",
+        "Power:": "275.9 Kw @ - Rpm\r\n375 Hp @ - Rpm\r\n370 Bhp @ - Rpm",
+        "Torque:": "800 Lb-Ft @ - Rpm\r\n1085 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "30.9 Gallons (117.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/70 R18 118T"
+      },
+      "Dimensions": {
+        "Length:": "230.4 In (5852 Mm)",
+        "Width:": "103.5 In (2629 Mm)",
+        "Height:": "73.6 In (1869 Mm)",
+        "Front/Rear Track:": "68.6/75.8 In (1,742/1,925 Mm)",
+        "Wheelbase:": "140.5 In (3569 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "7140 Lbs (3239 Kg)",
+        "Gross Weight Limit:": "11500 Lbs (5216 Kg)"
+      }
+    }
+  }
+]

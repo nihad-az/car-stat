@@ -1,0 +1,105 @@
+[
+  {
+    "id": 25571,
+    "automobile_id": 6284,
+    "name": "2.0L 6AT RWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "147.1 Kw @ 7000 Rpm\r\n200 Hp @ 7000 Rpm\r\n197 Bhp @ 7000 Rpm",
+        "Torque:": "151 Lb-Ft @ 6400-6600 Rpm\r\n205 Nm @ 6400-6600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45 R17 87W"
+      },
+      "Dimensions": {
+        "Length:": "166.7 In (4234 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "50.6 In (1285 Mm)",
+        "Front/Rear Track:": "59.8/60.6 In (1,519/1,539 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "6.9 Cuft (195 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle (Curb To Curb):": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2835 Lbs (1286 Kg)",
+        "Gross Weight Limit:": "3748 Lbs (1700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "33 Mpg Us (7.1 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 25572,
+    "automobile_id": 6284,
+    "name": "2.0L 6MT RWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "147.1 Kw @ 7000 Rpm\r\n200 Hp @ 7000 Rpm\r\n197 Bhp @ 7000 Rpm",
+        "Torque:": "156 Lb-Ft @ 6400-6800 Rpm\r\n212 Nm @ 6400-6800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45 R17 87W"
+      },
+      "Dimensions": {
+        "Length:": "166.7 In (4234 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "50.6 In (1285 Mm)",
+        "Front/Rear Track:": "59.8/60.6 In (1,519/1,539 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "6.9 Cuft (195 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle (Curb To Curb):": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2784 Lbs (1263 Kg)",
+        "Gross Weight Limit:": "3682 Lbs (1670 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "180 G/Km"
+      }
+    }
+  }
+]

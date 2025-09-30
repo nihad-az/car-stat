@@ -1,0 +1,90 @@
+[
+  {
+    "id": 21845,
+    "automobile_id": 5344,
+    "name": "1.8L VVTL-i 4AT AWD (125 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1795 Cm3",
+        "Power:": "92 Kw @ 6000 Rpm\r\n125 Hp @ 6000 Rpm\r\n123 Bhp @ 6000 Rpm",
+        "Torque:": "118 Lb-Ft @ 4200 Rpm\r\n160 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171.9 In (4366 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "62.2 In (1580 Mm)",
+        "Front/Rear Track:": "59.6/58.9 In (1,514/1,496 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "19.3 Cuft (547 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2976 Lbs (1350 Kg)"
+      }
+    }
+  },
+  {
+    "id": 21846,
+    "automobile_id": 5344,
+    "name": "1.8L VVTL-i 5MT (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1795 Cm3",
+        "Power:": "97 Kw @ 6000 Rpm\r\n130 Hp @ 6000 Rpm\r\n130 Bhp @ 6000 Rpm",
+        "Torque:": "125 Lb-Ft @ 4200 Rpm\r\n169 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171.9 In (4366 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "62.2 In (1580 Mm)",
+        "Front/Rear Track:": "59.6/58.9 In (1,514/1,496 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "19.3 Cuft (547 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2976 Lbs (1350 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)"
+      }
+    }
+  }
+]

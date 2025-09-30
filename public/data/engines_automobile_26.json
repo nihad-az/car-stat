@@ -1,0 +1,131 @@
+[
+  {
+    "id": 46,
+    "automobile_id": 26,
+    "name": "2.0L 5AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "112 Kw @ 6500 Rpm\r\n152 Hp @ 6500 Rpm\r\n150 Bhp @ 6500 Rpm",
+        "Torque:": "140 Lb-Ft @ 4300 Rpm\r\n190 Nm @ 4300 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic Transmission With Sequential Sportshift"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45R17"
+      },
+      "Dimensions": {
+        "Length:": "179.1 In (4549 Mm)",
+        "Width:": "70.6 In (1793 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.4/60.3 In (1,509/1,532 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.28 Cuft (348 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2910 Lbs (1320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "automobile_id": 26,
+    "name": "2.4L 6MT FWD (201 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4 Inline",
+        "Displacement:": "2354 Cm3",
+        "Power:": "148 Kw @ 7000 Rpm\r\n201 Hp @ 7000 Rpm\r\n198 Bhp @ 7000 Rpm",
+        "Torque:": "170 Lb-Ft @ 4400 Rpm\r\n230 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/45R17"
+      },
+      "Dimensions": {
+        "Length:": "179.1 In (4549 Mm)",
+        "Width:": "70.6 In (1793 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.4/60.3 In (1,509/1,532 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.29 Cuft (348 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2978 Lbs (1351 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "automobile_id": 26,
+    "name": "1.5L Hybrid CVT FWD (111 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4 Inline",
+        "Displacement:": "1496 Cm3",
+        "Power:": "83 Kw @ 5500 Rpm\r\n113 Hp @ 5500 Rpm\r\n111 Bhp @ 5500 Rpm",
+        "Torque:": "127 Lb-Ft @ 1000- 3500 Rpm\r\n172 Nm @ 1000- 3500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "179.1 In (4549 Mm)",
+        "Width:": "70.6 In (1793 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.4/60.3 In (1,509/1,532 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "9.99 Cuft (283 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2959 Lbs (1342 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39 Mpg Us (6 L/100Km)",
+        "Highway:": "38 Mpg Us (6.2 L/100Km)",
+        "Combined:": "38 Mpg Us (6.2 L/100Km)"
+      }
+    }
+  }
+]

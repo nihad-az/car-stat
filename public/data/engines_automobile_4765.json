@@ -1,0 +1,96 @@
+[
+  {
+    "id": 18844,
+    "automobile_id": 4765,
+    "name": "3.5L V6 CVT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "191.2 Kw @ 6000 Rpm\r\n260 Hp @ 6000 Rpm\r\n256 Bhp @ 6000 Rpm",
+        "Torque:": "240 Lb-Ft @ 4400 Rpm\r\n325 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt Xtronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65R18"
+      },
+      "Dimensions": {
+        "Length:": "192.8 In (4897 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "67.8 In (1722 Mm)",
+        "Front/Rear Track:": "64.6/64.6 In (1,641/1,641 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "31.1 Cuft (881 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3968 - 4136 Lbs (1800 - 1876 Kg)",
+        "Gross Weight Limit:": "5280 Lbs (2395 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23.1 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18845,
+    "automobile_id": 4765,
+    "name": "3.5L V6 CVT FWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "191.2 Kw @ 6000 Rpm\r\n260 Hp @ 6000 Rpm\r\n256 Bhp @ 6000 Rpm",
+        "Torque:": "240 Lb-Ft @ 4400 Rpm\r\n325 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt Xtronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65R18"
+      },
+      "Dimensions": {
+        "Length:": "192.8 In (4897 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "67.8 In (1722 Mm)",
+        "Front/Rear Track:": "64.6/64.6 In (1,641/1,641 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "31.1 Cuft (881 L)",
+        "Aerodynamics (Cd):": "0.31",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3843 - 3990 Lbs (1743 - 1810 Kg)",
+        "Gross Weight Limit:": "5110 Lbs (2318 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23.1 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  }
+]

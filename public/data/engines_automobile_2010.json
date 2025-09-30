@@ -1,0 +1,386 @@
+[
+  {
+    "id": 8724,
+    "automobile_id": 2010,
+    "name": "1.3L 4MT FWD (65 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1301 Cm3",
+        "Power:": "48 Kw @ 5600 Rpm\r\n65 Hp @ 5600 Rpm\r\n64 Bhp @ 5600 Rpm",
+        "Torque:": "74 Lb-Ft @ 3000 Rpm\r\n100 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96.3 Mph (155 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1911.4 Lbs (867 Kg)",
+        "Gross Weight Limit:": "2844 Lbs (1290 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8725,
+    "automobile_id": 2010,
+    "name": "1.5L 5MT FWD (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "55 Kw @ 5500 Rpm\r\n75 Hp @ 5500 Rpm\r\n74 Bhp @ 5500 Rpm",
+        "Torque:": "80 Lb-Ft @ 3000 Rpm\r\n108 Nm @ 3000 Rpm",
+        "Fuel System:": "Monopoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "102.5 Mph (165 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/70Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2006.2 Lbs (910 Kg)",
+        "Gross Weight Limit:": "3086.5 Lbs (1400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "183 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8726,
+    "automobile_id": 2010,
+    "name": "1.6L 5MT FWD (101 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "74 Kw @ 6000 Rpm\r\n101 Hp @ 6000 Rpm\r\n99 Bhp @ 6000 Rpm",
+        "Torque:": "94 Lb-Ft @ 4000 Rpm\r\n128 Nm @ 4000 Rpm",
+        "Fuel System:": "Monopoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.8 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/70Tr14"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2094.4 Lbs (950 Kg)",
+        "Gross Weight Limit:": "3086.5 Lbs (1400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8727,
+    "automobile_id": 2010,
+    "name": "1.6L 5MT FWD (82 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "60 Kw @ 5500 Rpm\r\n82 Hp @ 5500 Rpm\r\n80 Bhp @ 5500 Rpm",
+        "Torque:": "92 Lb-Ft @ 2900 Rpm\r\n124 Nm @ 2900 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/70Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1990.8 Lbs (903 Kg)",
+        "Gross Weight Limit:": "3086.5 Lbs (1400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "174 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8728,
+    "automobile_id": 2010,
+    "name": "1.6L 5MT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1585 Cm3",
+        "Power:": "66 Kw @ 6250 Rpm\r\n90 Hp @ 6250 Rpm\r\n89 Bhp @ 6250 Rpm",
+        "Torque:": "91 Lb-Ft @ 4250 Rpm\r\n123 Nm @ 4250 Rpm",
+        "Fuel System:": "Monopoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "108.7 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65Tr14"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2127.5 Lbs (965 Kg)",
+        "Gross Weight Limit:": "3086.5 Lbs (1400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "188 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8729,
+    "automobile_id": 2010,
+    "name": "1.7L D 5MT FWD (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1697 Cm3",
+        "Power:": "44 Kw @ 4500 Rpm\r\n60 Hp @ 4500 Rpm\r\n59 Bhp @ 4500 Rpm",
+        "Torque:": "76 Lb-Ft @ 3000 Rpm\r\n103 Nm @ 3000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93.2 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2052.5 Lbs (931 Kg)",
+        "Gross Weight Limit:": "3086.5 Lbs (1400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "167 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8730,
+    "automobile_id": 2010,
+    "name": "1.9L D 5MT FWD (65 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1929 Cm3",
+        "Power:": "48 Kw @ 4600 Rpm\r\n65 Hp @ 4600 Rpm\r\n64 Bhp @ 4600 Rpm",
+        "Torque:": "88 Lb-Ft @ 2000 Rpm\r\n119 Nm @ 2000 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96.3 Mph (155 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr13"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2164.9 Lbs (982 Kg)",
+        "Gross Weight Limit:": "3152.6 Lbs (1430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8731,
+    "automobile_id": 2010,
+    "name": "1.9L TDI 5MT FWD (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1929 Cm3",
+        "Power:": "59 Kw @ 4200 Rpm\r\n80 Hp @ 4200 Rpm\r\n79 Bhp @ 4200 Rpm",
+        "Torque:": "127 Lb-Ft @ 2400 Rpm\r\n172 Nm @ 2400 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65Sr14"
+      },
+      "Dimensions": {
+        "Length:": "167.7 In (4260 Mm)",
+        "Width:": "65 In (1651 Mm)",
+        "Height:": "55.5 In (1410 Mm)",
+        "Front/Rear Track:": "54.7/54.7 In (1,389/1,389 Mm)",
+        "Wheelbase:": "96.9 In (2461 Mm)",
+        "Cargo Volume:": "18.1 Cuft (513 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2288.4 Lbs (1038 Kg)",
+        "Gross Weight Limit:": "3196.7 Lbs (1450 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "42 Mpg Us (5.6 L/100Km)",
+        "Co2 Emissions:": "148 G/Km"
+      }
+    }
+  }
+]

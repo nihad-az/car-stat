@@ -1,0 +1,94 @@
+[
+  {
+    "id": 26269,
+    "automobile_id": 6504,
+    "name": "3.5L V6 8AT AWD (296 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "220.7 Kw @ 6600 Rpm\r\n300 Hp @ 6600 Rpm\r\n296 Bhp @ 6600 Rpm",
+        "Torque:": "263 Lb-Ft @ 4700 Rpm\r\n357 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.1 Gallons (76.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/60 R17"
+      },
+      "Dimensions": {
+        "Length:": "200.6 In (5095 Mm)",
+        "Width:": "78.1 In (1984 Mm)",
+        "Height:": "70.7 In (1796 Mm)",
+        "Front/Rear Track:": "67.7/67.7 In (1,720/1,720 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "39.1 Cuft (1107 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4750 Lbs (2155 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26270,
+    "automobile_id": 6504,
+    "name": "3.5L V6 8AT FWD (296 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "220.7 Kw @ 6600 Rpm\r\n300 Hp @ 6600 Rpm\r\n296 Bhp @ 6600 Rpm",
+        "Torque:": "263 Lb-Ft @ 4700 Rpm\r\n357 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20 Gallons (75.7 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/60 R17"
+      },
+      "Dimensions": {
+        "Length:": "200.6 In (5095 Mm)",
+        "Width:": "78.1 In (1984 Mm)",
+        "Height:": "70.7 In (1796 Mm)",
+        "Front/Rear Track:": "67.7/67.7 In (1,720/1,720 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "39.1 Cuft (1107 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle (Curb To Curb):": "37.5 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4505 Lbs (2043 Kg)",
+        "Gross Weight Limit:": "5995 Lbs (2719 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  }
+]

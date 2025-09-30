@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11830,
+    "automobile_id": 2839,
+    "name": " N Line 1.6L 7AT (195 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "143.4 Kw @ 5500 Rpm\r\n195 Hp @ 5500 Rpm\r\n192 Bhp @ 5500 Rpm",
+        "Torque:": "195 Lb-Ft @ 1500-4500 Rpm\r\n264 Nm @ 1500-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 11831,
+    "automobile_id": 2839,
+    "name": "2.0L CVT (147 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "108.1 Kw @ 6200 Rpm\r\n147 Hp @ 6200 Rpm\r\n145 Bhp @ 6200 Rpm",
+        "Torque:": "132 Lb-Ft @ 4500 Rpm\r\n179 Nm @ 4500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      }
+    }
+  }
+]

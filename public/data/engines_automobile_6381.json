@@ -1,0 +1,101 @@
+[
+  {
+    "id": 25907,
+    "automobile_id": 6381,
+    "name": "3.6 V6 AWD 5AT (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "185 Kw @ 6500 Rpm\r\n252 Hp @ 6500 Rpm\r\n248 Bhp @ 6500 Rpm",
+        "Torque:": "243 Lb-Ft @ 2300 Rpm\r\n329 Nm @ 2300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "197.2 In (5009 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "61.6 / 61.8 In (1,565/1,570 Mm)",
+        "Wheelbase:": "112.4 In (2855 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "14 Cuft (396 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4049 Lbs (1837 Kg)",
+        "Gross Weight Limit:": "5176 Lbs (2348 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)",
+        "Co2 Emissions:": "279.9 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25908,
+    "automobile_id": 6381,
+    "name": "3.6 V6 FWD 5AT (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3564 Cm3",
+        "Power:": "185 Kw @ 6500 Rpm\r\n252 Hp @ 6500 Rpm\r\n248 Bhp @ 6500 Rpm",
+        "Torque:": "243 Lb-Ft @ 2300 Rpm\r\n329 Nm @ 2300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R16"
+      },
+      "Dimensions": {
+        "Length:": "197.2 In (5009 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "68.9 In (1750 Mm)",
+        "Front/Rear Track:": "61.6 / 61.8 In (1,565/1,570 Mm)",
+        "Wheelbase:": "112.4 In (2855 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "14 Cuft (396 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3884 Lbs (1762 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "279.9 G/Km"
+      }
+    }
+  }
+]

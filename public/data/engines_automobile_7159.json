@@ -1,0 +1,96 @@
+[
+  {
+    "id": 29913,
+    "automobile_id": 7159,
+    "name": "3.0L 4AT (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2922 Cm3",
+        "Power:": "150 Kw @ 6000 Rpm\r\n204 Hp @ 6000 Rpm\r\n201 Bhp @ 6000 Rpm",
+        "Torque:": "197 Lb-Ft @ 4300 Rpm\r\n267 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130.48 Mph (210 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "191.73 In (4870 Mm)",
+        "Width:": "68.89 In (1750 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "57.87/59.84 In (1,470/1,520 Mm)",
+        "Wheelbase:": "109.05 In (2770 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "16.6 Cuft (470 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3306.93 Lbs (1500 Kg)",
+        "Gross Weight Limit:": "4431.29 Lbs (2010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.38 Mpg Us (11 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 29914,
+    "automobile_id": 7159,
+    "name": "2.4L TD 4AT (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2383 Cm3",
+        "Power:": "90 Kw @ 4800 Rpm\r\n122 Hp @ 4800 Rpm\r\n121 Bhp @ 4800 Rpm",
+        "Torque:": "173 Lb-Ft @ 2400 Rpm\r\n235 Nm @ 2400 Rpm",
+        "Fuel System:": "Turbocharged Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.8 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 Hr15"
+      },
+      "Dimensions": {
+        "Length:": "191.73 In (4870 Mm)",
+        "Width:": "68.89 In (1750 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "57.87/59.84 In (1,470/1,520 Mm)",
+        "Wheelbase:": "109.05 In (2770 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "16.6 Cuft (470 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3368.7 Lbs (1528 Kg)",
+        "Gross Weight Limit:": "4299 Lbs (1950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  }
+]

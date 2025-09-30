@@ -1,0 +1,105 @@
+[
+  {
+    "id": 14500,
+    "automobile_id": 3573,
+    "name": "500 V8 10AT RWD (475 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4968 Cm3",
+        "Power:": "349.4 Kw @ 7100 Rpm\r\n475 Hp @ 7100 Rpm\r\n469 Bhp @ 7100 Rpm",
+        "Torque:": "391 Lb-Ft @ 4800-5600 Rpm\r\n530 Nm @ 4800-5600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "168 Mph (270 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45Rf20 || 275/40Rf20"
+      },
+      "Dimensions": {
+        "Length:": "187.4 In (4760 Mm)",
+        "Width:": "75.6 In (1920 Mm)",
+        "Height:": "53 In (1346 Mm)",
+        "Front/Rear Track:": "64.2/64.5 In (1,631/1,638 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "7 Cuft (198 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4266 Lbs (1935 Kg)",
+        "Gross Weight Limit:": "5236 Lbs (2375 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.5 Mpg Us (17.4 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Co2 Emissions:": "263 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14501,
+    "automobile_id": 3573,
+    "name": "500h eCVT+4AT RWD (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "220.7 Kw @ 6600 Rpm\r\n300 Hp @ 6600 Rpm\r\n296 Bhp @ 6600 Rpm",
+        "Torque:": "257 Lb-Ft @ 4900 Rpm\r\n348 Nm @ 4900 Rpm",
+        "Electrical Motor Power:": "132.4 Kw (180 Hp)",
+        "Electrical Motor Torque:": "221.3 Lb-Ft (300 Nm)",
+        "Total Maximum Power:": "264.8 Kw (360 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Ecvt+4At"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45Rf20 || 275/40Rf20"
+      },
+      "Dimensions": {
+        "Length:": "187.4 In (4760 Mm)",
+        "Width:": "75.6 In (1920 Mm)",
+        "Height:": "53 In (1346 Mm)",
+        "Front/Rear Track:": "64.2/64.5 In (1,631/1,638 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "4.7 Cuft (133 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4436 Lbs (2012 Kg)",
+        "Gross Weight Limit:": "5434 Lbs (2465 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "145 G/Km"
+      }
+    }
+  }
+]

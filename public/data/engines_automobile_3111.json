@@ -1,0 +1,512 @@
+[
+  {
+    "id": 12956,
+    "automobile_id": 3111,
+    "name": "3.0L V6 6AT RWD (238 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "175 Kw @ 6800 Rpm\r\n238 Hp @ 6800 Rpm\r\n235 Bhp @ 6800 Rpm",
+        "Torque:": "216 Lb-Ft @ 4100 Rpm\r\n293 Nm @ 4100 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147.2 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/50 Zr17"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3701.6 Lbs (1679 Kg)",
+        "Gross Weight Limit:": "4883.2 Lbs (2215 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.9 Mpg Us (15.8 L/100Km)",
+        "Highway:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Co2 Emissions:": "249 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12957,
+    "automobile_id": 3111,
+    "name": "4.2L V8 6AT RWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4196 Cm3",
+        "Power:": "221 Kw @ 6000 Rpm\r\n300 Hp @ 6000 Rpm\r\n296 Bhp @ 6000 Rpm",
+        "Torque:": "303 Lb-Ft @ 4100 Rpm\r\n411 Nm @ 4100 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3855.9 Lbs (1749 Kg)",
+        "Gross Weight Limit:": "5004.5 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.6 Mpg Us (17.3 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Co2 Emissions:": "264 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12958,
+    "automobile_id": 3111,
+    "name": "4.2L V8 Supercharged SV cAT RWD (416 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4196 Cm3",
+        "Power:": "306 Kw @ 6250 Rpm\r\n416 Hp @ 6250 Rpm\r\n410 Bhp @ 6250 Rpm",
+        "Torque:": "413 Lb-Ft @ 3500 Rpm\r\n560 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Front: 255/35 Zr20 - Rear: 285/30 Zr20"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4067.5 Lbs (1845 Kg)",
+        "Gross Weight Limit:": "5136.8 Lbs (2330 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.6 Mpg Us (18.7 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "18.7 Mpg Us (12.6 L/100Km)",
+        "Co2 Emissions:": "299 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12959,
+    "automobile_id": 3111,
+    "name": "5.0L V8 6AT RWD (379 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "283 Kw @ 6500 Rpm\r\n385 Hp @ 6500 Rpm\r\n380 Bhp @ 6500 Rpm",
+        "Torque:": "380 Lb-Ft @ 3500 Rpm\r\n515 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3924 Lbs (1780 Kg)",
+        "Gross Weight Limit:": "5071 Lbs (2300 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "292 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12960,
+    "automobile_id": 3111,
+    "name": "5.0L V8 Supercharged 6AT RWD (503 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "375 Kw @ 6000-6500 Rpm\r\n510 Hp @ 6000-6500 Rpm\r\n503 Bhp @ 6000-6500 Rpm",
+        "Torque:": "461 Lb-Ft @ 3500 Rpm\r\n625 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 Zr18"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4169 Lbs (1891 Kg)",
+        "Gross Weight Limit:": "5225 Lbs (2370 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13 Mpg Us (18.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)",
+        "Co2 Emissions:": "292 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12961,
+    "automobile_id": 3111,
+    "name": "2.2D 8AT RWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "122 Kw @ 3500 Rpm\r\n166 Hp @ 3500 Rpm\r\n164 Bhp @ 3500 Rpm",
+        "Torque:": "332 Lb-Ft @ 2000 Rpm\r\n450 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.4 Gallons (69.7 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/35 Zr20 // 285/30 Zr20"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3847 Lbs (1745 Kg)",
+        "Gross Weight Limit:": "5115 Lbs (2320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Highway:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Combined:": "44 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "149 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12962,
+    "automobile_id": 3111,
+    "name": "2.2D 8AT RWD (192 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2179 Cm3",
+        "Power:": "141.2 Kw @ 3500 Rpm\r\n192 Hp @ 3500 Rpm\r\n189 Bhp @ 3500 Rpm",
+        "Torque:": "332 Lb-Ft @ 2000 Rpm\r\n450 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Front: 255/35 Zr20 - Rear: 285/30 Zr20"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3847 Lbs (1745 Kg)",
+        "Gross Weight Limit:": "5115 Lbs (2320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36 Mpg Us (6.5 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "44 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "149 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12963,
+    "automobile_id": 3111,
+    "name": "2.7D 6AT RWD (207 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2720 Cm3",
+        "Power:": "152 Kw @ 4000 Rpm\r\n207 Hp @ 4000 Rpm\r\n204 Bhp @ 4000 Rpm",
+        "Torque:": "321 Lb-Ft @ 1900 Rpm\r\n435 Nm @ 1900 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142.3 Mph (229 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/50 Zr17"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3904.4 Lbs (1771 Kg)",
+        "Gross Weight Limit:": "5092.7 Lbs (2310 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Highway:": "40.5 Mpg Us (5.8 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12964,
+    "automobile_id": 3111,
+    "name": "3.0L D V6 8AT RWD (271 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "202 Kw @ 4000 Rpm\r\n275 Hp @ 4000 Rpm\r\n271 Bhp @ 4000 Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/35 Zr20 // 285/30 Zr20"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3990 Lbs (1810 Kg)",
+        "Gross Weight Limit:": "5203 Lbs (2360 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "32 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12965,
+    "automobile_id": 3111,
+    "name": "3.0L DS V6 8AT RWD (271 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "202 Kw @ 4000 Rpm\r\n275 Hp @ 4000 Rpm\r\n271 Bhp @ 4000 Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/35 Zr20 // 285/30 Zr20"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "61.4/63 In (1,560/1,600 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3990 Lbs (1810 Kg)",
+        "Gross Weight Limit:": "5203 Lbs (2360 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "32 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  }
+]

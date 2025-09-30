@@ -1,0 +1,131 @@
+[
+  {
+    "id": 9826,
+    "automobile_id": 2286,
+    "name": "2.3L 5MT FWD (155 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2261 Cm3",
+        "Power:": "114 Kw @ 5800 Rpm\r\n155 Hp @ 5800 Rpm\r\n153 Bhp @ 5800 Rpm",
+        "Torque:": "152 Lb-Ft @ 4250 Rpm\r\n206 Nm @ 4250 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "174.8 In (4440 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "68.1 In (1730 Mm)",
+        "Front/Rear Track:": "61/60.4 In (1,549/1,534 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3274.4 Lb Lbs (1485 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9827,
+    "automobile_id": 2286,
+    "name": "3.0L V6 4AT AWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2976 Cm3",
+        "Power:": "149 Kw @ 6000 Rpm\r\n203 Hp @ 6000 Rpm\r\n200 Bhp @ 6000 Rpm",
+        "Torque:": "193 Lb-Ft @ 4850 Rpm\r\n262 Nm @ 4850 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "174.8 In (4440 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "68.1 In (1730 Mm)",
+        "Front/Rear Track:": "61/60.4 In (1,549/1,534 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Cargo Volume:": "64.2 Cuft (1818 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3550.1 Lbs (1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9828,
+    "automobile_id": 2286,
+    "name": "2.3L Hybrid 4AT (135 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2261 Cm3",
+        "Power:": "99 Kw @ 6000 Rpm\r\n135 Hp @ 6000 Rpm\r\n133 Bhp @ 6000 Rpm",
+        "Torque:": "124 Lb-Ft @ 4250 Rpm\r\n168 Nm @ 4250 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "174.8 In (4440 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "68.1 In (1730 Mm)",
+        "Front/Rear Track:": "61/60.4 In (1,549/1,534 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3638.2 Lbs (1650 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  }
+]

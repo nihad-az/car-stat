@@ -1,0 +1,102 @@
+[
+  {
+    "id": 293,
+    "automobile_id": 104,
+    "name": "3.2L V6 6AT FWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3179 Cm3",
+        "Power:": "184 Kw @ 6200 Rpm\r\n250 Hp @ 6200 Rpm\r\n247 Bhp @ 6200 Rpm",
+        "Torque:": "221 Lb-Ft @ 4800 Rpm\r\n300 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Selespeed)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 Zr 17"
+      },
+      "Dimensions": {
+        "Length:": "174.4 In (4430 Mm)",
+        "Width:": "69.5 In (1765 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/59.4 In (1,521/1,509 Mm)",
+        "Wheelbase:": "102.2 In (2596 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "12.7 Cuft (360 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3219 Lbs (1460 Kg)",
+        "Gross Weight Limit:": "4310 Lbs (1955 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.8 Mpg Us (18.4 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Co2 Emissions:": "293 G/Km"
+      }
+    }
+  },
+  {
+    "id": 294,
+    "automobile_id": 104,
+    "name": "3.2L V6 6MT (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3179 Cm3",
+        "Power:": "184 Kw @ 6200 Rpm\r\n250 Hp @ 6200 Rpm\r\n247 Bhp @ 6200 Rpm",
+        "Torque:": "221 Lb-Ft @ 4800 Rpm\r\n300 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 Zr 17"
+      },
+      "Dimensions": {
+        "Length:": "174.4 In (4430 Mm)",
+        "Width:": "69.5 In (1765 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "59.9/59.4 In (1,521/1,509 Mm)",
+        "Wheelbase:": "102.2 In (2596 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "12.7 Cuft (360 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3219.3 Lbs (1460 Kg)",
+        "Gross Weight Limit:": "4244.6 Lbs (1925 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.8 Mpg Us (18.4 L/100Km)",
+        "Highway:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Combined:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Co2 Emissions:": "293 G/Km"
+      }
+    }
+  }
+]

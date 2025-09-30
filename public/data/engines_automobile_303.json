@@ -1,0 +1,80 @@
+[
+  {
+    "id": 715,
+    "automobile_id": 303,
+    "name": "55 TFSI quattro (340 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "250.1 Kw @ 1370-4500 Rpm\r\n340 Hp @ 1370-4500 Rpm\r\n335 Bhp @ 1370-4500 Rpm",
+        "Torque:": "369 Lb-Ft @ - Rpm\r\n500 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 716,
+    "automobile_id": 303,
+    "name": "60 TFSI 8AT AWD (460 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3996 Cm3",
+        "Power:": "338.3 Kw @ 5500 Rpm\r\n460 Hp @ 5500 Rpm\r\n454 Bhp @ 5500 Rpm",
+        "Torque:": "487 Lb-Ft @ 1850-4500 Rpm\r\n660 Nm @ 1850-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/45 R19"
+      },
+      "Dimensions": {
+        "Length:": "204.3 In (5189 Mm)",
+        "Width:": "76.6 In (1946 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "64.8/64.3 In (1,646/1,633 Mm)",
+        "Wheelbase:": "118 In (2997 Mm)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "41 Ft (12.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4508 Lbs (2045 Kg)",
+        "Gross Weight Limit:": "6096 Lbs (2765 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.9 Mpg Us (15.8 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)",
+        "Co2 Emissions:": "245 G/Km"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Co2 Emissions (Combined):": "248 G/Km"
+      }
+    }
+  }
+]

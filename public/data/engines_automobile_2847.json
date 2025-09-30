@@ -1,0 +1,460 @@
+[
+  {
+    "id": 11856,
+    "automobile_id": 2847,
+    "name": "1.0L T-GDi 6MT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "88.3 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "127 Lb-Ft @ 1500-4000 Rpm\r\n172 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2709 Lbs (1229 Kg)",
+        "Gross Weight Limit:": "4012 Lbs (1820 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11857,
+    "automobile_id": 2847,
+    "name": "1.0L T-GDi 7AT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "88.3 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "127 Lb-Ft @ 1500-4000 Rpm\r\n172 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Automatic Speed Dual Clutch"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2776 Lbs (1259 Kg)",
+        "Gross Weight Limit:": "4079 Lbs (1850 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11858,
+    "automobile_id": 2847,
+    "name": "1.5L DPi 6MT FWD (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "80.9 Kw @ 6000 Rpm\r\n110 Hp @ 6000 Rpm\r\n108 Bhp @ 6000 Rpm",
+        "Torque:": "106 Lb-Ft @ 3500 Rpm\r\n144 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2659 Lbs (1206 Kg)",
+        "Gross Weight Limit:": "3968 Lbs (1800 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11859,
+    "automobile_id": 2847,
+    "name": "1.6L CRDi 6MT FWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "84.6 Kw @ 4000 Rpm\r\n115 Hp @ 4000 Rpm\r\n113 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1500-2750 Rpm\r\n280 Nm @ 1500-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119 Mph (192 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2954 Lbs (1340 Kg)",
+        "Gross Weight Limit:": "4233 Lbs (1920 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11860,
+    "automobile_id": 2847,
+    "name": "1.6L CRDi 7AT FWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "84.6 Kw @ 4000 Rpm\r\n115 Hp @ 4000 Rpm\r\n113 Bhp @ 4000 Rpm",
+        "Torque:": "221 Lb-Ft @ 1500-2500 Rpm\r\n300 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119 Mph (192 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Automatic Speed Dual Clutch"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3020 Lbs (1370 Kg)",
+        "Gross Weight Limit:": "4299 Lbs (1950 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11861,
+    "automobile_id": 2847,
+    "name": "1.0L T-GDi 48V 6iMT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "88.3 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "127 Lb-Ft @ 1500-4000 Rpm\r\n172 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Intelligent Manual Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2736 Lbs (1241 Kg)",
+        "Gross Weight Limit:": "4057 Lbs (1840 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11862,
+    "automobile_id": 2847,
+    "name": "1.0L T-GDi 48V 7AT FWD (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "88.3 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "127 Lb-Ft @ 1500-4000 Rpm\r\n172 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "122 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Automatic Speed Dual Clutch"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2802 Lbs (1271 Kg)",
+        "Gross Weight Limit:": "4123 Lbs (1870 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11863,
+    "automobile_id": 2847,
+    "name": "1.5L T-GDi 48V 6iMT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1482 Cm3",
+        "Power:": "117.7 Kw @ 5500 Rpm\r\n160 Hp @ 5500 Rpm\r\n158 Bhp @ 5500 Rpm",
+        "Torque:": "187 Lb-Ft @ 1500-3500 Rpm\r\n253 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Intelligent Manual Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2815 Lbs (1277 Kg)",
+        "Gross Weight Limit:": "4101 Lbs (1860 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11864,
+    "automobile_id": 2847,
+    "name": "1.5L T-GDi 48V 7AT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1482 Cm3",
+        "Power:": "117.7 Kw @ 5500 Rpm\r\n160 Hp @ 5500 Rpm\r\n158 Bhp @ 5500 Rpm",
+        "Torque:": "187 Lb-Ft @ 1500-3500 Rpm\r\n253 Nm @ 1500-3500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Automatic Speed Dual Clutch"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2881 Lbs (1307 Kg)",
+        "Gross Weight Limit:": "4167 Lbs (1890 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11865,
+    "automobile_id": 2847,
+    "name": "1.6L CRDi 48V 6iMT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1500-3000 Rpm\r\n280 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Intelligent Manual Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2954 Lbs (1340 Kg)",
+        "Gross Weight Limit:": "4233 Lbs (1920 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11866,
+    "automobile_id": 2847,
+    "name": "1.6L CRDi 48V 7AT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "100 Kw @ 4000 Rpm\r\n136 Hp @ 4000 Rpm\r\n134 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 2000-2250 Rpm\r\n320 Nm @ 2000-2250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Intelligent Manual Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.5 In (4585 Mm)",
+        "Width:": "70.7 In (1796 Mm)",
+        "Height:": "57.7 In (1466 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.3 Cuft (603 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3020 Lbs (1370 Kg)",
+        "Gross Weight Limit:": "4299 Lbs (1950 Kg)"
+      }
+    }
+  }
+]

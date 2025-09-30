@@ -1,0 +1,87 @@
+[
+  {
+    "id": 13739,
+    "automobile_id": 3301,
+    "name": "3.8L DOHC V6 5AT FWD (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3772 Cm3",
+        "Power:": "179 Kw @ 6000 Rpm\r\n244 Hp @ 6000 Rpm\r\n240 Bhp @ 6000 Rpm",
+        "Torque:": "252 Lb-Ft @ 3500 Rpm\r\n342 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "202 In (5131 Mm)",
+        "Width:": "78.1 In (1984 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "118.9 In (3020 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "10.7 Cuft (303 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4645.9 Lbs (2107 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "19.4 Mpg Us (12.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13740,
+    "automobile_id": 3301,
+    "name": "2.9L CRDi 5MT FWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2902 Cm3",
+        "Power:": "125 Kw @ 3700 Rpm\r\n170 Hp @ 3700 Rpm\r\n168 Bhp @ 3700 Rpm",
+        "Torque:": "261 Lb-Ft @ 2000 Rpm\r\n354 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/70R16"
+      },
+      "Dimensions": {
+        "Length:": "202 In (5131 Mm)",
+        "Width:": "78.1 In (1984 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.3/66.3 In (1,684/1,684 Mm)",
+        "Wheelbase:": "118.9 In (3020 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "10.7 Cuft (303 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4815.7 Lbs (2184 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions:": "190 G/Km"
+      }
+    }
+  }
+]

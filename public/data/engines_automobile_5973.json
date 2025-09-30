@@ -1,0 +1,977 @@
+[
+  {
+    "id": 23839,
+    "automobile_id": 5973,
+    "name": "1.8i 5MT (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1794 Cm3",
+        "Power:": "90 Kw @ 6000 Rpm\r\n122 Hp @ 6000 Rpm\r\n121 Bhp @ 6000 Rpm",
+        "Torque:": "123 Lb-Ft @ 3800 Rpm\r\n167 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2954 Lbs (1340 Kg)",
+        "Gross Weight Limit:": "4211 Lbs (1910 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "183 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23840,
+    "automobile_id": 5973,
+    "name": "1.8t 5AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1794 Cm3",
+        "Power:": "110 Kw @ 5500 Rpm\r\n150 Hp @ 5500 Rpm\r\n148 Bhp @ 5500 Rpm",
+        "Torque:": "177 Lb-Ft @ 2000-3500 Rpm\r\n240 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4343 Lbs (1970 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23841,
+    "automobile_id": 5973,
+    "name": "1.8t 6MT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1794 Cm3",
+        "Power:": "110 Kw @ 5500 Rpm\r\n150 Hp @ 5500 Rpm\r\n148 Bhp @ 5500 Rpm",
+        "Torque:": "177 Lb-Ft @ 2000-3500 Rpm\r\n240 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3075 Lbs (1395 Kg)",
+        "Gross Weight Limit:": "4343 Lbs (1970 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "177 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23842,
+    "automobile_id": 5973,
+    "name": "2.0L V6 Turbo 6AT XWD (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2792 Cm3",
+        "Power:": "206 Kw @ 5500 Rpm\r\n280 Hp @ 5500 Rpm\r\n276 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-3500 Rpm\r\n400 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4652 Lbs (2110 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Co2 Emissions:": "254 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23843,
+    "automobile_id": 5973,
+    "name": "2.0t 5AT (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "129 Kw @ 5500 Rpm\r\n175 Hp @ 5500 Rpm\r\n173 Bhp @ 5500 Rpm",
+        "Torque:": "196 Lb-Ft @ 2000-3500 Rpm\r\n265 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.2 Mpg Us (12.9 L/100Km)",
+        "Highway:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions:": "216 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23844,
+    "automobile_id": 5973,
+    "name": "2.0T 5AT (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "154 Kw @ 5500 Rpm\r\n209 Hp @ 5500 Rpm\r\n207 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 2000-3500 Rpm\r\n300 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3219 Lbs (1460 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.2 Mpg Us (13.7 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Co2 Emissions:": "218 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23845,
+    "automobile_id": 5973,
+    "name": "2.0t 6MT (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "129 Kw @ 5500 Rpm\r\n175 Hp @ 5500 Rpm\r\n173 Bhp @ 5500 Rpm",
+        "Torque:": "196 Lb-Ft @ 2000-3500 Rpm\r\n265 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3075 Lbs (1395 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "177 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23846,
+    "automobile_id": 5973,
+    "name": "2.0T 6MT (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "154 Kw @ 5500 Rpm\r\n209 Hp @ 5500 Rpm\r\n207 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 2000-3500 Rpm\r\n300 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3164 Lbs (1435 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "185 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23847,
+    "automobile_id": 5973,
+    "name": "2.8L V6 Turbo 6AT (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2792 Cm3",
+        "Power:": "206 Kw @ 5500 Rpm\r\n280 Hp @ 5500 Rpm\r\n276 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-3500 Rpm\r\n400 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373 Lbs (1530 Kg)",
+        "Gross Weight Limit:": "4586 Lbs (2080 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Combined:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Co2 Emissions:": "258 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23848,
+    "automobile_id": 5973,
+    "name": "2.8L V6 Turbo 6MT (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2792 Cm3",
+        "Power:": "206 Kw @ 5500 Rpm\r\n280 Hp @ 5500 Rpm\r\n276 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-3500 Rpm\r\n400 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3318 Lbs (1505 Kg)",
+        "Gross Weight Limit:": "4542 Lbs (2060 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.5 Mpg Us (10 L/100Km)",
+        "Co2 Emissions:": "235 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23849,
+    "automobile_id": 5973,
+    "name": "2.8L V6 Turbo 6MT XWD (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2792 Cm3",
+        "Power:": "206 Kw @ 5500 Rpm\r\n280 Hp @ 5500 Rpm\r\n276 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-3500 Rpm\r\n400 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3417 Lbs (1550 Kg)",
+        "Gross Weight Limit:": "4630 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.5 Mpg Us (10 L/100Km)",
+        "Co2 Emissions:": "251 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23850,
+    "automobile_id": 5973,
+    "name": "1.9L TiD 6AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1910 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 2000-2500 Rpm\r\n320 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3296 Lbs (1495 Kg)",
+        "Gross Weight Limit:": "4542 Lbs (2060 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "177 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23851,
+    "automobile_id": 5973,
+    "name": "1.9L TiD 6MT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1910 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 2000-2500 Rpm\r\n320 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3241 Lbs (1470 Kg)",
+        "Gross Weight Limit:": "4475 Lbs (2030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.7 Mpg Us (9.2 L/100Km)",
+        "Highway:": "47.1 Mpg Us (5 L/100Km)",
+        "Combined:": "35.8 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "157 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23852,
+    "automobile_id": 5973,
+    "name": "1.9T TiD 6AT (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1910 Cm3",
+        "Power:": "132.4 Kw @ 5500 Rpm\r\n180 Hp @ 5500 Rpm\r\n178 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-2500 Rpm\r\n400 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3318 Lbs (1505 Kg)",
+        "Gross Weight Limit:": "4542 Lbs (2060 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23853,
+    "automobile_id": 5973,
+    "name": "1.9T TiD 6MT (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1910 Cm3",
+        "Power:": "132.4 Kw @ 5500 Rpm\r\n180 Hp @ 5500 Rpm\r\n178 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-2500 Rpm\r\n400 Nm @ 2000-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3263 Lbs (1480 Kg)",
+        "Gross Weight Limit:": "4475 Lbs (2030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23854,
+    "automobile_id": 5973,
+    "name": "1.8t BioPower 5AT (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1794 Cm3",
+        "Power:": "129 Kw @ 5500 Rpm\r\n175 Hp @ 5500 Rpm\r\n173 Bhp @ 5500 Rpm",
+        "Torque:": "196 Lb-Ft @ 2000-3500 Rpm\r\n265 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Ethanol",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4343 Lbs (1970 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23855,
+    "automobile_id": 5973,
+    "name": "1.8t BioPower 6MT (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1794 Cm3",
+        "Power:": "129 Kw @ 5500 Rpm\r\n175 Hp @ 5500 Rpm\r\n173 Bhp @ 5500 Rpm",
+        "Torque:": "196 Lb-Ft @ 2000-3500 Rpm\r\n265 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Ethanol",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3075 Lbs (1395 Kg)",
+        "Gross Weight Limit:": "4343 Lbs (1970 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "177 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23856,
+    "automobile_id": 5973,
+    "name": "2.0t BioPower 5AT (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "147 Kw @ 5500 Rpm\r\n200 Hp @ 5500 Rpm\r\n197 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 2000-3500 Rpm\r\n300 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Ethanol",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.2 Mpg Us (12.9 L/100Km)",
+        "Highway:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)",
+        "Co2 Emissions:": "216 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23857,
+    "automobile_id": 5973,
+    "name": "2.0t BioPower 6MT (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "147 Kw @ 5500 Rpm\r\n200 Hp @ 5500 Rpm\r\n197 Bhp @ 5500 Rpm",
+        "Torque:": "221 Lb-Ft @ 2000-3500 Rpm\r\n300 Nm @ 2000-3500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Ethanol",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "183 In (4648 Mm)",
+        "Width:": "80.2 In (2037 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "60/59.3 In (1,524/1,506 Mm)",
+        "Wheelbase:": "105.3 In (2675 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.28",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3075 Lbs (1395 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "177 G/Km"
+      }
+    }
+  }
+]

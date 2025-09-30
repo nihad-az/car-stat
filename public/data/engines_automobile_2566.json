@@ -1,0 +1,87 @@
+[
+  {
+    "id": 10938,
+    "automobile_id": 2566,
+    "name": "1.6L 5MT (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "85 Kw @ 6000 Rpm\r\n116 Hp @ 6000 Rpm\r\n114 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4000 Rpm\r\n155 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R 15 H"
+      },
+      "Dimensions": {
+        "Length:": "159 In (4039 Mm)",
+        "Width:": "68.3 In (1735 Mm)",
+        "Height:": "59.7 In (1516 Mm)",
+        "Front/Rear Track:": "59/58.9 In (1,499/1,496 Mm)",
+        "Wheelbase:": "99.4 In (2525 Mm)",
+        "Cargo Volume:": "10.2 Cuft (289 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2564 Lbs (1163 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "9 Mpg Us (26.1 L/100Km)",
+        "Highway:": "5.5 Mpg Us (42.8 L/100Km)",
+        "Combined:": "6.8 Mpg Us (34.6 L/100Km)",
+        "Co2 Emissions:": "162 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10939,
+    "automobile_id": 2566,
+    "name": "1.6L 6AT (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "85 Kw @ 6000 Rpm\r\n116 Hp @ 6000 Rpm\r\n114 Bhp @ 6000 Rpm",
+        "Torque:": "114 Lb-Ft @ 4000 Rpm\r\n155 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R 15 H"
+      },
+      "Dimensions": {
+        "Length:": "159 In (4039 Mm)",
+        "Width:": "68.3 In (1735 Mm)",
+        "Height:": "59.7 In (1516 Mm)",
+        "Front/Rear Track:": "59/58.9 In (1,499/1,496 Mm)",
+        "Wheelbase:": "99.4 In (2525 Mm)",
+        "Cargo Volume:": "10.2 Cuft (289 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2564 Lbs (1163 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "6.4 Mpg Us (36.8 L/100Km)"
+      }
+    }
+  }
+]

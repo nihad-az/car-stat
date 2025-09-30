@@ -1,0 +1,96 @@
+[
+  {
+    "id": 12830,
+    "automobile_id": 3083,
+    "name": "3.0L V6 8AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "294.2 Kw @ 6500 Rpm\r\n400 Hp @ 6500 Rpm\r\n395 Bhp @ 6500 Rpm",
+        "Torque:": "339 Lb-Ft @ 3500-5500 Rpm\r\n460 Nm @ 3500-5500 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "171 Mph (275 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.4/64.1 In (1,585/1,628 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "4 In (102 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3691 Lbs (1674 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions:": "211 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12831,
+    "automobile_id": 3083,
+    "name": "3.0L V6 8AT RWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "294.2 Kw @ 6500 Rpm\r\n400 Hp @ 6500 Rpm\r\n395 Bhp @ 6500 Rpm",
+        "Torque:": "339 Lb-Ft @ 3500-5500 Rpm\r\n460 Nm @ 3500-5500 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "171 Mph (275 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "176.5 In (4483 Mm)",
+        "Width:": "75.7 In (1923 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "62.4/64.1 In (1,585/1,628 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Ground Clearance:": "4 In (102 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3514 Lbs (1594 Kg)",
+        "Gross Weight Limit:": "4519 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.6 Mpg Us (12 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Co2 Emissions:": "203 G/Km"
+      }
+    }
+  }
+]

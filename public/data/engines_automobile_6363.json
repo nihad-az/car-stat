@@ -1,0 +1,129 @@
+[
+  {
+    "id": 25829,
+    "automobile_id": 6363,
+    "name": "1.2L 5MT AWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1242 Cm3",
+        "Power:": "66.2 Kw @ 6000 Rpm\r\n90 Hp @ 6000 Rpm\r\n89 Bhp @ 6000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "7.9 Gallons (29.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "114 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25830,
+    "automobile_id": 6363,
+    "name": "1.2L DualJet 5AT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1242 Cm3",
+        "Power:": "66.2 Kw @ 6000 Rpm\r\n90 Hp @ 6000 Rpm\r\n89 Bhp @ 6000 Rpm",
+        "Torque:": "89 Lb-Ft @ 4400 Rpm\r\n120 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "8.5 Gallons (32.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "145.7 In (3701 Mm)",
+        "Width:": "65.4 In (1661 Mm)",
+        "Height:": "62.8 In (1595 Mm)",
+        "Front/Rear Track:": "57.5/57.9 In (1,461/1,471 Mm)",
+        "Wheelbase:": "95.9 In (2436 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1830 - 1907 Lbs (830 - 865 Kg)",
+        "Gross Weight Limit:": "2932 Lbs (1330 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Co2 Emissions:": "104 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25831,
+    "automobile_id": 6363,
+    "name": "1.2L DualJet 5MT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1242 Cm3",
+        "Power:": "66.2 Kw @ 6000 Rpm\r\n90 Hp @ 6000 Rpm\r\n89 Bhp @ 6000 Rpm",
+        "Torque:": "89 Lb-Ft @ 4400 Rpm\r\n120 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "8.5 Gallons (32.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "145.7 In (3701 Mm)",
+        "Width:": "65.4 In (1661 Mm)",
+        "Height:": "62.8 In (1595 Mm)",
+        "Front/Rear Track:": "57.5/57.9 In (1,461/1,471 Mm)",
+        "Wheelbase:": "95.9 In (2436 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1786 - 1885 Lbs (810 - 855 Kg)",
+        "Gross Weight Limit:": "2932 Lbs (1330 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Co2 Emissions:": "104 G/Km"
+      }
+    }
+  }
+]

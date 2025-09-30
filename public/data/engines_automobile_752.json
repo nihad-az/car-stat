@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3274,
+    "automobile_id": 752,
+    "name": "27 kWh with range extender (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L2",
+        "Displacement:": "647 Cm3",
+        "Power:": "28 Kw @ 5000 Rpm\r\n38 Hp @ 5000 Rpm\r\n38 Bhp @ 5000 Rpm",
+        "Torque:": "41 Lb-Ft @ 4500 Rpm\r\n56 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155/70 R19"
+      },
+      "Dimensions": {
+        "Length:": "157.9 In (4011 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "62.9 In (1598 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3009 Lbs (1365 Kg)",
+        "Gross Weight Limit:": "3682 Lbs (1670 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "392 Mpg Us (0.6 L/100Km)",
+        "Co2 Emissions:": "13 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3275,
+    "automobile_id": 752,
+    "name": "27 kWh (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "125.1 Kw @ - Rpm\r\n170 Hp @ - Rpm\r\n168 Bhp @ - Rpm",
+        "Torque:": "184 Lb-Ft @ - Rpm\r\n250 Nm @ - Rpm",
+        "Fuel System:": "27.2 Kwh Lithium-Ion Battery",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Gear"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155/70 R19"
+      },
+      "Dimensions": {
+        "Length:": "157.9 In (4011 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "62.9 In (1598 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2745 Lbs (1245 Kg)",
+        "Gross Weight Limit:": "3682 Lbs (1670 Kg)"
+      }
+    }
+  }
+]

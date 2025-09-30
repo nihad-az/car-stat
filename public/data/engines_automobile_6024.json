@@ -1,0 +1,92 @@
+[
+  {
+    "id": 24135,
+    "automobile_id": 6024,
+    "name": "1.8L 6MT FWD (137 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "102.2 Kw @ 6100 Rpm\r\n139 Hp @ 6100 Rpm\r\n137 Bhp @ 6100 Rpm",
+        "Torque:": "126 Lb-Ft @ 4000 Rpm\r\n171 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.6 Gallons (43.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45R17"
+      },
+      "Dimensions": {
+        "Length:": "170.5 In (4331 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "60.4/60.4 In (1,534/1,534 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "12.7 Cuft (360 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2943 Lbs (1335 Kg)",
+        "Gross Weight Limit:": "3814 Lbs (1730 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "37 Mpg Us (6.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 24136,
+    "automobile_id": 6024,
+    "name": "1.8L CVT FWD (137 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "102.2 Kw @ 6100 Rpm\r\n139 Hp @ 6100 Rpm\r\n137 Bhp @ 6100 Rpm",
+        "Torque:": "126 Lb-Ft @ 4000 Rpm\r\n171 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.6 Gallons (43.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45R17"
+      },
+      "Dimensions": {
+        "Length:": "170.5 In (4331 Mm)",
+        "Width:": "69.3 In (1760 Mm)",
+        "Height:": "55.3 In (1405 Mm)",
+        "Front/Rear Track:": "60.4/60.4 In (1,534/1,534 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "12.7 Cuft (360 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3031 Lbs (1375 Kg)",
+        "Gross Weight Limit:": "4354 Lbs (1975 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "37 Mpg Us (6.4 L/100Km)"
+      }
+    }
+  }
+]

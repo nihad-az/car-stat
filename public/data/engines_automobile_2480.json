@@ -1,0 +1,82 @@
+[
+  {
+    "id": 10634,
+    "automobile_id": 2480,
+    "name": "3.0L 8AT 7 Seats (278 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "204.5 Kw @ 3800 Rpm\r\n278 Hp @ 3800 Rpm\r\n274 Bhp @ 3800 Rpm",
+        "Torque:": "434 Lb-Ft @ 1500-3000 Rpm\r\n588 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "77.8 In (1976 Mm)",
+        "Height:": "67.5 In (1715 Mm)",
+        "Front/Rear Track:": "65.9/66.5 In (1,674/1,689 Mm)",
+        "Wheelbase:": "117.9 In (2995 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions:": "173 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10635,
+    "automobile_id": 2480,
+    "name": "3.0L 8AT AWD (278 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "204.5 Kw @ 3800 Rpm\r\n278 Hp @ 3800 Rpm\r\n274 Bhp @ 3800 Rpm",
+        "Torque:": "434 Lb-Ft @ 1500-3000 Rpm\r\n588 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "194.7 In (4945 Mm)",
+        "Width:": "77.8 In (1976 Mm)",
+        "Height:": "67.5 In (1715 Mm)",
+        "Front/Rear Track:": "65.9/66.5 In (1,674/1,689 Mm)",
+        "Wheelbase:": "117.9 In (2995 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Co2 Emissions:": "179 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 12559,
+    "automobile_id": 3000,
+    "name": "2.0L CVT (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "197.1 Kw @ 5600-6000 Rpm\r\n268 Hp @ 5600-6000 Rpm\r\n264 Bhp @ 5600-6000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1600-4800 Rpm\r\n280 Nm @ 1600-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16 Gallons (60.6 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt Xtronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "184.7 In (4691 Mm)",
+        "Width:": "74.9 In (1902 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64.4X64.2 In (1636 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "31.4 Cuft (889 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "36.4 Ft (11.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3838 Lbs (1741 Kg)",
+        "Gross Weight Limit:": "4916 Lbs (2230 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12560,
+    "automobile_id": 3000,
+    "name": "2.0L CVT AWD (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "197.1 Kw @ 5600-6000 Rpm\r\n268 Hp @ 5600-6000 Rpm\r\n264 Bhp @ 5600-6000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1600-4800 Rpm\r\n280 Nm @ 1600-4800 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16 Gallons (60.6 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt Xtronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "184.7 In (4691 Mm)",
+        "Width:": "74.9 In (1902 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64.4X64.2 In (1636 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "31.4 Cuft (889 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle (Curb To Curb):": "36.4 Ft (11.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3968 Lbs (1800 Kg)",
+        "Gross Weight Limit:": "5075 Lbs (2302 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  }
+]

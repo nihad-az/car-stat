@@ -1,0 +1,98 @@
+[
+  {
+    "id": 29208,
+    "automobile_id": 7080,
+    "name": "69 KWh (231 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "169.9 Kw (231 Hp)",
+        "Electrical Motor Torque:": "243.4 Lb-Ft (330 Nm)",
+        "Total Maximum Power:": "169.9 Kw (231 Hp)",
+        "Total Maximum Torque:": "243.4 Lb-Ft (330 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "174.8 In (4440 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "64.8 In (1646 Mm)",
+        "Front/Rear Track:": "63/63.4 In (1,600/1,610 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4475 Lbs (2030 Kg)",
+        "Gross Weight Limit:": "5467 Lbs (2480 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "67 Kwh",
+        "Maximum Capacity:": "69 Kwh",
+        "Range:": "248.5 Miles (399.9 Km)"
+      }
+    }
+  },
+  {
+    "id": 29209,
+    "automobile_id": 7080,
+    "name": "Twin 78 KWh AWD (408 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "150 Kw (204 Hp)",
+        "Electrical Motor Torque:": "243.4 Lb-Ft (330 Nm)",
+        "Total Maximum Power:": "300.1 Kw (408 Hp)",
+        "Total Maximum Torque:": "486.8 Lb-Ft (660 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "174.8 In (4440 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "64.8 In (1646 Mm)",
+        "Front/Rear Track:": "63/63.4 In (1,600/1,610 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "6.9 In (175 Mm)",
+        "Cargo Volume:": "14.8 Cuft (419 L)",
+        "Aerodynamics (Cd):": "0.32",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4824 Lbs (2188 Kg)",
+        "Gross Weight Limit:": "5842 Lbs (2650 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "75 Kwh",
+        "Maximum Capacity:": "78 Kwh",
+        "Range:": "248.5 Miles (399.9 Km)"
+      }
+    }
+  }
+]

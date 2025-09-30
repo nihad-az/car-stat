@@ -1,0 +1,92 @@
+[
+  {
+    "id": 26637,
+    "automobile_id": 6608,
+    "name": "2.4L VVTi 5MT (158 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2362 Cm3",
+        "Power:": "117.8 Kw @ 6000 Rpm\r\n160.2 Hp @ 6000 Rpm\r\n158 Bhp @ 6000 Rpm",
+        "Torque:": "165 Lb-Ft @ 4000 Rpm\r\n224 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "58.26 In (1480 Mm)",
+        "Front/Rear Track:": "62/61.6 In (1,575/1,565 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "18.9 Cuft (535 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3284.9 Lbs (1490 Kg)",
+        "Gross Weight Limit:": "4283.6 Lbs (1943 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions:": "211.8 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26638,
+    "automobile_id": 6608,
+    "name": "3.5L V6 6AT (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "199.8 Kw @ 6200 Rpm\r\n271.7 Hp @ 6200 Rpm\r\n268 Bhp @ 6200 Rpm",
+        "Torque:": "255 Lb-Ft @ 4700 Rpm\r\n346 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "58.26 In (1480 Mm)",
+        "Front/Rear Track:": "62 / 61.6 In (1,575/1,565 Mm)",
+        "Wheelbase:": "109.25 In (2775 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "18.9 Cuft (535 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3461 Lbs (1570 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "id": 5565,
+    "automobile_id": 1165,
+    "name": "2.5L 9AT AWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "142.7 Kw @ 6300 Rpm\r\n194 Hp @ 6300 Rpm\r\n191 Bhp @ 6300 Rpm",
+        "Torque:": "188 Lb-Ft @ 4400 Rpm\r\n255 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.3 Gallons (73.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "191.4 In (4862 Mm)",
+        "Width:": "76.7 In (1948 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Front/Rear Track:": "66.4X66.2 In (1687 Mm)",
+        "Wheelbase:": "112.7 In (2863 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "30.5 Cuft (864 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3810 Lbs (1728 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5566,
+    "automobile_id": 1165,
+    "name": "2.5L 9AT FWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "142.7 Kw @ 6300 Rpm\r\n194 Hp @ 6300 Rpm\r\n191 Bhp @ 6300 Rpm",
+        "Torque:": "188 Lb-Ft @ 4400 Rpm\r\n255 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.3 Gallons (73.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "191.4 In (4862 Mm)",
+        "Width:": "76.7 In (1948 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Front/Rear Track:": "66.4X66.2 In (1687 Mm)",
+        "Wheelbase:": "112.7 In (2863 Mm)",
+        "Ground Clearance:": "7.4 In (188 Mm)",
+        "Cargo Volume:": "30.5 Cuft (864 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3810 Lbs (1728 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5567,
+    "automobile_id": 1165,
+    "name": "3.6L V6 9AT AWD (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "224.3 Kw @ - Rpm\r\n305 Hp @ - Rpm\r\n301 Bhp @ - Rpm",
+        "Torque:": "270 Lb-Ft @ 5000 Rpm\r\n366 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "191.4 In (4862 Mm)",
+        "Width:": "76.7 In (1948 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Front/Rear Track:": "66.4/66.2 In (1,687/1,681 Mm)",
+        "Wheelbase:": "112.7 In (2863 Mm)",
+        "Cargo Volume:": "30.5 Cuft (864 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4211 Lbs (1910 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5568,
+    "automobile_id": 1165,
+    "name": "3.6L V6 9AT FWD (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "224.3 Kw @ 6700 Rpm\r\n305 Hp @ 6700 Rpm\r\n301 Bhp @ 6700 Rpm",
+        "Torque:": "270 Lb-Ft @ 5000 Rpm\r\n366 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "191.4 In (4862 Mm)",
+        "Width:": "76.7 In (1948 Mm)",
+        "Height:": "67 In (1702 Mm)",
+        "Front/Rear Track:": "66.4/66.2 In (1,687/1,681 Mm)",
+        "Wheelbase:": "112.7 In (2863 Mm)",
+        "Cargo Volume:": "30.5 Cuft (864 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4008 Lbs (1818 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  }
+]

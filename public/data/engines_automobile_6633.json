@@ -1,0 +1,135 @@
+[
+  {
+    "id": 26742,
+    "automobile_id": 6633,
+    "name": "2.4L 5AT (157 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2362 Cm3",
+        "Power:": "117.1 Kw @ 5600 Rpm\r\n159 Hp @ 5600 Rpm\r\n157 Bhp @ 5600 Rpm",
+        "Torque:": "162 Lb-Ft @ 4000 Rpm\r\n220 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "192.5 In (4890 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "56.1 In (1425 Mm)",
+        "Front/Rear Track:": "61/60.4 In (1,549/1,534 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3175 Lbs (1440 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26743,
+    "automobile_id": 6633,
+    "name": "2.4L 5MT (157 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2362 Cm3",
+        "Power:": "117.1 Kw @ 5600 Rpm\r\n159 Hp @ 5600 Rpm\r\n157 Bhp @ 5600 Rpm",
+        "Torque:": "162 Lb-Ft @ 4000 Rpm\r\n220 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "192.5 In (4890 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "56.1 In (1425 Mm)",
+        "Front/Rear Track:": "61/60.4 In (1,549/1,534 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3075 Lbs (1395 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26744,
+    "automobile_id": 6633,
+    "name": "3.3L V6 5AT (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3311 Cm3",
+        "Power:": "190.2 Kw @ 5600 Rpm\r\n258.5 Hp @ 5600 Rpm\r\n255 Bhp @ 5600 Rpm",
+        "Torque:": "240 Lb-Ft @ 3600 Rpm\r\n325 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "192.5 In (4890 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "56.1 In (1425 Mm)",
+        "Front/Rear Track:": "61/60.4 In (1,549/1,534 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "13.8 Cuft (391 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3417 Lbs (1550 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

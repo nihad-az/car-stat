@@ -1,0 +1,164 @@
+[
+  {
+    "id": 11910,
+    "automobile_id": 2858,
+    "name": "1.6L 6AT FWD (105 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1580 Cm3",
+        "Power:": "77.2 Kw @ 5700 Rpm\r\n105 Hp @ 5700 Rpm\r\n104 Bhp @ 5700 Rpm",
+        "Torque:": "108 Lb-Ft @ 4000 Rpm\r\n147 Nm @ 4000 Rpm",
+        "Electrical Motor Power:": "32.4 Kw (44 Hp)",
+        "Electrical Motor Torque:": "125.4 Lb-Ft (170 Nm)",
+        "Total Maximum Torque:": "125.4 Lb-Ft (170 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "11.4 Gallons (43.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "176 In (4470 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "61.5/61 In (1,562/1,549 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "16.1 Cuft (456 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3000 Lbs (1361 Kg)",
+        "Gross Weight Limit:": "4123 Lbs (1870 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Highway:": "65.3 Mpg Us (3.6 L/100Km)",
+        "Combined:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Co2 Emissions:": "79 G/Km"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Polymer",
+        "Nominal Capacity:": "1.56 Kwh",
+        "Maximum Capacity:": "42 Kwh"
+      }
+    }
+  },
+  {
+    "id": 11911,
+    "automobile_id": 2858,
+    "name": "1.6L GDI 6AT FWD (141 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1580 Cm3",
+        "Power:": "77.2 Kw @ 5700 Rpm\r\n105 Hp @ 5700 Rpm\r\n104 Bhp @ 5700 Rpm",
+        "Torque:": "108 Lb-Ft @ 4000 Rpm\r\n147 Nm @ 4000 Rpm",
+        "Electrical Motor Power:": "44.9 Kw (61 Hp)",
+        "Electrical Motor Torque:": "125.4 Lb-Ft (170 Nm)",
+        "Total Maximum Power:": "103.7 Kw (141 Hp)",
+        "Total Maximum Torque:": "195.5 Lb-Ft (265 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "11.4 Gallons (43.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 / 60 R16"
+      },
+      "Dimensions": {
+        "Length:": "176 In (4470 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "61.2/61.6 In (1,554/1,565 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "16.1 Cuft (456 L)",
+        "Turning Circle (Curb To Curb):": "34.8 Ft (10.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3419 Lbs (1551 Kg)",
+        "Gross Weight Limit:": "4343 Lbs (1970 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "213.8 Mpg Us (1.1 L/100Km)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Polymer",
+        "Nominal Capacity:": "8.9 Kwh",
+        "Range:": "29 Miles (46.7 Km)"
+      }
+    }
+  },
+  {
+    "id": 11912,
+    "automobile_id": 2858,
+    "name": "100 KW Li-Ion AWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "100 Kw @ - Rpm\r\n136 Hp @ - Rpm\r\n134 Bhp @ - Rpm",
+        "Torque:": "218 Lb-Ft @ - Rpm\r\n295 Nm @ - Rpm",
+        "Electrical Motor Power:": "100 Kw (136 Hp)",
+        "Electrical Motor Torque:": "217.6 Lb-Ft (295 Nm)",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "103 Mph (166 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205 / 60 R16"
+      },
+      "Dimensions": {
+        "Length:": "176 In (4470 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "61.2/61.6 In (1,554/1,565 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "16.1 Cuft (456 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472 Lbs (1575 Kg)",
+        "Gross Weight Limit:": "4343 Lbs (1970 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion Polymer",
+        "Maximum Capacity:": "38.3 Kwh",
+        "Range:": "193.2 Miles (310.9 Km)"
+      }
+    }
+  }
+]

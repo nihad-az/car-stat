@@ -1,0 +1,179 @@
+[
+  {
+    "id": 5348,
+    "automobile_id": 1082,
+    "name": "2.0L 8AT AWD (261 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "192 Kw @ 5300 Rpm\r\n261 Hp @ 5300 Rpm\r\n257 Bhp @ 5300 Rpm",
+        "Torque:": "295 Lb-Ft @ 3000 Rpm\r\n400 Nm @ 3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64/64 In (1,626/1,626 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "30 Cuft (850 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4257 Lbs (1931 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5349,
+    "automobile_id": 1082,
+    "name": "2.0L 8AT FWD (261 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "192 Kw @ 5300 Rpm\r\n261 Hp @ 5300 Rpm\r\n257 Bhp @ 5300 Rpm",
+        "Torque:": "295 Lb-Ft @ 3000 Rpm\r\n400 Nm @ 3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64/64 In (1,626/1,626 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "30 Cuft (850 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3986 Lbs (1808 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5350,
+    "automobile_id": 1082,
+    "name": "3.6L V6 8AT AWD (314 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3648 Cm3",
+        "Power:": "231.2 Kw @ 6600 Rpm\r\n314 Hp @ 6600 Rpm\r\n310 Bhp @ 6600 Rpm",
+        "Torque:": "271 Lb-Ft @ 5000 Rpm\r\n367 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64/64 In (1,626/1,626 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "30 Cuft (850 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4257 Lbs (1931 Kg)",
+        "Gross Weight Limit:": "6001 Lbs (2722 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5351,
+    "automobile_id": 1082,
+    "name": "3.6L V6 8AT FWD (314 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3648 Cm3",
+        "Power:": "231.2 Kw @ 6600 Rpm\r\n314 Hp @ 6600 Rpm\r\n310 Bhp @ 6600 Rpm",
+        "Torque:": "271 Lb-Ft @ 5000 Rpm\r\n367 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R18"
+      },
+      "Dimensions": {
+        "Length:": "189.5 In (4813 Mm)",
+        "Width:": "75 In (1905 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64/64 In (1,626/1,626 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.9 In (201 Mm)",
+        "Cargo Volume:": "30 Cuft (850 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3986 Lbs (1808 Kg)",
+        "Gross Weight Limit:": "6001 Lbs (2722 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": 5688,
+    "automobile_id": 1204,
+    "name": "6.2l V8 AT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "331 Kw @ 6000 Rpm\r\n450 Hp @ 6000 Rpm\r\n444 Bhp @ 6000 Rpm",
+        "Torque:": "450 Lb-Ft @ 4600 Rpm\r\n610 Nm @ 4600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "190 Mph (306 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6 Speed Paddle-Shift Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Front: 245/40R18, Rear: 285/35R19"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "73.9 In (1877 Mm)",
+        "Height:": "48.6 In (1234 Mm)",
+        "Front/Rear Track:": "62.8/61.6 In (1,595/1,565 Mm)",
+        "Wheelbase:": "106.7 In (2710 Mm)",
+        "Cargo Volume:": "10 Cuft (283 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5689,
+    "automobile_id": 1204,
+    "name": "6.2l V8 MT (450 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "331 Kw @ 6000 Rpm\r\n450 Hp @ 6000 Rpm\r\n444 Bhp @ 6000 Rpm",
+        "Torque:": "450 Lb-Ft @ 4600 Rpm\r\n610 Nm @ 4600 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "175 Mph (282 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6 Speed Paddle-Shift Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Front: 245/40R18, Rear: 285/35R19"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "73.9 In (1877 Mm)",
+        "Height:": "48.6 In (1234 Mm)",
+        "Front/Rear Track:": "62.8/61.6 In (1,595/1,565 Mm)",
+        "Wheelbase:": "106.7 In (2710 Mm)",
+        "Cargo Volume:": "10 Cuft (283 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.3 Mpg Us (19.1 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "19.3 Mpg Us (12.2 L/100Km)",
+        "Co2 Emissions:": "283 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "id": 1860,
+    "automobile_id": 514,
+    "name": "3.0L TFSI 6AT (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "213.3 Kw @ 4850 Rpm\r\n290 Hp @ 4850 Rpm\r\n286 Bhp @ 4850 Rpm",
+        "Torque:": "310 Lb-Ft @ 2500 Rpm\r\n420 Nm @ 2500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4056 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5445 Lbs (2470 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.3 Mpg Us (11 L/100Km)",
+        "Highway:": "37.2 Mpg Us (6.3 L/100Km)",
+        "Combined:": "29.1 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "225 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1861,
+    "automobile_id": 514,
+    "name": "3.2L FSI 6AT (255 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3123 Cm3",
+        "Power:": "188 Kw @ 6500 Rpm\r\n256 Hp @ 6500 Rpm\r\n252 Bhp @ 6500 Rpm",
+        "Torque:": "243 Lb-Ft @ 3250 Rpm\r\n330 Nm @ 3250 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3968 Lbs (1800 Kg)",
+        "Gross Weight Limit:": "5357 Lbs (2430 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.9 Mpg Us (15.8 L/100Km)",
+        "Highway:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "264 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1862,
+    "automobile_id": 514,
+    "name": "3.2L FSI 6MT (255 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3123 Cm3",
+        "Power:": "188 Kw @ 6500 Rpm\r\n256 Hp @ 6500 Rpm\r\n252 Bhp @ 6500 Rpm",
+        "Torque:": "243 Lb-Ft @ 3250 Rpm\r\n330 Nm @ 3250 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3880.8 Lbs (1760 Kg)",
+        "Gross Weight Limit:": "5269.9 Lbs (2390 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.1 Mpg Us (15.6 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "262 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1863,
+    "automobile_id": 514,
+    "name": "4.2L FSI 6AT (350 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4163 Cm3",
+        "Power:": "257 Kw @ 6800 Rpm\r\n349 Hp @ 6800 Rpm\r\n345 Bhp @ 6800 Rpm",
+        "Torque:": "325 Lb-Ft @ 3500 Rpm\r\n440 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 R18Y"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4145.4 Lbs (1880 Kg)",
+        "Gross Weight Limit:": "5534.6 Lbs (2510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "267 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1864,
+    "automobile_id": 514,
+    "name": "2.7L TDI 6AT (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2698 Cm3",
+        "Power:": "132 Kw @ 3300-4500 Rpm\r\n179 Hp @ 3300-4500 Rpm\r\n177 Bhp @ 3300-4500 Rpm",
+        "Torque:": "280 Lb-Ft @ 1400-3300 Rpm\r\n380 Nm @ 1400-3300 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "133.6 Mph (215 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4134.4 Lbs (1875 Kg)",
+        "Gross Weight Limit:": "5523.5 Lbs (2505 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "229 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1865,
+    "automobile_id": 514,
+    "name": "2.7L TDI 6AT (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2698 Cm3",
+        "Power:": "141.7 Kw @ 3500 Rpm\r\n193 Hp @ 3500 Rpm\r\n190 Bhp @ 3500 Rpm",
+        "Torque:": "332 Lb-Ft @ 1750 Rpm\r\n450 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4123 Lbs (1870 Kg)",
+        "Gross Weight Limit:": "5512 Lbs (2500 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.5 Mpg Us (8.3 L/100Km)",
+        "Highway:": "45.6 Mpg Us (5.2 L/100Km)",
+        "Combined:": "37.7 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1866,
+    "automobile_id": 514,
+    "name": "3.0L TDI (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "179 Kw @ 4000 Rpm\r\n243 Hp @ 4000 Rpm\r\n240 Bhp @ 4000 Rpm",
+        "Torque:": "369 Lb-Ft @ 1750 Rpm\r\n500 Nm @ 1750 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Tiptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4145 Lbs (1880 Kg)",
+        "Gross Weight Limit:": "5533 Lbs (2510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.1 Mpg Us (8.1 L/100Km)",
+        "Highway:": "45.6 Mpg Us (5.2 L/100Km)",
+        "Combined:": "37.7 Mpg Us (6.2 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1867,
+    "automobile_id": 514,
+    "name": "3.0L TDI 6AT (233 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "171 Kw @ 4000 Rpm\r\n232 Hp @ 4000 Rpm\r\n229 Bhp @ 4000 Rpm",
+        "Torque:": "332 Lb-Ft @ 1400-3250 Rpm\r\n450 Nm @ 1400-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic (Tiptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4145 Lbs (1880 Kg)",
+        "Gross Weight Limit:": "5534 Lbs (2510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Co2 Emissions:": "232 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1868,
+    "automobile_id": 514,
+    "name": "3.0L TDI 6MT (233 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "171 Kw @ 4000 Rpm\r\n232 Hp @ 4000 Rpm\r\n229 Bhp @ 4000 Rpm",
+        "Torque:": "332 Lb-Ft @ 1400-3250 Rpm\r\n450 Nm @ 1400-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143.5 Mph (231 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "194.3 In (4935 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.8/62.5 In (1,595/1,588 Mm)",
+        "Wheelbase:": "111.5 In (2832 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4112.3 Lbs (1865 Kg)",
+        "Gross Weight Limit:": "5501.5 Lbs (2495 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions:": "221 G/Km"
+      }
+    }
+  }
+]

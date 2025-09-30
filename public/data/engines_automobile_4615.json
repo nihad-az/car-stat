@@ -1,0 +1,128 @@
+[
+  {
+    "id": 18431,
+    "automobile_id": 4615,
+    "name": "1.0L 5MT FWD (69 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "51 Kw @ 6000 Rpm\r\n69 Hp @ 6000 Rpm\r\n68 Bhp @ 6000 Rpm",
+        "Torque:": "63 Lb-Ft @ 5000 Rpm\r\n85 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65R14"
+      },
+      "Dimensions": {
+        "Length:": "146.1 In (3711 Mm)",
+        "Width:": "65.6 In (1666 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "56.3/55.7 In (1,430/1,415 Mm)",
+        "Wheelbase:": "2450 In (62230 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1896 Lbs (860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "65 Mpg Us (3.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18432,
+    "automobile_id": 4615,
+    "name": "1.2L MIVEC 5MT FWD (77 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "3",
+        "Displacement:": "1193 Cm3",
+        "Power:": "57 Kw @ 6000 Rpm\r\n77 Hp @ 6000 Rpm\r\n76 Bhp @ 6000 Rpm",
+        "Torque:": "74 Lb-Ft @ 4000 Rpm\r\n100 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5 Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65R14"
+      },
+      "Dimensions": {
+        "Length:": "146.1 In (3711 Mm)",
+        "Width:": "65.6 In (1666 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "56.3/55.7 In (1,430/1,415 Mm)",
+        "Wheelbase:": "2450 In (62230 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1907 Lbs (865 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18433,
+    "automobile_id": 4615,
+    "name": "1.2L MIVEC CVT FWD (77 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "3",
+        "Displacement:": "1193 Cm3",
+        "Power:": "57 Kw @ 6000 Rpm\r\n77 Hp @ 6000 Rpm\r\n76 Bhp @ 6000 Rpm",
+        "Torque:": "74 Lb-Ft @ 4000 Rpm\r\n100 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Continuously Variable Automatic Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65R14"
+      },
+      "Dimensions": {
+        "Length:": "146.1 In (3711 Mm)",
+        "Width:": "65.6 In (1666 Mm)",
+        "Height:": "58.7 In (1491 Mm)",
+        "Front/Rear Track:": "56.3/55.7 In (1,430/1,415 Mm)",
+        "Wheelbase:": "2450 In (62230 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1962 Lbs (890 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)"
+      }
+    }
+  }
+]

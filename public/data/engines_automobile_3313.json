@@ -1,0 +1,527 @@
+[
+  {
+    "id": 13799,
+    "automobile_id": 3313,
+    "name": "1.8L 4AT FWD (134 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1836 Cm3",
+        "Power:": "98.6 Kw @ 6000 Rpm\r\n134 Hp @ 6000 Rpm\r\n132 Bhp @ 6000 Rpm",
+        "Torque:": "125 Lb-Ft @ 4500 Rpm\r\n169 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2954 Lbs (1340 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13800,
+    "automobile_id": 3313,
+    "name": "1.8L 5MT FWD (134 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1836 Cm3",
+        "Power:": "98.6 Kw @ 6000 Rpm\r\n134 Hp @ 6000 Rpm\r\n132 Bhp @ 6000 Rpm",
+        "Torque:": "125 Lb-Ft @ 4500 Rpm\r\n169 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2910 Lbs (1320 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13801,
+    "automobile_id": 3313,
+    "name": "2.0L 16V 4AT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "100 Kw @ 6000 Rpm\r\n136 Hp @ 6000 Rpm\r\n134 Bhp @ 6000 Rpm",
+        "Torque:": "136 Lb-Ft @ 4500 Rpm\r\n184 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3258 Lbs (1478 Kg)",
+        "Gross Weight Limit:": "4376.2 Lbs (1985 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13802,
+    "automobile_id": 3313,
+    "name": "2.0L 16V 5MT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "100 Kw @ 6000 Rpm\r\n136 Hp @ 6000 Rpm\r\n134 Bhp @ 6000 Rpm",
+        "Torque:": "136 Lb-Ft @ 4500 Rpm\r\n184 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128.6 Mph (207 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3038 Lbs (1378 Kg)",
+        "Gross Weight Limit:": "4376.2 Lbs (1985 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.7 Mpg Us (12.6 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Co2 Emissions:": "207 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13803,
+    "automobile_id": 3313,
+    "name": "2.0L 4AT FWD (149 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "109.6 Kw @ 6000 Rpm\r\n149 Hp @ 6000 Rpm\r\n147 Bhp @ 6000 Rpm",
+        "Torque:": "142 Lb-Ft @ 4500 Rpm\r\n193 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2943 Lbs (1335 Kg)",
+        "Gross Weight Limit:": "4376 Lbs (1985 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13804,
+    "automobile_id": 3313,
+    "name": "2.0L 5MT FWD (149 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "109.6 Kw @ 6000 Rpm\r\n149 Hp @ 6000 Rpm\r\n147 Bhp @ 6000 Rpm",
+        "Torque:": "142 Lb-Ft @ 4500 Rpm\r\n193 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2943 Lbs (1335 Kg)",
+        "Gross Weight Limit:": "4376 Lbs (1985 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13805,
+    "automobile_id": 3313,
+    "name": "2.5L V6 4AT FWD (169 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2493 Cm3",
+        "Power:": "124 Kw @ 6000 Rpm\r\n169 Hp @ 6000 Rpm\r\n166 Bhp @ 6000 Rpm",
+        "Torque:": "173 Lb-Ft @ 4000 Rpm\r\n234 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3296 Lbs (1495 Kg)",
+        "Gross Weight Limit:": "4090 Lbs (1855 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.5 Mpg Us (15.2 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "22.6 Mpg Us (10.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13806,
+    "automobile_id": 3313,
+    "name": "2.5L V6 5MT FWD (169 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2493 Cm3",
+        "Power:": "124 Kw @ 6000 Rpm\r\n169 Hp @ 6000 Rpm\r\n166 Bhp @ 6000 Rpm",
+        "Torque:": "173 Lb-Ft @ 4000 Rpm\r\n234 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132.97 Mph (214 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3057.8 Lbs (1387 Kg)",
+        "Gross Weight Limit:": "4376.2 Lbs (1985 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.9 Mpg Us (13.1 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "214 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13807,
+    "automobile_id": 3313,
+    "name": "LX 2.4L 4AT FWD (151 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2351 Cm3",
+        "Power:": "111.1 Kw @ 6000 Rpm\r\n151 Hp @ 6000 Rpm\r\n149 Bhp @ 6000 Rpm",
+        "Torque:": "159 Lb-Ft @ 4500 Rpm\r\n216 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3285 Lbs (1490 Kg)",
+        "Gross Weight Limit:": "4156 Lbs (1885 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13808,
+    "automobile_id": 3313,
+    "name": "LX 2.4L 5MT FWD (151 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2351 Cm3",
+        "Power:": "111.1 Kw @ 6000 Rpm\r\n151 Hp @ 6000 Rpm\r\n149 Bhp @ 6000 Rpm",
+        "Torque:": "159 Lb-Ft @ 4500 Rpm\r\n216 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3252 Lbs (1475 Kg)",
+        "Gross Weight Limit:": "4123 Lbs (1870 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13809,
+    "automobile_id": 3313,
+    "name": "LX 2.5L V6 4AT FWD (172 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2494 Cm3",
+        "Power:": "126.5 Kw @ 6000 Rpm\r\n172 Hp @ 6000 Rpm\r\n170 Bhp @ 6000 Rpm",
+        "Torque:": "169 Lb-Ft @ 4500 Rpm\r\n229 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3296 Lbs (1495 Kg)",
+        "Gross Weight Limit:": "4090 Lbs (1855 Kg)"
+      }
+    }
+  },
+  {
+    "id": 13810,
+    "automobile_id": 3313,
+    "name": "LX 2.7L V6 4AT FWD (181 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2656 Cm3",
+        "Power:": "133.1 Kw @ 6000 Rpm\r\n181 Hp @ 6000 Rpm\r\n178 Bhp @ 6000 Rpm",
+        "Torque:": "181 Lb-Ft @ 4000 Rpm\r\n245 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70/R14"
+      },
+      "Dimensions": {
+        "Length:": "185.82 In (4720 Mm)",
+        "Width:": "71.65 In (1820 Mm)",
+        "Height:": "55.51 In (1410 Mm)",
+        "Front/Rear Track:": "60.62/59.84 In (1,540/1,520 Mm)",
+        "Wheelbase:": "106.29 In (2700 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3190 Lbs (1447 Kg)"
+      }
+    }
+  }
+]

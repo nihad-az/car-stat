@@ -1,0 +1,92 @@
+[
+  {
+    "id": 35,
+    "automobile_id": 21,
+    "name": "3.5L V6 6AT (279 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "208.1 Kw @ 6200 Rpm\r\n283 Hp @ 6200 Rpm\r\n279 Bhp @ 6200 Rpm",
+        "Torque:": "252 Lb-Ft @ 4900 Rpm\r\n342 Nm @ 4900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P 235/60 R 18"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "63.1/63.4 In (1,603/1,610 Mm)",
+        "Wheelbase:": "105.7 In (2685 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "26.1 Cuft (739 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3737 - 3781 Lbs (1695 - 1715 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "automobile_id": 21,
+    "name": "3.5L V6 6AT AWD (279 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3471 Cm3",
+        "Power:": "208.1 Kw @ 6200 Rpm\r\n283 Hp @ 6200 Rpm\r\n279 Bhp @ 6200 Rpm",
+        "Torque:": "252 Lb-Ft @ 4900 Rpm\r\n342 Nm @ 4900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P 235/60 R 18"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Front/Rear Track:": "63.1/63.4 In (1,603/1,610 Mm)",
+        "Wheelbase:": "105.7 In (2685 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "26.1 Cuft (739 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": 17477,
+    "automobile_id": 4265,
+    "name": "380 SEC 4AT (207 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3839 Cm3",
+        "Power:": "152 Kw @ 5250 Rpm\r\n207 Hp @ 5250 Rpm\r\n204 Bhp @ 5250 Rpm",
+        "Torque:": "232 Lb-Ft @ 3250 Rpm\r\n315 Nm @ 3250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131 Mph (211 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15V"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3538 Lbs (1605 Kg)",
+        "Gross Weight Limit:": "4640.7 Lbs (2105 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Co2 Emissions:": "264 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17478,
+    "automobile_id": 4265,
+    "name": "420 SEC 4AT (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4196 Cm3",
+        "Power:": "150 Kw @ 5200 Rpm\r\n204 Hp @ 5200 Rpm\r\n201 Bhp @ 5200 Rpm",
+        "Torque:": "229 Lb-Ft @ 3600 Rpm\r\n310 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131 Mph (211 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15V"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571 Lbs (1620 Kg)",
+        "Gross Weight Limit:": "4717 Lbs (2140 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.6 Mpg Us (12 L/100Km)",
+        "Co2 Emissions:": "286 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17479,
+    "automobile_id": 4265,
+    "name": "420 SEC 4AT (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4196 Cm3",
+        "Power:": "160 Kw @ 5200 Rpm\r\n218 Hp @ 5200 Rpm\r\n215 Bhp @ 5200 Rpm",
+        "Torque:": "243 Lb-Ft @ 3750 Rpm\r\n330 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15V"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "61.4/60.2 In (1,560/1,529 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571 Lbs (1620 Kg)",
+        "Gross Weight Limit:": "4717 Lbs (2140 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.3 Mpg Us (15.4 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Co2 Emissions:": "276 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17480,
+    "automobile_id": 4265,
+    "name": "420 SEC 4AT (224 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4196 Cm3",
+        "Power:": "165 Kw @ 5400 Rpm\r\n224 Hp @ 5400 Rpm\r\n221 Bhp @ 5400 Rpm",
+        "Torque:": "240 Lb-Ft @ 4000 Rpm\r\n325 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15V"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3582 Lbs (1625 Kg)",
+        "Gross Weight Limit:": "4728 Lbs (2145 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Co2 Emissions:": "283 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17481,
+    "automobile_id": 4265,
+    "name": "420 SEC 4AT (231 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4196 Cm3",
+        "Power:": "170 Kw @ 5400 Rpm\r\n231 Hp @ 5400 Rpm\r\n228 Bhp @ 5400 Rpm",
+        "Torque:": "247 Lb-Ft @ 4000 Rpm\r\n335 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15V"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3582 Lbs (1625 Kg)",
+        "Gross Weight Limit:": "4728 Lbs (2145 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Co2 Emissions:": "273 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17482,
+    "automobile_id": 4265,
+    "name": "500 SEC (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4973 Cm3",
+        "Power:": "195 Kw @ 5200 Rpm\r\n265 Hp @ 5200 Rpm\r\n261 Bhp @ 5200 Rpm",
+        "Torque:": "299 Lb-Ft @ 4000 Rpm\r\n405 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3639 Lbs (1651 Kg)",
+        "Gross Weight Limit:": "4788 Lbs (2172 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Co2 Emissions:": "283 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17483,
+    "automobile_id": 4265,
+    "name": "500 SEC 4AT (223 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4973 Cm3",
+        "Power:": "164 Kw @ 4700 Rpm\r\n223 Hp @ 4700 Rpm\r\n220 Bhp @ 4700 Rpm",
+        "Torque:": "269 Lb-Ft @ 2500 Rpm\r\n365 Nm @ 2500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3637 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Co2 Emissions:": "297 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17484,
+    "automobile_id": 4265,
+    "name": "500 SEC 4AT (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4973 Cm3",
+        "Power:": "180 Kw @ 4750 Rpm\r\n245 Hp @ 4750 Rpm\r\n241 Bhp @ 4750 Rpm",
+        "Torque:": "295 Lb-Ft @ 3000 Rpm\r\n400 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3637 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.6 Mpg Us (12 L/100Km)",
+        "Co2 Emissions:": "285 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17485,
+    "automobile_id": 4265,
+    "name": "500 SEC 4AT (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4973 Cm3",
+        "Power:": "185 Kw @ 5200 Rpm\r\n252 Hp @ 5200 Rpm\r\n248 Bhp @ 5200 Rpm",
+        "Torque:": "288 Lb-Ft @ 3750 Rpm\r\n390 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15Z"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3637 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.5 Mpg Us (16.2 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)",
+        "Co2 Emissions:": "294 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17486,
+    "automobile_id": 4265,
+    "name": "560 SEC 4AT (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5547 Cm3",
+        "Power:": "180 Kw @ 4800 Rpm\r\n245 Hp @ 4800 Rpm\r\n241 Bhp @ 4800 Rpm",
+        "Torque:": "288 Lb-Ft @ 3500 Rpm\r\n390 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Zr15"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3880 Lbs (1760 Kg)",
+        "Gross Weight Limit:": "4894 Lbs (2220 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "17.4 Mpg Us (13.5 L/100Km)",
+        "Co2 Emissions:": "322 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17487,
+    "automobile_id": 4265,
+    "name": "560 SEC 4AT (279 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5547 Cm3",
+        "Power:": "205 Kw @ 5200 Rpm\r\n279 Hp @ 5200 Rpm\r\n275 Bhp @ 5200 Rpm",
+        "Torque:": "332 Lb-Ft @ 3750 Rpm\r\n450 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65Vr15"
+      },
+      "Dimensions": {
+        "Length:": "199.2 In (5060 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "61.2/61 In (1,554/1,549 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3853 Lbs (1748 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.4 Mpg Us (17.6 L/100Km)",
+        "Highway:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Combined:": "16.7 Mpg Us (14.1 L/100Km)",
+        "Co2 Emissions:": "335 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17488,
+    "automobile_id": 4265,
+    "name": "560 SEC 4AT (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5547 Cm3",
+        "Power:": "221 Kw @ 5000 Rpm\r\n300 Hp @ 5000 Rpm\r\n296 Bhp @ 5000 Rpm",
+        "Torque:": "336 Lb-Ft @ 3750 Rpm\r\n455 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "151 Mph (243 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Zr15"
+      },
+      "Dimensions": {
+        "Length:": "193.3 In (4910 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "60.8/59.5 In (1,544/1,511 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Cargo Volume:": "18 Cuft (510 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3880 Lbs (1760 Kg)",
+        "Gross Weight Limit:": "4894 Lbs (2220 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "17.7 Mpg Us (13.3 L/100Km)",
+        "Co2 Emissions:": "316 G/Km"
+      }
+    }
+  }
+]

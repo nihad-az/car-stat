@@ -1,0 +1,94 @@
+[
+  {
+    "id": 18630,
+    "automobile_id": 4677,
+    "name": "2.0L 16v 5MT (146 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "107 Kw @ 6000 Rpm\r\n146 Hp @ 6000 Rpm\r\n143 Bhp @ 6000 Rpm",
+        "Torque:": "144 Lb-Ft @ 5000 Rpm\r\n195 Nm @ 5000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60R15"
+      },
+      "Dimensions": {
+        "Length:": "172.4 In (4379 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "51.2 In (1300 Mm)",
+        "Front/Rear Track:": "59.8/59 In (1,519/1,499 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "8.5 Cuft (241 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2855 Lbs (1295 Kg)",
+        "Gross Weight Limit:": "3858 Lbs (1750 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.9 Mpg Us (13.9 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "225 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18631,
+    "automobile_id": 4677,
+    "name": "2.0L 16v Turbo 5MT (213 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "156 Kw @ 6000 Rpm\r\n213 Hp @ 6000 Rpm\r\n209 Bhp @ 6000 Rpm",
+        "Torque:": "214 Lb-Ft @ 3000 Rpm\r\n290 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "172.4 In (4379 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "51.2 In (1300 Mm)",
+        "Front/Rear Track:": "59.8/59 In (1,519/1,499 Mm)",
+        "Wheelbase:": "98.8 In (2510 Mm)",
+        "Ground Clearance:": "5.7 In (145 Mm)",
+        "Cargo Volume:": "8.5 Cuft (241 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2877 Lbs (1305 Kg)",
+        "Gross Weight Limit:": "3858 Lbs (1750 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.7 Mpg Us (15 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  }
+]

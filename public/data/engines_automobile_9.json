@@ -1,0 +1,67 @@
+[
+  {
+    "id": 12,
+    "automobile_id": 9,
+    "name": "A-Spec 102 KWh (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "250.1 Kw (340 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/50R20 (All-Season)"
+      },
+      "Dimensions": {
+        "Length:": "197.7 In (5022 Mm)",
+        "Width:": "77 In (1956 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Wheelbase:": "121.8 In (3094 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "102 Kwh"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "automobile_id": 9,
+    "name": "Type S Dual motor 102 KWh (500 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "367.7 Kw (500 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/40R22 (All-Season)"
+      },
+      "Dimensions": {
+        "Length:": "197.7 In (5022 Mm)",
+        "Width:": "77 In (1956 Mm)",
+        "Height:": "64.4 In (1636 Mm)",
+        "Wheelbase:": "121.8 In (3094 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "102 Kwh",
+        "Range:": "288 Miles (463.5 Km)"
+      }
+    }
+  }
+]

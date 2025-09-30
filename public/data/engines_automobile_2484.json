@@ -1,0 +1,363 @@
+[
+  {
+    "id": 10651,
+    "automobile_id": 2484,
+    "name": "2.0L T-GDI 8AT AWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "185.3 Kw @ - Rpm\r\n252 Hp @ - Rpm\r\n248 Bhp @ - Rpm",
+        "Torque:": "260 Lb-Ft @ - Rpm\r\n353 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3737 Lbs (1695 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Highway:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Combined:": "23.5 Mpg Us (10 L/100Km)",
+        "Co2 Emissions:": "168 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10652,
+    "automobile_id": 2484,
+    "name": "2.0L T-GDI 8AT RWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "185.3 Kw @ - Rpm\r\n252 Hp @ - Rpm\r\n248 Bhp @ - Rpm",
+        "Torque:": "260 Lb-Ft @ - Rpm\r\n353 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "156 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10653,
+    "automobile_id": 2484,
+    "name": "3.3L T-GDI V6 8AT AWD (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3342 Cm3",
+        "Power:": "272.1 Kw @ - Rpm\r\n370 Hp @ - Rpm\r\n365 Bhp @ - Rpm",
+        "Torque:": "376 Lb-Ft @ - Rpm\r\n510 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "168 Mph (270 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3913 Lbs (1775 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Combined:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Co2 Emissions:": "197 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10654,
+    "automobile_id": 2484,
+    "name": "3.3L T-GDI V6 8AT RWD (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3342 Cm3",
+        "Power:": "272.1 Kw @ - Rpm\r\n370 Hp @ - Rpm\r\n365 Bhp @ - Rpm",
+        "Torque:": "376 Lb-Ft @ - Rpm\r\n510 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "168 Mph (270 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.7 Mpg Us (12.6 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Co2 Emissions:": "188 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10655,
+    "automobile_id": 2484,
+    "name": "Sport 3.3L T-GDi V6 8AT AWD (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3342 Cm3",
+        "Power:": "272.1 Kw @ 6000 Rpm\r\n370 Hp @ 6000 Rpm\r\n365 Bhp @ 6000 Rpm",
+        "Torque:": "384 Lb-Ft @ 1300-4500 Rpm\r\n520 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3913 Lbs (1775 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Highway:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Co2 Emissions:": "197 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10656,
+    "automobile_id": 2484,
+    "name": "Sport 3.3L T-GDi V6 8AT RWD (370 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3342 Cm3",
+        "Power:": "272.1 Kw @ 6000 Rpm\r\n370 Hp @ 6000 Rpm\r\n365 Bhp @ 6000 Rpm",
+        "Torque:": "384 Lb-Ft @ 1300-4500 Rpm\r\n520 Nm @ 1300-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3759 Lbs (1705 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.7 Mpg Us (12.6 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Co2 Emissions:": "188 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10657,
+    "automobile_id": 2484,
+    "name": "2.2L D 8AT AWD (202 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2199 Cm3",
+        "Power:": "148.6 Kw @ 3800 Rpm\r\n202 Hp @ 3800 Rpm\r\n199 Bhp @ 3800 Rpm",
+        "Torque:": "332 Lb-Ft @ 1750-2750 Rpm\r\n450 Nm @ 1750-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3935 Lbs (1785 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "140 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10658,
+    "automobile_id": 2484,
+    "name": "2.2L D 8AT RWD (202 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2199 Cm3",
+        "Power:": "148.6 Kw @ 3800 Rpm\r\n202 Hp @ 3800 Rpm\r\n199 Bhp @ 3800 Rpm",
+        "Torque:": "332 Lb-Ft @ 1750-2750 Rpm\r\n450 Nm @ 1750-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R19"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "72.8 In (1849 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "62.8/63.1 In (1,595/1,603 Mm)",
+        "Wheelbase:": "111.6 In (2835 Mm)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3770 Lbs (1710 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "42 Mpg Us (5.6 L/100Km)",
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "124 G/Km"
+      }
+    }
+  }
+]

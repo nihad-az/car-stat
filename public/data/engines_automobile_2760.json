@@ -1,0 +1,51 @@
+[
+  {
+    "id": 11607,
+    "automobile_id": 2760,
+    "name": "1.0L 5MT (69 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "995 Cm3",
+        "Power:": "51 Kw @ 5700 Rpm\r\n69 Hp @ 5700 Rpm\r\n68 Bhp @ 5700 Rpm",
+        "Torque:": "68 Lb-Ft @ 4800 Rpm\r\n92 Nm @ 4800 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.9 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165/65R 14"
+      },
+      "Dimensions": {
+        "Length:": "155.3 In (3945 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "53.3 In (1354 Mm)",
+        "Front/Rear Track:": "56.5/52.2 In (1,435/1,326 Mm)",
+        "Wheelbase:": "94.5 In (2400 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "4.9 Cuft (139 L)",
+        "Aerodynamics (Cd):": "0.25"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1808.1 Lbs (820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Highway:": "78.4 Mpg Us (3 L/100Km)",
+        "Combined:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Co2 Emissions:": "81 G/Km"
+      }
+    }
+  }
+]

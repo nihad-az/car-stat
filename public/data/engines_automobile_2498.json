@@ -1,0 +1,206 @@
+[
+  {
+    "id": 10694,
+    "automobile_id": 2498,
+    "name": "2.0L 9AT AWD (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1986 Cm3",
+        "Power:": "169.2 Kw @ 5000 Rpm\r\n230 Hp @ 5000 Rpm\r\n227 Bhp @ 5000 Rpm",
+        "Torque:": "258 Lb-Ft @ 1500-4000 Rpm\r\n350 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic Hydra-Matic 9T65"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17 All-Season"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.2 In (183 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Turning Circle (Curb To Curb):": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4235 Lbs (1921 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10695,
+    "automobile_id": 2498,
+    "name": "2.0L 9AT FWD (230 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1986 Cm3",
+        "Power:": "169.2 Kw @ 5000 Rpm\r\n230 Hp @ 5000 Rpm\r\n227 Bhp @ 5000 Rpm",
+        "Torque:": "258 Lb-Ft @ 1500-4000 Rpm\r\n350 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic Hydra-Matic 9T65"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17 All-Season"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.2 In (183 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Turning Circle (Curb To Curb):": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4030 Lbs (1828 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10696,
+    "automobile_id": 2498,
+    "name": "2.5L VVT 9AT AWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2457 Cm3",
+        "Power:": "142 Kw @ 6300 Rpm\r\n193 Hp @ 6300 Rpm\r\n190 Bhp @ 6300 Rpm",
+        "Torque:": "188 Lb-Ft @ 4400 Rpm\r\n255 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic Hydra-Matic 9T65"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17 All-Season"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.2 In (183 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3922 Lbs (1779 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10697,
+    "automobile_id": 2498,
+    "name": "3.6L V6 VVT 9AT AWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3649 Cm3",
+        "Power:": "228 Kw @ 6600 Rpm\r\n310 Hp @ 6600 Rpm\r\n306 Bhp @ 6600 Rpm",
+        "Torque:": "275 Lb-Ft @ 5000 Rpm\r\n373 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic Hydra-Matic 9T65"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17 All-Season"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.2 In (183 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4306 Lbs (1953 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10698,
+    "automobile_id": 2498,
+    "name": "3.6L V6 VVT 9AT FWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3649 Cm3",
+        "Power:": "228 Kw @ 6600 Rpm\r\n310 Hp @ 6600 Rpm\r\n306 Bhp @ 6600 Rpm",
+        "Torque:": "275 Lb-Ft @ 5000 Rpm\r\n373 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic Hydra-Matic 9T65"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17 All-Season"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66 In (1676 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Ground Clearance:": "7.2 In (183 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4187 Lbs (1899 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

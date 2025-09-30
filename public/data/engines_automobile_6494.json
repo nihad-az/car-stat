@@ -1,0 +1,82 @@
+[
+  {
+    "id": 26228,
+    "automobile_id": 6494,
+    "name": "3.5 V6 6AT (268 HP) FWD",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "197.1 Kw @ 6200 Rpm\r\n268 Hp @ 6200 Rpm\r\n264 Bhp @ 6200 Rpm",
+        "Torque:": "248 Lb-Ft @ 4700 Rpm\r\n336 Nm @ 4700 Rpm",
+        "Fuel System:": "Toyota Direct Ignition (Tdi)",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Automatic Speed Ect-I"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Hydraulic Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55R17"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.6/62.2 In (1,590/1,580 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "30 Mpg Us (7.8 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26229,
+    "automobile_id": 6494,
+    "name": "2.5 L4 6AT (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "147.1 Kw @ 6200 Rpm\r\n200 Hp @ 6200 Rpm\r\n197 Bhp @ 6200 Rpm",
+        "Torque:": "0 Lb-Ft @  Rpm\r\n0 Nm @  Rpm",
+        "Fuel System:": "Toyota Direct Ignition (Tdi)",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Ecvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Hydraulic Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/55R17"
+      },
+      "Dimensions": {
+        "Length:": "195.3 In (4961 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "62.6/62.2 In (1,590/1,580 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "16 Cuft (453 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "40 Mpg Us (5.9 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "40 Mpg Us (5.9 L/100Km)"
+      }
+    }
+  }
+]

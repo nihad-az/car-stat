@@ -1,0 +1,92 @@
+[
+  {
+    "id": 12621,
+    "automobile_id": 3015,
+    "name": "3.7L V6 7AT AWD (328 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "244.6 Kw @ 7000 Rpm\r\n332.5 Hp @ 7000 Rpm\r\n328 Bhp @ 7000 Rpm",
+        "Torque:": "269 Lb-Ft @ 5200 Rpm\r\n365 Nm @ 5200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R 17 95V"
+      },
+      "Dimensions": {
+        "Length:": "186.3 In (4732 Mm)",
+        "Width:": "68.2 In (1732 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "59.8/60.2 In (1,519/1,529 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3821 Lbs (1733 Kg)",
+        "Gross Weight Limit:": "4846 Lbs (2198 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12622,
+    "automobile_id": 3015,
+    "name": "3.7L V6 7AT RWD (328 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "244.6 Kw @ 7000 Rpm\r\n332.5 Hp @ 7000 Rpm\r\n328 Bhp @ 7000 Rpm",
+        "Torque:": "269 Lb-Ft @ 5200 Rpm\r\n365 Nm @ 5200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R 17 95V"
+      },
+      "Dimensions": {
+        "Length:": "186.3 In (4732 Mm)",
+        "Width:": "68.2 In (1732 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "59.8/60.2 In (1,519/1,529 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3624 Lbs (1644 Kg)",
+        "Gross Weight Limit:": "4722 Lbs (2142 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 21839,
+    "automobile_id": 5341,
+    "name": "5.7L V8 6MT RWD (350 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5665 Cm3",
+        "Power:": "261 Kw @ 5200 Rpm\r\n355 Hp @ 5200 Rpm\r\n350 Bhp @ 5200 Rpm",
+        "Torque:": "365 Lb-Ft @ 4000 Rpm\r\n495 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40R18"
+      },
+      "Dimensions": {
+        "Length:": "189.8 In (4821 Mm)",
+        "Width:": "72.5 In (1842 Mm)",
+        "Height:": "54.9 In (1394 Mm)",
+        "Front/Rear Track:": "62.1/62.1 In (1,577/1,577 Mm)",
+        "Wheelbase:": "109.8 In (2789 Mm)",
+        "Cargo Volume:": "7 Cuft (198 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3726 Lbs (1690 Kg)"
+      }
+    }
+  },
+  {
+    "id": 21840,
+    "automobile_id": 5341,
+    "name": "6.0L V8 6MT RWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5970 Cm3",
+        "Power:": "297 Kw @ 5200 Rpm\r\n400 Hp @ 5200 Rpm\r\n398 Bhp @ 5200 Rpm",
+        "Torque:": "400 Lb-Ft @ 4000 Rpm\r\n542 Nm @ 4000 Rpm",
+        "Fuel System:": "Standard Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "170.3 Mph (274 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40R18"
+      },
+      "Dimensions": {
+        "Length:": "189.8 In (4821 Mm)",
+        "Width:": "72.5 In (1842 Mm)",
+        "Height:": "54.9 In (1394 Mm)",
+        "Front/Rear Track:": "62.1/62.1 In (1,577/1,577 Mm)",
+        "Wheelbase:": "109.8 In (2789 Mm)",
+        "Cargo Volume:": "7 Cuft (198 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3743.4 Lbs (1698 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "18.1 Mpg Us (13 L/100Km)",
+        "Co2 Emissions:": "309.4 G/Km"
+      }
+    }
+  }
+]

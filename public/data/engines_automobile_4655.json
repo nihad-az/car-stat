@@ -1,0 +1,98 @@
+[
+  {
+    "id": 18560,
+    "automobile_id": 4655,
+    "name": "3.5 V6 GDI",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3497 Cm3",
+        "Power:": "149 Kw @ 5000 Rpm\r\n202 Hp @ 5000 Rpm\r\n200 Bhp @ 5000 Rpm",
+        "Torque:": "235 Lb-Ft @ 4000 Rpm\r\n318 Nm @ 4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114.9 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Automatic, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70R16"
+      },
+      "Dimensions": {
+        "Length:": "190.1 In (4829 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "73.2 In (1859 Mm)",
+        "Front/Rear Track:": "61.4/61.4 In (1,560/1,560 Mm)",
+        "Wheelbase:": "109.4 In (2779 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4651.7 Lbs (2110 Kg)",
+        "Gross Weight Limit:": "6084.7 Lbs (2760 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.5 Mpg Us (18.8 L/100Km)",
+        "Highway:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)",
+        "Co2 Emissions:": "331 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18561,
+    "automobile_id": 4655,
+    "name": "3.2 DI-D",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "3200 Cm3",
+        "Power:": "118 Kw @ 3800 Rpm\r\n160 Hp @ 3800 Rpm\r\n158 Bhp @ 3800 Rpm",
+        "Torque:": "275 Lb-Ft @ 2000 Rpm\r\n373 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "105.6 Mph (170 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70R16"
+      },
+      "Dimensions": {
+        "Length:": "190.1 In (4829 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "73.2 In (1859 Mm)",
+        "Front/Rear Track:": "61.4/61.4 In (1,560/1,560 Mm)",
+        "Wheelbase:": "109.4 In (2779 Mm)",
+        "Ground Clearance:": "8.5 In (216 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4717.9 Lbs (2140 Kg)",
+        "Gross Weight Limit:": "6195 Lbs (2810 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Co2 Emissions:": "240 G/Km"
+      }
+    }
+  }
+]

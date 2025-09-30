@@ -1,0 +1,76 @@
+[
+  {
+    "id": 11219,
+    "automobile_id": 2638,
+    "name": "1.5L CVT (192 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "141.2 Kw @ 5500 Rpm\r\n192 Hp @ 5500 Rpm\r\n189 Bhp @ 5500 Rpm",
+        "Torque:": "192 Lb-Ft @ 1600-5000 Rpm\r\n260 Nm @ 1600-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50R17"
+      }
+    }
+  },
+  {
+    "id": 11220,
+    "automobile_id": 2638,
+    "name": "2.0L 10AT (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "185.3 Kw @ 6500 Rpm\r\n252 Hp @ 6500 Rpm\r\n248 Bhp @ 6500 Rpm",
+        "Torque:": "273 Lb-Ft @ 1500-4000 Rpm\r\n370 Nm @ 1500-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50R17"
+      }
+    }
+  },
+  {
+    "id": 11221,
+    "automobile_id": 2638,
+    "name": "2.0L i-VTEC (212 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Total Maximum Power:": "155.9 Kw (212 Hp)",
+        "Total Maximum Torque:": "232 Lb-Ft (315 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50R17"
+      }
+    }
+  }
+]

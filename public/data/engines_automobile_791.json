@@ -1,0 +1,129 @@
+[
+  {
+    "id": 3687,
+    "automobile_id": 791,
+    "name": "22 kWh (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "125 Kw @ 4800 Rpm\r\n170 Hp @ 4800 Rpm\r\n168 Bhp @ 4800 Rpm",
+        "Fuel System:": "Bmw Edrive Technology:  Hybrid Synchronous Motor With Integrated Power Electronics,  Charger And Generator Mode For Recuperation",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, Single-Speed With Fixed Ratio"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155/70 R19"
+      },
+      "Dimensions": {
+        "Length:": "157.4 In (3998 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "62.1 In (1577 Mm)",
+        "Front/Rear Track:": "27.8/28.4 In (706/721 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2635 Lbs (1195 Kg)",
+        "Gross Weight Limit:": "3571 Lbs (1620 Kg)"
+      }
+    }
+  },
+  {
+    "id": 3688,
+    "automobile_id": 791,
+    "name": "22 kWh with Range Extender (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "75 Kw @ 4800 Rpm\r\n102 Hp @ 4800 Rpm\r\n101 Bhp @ 4800 Rpm",
+        "Fuel System:": "Bmw Edrive Technology:  Hybrid Synchronous Motor With Integrated Power Electronics,  Charger And Generator Mode For Recuperation",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, Single-Speed With Fixed Ratio"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155/70 R19"
+      },
+      "Dimensions": {
+        "Length:": "157.4 In (3998 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "62.1 In (1577 Mm)",
+        "Front/Rear Track:": "27.8/28.4 In (706/721 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2899 Lbs (1315 Kg)",
+        "Gross Weight Limit:": "3814 Lbs (1730 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "392 Mpg Us (0.6 L/100Km)",
+        "Co2 Emissions:": "13 G/Km"
+      }
+    }
+  },
+  {
+    "id": 3689,
+    "automobile_id": 791,
+    "name": "33 kWh (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "125 Kw @ 4800 Rpm\r\n170 Hp @ 4800 Rpm\r\n168 Bhp @ 4800 Rpm",
+        "Fuel System:": "33 Kwh Lithium-Ion Battery",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, Single-Speed With Fixed Ratio"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155/70 R19"
+      },
+      "Dimensions": {
+        "Length:": "157.4 In (3998 Mm)",
+        "Width:": "69.9 In (1775 Mm)",
+        "Height:": "62.1 In (1577 Mm)",
+        "Front/Rear Track:": "27.8/28.4 In (706/721 Mm)",
+        "Wheelbase:": "101.2 In (2570 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "9.2 Cuft (261 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2635 Lbs (1195 Kg)",
+        "Gross Weight Limit:": "3571 Lbs (1620 Kg)"
+      }
+    }
+  }
+]

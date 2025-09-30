@@ -1,0 +1,131 @@
+[
+  {
+    "id": 5852,
+    "automobile_id": 1246,
+    "name": "2.9L 5MT (185 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2921 Cm3",
+        "Power:": "138 Kw @ 5600 Rpm\r\n185 Hp @ 5600 Rpm\r\n185 Bhp @ 5600 Rpm",
+        "Torque:": "190 Lb-Ft @ 2800 Rpm\r\n258 Nm @ 2800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/75R16"
+      },
+      "Dimensions": {
+        "Length:": "207.1 In (5260 Mm)",
+        "Width:": "67.6 In (1717 Mm)",
+        "Height:": "65.2 In (1656 Mm)",
+        "Front/Rear Track:": "57.5/57.5 In (1,461/1,461 Mm)",
+        "Wheelbase:": "126 In (3200 Mm)",
+        "Ground Clearance:": "7.7 In (196 Mm)",
+        "Cargo Volume:": "37 Cuft (1048 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3688 Lbs (1673 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21.5 Mpg Us (10.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5853,
+    "automobile_id": 1246,
+    "name": "3.7L 4AT (241 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "3654 Cm3",
+        "Power:": "180 Kw @ 5600 Rpm\r\n242 Hp @ 5600 Rpm\r\n241 Bhp @ 5600 Rpm",
+        "Torque:": "242 Lb-Ft @ 4600 Rpm\r\n328 Nm @ 4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/75R16"
+      },
+      "Dimensions": {
+        "Length:": "207.1 In (5260 Mm)",
+        "Width:": "67.6 In (1717 Mm)",
+        "Height:": "65.2 In (1656 Mm)",
+        "Front/Rear Track:": "57.5/57.5 In (1,461/1,461 Mm)",
+        "Wheelbase:": "126 In (3200 Mm)",
+        "Ground Clearance:": "7.7 In (196 Mm)",
+        "Cargo Volume:": "37 Cuft (1048 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3782 Lbs (1715 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5854,
+    "automobile_id": 1246,
+    "name": "5.3L V8 4AT (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5328 Cm3",
+        "Power:": "224 Kw @ 5200 Rpm\r\n300 Hp @ 5200 Rpm\r\n300 Bhp @ 5200 Rpm",
+        "Torque:": "320 Lb-Ft @ 4000 Rpm\r\n434 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/75R16"
+      },
+      "Dimensions": {
+        "Length:": "207.1 In (5260 Mm)",
+        "Width:": "67.6 In (1717 Mm)",
+        "Height:": "65.2 In (1656 Mm)",
+        "Front/Rear Track:": "57.5/57.5 In (1,461/1,461 Mm)",
+        "Wheelbase:": "126 In (3200 Mm)",
+        "Ground Clearance:": "7.7 In (196 Mm)",
+        "Cargo Volume:": "37 Cuft (1048 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4013 Lbs (1820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  }
+]

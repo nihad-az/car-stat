@@ -1,0 +1,987 @@
+[
+  {
+    "id": 19865,
+    "automobile_id": 5024,
+    "name": "1.4L Turbo Ecoflex 6MT (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1364 Cm3",
+        "Power:": "103 Kw @ 4900-6000 Rpm\r\n140 Hp @ 4900-6000 Rpm\r\n138 Bhp @ 4900-6000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1850 - 4900 Rpm\r\n200 Nm @ 1850 - 4900 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4883 Lbs (2215 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19866,
+    "automobile_id": 5024,
+    "name": "1.6L ECOTEC 6MT (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "85 Kw @ 6000 Rpm\r\n116 Hp @ 6000 Rpm\r\n114 Bhp @ 6000 Rpm",
+        "Torque:": "155 Lb-Ft @ 4000 Rpm\r\n210 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116.2 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62/5 In (1,585/1,575 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3329 Lbs (1510 Kg)",
+        "Gross Weight Limit:": "4773 Lbs (2165 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Co2 Emissions:": "178 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19867,
+    "automobile_id": 5024,
+    "name": "1.6l Turbo ECOTEC 6MT (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "132 Kw @ 5500 Rpm\r\n179 Hp @ 5500 Rpm\r\n177 Bhp @ 5500 Rpm",
+        "Torque:": "230 Lb-Ft @ 2500-5500 Rpm\r\n312 Nm @ 2500-5500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4883 Lbs (2215 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19868,
+    "automobile_id": 5024,
+    "name": "1.8L ECOTEC 6MT (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1796 Cm3",
+        "Power:": "103 Kw @ 6300 Rpm\r\n140 Hp @ 6300 Rpm\r\n138 Bhp @ 6300 Rpm",
+        "Torque:": "175 Lb-Ft @ 3800 Rpm\r\n237 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3336 Lbs (1513 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.4 Mpg Us (11 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "184 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19869,
+    "automobile_id": 5024,
+    "name": "2.0L Turbo 6AT AWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "161.8 Kw @ 5300 Rpm\r\n220 Hp @ 5300 Rpm\r\n217 Bhp @ 5300 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000 Rpm\r\n350 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3843 Lbs (1743 Kg)",
+        "Gross Weight Limit:": "5346 Lbs (2425 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.2 Mpg Us (13.7 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Co2 Emissions:": "223 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19870,
+    "automobile_id": 5024,
+    "name": "2.0L Turbo 6MT AWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "161.8 Kw @ 5300 Rpm\r\n220 Hp @ 5300 Rpm\r\n217 Bhp @ 5300 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000 Rpm\r\n350 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3843 Lbs (1743 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Co2 Emissions:": "213 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19871,
+    "automobile_id": 5024,
+    "name": "2.0L Turbo ECOTEC 6AT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "184 Kw @ 5300 Rpm\r\n250 Hp @ 5300 Rpm\r\n247 Bhp @ 5300 Rpm",
+        "Torque:": "295 Lb-Ft @ 2400–3600 Rpm\r\n400 Nm @ 2400–3600 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3843 Lbs (1743 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19872,
+    "automobile_id": 5024,
+    "name": "2.0L Turbo ECOTEC 6MT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "184 Kw @ 5300 Rpm\r\n250 Hp @ 5300 Rpm\r\n247 Bhp @ 5300 Rpm",
+        "Torque:": "295 Lb-Ft @ 2400–3600 Rpm\r\n400 Nm @ 2400–3600 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3843 Lbs (1743 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19873,
+    "automobile_id": 5024,
+    "name": "2.8L V6 Turbo 6AT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2792 Cm3",
+        "Power:": "191 Kw @ 5500 Rpm\r\n260 Hp @ 5500 Rpm\r\n256 Bhp @ 5500 Rpm",
+        "Torque:": "350 Lb-Ft @ 1900-4500 Rpm\r\n475 Nm @ 1900-4500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "154 Mph (248 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4085 Lbs (1853 Kg)",
+        "Gross Weight Limit:": "5556 Lbs (2520 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Combined:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Co2 Emissions:": "265 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19874,
+    "automobile_id": 5024,
+    "name": "2.8L V6 Turbo 6MT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2792 Cm3",
+        "Power:": "191 Kw @ 5500 Rpm\r\n260 Hp @ 5500 Rpm\r\n256 Bhp @ 5500 Rpm",
+        "Torque:": "350 Lb-Ft @ 1900-4500 Rpm\r\n475 Nm @ 1900-4500 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4057 Lbs (1840 Kg)",
+        "Gross Weight Limit:": "5501 Lbs (2495 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.1 Mpg Us (16.7 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "263 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19875,
+    "automobile_id": 5024,
+    "name": "2.0L CDTI 6AT (130 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1956 Cm3",
+        "Power:": "96 Kw @ 4000 Rpm\r\n131 Hp @ 4000 Rpm\r\n129 Bhp @ 4000 Rpm",
+        "Torque:": "300 Lb-Ft @ 1750-2500 Rpm\r\n407 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3600 Lbs (1633 Kg)",
+        "Gross Weight Limit:": "5071 Lbs (2300 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "151 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19876,
+    "automobile_id": 5024,
+    "name": "2.0L CDTI 6AT (160 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1956 Cm3",
+        "Power:": "118 Kw @ 4000 Rpm\r\n160 Hp @ 4000 Rpm\r\n158 Bhp @ 4000 Rpm",
+        "Torque:": "350 Lb-Ft @ 1750-2500 Rpm\r\n475 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3710 Lbs (1683 Kg)",
+        "Gross Weight Limit:": "5104 Lbs (2315 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "155 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19877,
+    "automobile_id": 5024,
+    "name": "2.0L CDTI 6MT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1956 Cm3",
+        "Power:": "81 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n109 Bhp @ 4000 Rpm",
+        "Torque:": "260 Lb-Ft @ 1750-2500 Rpm\r\n353 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4993 Lbs (2265 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19878,
+    "automobile_id": 5024,
+    "name": "2.0L CDTI 6MT (130 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1956 Cm3",
+        "Power:": "96 Kw @ 4000 Rpm\r\n131 Hp @ 4000 Rpm\r\n129 Bhp @ 4000 Rpm",
+        "Torque:": "300 Lb-Ft @ 1750-2500 Rpm\r\n407 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124.2 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4993 Lbs (2265 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19879,
+    "automobile_id": 5024,
+    "name": "2.0L CDTI 6MT (160 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1956 Cm3",
+        "Power:": "118 Kw @ 4000 Rpm\r\n160 Hp @ 4000 Rpm\r\n158 Bhp @ 4000 Rpm",
+        "Torque:": "350 Lb-Ft @ 1750-2500 Rpm\r\n475 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131.7 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "5049 Lbs (2290 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19880,
+    "automobile_id": 5024,
+    "name": "2.0L CDTI BiTurbo 6AT (195 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1956 Cm3",
+        "Power:": "143.4 Kw @ 4000 Rpm\r\n195 Hp @ 4000 Rpm\r\n192 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750 Rpm\r\n400 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3362 Lbs (1525 Kg)",
+        "Gross Weight Limit:": "4857 Lbs (2203 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.4 Mpg Us (8 L/100Km)",
+        "Highway:": "49 Mpg Us (4.8 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "158 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19881,
+    "automobile_id": 5024,
+    "name": "2.0L CDTI BiTurbo 6MT (195 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1956 Cm3",
+        "Power:": "143.4 Kw @ 4000 Rpm\r\n195 Hp @ 4000 Rpm\r\n192 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1750 Rpm\r\n400 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3313 Lbs (1503 Kg)",
+        "Gross Weight Limit:": "4813 Lbs (2183 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19882,
+    "automobile_id": 5024,
+    "name": "1.4L Turbo Bi-Fuel 6MT (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1364 Cm3",
+        "Power:": "103 Kw @ 4900-6000 Rpm\r\n140 Hp @ 4900-6000 Rpm\r\n138 Bhp @ 4900-6000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1850 - 4900 Rpm\r\n200 Nm @ 1850 - 4900 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Natural Gas"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4883 Lbs (2215 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "129 G/Km"
+      }
+    }
+  },
+  {
+    "id": 19883,
+    "automobile_id": 5024,
+    "name": "2.0L Turbo E85 6MT (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "161.8 Kw @ 5300 Rpm\r\n220 Hp @ 5300 Rpm\r\n217 Bhp @ 5300 Rpm",
+        "Torque:": "258 Lb-Ft @ 2000 Rpm\r\n350 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Ethanol"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.2 In (4907 Mm)",
+        "Width:": "73.1 In (1857 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "107.8 In (2738 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "19.1 Cuft (541 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "35.4 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3583 Lbs (1625 Kg)",
+        "Gross Weight Limit:": "5027 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.3 Mpg Us (17.7 L/100Km)",
+        "Highway:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Combined:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Co2 Emissions:": "192 G/Km"
+      }
+    }
+  }
+]

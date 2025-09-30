@@ -1,0 +1,46 @@
+[
+  {
+    "id": 14432,
+    "automobile_id": 3553,
+    "name": "250 8AT AWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Fuel:": "Gasoline"
+      }
+    }
+  },
+  {
+    "id": 14433,
+    "automobile_id": 3553,
+    "name": "350 V6  8AT FWD (306 HP) ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "225.1 Kw @ 6600 Rpm\r\n306 Hp @ 6600 Rpm\r\n302 Bhp @ 6600 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 14434,
+    "automobile_id": 3553,
+    "name": "300h e-CVT FWD (215 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Fuel:": "Hybrid Gasoline"
+      }
+    }
+  }
+]

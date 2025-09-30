@@ -1,0 +1,68 @@
+[
+  {
+    "id": 10578,
+    "automobile_id": 2456,
+    "name": "3.5L 3MT (101 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3523 Cm3",
+        "Power:": "75 Kw @ 3500 Rpm\r\n101 Hp @ 3500 Rpm\r\n101 Bhp @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "65 Mph (105 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "18.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70X15"
+      },
+      "Dimensions": {
+        "Length:": "198.3 In (5037 Mm)",
+        "Width:": "73.5 In (1867 Mm)",
+        "Height:": "60.7 In (1542 Mm)",
+        "Front/Rear Track:": "58/56 In (1,473/1,422 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Aerodynamics (Cd):": "0.6"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3335 Lbs (1513 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10579,
+    "automobile_id": 2456,
+    "name": "3.9L 3MT (132 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3917 Cm3",
+        "Power:": "97.1 Kw @ 4200 Rpm\r\n132 Hp @ 4200 Rpm\r\n130 Bhp @ 4200 Rpm",
+        "Torque:": "214 Lb-Ft @ 1800-2200 Rpm\r\n290 Nm @ 1800-2200 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70 X 15"
+      }
+    }
+  }
+]

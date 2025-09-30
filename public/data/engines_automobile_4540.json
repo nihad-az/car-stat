@@ -1,0 +1,76 @@
+[
+  {
+    "id": 18020,
+    "automobile_id": 4540,
+    "name": "Comfort / Luxury 70 KWh (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "132.4 Kw (180 Hp)",
+        "Electrical Motor Torque:": "302.4 Lb-Ft (410 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "75.6 In (1920 Mm)",
+        "Height:": "63.5 In (1613 Mm)",
+        "Wheelbase:": "110.4 In (2804 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3990 Lbs (1810 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "70 Kwh",
+        "Range:": "249.8 Miles (402.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 18021,
+    "automobile_id": 4540,
+    "name": "Performance 70 KWh (288 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "211.8 Kw (288 Hp)",
+        "Electrical Motor Torque:": "490.5 Lb-Ft (665 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "184 In (4674 Mm)",
+        "Width:": "75.6 In (1920 Mm)",
+        "Height:": "63.5 In (1613 Mm)",
+        "Wheelbase:": "110.4 In (2804 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4233 Lbs (1920 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "70 Kwh",
+        "Range:": "229.9 Miles (370.0 Km)"
+      }
+    }
+  }
+]

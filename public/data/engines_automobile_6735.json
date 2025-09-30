@@ -1,0 +1,81 @@
+[
+  {
+    "id": 27131,
+    "automobile_id": 6735,
+    "name": "4.0L 5MT (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3996 Cm3",
+        "Power:": "294 Kw @ 7000 Rpm\r\n400 Hp @ 7000 Rpm\r\n394 Bhp @ 7000 Rpm",
+        "Torque:": "333 Lb-Ft @ 5250 Rpm\r\n451 Nm @ 5250 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "195 Mph (314 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/35 Zr18 (Front) - 235/40 Zr18 (Rear)"
+      },
+      "Dimensions": {
+        "Length:": "171.9 In (4366 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "47.6 In (1209 Mm)",
+        "Wheelbase:": "101 In (2565 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2304 Lbs (1045 Kg)"
+      }
+    }
+  },
+  {
+    "id": 27132,
+    "automobile_id": 6735,
+    "name": "4.2L 6MT (440 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "4200 Cm3",
+        "Power:": "324 Kw @ 7600 Rpm\r\n440 Hp @ 7600 Rpm\r\n434 Bhp @ 7600 Rpm",
+        "Torque:": "350 Lb-Ft @ 6000 Rpm\r\n475 Nm @ 6000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "198 Mph (319 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 Zr18 (Front) - 255/40 Zr18 (Rear)"
+      },
+      "Dimensions": {
+        "Length:": "171.9 In (4366 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "47.6 In (1209 Mm)",
+        "Wheelbase:": "101 In (2565 Mm)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2304 Lbs (1045 Kg)"
+      }
+    }
+  }
+]

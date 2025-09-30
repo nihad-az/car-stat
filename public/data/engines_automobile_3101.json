@@ -1,0 +1,394 @@
+[
+  {
+    "id": 12926,
+    "automobile_id": 3101,
+    "name": "2.0L i4 Ti 8AT RWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "177 Kw @ 5500 Rpm\r\n241 Hp @ 5500 Rpm\r\n237 Bhp @ 5500 Rpm",
+        "Torque:": "251 Lb-Ft @ 2000-4000 Rpm\r\n340 Nm @ 2000-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3660 Lbs (1660 Kg)",
+        "Gross Weight Limit:": "4927 Lbs (2235 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.3 Mpg Us (13.6 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "216 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12927,
+    "automobile_id": 3101,
+    "name": "3.0L 8AT RWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "250 Kw @ 6500 Rpm\r\n340 Hp @ 6500 Rpm\r\n335 Bhp @ 6500 Rpm",
+        "Torque:": "332 Lb-Ft @ 3500-5000 Rpm\r\n450 Nm @ 3500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed, Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4125 Lbs (1871 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.3 Mpg Us (14.4 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Co2 Emissions:": "234 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12928,
+    "automobile_id": 3101,
+    "name": "3.0L V6 8AT  AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "250 Kw @ 6500 Rpm\r\n340 Hp @ 6500 Rpm\r\n335 Bhp @ 6500 Rpm",
+        "Torque:": "332 Lb-Ft @ 3500-5000 Rpm\r\n450 Nm @ 3500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45R19 // 275/40R19"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4125 Lbs (1871 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.3 Mpg Us (14.4 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Co2 Emissions:": "234 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12929,
+    "automobile_id": 3101,
+    "name": "3.0L V6 8AT RWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "250 Kw @ 6500 Rpm\r\n340 Hp @ 6500 Rpm\r\n335 Bhp @ 6500 Rpm",
+        "Torque:": "332 Lb-Ft @ 3500-5000 Rpm\r\n450 Nm @ 3500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3869 Lbs (1755 Kg)",
+        "Gross Weight Limit:": "5071 Lbs (2300 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.4 Mpg Us (13.5 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12930,
+    "automobile_id": 3101,
+    "name": "5.0L V8 8AT RWD (385 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "283 Kw @ 6500 Rpm\r\n385 Hp @ 6500 Rpm\r\n380 Bhp @ 6500 Rpm",
+        "Torque:": "280 Lb-Ft @ 3500 Rpm\r\n380 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45R19 // 275/40R19"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "5093 Lbs (2310 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Combined:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Co2 Emissions:": "254 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12931,
+    "automobile_id": 3101,
+    "name": "5.0L V8 8AT RWD (470 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "346 Kw @ 6000-6500 Rpm\r\n470 Hp @ 6000-6500 Rpm\r\n464 Bhp @ 6000-6500 Rpm",
+        "Torque:": "424 Lb-Ft @ 2000-5500 Rpm\r\n575 Nm @ 2000-5500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed, Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45R19 // 275/40R19"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4123 Lbs (1870 Kg)",
+        "Gross Weight Limit:": "5181 Lbs (2350 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.9 Mpg Us (16.9 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Co2 Emissions:": "270 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12932,
+    "automobile_id": 3101,
+    "name": "5.0L V8 8AT RWD (510 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "375 Kw @ 6000-6500 Rpm\r\n510 Hp @ 6000-6500 Rpm\r\n503 Bhp @ 6000-6500 Rpm",
+        "Torque:": "461 Lb-Ft @ 2500-5500 Rpm\r\n625 Nm @ 2500-5500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45R19 // 275/40R19"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4123 Lbs (1870 Kg)",
+        "Gross Weight Limit:": "5225 Lbs (2370 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.9 Mpg Us (16.9 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Co2 Emissions:": "270 G/Km"
+      }
+    }
+  },
+  {
+    "id": 12933,
+    "automobile_id": 3101,
+    "name": "3.0D V6 8AT RWD (275 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "202 Kw @ 4000 Rpm\r\n275 Hp @ 4000 Rpm\r\n271 Bhp @ 4000 Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.7 Gallons (82.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed, Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "201.6 In (5121 Mm)",
+        "Width:": "83 In (2108 Mm)",
+        "Height:": "57 In (1448 Mm)",
+        "Front/Rear Track:": "64/63.1 In (1,626/1,603 Mm)",
+        "Wheelbase:": "119.3 In (3030 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "18.3 Cuft (518 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  }
+]

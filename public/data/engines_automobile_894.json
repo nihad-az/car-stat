@@ -1,0 +1,609 @@
+[
+  {
+    "id": 4866,
+    "automobile_id": 894,
+    "name": "518i 5MT RWD (113 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1796 Cm3",
+        "Power:": "83 Kw @ 5500 Rpm\r\n113 Hp @ 5500 Rpm\r\n111 Bhp @ 5500 Rpm",
+        "Torque:": "119 Lb-Ft @ 4250 Rpm\r\n162 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15H"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3185.7 Lbs (1445 Kg)",
+        "Gross Weight Limit:": "4442.3 Lbs (2015 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Highway:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "207 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4867,
+    "automobile_id": 894,
+    "name": "520i 5AT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "1991 Cm3",
+        "Power:": "110 Kw @ 5900 Rpm\r\n150 Hp @ 5900 Rpm\r\n148 Bhp @ 5900 Rpm",
+        "Torque:": "140 Lb-Ft @ 4200 Rpm\r\n190 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3417 Lbs (1550 Kg)",
+        "Gross Weight Limit:": "4707 Lbs (2135 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.9 Mpg Us (15.8 L/100Km)",
+        "Highway:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4868,
+    "automobile_id": 894,
+    "name": "520i 5MT RWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "1991 Cm3",
+        "Power:": "110 Kw @ 5900 Rpm\r\n150 Hp @ 5900 Rpm\r\n148 Bhp @ 5900 Rpm",
+        "Torque:": "140 Lb-Ft @ 4200 Rpm\r\n190 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.4 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3340 Lbs (1515 Kg)",
+        "Gross Weight Limit:": "4629.7 Lbs (2100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.8 Mpg Us (14 L/100Km)",
+        "Highway:": "33.2 Mpg Us (7.1 L/100Km)",
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "231 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4869,
+    "automobile_id": 894,
+    "name": "525i 5AT RWD (192 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2494 Cm3",
+        "Power:": "141 Kw @ 5900 Rpm\r\n192 Hp @ 5900 Rpm\r\n189 Bhp @ 5900 Rpm",
+        "Torque:": "184 Lb-Ft @ 4200 Rpm\r\n250 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4762 Lbs (2160 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4870,
+    "automobile_id": 894,
+    "name": "525i 5MT RWD (192 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2494 Cm3",
+        "Power:": "141 Kw @ 5900 Rpm\r\n192 Hp @ 5900 Rpm\r\n189 Bhp @ 5900 Rpm",
+        "Torque:": "184 Lb-Ft @ 4200 Rpm\r\n250 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137.3 Mph (221 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472.3 Lbs (1575 Kg)",
+        "Gross Weight Limit:": "4684.8 Lbs (2125 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.6 Mpg Us (15.1 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Co2 Emissions:": "242 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4871,
+    "automobile_id": 894,
+    "name": "530i V8 5AT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "2997 Cm3",
+        "Power:": "160 Kw @ 5800 Rpm\r\n218 Hp @ 5800 Rpm\r\n215 Bhp @ 5800 Rpm",
+        "Torque:": "214 Lb-Ft @ 4500 Rpm\r\n290 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 Zr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3638 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4872 Lbs (2210 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.7 Mpg Us (18.5 L/100Km)",
+        "Highway:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Combined:": "18.8 Mpg Us (12.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4872,
+    "automobile_id": 894,
+    "name": "530i V8 5MT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "2997 Cm3",
+        "Power:": "160 Kw @ 5800 Rpm\r\n218 Hp @ 5800 Rpm\r\n215 Bhp @ 5800 Rpm",
+        "Torque:": "214 Lb-Ft @ 4500 Rpm\r\n290 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "141.1 Mph (227 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 Zr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3571.5 Lbs (1620 Kg)",
+        "Gross Weight Limit:": "4806.1 Lbs (2180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.6 Mpg Us (18.7 L/100Km)",
+        "Highway:": "26.2 Mpg Us (9 L/100Km)",
+        "Combined:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Co2 Emissions:": "298 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4873,
+    "automobile_id": 894,
+    "name": "540i V8 5AT RWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3982 Cm3",
+        "Power:": "210 Kw @ 5800 Rpm\r\n286 Hp @ 5800 Rpm\r\n282 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 4500 Rpm\r\n400 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 Zr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3725.8 Lbs (1690 Kg)",
+        "Gross Weight Limit:": "5026.5 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.7 Mpg Us (22 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Combined:": "16.2 Mpg Us (14.5 L/100Km)",
+        "Co2 Emissions:": "345 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4874,
+    "automobile_id": 894,
+    "name": "525 TD 4AT RWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2498 Cm3",
+        "Power:": "85.3 Kw @ 4800 Rpm\r\n116 Hp @ 4800 Rpm\r\n114 Bhp @ 4800 Rpm",
+        "Torque:": "164 Lb-Ft @ 1900 Rpm\r\n222 Nm @ 1900 Rpm",
+        "Fuel System:": "Turbocharged Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15H"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4696 Lbs (2130 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.2 Mpg Us (12.9 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "25.8 Mpg Us (9.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4875,
+    "automobile_id": 894,
+    "name": "525 TD 5MT RWD (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2498 Cm3",
+        "Power:": "85.3 Kw @ 4800 Rpm\r\n116 Hp @ 4800 Rpm\r\n114 Bhp @ 4800 Rpm",
+        "Torque:": "164 Lb-Ft @ 1900 Rpm\r\n222 Nm @ 1900 Rpm",
+        "Fuel System:": "Turbocharged Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "117 Mph (188 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R15H"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472.3 Lbs (1575 Kg)",
+        "Gross Weight Limit:": "4618.7 Lbs (2095 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Highway:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Combined:": "29.1 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "214 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4876,
+    "automobile_id": 894,
+    "name": "525 TDS 5AT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2498 Cm3",
+        "Power:": "105 Kw @ 4800 Rpm\r\n143 Hp @ 4800 Rpm\r\n141 Bhp @ 4800 Rpm",
+        "Torque:": "192 Lb-Ft @ 2200 Rpm\r\n260 Nm @ 2200 Rpm",
+        "Fuel System:": "Turbocharged Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3583 Lbs (1625 Kg)",
+        "Gross Weight Limit:": "4729 Lbs (2145 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.5 Mpg Us (12.7 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4877,
+    "automobile_id": 894,
+    "name": "525 TDS 5MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2498 Cm3",
+        "Power:": "105 Kw @ 4800 Rpm\r\n143 Hp @ 4800 Rpm\r\n141 Bhp @ 4800 Rpm",
+        "Torque:": "192 Lb-Ft @ 2200 Rpm\r\n260 Nm @ 2200 Rpm",
+        "Fuel System:": "Turbocharged Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125.5 Mph (202 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "185.8 In (4719 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "55.8 In (1417 Mm)",
+        "Front/Rear Track:": "57.9/59.1 In (1,471/1,501 Mm)",
+        "Wheelbase:": "108.7 In (2761 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "16.2 Cuft (459 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3505.3 Lbs (1590 Kg)",
+        "Gross Weight Limit:": "4651.7 Lbs (2110 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions:": "212 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 18770,
+    "automobile_id": 4732,
+    "name": "3.5L V6 9AT AWD (425 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "312.6 Kw @ - Rpm\r\n425 Hp @ - Rpm\r\n419 Bhp @ - Rpm",
+        "Torque:": "516 Lb-Ft @ - Rpm\r\n700 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      }
+    }
+  },
+  {
+    "id": 18771,
+    "automobile_id": 4732,
+    "name": "3.8L V6 9AT AWD (316 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "232.4 Kw @ - Rpm\r\n316 Hp @ - Rpm\r\n312 Bhp @ - Rpm",
+        "Torque:": "285 Lb-Ft @ - Rpm\r\n386 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      }
+    }
+  }
+]

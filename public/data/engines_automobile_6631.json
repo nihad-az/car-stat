@@ -1,0 +1,91 @@
+[
+  {
+    "id": 26734,
+    "automobile_id": 6631,
+    "name": "2.7L 5MT AWD (159 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2694 Cm3",
+        "Power:": "121 Kw @ 5200 Rpm\r\n159 Hp @ 5200 Rpm\r\n162 Bhp @ 5200 Rpm",
+        "Torque:": "180 Lb-Ft @ 3800 Rpm\r\n244 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R15"
+      },
+      "Dimensions": {
+        "Length:": "208.1 In (5286 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "65.7 In (1669 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "127.2 In (3231 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3140 Lbs (1424 Kg)",
+        "Gross Weight Limit:": "5099 Lbs (2313 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "233.2 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26735,
+    "automobile_id": 6631,
+    "name": "4.0L V6 6MT (236 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3956 Cm3",
+        "Power:": "176 Kw @ 5200 Rpm\r\n236 Hp @ 5200 Rpm\r\n236 Bhp @ 5200 Rpm",
+        "Torque:": "266 Lb-Ft @ 3800 Rpm\r\n361 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/45 R18"
+      },
+      "Dimensions": {
+        "Length:": "208.1 In (5286 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "65.2 In (1656 Mm)",
+        "Front/Rear Track:": "62.2/62.2 In (1,580/1,580 Mm)",
+        "Wheelbase:": "127.2 In (3231 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3725 Lbs (1690 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)",
+        "Co2 Emissions:": "310.8 G/Km"
+      }
+    }
+  }
+]

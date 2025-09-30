@@ -1,0 +1,90 @@
+[
+  {
+    "id": 26949,
+    "automobile_id": 6680,
+    "name": "3.4L V6 5MT (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3378 Cm3",
+        "Power:": "142 Kw @ 4800 Rpm\r\n193 Hp @ 4800 Rpm\r\n190 Bhp @ 4800 Rpm",
+        "Torque:": "220 Lb-Ft @ 3600 Rpm\r\n298 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "217.5 In (5525 Mm)",
+        "Width:": "75.2 In (1910 Mm)",
+        "Height:": "70.7 In (1796 Mm)",
+        "Front/Rear Track:": "66.2/64.9 In (1,681/1,648 Mm)",
+        "Wheelbase:": "128.3 In (3259 Mm)",
+        "Ground Clearance:": "10.6 In (269 Mm)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3794 Lbs (1721 Kg)",
+        "Gross Weight Limit:": "5500 Lbs (2495 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "18 Mpg Us (13.1 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26950,
+    "automobile_id": 6680,
+    "name": "4.7L V8 4AT (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4664 Cm3",
+        "Power:": "183 Kw @ 4800 Rpm\r\n248 Hp @ 4800 Rpm\r\n245 Bhp @ 4800 Rpm",
+        "Torque:": "315 Lb-Ft @ 3400 Rpm\r\n427 Nm @ 3400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "217.5 In (5525 Mm)",
+        "Width:": "75.2 In (1910 Mm)",
+        "Height:": "70.7 In (1796 Mm)",
+        "Front/Rear Track:": "66.2/64.9 In (1,681/1,648 Mm)",
+        "Wheelbase:": "128.3 In (3259 Mm)",
+        "Ground Clearance:": "10.8 In (274 Mm)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4517 Lbs (2049 Kg)",
+        "Gross Weight Limit:": "6049 Lbs (2744 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "17 Mpg Us (13.8 L/100Km)",
+        "Combined:": "15 Mpg Us (15.7 L/100Km)"
+      }
+    }
+  }
+]

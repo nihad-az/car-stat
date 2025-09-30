@@ -1,0 +1,106 @@
+[
+  {
+    "id": 14603,
+    "automobile_id": 3612,
+    "name": "300 5AT RWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2997 Cm3",
+        "Power:": "161.8 Kw @ 5800 Rpm\r\n220 Hp @ 5800 Rpm\r\n217 Bhp @ 5800 Rpm",
+        "Torque:": "217 Lb-Ft @ 3800 Rpm\r\n294 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142.91Yhuy Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 Vr16"
+      },
+      "Dimensions": {
+        "Length:": "188.97 In (4800 Mm)",
+        "Width:": "70.86 In (1800 Mm)",
+        "Height:": "56.69 In (1440 Mm)",
+        "Front/Rear Track:": "60.62/59.44 In (1,540/1,510 Mm)",
+        "Wheelbase:": "110.23 In (2800 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "37.1 Ft (11.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3682 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4673.8 Lbs (2120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Co2 Emissions:": "-"
+      }
+    }
+  },
+  {
+    "id": 14604,
+    "automobile_id": 3612,
+    "name": "430 V8 5AT RWD (283 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4293 Cm3",
+        "Power:": "208 Kw @ 5600 Rpm\r\n283 Hp @ 5600 Rpm\r\n279 Bhp @ 5600 Rpm",
+        "Torque:": "308 Lb-Ft @ 3500 Rpm\r\n417 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/45 Zr17"
+      },
+      "Dimensions": {
+        "Length:": "189 In (4801 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "56.7 In (1440 Mm)",
+        "Front/Rear Track:": "60.6/59.4 In (1,539/1,509 Mm)",
+        "Wheelbase:": "110.2 In (2799 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3847 Lbs (1745 Kg)",
+        "Gross Weight Limit:": "4729 Lbs (2145 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.6 Mpg Us (17.3 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Co2 Emissions:": "296 G/Km"
+      }
+    }
+  }
+]

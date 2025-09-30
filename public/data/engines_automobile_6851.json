@@ -1,0 +1,38 @@
+[
+  {
+    "id": 27639,
+    "automobile_id": 6851,
+    "name": "TSI (114 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "83.8 Kw @ - Rpm\r\n114 Hp @ - Rpm\r\n112 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      }
+    }
+  },
+  {
+    "id": 27640,
+    "automobile_id": 6851,
+    "name": "TDI (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "88.3 Kw @ - Rpm\r\n120 Hp @ - Rpm\r\n118 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      }
+    }
+  },
+  {
+    "id": 27641,
+    "automobile_id": 6851,
+    "name": "TDI (74 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "54.4 Kw @ - Rpm\r\n74 Hp @ - Rpm\r\n73 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      }
+    }
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": 26189,
+    "automobile_id": 6480,
+    "name": "1.8L CVT-i (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "103 Kw @ 6000 Rpm\r\n140 Hp @ 6000 Rpm\r\n138 Bhp @ 6000 Rpm",
+        "Torque:": "131 Lb-Ft @ 4000 Rpm\r\n177 Nm @ 4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt-I"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R17 // 225/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "63.8 In (1621 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2921 Lbs (1325 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26190,
+    "automobile_id": 6480,
+    "name": "1.8L e-CVT (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1798 Cm3",
+        "Power:": "72.1 Kw @ 5200 Rpm\r\n98 Hp @ 5200 Rpm\r\n97 Bhp @ 5200 Rpm",
+        "Torque:": "105 Lb-Ft @ 3600 Rpm\r\n142 Nm @ 3600 Rpm",
+        "Electrical Motor Power:": "53 Kw (72 Hp)",
+        "Electrical Motor Torque:": "120.2 Lb-Ft (163 Nm)",
+        "Total Maximum Power:": "89.7 Kw (122 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Electric Continuously Variable Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/60 R17 // 225/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "175.6 In (4460 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "63.8 In (1621 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Cargo Volume:": "17.2 Cuft (487 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3053 Lbs (1385 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Co2 Emissions:": "98 G/Km"
+      }
+    }
+  }
+]

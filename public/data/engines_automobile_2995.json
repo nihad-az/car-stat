@@ -1,0 +1,88 @@
+[
+  {
+    "id": 12548,
+    "automobile_id": 2995,
+    "name": "3.0i Turbo 8AT AWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2998 Cm3",
+        "Power:": "210.4 Kw @ 4750 Rpm\r\n286 Hp @ 4750 Rpm\r\n282 Bhp @ 4750 Rpm",
+        "Torque:": "332 Lb-Ft @ 1750-4000 Rpm\r\n450 Nm @ 1750-4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Dimensions": {
+        "Length:": "192.8 In (4897 Mm)",
+        "Width:": "76 In (1930 Mm)",
+        "Height:": "80.2 In (2037 Mm)",
+        "Front/Rear Track:": "64.8/64.8 In (1,646/1,646 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Turning Circle:": "44.3 Ft (13.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5875 - 6032 Lbs (2665 - 2736 Kg)",
+        "Gross Weight Limit:": "7716 Lbs (3500 Kg)"
+      }
+    }
+  },
+  {
+    "id": 12549,
+    "automobile_id": 2995,
+    "name": "3.0i Turbo 8AT AWD (249 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "183.1 Kw @ 3250-4200 Rpm\r\n249 Hp @ 3250-4200 Rpm\r\n246 Bhp @ 3250-4200 Rpm",
+        "Torque:": "406 Lb-Ft @ 1250-3000 Rpm\r\n550 Nm @ 1250-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "23.8 Gallons (90.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Dimensions": {
+        "Length:": "192.8 In (4897 Mm)",
+        "Width:": "76 In (1930 Mm)",
+        "Height:": "80.2 In (2037 Mm)",
+        "Front/Rear Track:": "64.8/64.8 In (1,646/1,646 Mm)",
+        "Wheelbase:": "115 In (2921 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Turning Circle:": "44.3 Ft (13.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6041 - 6197 Lbs (2740 - 2811 Kg)",
+        "Gross Weight Limit:": "7716 Lbs (3500 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "23.3 Mpg Us (10.1 L/100Km)",
+        "Co2 Emissions (Combined):": "263 G/Km"
+      }
+    }
+  }
+]

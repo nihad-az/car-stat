@@ -1,0 +1,102 @@
+[
+  {
+    "id": 26850,
+    "automobile_id": 6655,
+    "name": "1.8L VVT-i 6MT FWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1794 Cm3",
+        "Power:": "105 Kw @ 6400 Rpm\r\n143 Hp @ 6400 Rpm\r\n141 Bhp @ 6400 Rpm",
+        "Torque:": "125 Lb-Ft @ 4200 Rpm\r\n170 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "127.4 Mph (205 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/50R16"
+      },
+      "Dimensions": {
+        "Length:": "171.3 In (4351 Mm)",
+        "Width:": "68.3 In (1735 Mm)",
+        "Height:": "51.8 In (1316 Mm)",
+        "Front/Rear Track:": "58.7/58.3 In (1,491/1,481 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "11.4 Cuft (323 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2370 Lbs (1075 Kg)",
+        "Gross Weight Limit:": "3450.2 Lbs (1565 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "185 G/Km"
+      }
+    }
+  },
+  {
+    "id": 26851,
+    "automobile_id": 6655,
+    "name": "1.8L VVT-i Turbo 6MT FWD (192 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1796 Cm3",
+        "Power:": "141 Kw @ 7800 Rpm\r\n192 Hp @ 7800 Rpm\r\n189 Bhp @ 7800 Rpm",
+        "Torque:": "133 Lb-Ft @ 6800 Rpm\r\n180 Nm @ 6800 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139.8 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/50R16"
+      },
+      "Dimensions": {
+        "Length:": "171.3 In (4351 Mm)",
+        "Width:": "68.5 In (1740 Mm)",
+        "Height:": "52 In (1321 Mm)",
+        "Front/Rear Track:": "58.7/58.3 In (1,491/1,481 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "10 Cuft (283 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2458.2 Lbs (1115 Kg)",
+        "Gross Weight Limit:": "3516.4 Lbs (1595 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions:": "200 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 14610,
+    "automobile_id": 3614,
+    "name": "300 4AT FWD (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2362 Cm3",
+        "Power:": "118 Kw @ 5600 Rpm\r\n160 Hp @ 5600 Rpm\r\n158 Bhp @ 5600 Rpm",
+        "Torque:": "163 Lb-Ft @ 4000 Rpm\r\n221 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.1 In (4575 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "61.6/61 In (1,565/1,549 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3792 Lbs (1720 Kg)",
+        "Gross Weight Limit:": "4949 Lbs (2245 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14611,
+    "automobile_id": 3614,
+    "name": "300 V6 4AT AWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "162 Kw @ 5800 Rpm\r\n220 Hp @ 5800 Rpm\r\n217 Bhp @ 5800 Rpm",
+        "Torque:": "224 Lb-Ft @ 4400 Rpm\r\n304 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.8 Gallons (75.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111.9 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "180.1 In (4575 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "65.6 In (1666 Mm)",
+        "Front/Rear Track:": "61.6/61 In (1,565/1,549 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "17.3 Cuft (490 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4034 Lbs (1830 Kg)",
+        "Gross Weight Limit:": "4949 Lbs (2245 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.3 Mpg Us (17.7 L/100Km)",
+        "Highway:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Co2 Emissions:": "251 G/Km"
+      }
+    }
+  }
+]

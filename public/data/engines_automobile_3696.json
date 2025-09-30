@@ -1,0 +1,79 @@
+[
+  {
+    "id": 14805,
+    "automobile_id": 3696,
+    "name": "2.2L 4AT RWD (183 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2174 Cm3",
+        "Power:": "134 Kw @ 6500 Rpm\r\n183 Hp @ 6500 Rpm\r\n180 Bhp @ 6500 Rpm",
+        "Torque:": "165 Lb-Ft @ 5000 Rpm\r\n224 Nm @ 5000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R15"
+      },
+      "Dimensions": {
+        "Length:": "172.3 In (4376 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "40 In (1016 Mm)",
+        "Front/Rear Track:": "57.5/57.5 In (1,461/1,461 Mm)",
+        "Wheelbase:": "97.7 In (2482 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2595 Lbs (1177 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14806,
+    "automobile_id": 3696,
+    "name": "2.2L 5MT RWD (162 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2174 Cm3",
+        "Power:": "119 Kw @ 6500 Rpm\r\n162 Hp @ 6500 Rpm\r\n160 Bhp @ 6500 Rpm",
+        "Torque:": "160 Lb-Ft @ 5250 Rpm\r\n217 Nm @ 5250 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "172.3 In (4376 Mm)",
+        "Width:": "71.5 In (1816 Mm)",
+        "Height:": "40 In (1016 Mm)",
+        "Front/Rear Track:": "57.5/57.5 In (1,461/1,461 Mm)",
+        "Wheelbase:": "97.7 In (2482 Mm)",
+        "Ground Clearance:": "4.9 In (124 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2502 Lbs (1135 Kg)"
+      }
+    }
+  }
+]

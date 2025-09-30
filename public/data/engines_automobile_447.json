@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1307,
+    "automobile_id": 447,
+    "name": "3.0L V6 TFSI 6MT AWD (333 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "245 Kw @ 5500-7000 Rpm\r\n333 Hp @ 5500-7000 Rpm\r\n329 Bhp @ 5500-7000 Rpm",
+        "Torque:": "325 Lb-Ft @ 2900-5300 Rpm\r\n440 Nm @ 2900-5300 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 R18"
+      },
+      "Dimensions": {
+        "Length:": "185.7 In (4717 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "61.1/60.6 In (1,552/1,539 Mm)",
+        "Wheelbase:": "110.7 In (2812 Mm)",
+        "Cargo Volume:": "16.95 Cuft (480 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3637.6 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "4850.2 Lbs (2200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.2 Mpg Us (13.7 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "24.3 Mpg Us (9.7 L/100Km)",
+        "Co2 Emissions:": "362 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1308,
+    "automobile_id": 447,
+    "name": "3.0L V6 TFSI 7AT AWD (333 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "245 Kw @ 5500 Rpm\r\n333 Hp @ 5500 Rpm\r\n329 Bhp @ 5500 Rpm",
+        "Torque:": "325 Lb-Ft @ 2900 Rpm\r\n441 Nm @ 2900 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.1 Gallons (60.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 R18"
+      },
+      "Dimensions": {
+        "Length:": "185.7 In (4717 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "61.1/60.6 In (1,552/1,539 Mm)",
+        "Wheelbase:": "110.7 In (2812 Mm)",
+        "Cargo Volume:": "16.95 Cuft (480 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3759 Lbs (1705 Kg)",
+        "Gross Weight Limit:": "4861 Lbs (2205 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "190 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1100,
+    "automobile_id": 401,
+    "name": "2.5L TFSI quattro 7AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2480 Cm3",
+        "Power:": "250 Kw @ 5200 Rpm\r\n340 Hp @ 5200 Rpm\r\n335 Bhp @ 5200 Rpm",
+        "Torque:": "332 Lb-Ft @ 1500 Rpm\r\n450 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S-Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/35 R20"
+      },
+      "Dimensions": {
+        "Length:": "173.6 In (4409 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "62.2 In (1580 Mm)",
+        "Front/Rear Track:": "61.9/62 In (1,572/1,575 Mm)",
+        "Wheelbase:": "220.6 In (5603 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4883 Lbs (2215 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.3 Mpg Us (11.6 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)",
+        "Co2 Emissions:": "198 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1101,
+    "automobile_id": 401,
+    "name": "2.5L TFSI quattro 7AT AWD (367 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2480 Cm3",
+        "Power:": "269.9 Kw @ 5550-6800 Rpm\r\n367 Hp @ 5550-6800 Rpm\r\n362 Bhp @ 5550-6800 Rpm",
+        "Torque:": "343 Lb-Ft @ 1625-5550 Rpm\r\n465 Nm @ 1625-5550 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "168 Mph (270 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S-Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/50 R 18"
+      },
+      "Dimensions": {
+        "Length:": "173.6 In (4409 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "62.2 In (1580 Mm)",
+        "Front/Rear Track:": "61.9/62 In (1,572/1,575 Mm)",
+        "Wheelbase:": "220.6 In (5603 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "12.6 Cuft (357 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4883 Lbs (2215 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Co2 Emissions:": "203 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 19155,
+    "automobile_id": 4868,
+    "name": "5.6L V8 5AT (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "227.4 Kw @ 4900 Rpm\r\n309 Hp @ 4900 Rpm\r\n305 Bhp @ 4900 Rpm",
+        "Torque:": "385 Lb-Ft @ 3600 Rpm\r\n522 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "28 Gallons (106.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70R18"
+      },
+      "Dimensions": {
+        "Length:": "206.9 In (5255 Mm)",
+        "Width:": "78.8 In (2002 Mm)",
+        "Height:": "77.8 In (1976 Mm)",
+        "Front/Rear Track:": "67.5/67.5 In (1,715/1,715 Mm)",
+        "Wheelbase:": "123.2 In (3129 Mm)",
+        "Ground Clearance:": "9.9 In (251 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5013 Lbs (2274 Kg)",
+        "Gross Weight Limit:": "6800 Lbs (3084 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13 Mpg Us (18.1 L/100Km)",
+        "Highway:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 19156,
+    "automobile_id": 4868,
+    "name": "5.6L V8 5AT 4WD (305 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "227.4 Kw @ 4900 Rpm\r\n309 Hp @ 4900 Rpm\r\n305 Bhp @ 4900 Rpm",
+        "Torque:": "385 Lb-Ft @ 3600 Rpm\r\n522 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "28 Gallons (106.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "265/70R18"
+      },
+      "Dimensions": {
+        "Length:": "206.9 In (5255 Mm)",
+        "Width:": "78.8 In (2002 Mm)",
+        "Height:": "77.8 In (1976 Mm)",
+        "Front/Rear Track:": "67.5/67.5 In (1,715/1,715 Mm)",
+        "Wheelbase:": "123.2 In (3129 Mm)",
+        "Ground Clearance:": "9.9 In (251 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5290 Lbs (2400 Kg)",
+        "Gross Weight Limit:": "6800 Lbs (3084 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12 Mpg Us (19.6 L/100Km)",
+        "Highway:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  }
+]

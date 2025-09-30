@@ -1,0 +1,657 @@
+[
+  {
+    "id": 17106,
+    "automobile_id": 4203,
+    "name": "180 5AT RWD (129 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "95 Kw @ 5500 Rpm\r\n129 Hp @ 5500 Rpm\r\n127 Bhp @ 5500 Rpm",
+        "Torque:": "140 Lb-Ft @ 4000 Rpm\r\n190 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "129 Mph (208 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3020 Lbs (1370 Kg)",
+        "Gross Weight Limit:": "4123 Lbs (1870 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.3 Mpg Us (13.6 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "24.8 Mpg Us (9.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17107,
+    "automobile_id": 4203,
+    "name": "180 6MT RWD (129 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "95 Kw @ 5500 Rpm\r\n129 Hp @ 5500 Rpm\r\n127 Bhp @ 5500 Rpm",
+        "Torque:": "140 Lb-Ft @ 4000 Rpm\r\n190 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3020 Lbs (1370 Kg)",
+        "Gross Weight Limit:": "4123 Lbs (1870 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.9 Mpg Us (13.9 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "225 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17108,
+    "automobile_id": 4203,
+    "name": "180 Kompressor 5AT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "105.1 Kw @ 5200 Rpm\r\n143 Hp @ 5200 Rpm\r\n141 Bhp @ 5200 Rpm",
+        "Torque:": "162 Lb-Ft @ 2500-4200 Rpm\r\n220 Nm @ 2500-4200 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R 16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3064 Lbs (1390 Kg)",
+        "Gross Weight Limit:": "4266 Lbs (1935 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17109,
+    "automobile_id": 4203,
+    "name": "180 Kompressor 6MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "105.1 Kw @ 5200 Rpm\r\n143 Hp @ 5200 Rpm\r\n141 Bhp @ 5200 Rpm",
+        "Torque:": "162 Lb-Ft @ 2500-4200 Rpm\r\n220 Nm @ 2500-4200 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3064 Lbs (1390 Kg)",
+        "Gross Weight Limit:": "4266 Lbs (1935 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions:": "197 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17110,
+    "automobile_id": 4203,
+    "name": "200 CGI 6MT RWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1796 Cm3",
+        "Power:": "125 Kw @ 5500 Rpm\r\n170 Hp @ 5500 Rpm\r\n168 Bhp @ 5500 Rpm",
+        "Torque:": "184 Lb-Ft @ 3500 Rpm\r\n250 Nm @ 3500 Rpm",
+        "Fuel System:": "Direct Injection Mechanical Supercharging (Compressor)",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16 91 V"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29",
+        "Turning Circle:": "35.3 Ft (10.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3086 Lbs (1400 Kg)",
+        "Gross Weight Limit:": "4288 Lbs (1945 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.2 Mpg Us (11.1 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "187 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17111,
+    "automobile_id": 4203,
+    "name": "200 Kompressor 5AT RWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "121 Kw @ 5300 Rpm\r\n165 Hp @ 5300 Rpm\r\n162 Bhp @ 5300 Rpm",
+        "Torque:": "170 Lb-Ft @ 2500-4800 Rpm\r\n230 Nm @ 2500-4800 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "141 Mph (227 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3097 Lbs (1405 Kg)",
+        "Gross Weight Limit:": "4200 Lbs (1905 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.3 Mpg Us (13.6 L/100Km)",
+        "Highway:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Combined:": "24.8 Mpg Us (9.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17112,
+    "automobile_id": 4203,
+    "name": "200 Kompressor 6MT RWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "121 Kw @ 5300 Rpm\r\n165 Hp @ 5300 Rpm\r\n162 Bhp @ 5300 Rpm",
+        "Torque:": "170 Lb-Ft @ 2500-4800 Rpm\r\n230 Nm @ 2500-4800 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R 16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3097 Lbs (1405 Kg)",
+        "Gross Weight Limit:": "4200 Lbs (1905 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.4 Mpg Us (14.3 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "24.2 Mpg Us (9.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17113,
+    "automobile_id": 4203,
+    "name": "230 Kompressor 5AT RWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2295 Cm3",
+        "Power:": "144.9 Kw @ 6100 Rpm\r\n197 Hp @ 6100 Rpm\r\n194 Bhp @ 6100 Rpm",
+        "Torque:": "207 Lb-Ft @ 2500-4000 Rpm\r\n280 Nm @ 2500-4000 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "147 Mph (237 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "59.3/58.1 In (1,506/1,476 Mm)",
+        "Wheelbase:": "67.5 In (1715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3142 Lbs (1425 Kg)",
+        "Gross Weight Limit:": "4244 Lbs (1925 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.7 Mpg Us (14.1 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17114,
+    "automobile_id": 4203,
+    "name": "230 Kompressor 6MT RWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2295 Cm3",
+        "Power:": "144.9 Kw @ 6100 Rpm\r\n197 Hp @ 6100 Rpm\r\n194 Bhp @ 6100 Rpm",
+        "Torque:": "207 Lb-Ft @ 2500-4000 Rpm\r\n280 Nm @ 2500-4000 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "59.3/58.1 In (1,506/1,476 Mm)",
+        "Wheelbase:": "67.5 In (1715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3208 Lbs (1455 Kg)",
+        "Gross Weight Limit:": "4244.6 Lbs (1925 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.3 Mpg Us (13.6 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Co2 Emissions:": "222 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17115,
+    "automobile_id": 4203,
+    "name": "320 5AT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3199 Cm3",
+        "Power:": "160.3 Kw @ 5700 Rpm\r\n218 Hp @ 5700 Rpm\r\n215 Bhp @ 5700 Rpm",
+        "Torque:": "229 Lb-Ft @ 3000-4600 Rpm\r\n310 Nm @ 3000-4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "152 Mph (245 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3197 Lbs (1450 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.1 Mpg Us (15.6 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "22.2 Mpg Us (10.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17116,
+    "automobile_id": 4203,
+    "name": "320 6MT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3199 Cm3",
+        "Power:": "160.3 Kw @ 5700 Rpm\r\n218 Hp @ 5700 Rpm\r\n215 Bhp @ 5700 Rpm",
+        "Torque:": "229 Lb-Ft @ 3000-4600 Rpm\r\n310 Nm @ 3000-4600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "154 Mph (248 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3197 Lbs (1450 Kg)",
+        "Gross Weight Limit:": "4365 Lbs (1980 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.4 Mpg Us (16.3 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "21.6 Mpg Us (10.9 L/100Km)",
+        "Co2 Emissions:": "262 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17117,
+    "automobile_id": 4203,
+    "name": "220 CDI 5AT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2148 Cm3",
+        "Power:": "105 Kw @ 4200 Rpm\r\n143 Hp @ 4200 Rpm\r\n141 Bhp @ 4200 Rpm",
+        "Torque:": "232 Lb-Ft @ 1800-2600 Rpm\r\n315 Nm @ 1800-2600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4255 Lbs (1930 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17118,
+    "automobile_id": 4203,
+    "name": "220 CDI 6MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2148 Cm3",
+        "Power:": "105 Kw @ 4200 Rpm\r\n143 Hp @ 4200 Rpm\r\n141 Bhp @ 4200 Rpm",
+        "Torque:": "232 Lb-Ft @ 1800-2600 Rpm\r\n315 Nm @ 1800-2600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "171 In (4343 Mm)",
+        "Width:": "68 In (1727 Mm)",
+        "Height:": "55.4 In (1407 Mm)",
+        "Front/Rear Track:": "58.8/57.6 In (1,494/1,463 Mm)",
+        "Wheelbase:": "106.9 In (2715 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "10.9 Cuft (309 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4255 Lbs (1930 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "38 Mpg Us (6.2 L/100Km)"
+      }
+    }
+  }
+]

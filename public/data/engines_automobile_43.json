@@ -1,0 +1,98 @@
+[
+  {
+    "id": 80,
+    "automobile_id": 43,
+    "name": "2.4L 16V 5AT FWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2354 Cm3",
+        "Power:": "149 Kw @ 6800 Rpm\r\n203 Hp @ 6800 Rpm\r\n200 Bhp @ 6800 Rpm",
+        "Torque:": "166 Lb-Ft @ 4500 Rpm\r\n225 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "183.3 In (4656 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "59.6/59.6 In (1,514/1,514 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "13 Cuft (368 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3296 Lbs (1495 Kg)",
+        "Gross Weight Limit:": "4244 Lbs (1925 Kg)"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "automobile_id": 43,
+    "name": "2.4L 16V 6MT FWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2354 Cm3",
+        "Power:": "149 Kw @ 6800 Rpm\r\n203 Hp @ 6800 Rpm\r\n200 Bhp @ 6800 Rpm",
+        "Torque:": "166 Lb-Ft @ 4500 Rpm\r\n225 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "141.1 Mph (227 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "183.3 In (4656 Mm)",
+        "Width:": "69.4 In (1763 Mm)",
+        "Height:": "57.3 In (1455 Mm)",
+        "Front/Rear Track:": "59.6/59.6 In (1,514/1,514 Mm)",
+        "Wheelbase:": "105.1 In (2670 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)",
+        "Cargo Volume:": "13 Cuft (368 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3230 Lbs (1465 Kg)",
+        "Gross Weight Limit:": "4233.6 Lbs (1920 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)",
+        "Co2 Emissions:": "243 G/Km"
+      }
+    }
+  }
+]

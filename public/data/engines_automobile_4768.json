@@ -1,0 +1,95 @@
+[
+  {
+    "id": 18858,
+    "automobile_id": 4768,
+    "name": "40 Kw (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "110.3 Kw @ 3283-9795 Rpm\r\n150 Hp @ 3283-9795 Rpm\r\n148 Bhp @ 3283-9795 Rpm",
+        "Torque:": "236 Lb-Ft @ 3283 Rpm\r\n320 Nm @ 3283 Rpm",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "89 Mph (143 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "60.6/61.2 In (1,539/1,554 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "23.6 Cuft (668 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3433 Lbs (1557 Kg)",
+        "Gross Weight Limit:": "4398 Lbs (1995 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "40 Kwh",
+        "Charger Type:": "6.6 Kw Onboard Charger",
+        "Range:": "151 Miles (243.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 18859,
+    "automobile_id": 4768,
+    "name": "e+ 62 Kw (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "160.3 Kw @ 4600-5800 Rpm\r\n218 Hp @ 4600-5800 Rpm\r\n215 Bhp @ 4600-5800 Rpm",
+        "Torque:": "251 Lb-Ft @ 500-4000 Rpm\r\n340 Nm @ 500-4000 Rpm",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98 Mph (158 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "176.4 In (4481 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "60.6/61.2 In (1,539/1,554 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "15.4 Cuft (436 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3682 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4288 Lbs (1945 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Maximum Capacity:": "62 Kwh",
+        "Range:": "239 Miles (384.6 Km)"
+      }
+    }
+  }
+]

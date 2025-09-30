@@ -1,0 +1,102 @@
+[
+  {
+    "id": 21287,
+    "automobile_id": 5245,
+    "name": "1.0L 5AT (68 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "50 Kw @ 6000 Rpm\r\n68 Hp @ 6000 Rpm\r\n67 Bhp @ 6000 Rpm",
+        "Torque:": "69 Lb-Ft @ 3600 Rpm\r\n94 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98 Mph (158 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155/65 R14 75T"
+      },
+      "Dimensions": {
+        "Length:": "135 In (3429 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "55.7/55.3 In (1,415/1,405 Mm)",
+        "Wheelbase:": "92.1 In (2339 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "4.9 Cuft (139 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1786 Lbs (810 Kg)",
+        "Gross Weight Limit:": "2624 Lbs (1190 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 21288,
+    "automobile_id": 5245,
+    "name": "1.0L 5MT (68 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "50 Kw @ 6000 Rpm\r\n68 Hp @ 6000 Rpm\r\n67 Bhp @ 6000 Rpm",
+        "Torque:": "69 Lb-Ft @ 3600 Rpm\r\n94 Nm @ 3600 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98 Mph (158 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155/65 R14 75T"
+      },
+      "Dimensions": {
+        "Length:": "135 In (3429 Mm)",
+        "Width:": "64.2 In (1631 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "55.7/55.3 In (1,415/1,405 Mm)",
+        "Wheelbase:": "92.1 In (2339 Mm)",
+        "Ground Clearance:": "4.1 In (104 Mm)",
+        "Cargo Volume:": "4.9 Cuft (139 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1709 Lbs (775 Kg)",
+        "Gross Weight Limit:": "2624 Lbs (1190 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  }
+]

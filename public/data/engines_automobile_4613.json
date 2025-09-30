@@ -1,0 +1,100 @@
+[
+  {
+    "id": 18420,
+    "automobile_id": 4613,
+    "name": "1.2L 5MT (78 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1193 Cm3",
+        "Power:": "56.7 Kw @ 6000 Rpm\r\n77.1 Hp @ 6000 Rpm\r\n76 Bhp @ 6000 Rpm",
+        "Torque:": "74 Lb-Ft @ 4000 Rpm\r\n100 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R14"
+      },
+      "Dimensions": {
+        "Length:": "167.1 In (4244 Mm)",
+        "Width:": "65.7 In (1669 Mm)",
+        "Height:": "59.6 In (1514 Mm)",
+        "Front/Rear Track:": "56.9/56.3 In (1,445/1,430 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "6.7 In (170 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1918 Lbs (870 Kg)",
+        "Gross Weight Limit:": "2877 Lbs (1305 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18421,
+    "automobile_id": 4613,
+    "name": "1.2L CVT (78 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1193 Cm3",
+        "Power:": "57 Kw @ 6000 Rpm\r\n78 Hp @ 6000 Rpm\r\n76 Bhp @ 6000 Rpm",
+        "Torque:": "74 Lb-Ft @ 4000 Rpm\r\n100 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Continuously Variable Transmission (Cvt)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R14"
+      },
+      "Dimensions": {
+        "Length:": "167.1 In (4244 Mm)",
+        "Width:": "65.7 In (1669 Mm)",
+        "Height:": "59.6 In (1514 Mm)",
+        "Front/Rear Track:": "56.9/56.3 In (1,445/1,430 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "6.7 In (170 Mm)",
+        "Cargo Volume:": "15.9 Cuft (450 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1995 Lbs (905 Kg)",
+        "Gross Weight Limit:": "2943 Lbs (1335 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)"
+      }
+    }
+  }
+]

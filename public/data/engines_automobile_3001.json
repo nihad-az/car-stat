@@ -1,0 +1,92 @@
+[
+  {
+    "id": 12561,
+    "automobile_id": 3001,
+    "name": "5.6L V8 7AT AWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "298.3 Kw @ - Rpm\r\n406 Hp @ - Rpm\r\n400 Bhp @ - Rpm",
+        "Torque:": "413 Lb-Ft @ - Rpm\r\n560 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.9 Gallons (98.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/60/R20"
+      },
+      "Dimensions": {
+        "Length:": "208.9 In (5306 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.8 In (1925 Mm)",
+        "Front/Rear Track:": "67.5/67.9 In (1,715/1,725 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "9.2 In (234 Mm)",
+        "Cargo Volume:": "16.6 Cuft (470 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "588 Lbs (267 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13 Mpg Us (18.1 L/100Km)",
+        "Highway:": "19 Mpg Us (12.4 L/100Km)",
+        "Combined:": "15 Mpg Us (15.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12562,
+    "automobile_id": 3001,
+    "name": "5.6L V8 7AT RWD (400 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5552 Cm3",
+        "Power:": "298.3 Kw @ - Rpm\r\n406 Hp @ - Rpm\r\n400 Bhp @ - Rpm",
+        "Torque:": "413 Lb-Ft @ - Rpm\r\n560 Nm @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.9 Gallons (98.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "275/60/R20"
+      },
+      "Dimensions": {
+        "Length:": "208 In (5283 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "75.8 In (1925 Mm)",
+        "Front/Rear Track:": "67.5/67.9 In (1,715/1,725 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "9.2 In (234 Mm)",
+        "Cargo Volume:": "166.6 Cuft (4718 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "5644 Lbs (2560 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  }
+]

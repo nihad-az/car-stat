@@ -1,0 +1,256 @@
+[
+  {
+    "id": 5212,
+    "automobile_id": 1012,
+    "name": "2.0L 9AT AWD (252 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "185.3 Kw @ 5500 Rpm\r\n252 Hp @ 5500 Rpm\r\n248 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 3000 Rpm\r\n400 Nm @ 3000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "65.4 In (1661 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)",
+        "Turning Circle:": "39.4 Ft (12.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4083 Lbs (1852 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.1 Mpg Us (11.7 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "22.2 Mpg Us (10.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5213,
+    "automobile_id": 1012,
+    "name": "2.0T 7AT AWD (169 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1490 Cm3",
+        "Power:": "124.3 Kw @ 5600 Rpm\r\n169 Hp @ 5600 Rpm\r\n167 Bhp @ 5600 Rpm",
+        "Torque:": "184 Lb-Ft @ 1700-4400 Rpm\r\n250 Nm @ 1700-4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "65.4 In (1661 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3715 Lbs (1685 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5214,
+    "automobile_id": 1012,
+    "name": "2.0T 7AT FWD (169 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1490 Cm3",
+        "Power:": "124.3 Kw @ 5600 Rpm\r\n169 Hp @ 5600 Rpm\r\n167 Bhp @ 5600 Rpm",
+        "Torque:": "184 Lb-Ft @ 1700-4400 Rpm\r\n250 Nm @ 1700-4400 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "65.4 In (1661 Mm)",
+        "Front/Rear Track:": "62.4/62.5 In (1,585/1,588 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472 - 3549 Lbs (1575 - 1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5215,
+    "automobile_id": 1012,
+    "name": "2.0T 9AT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "191.2 Kw @ 5500 Rpm\r\n260 Hp @ 5500 Rpm\r\n256 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 3000-4000 Rpm\r\n400 Nm @ 3000-4000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/50 R19"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.8 In (1697 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3929 Lbs (1782 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27.4 Mpg Us (8.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5216,
+    "automobile_id": 1012,
+    "name": "2.5L 6AT AWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "144.9 Kw @ 6300 Rpm\r\n197 Hp @ 6300 Rpm\r\n194 Bhp @ 6300 Rpm",
+        "Torque:": "192 Lb-Ft @ 4400 Rpm\r\n260 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.8 In (1697 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3929 Lbs (1782 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5217,
+    "automobile_id": 1012,
+    "name": "2.5L 6AT FWD (197 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "144.9 Kw @ 6300 Rpm\r\n197 Hp @ 6300 Rpm\r\n194 Bhp @ 6300 Rpm",
+        "Torque:": "192 Lb-Ft @ 4400 Rpm\r\n260 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "183.7 In (4666 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "66.8 In (1697 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)",
+        "Turning Circle:": "36.1 Ft (11.0 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3754 Lbs (1703 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  }
+]

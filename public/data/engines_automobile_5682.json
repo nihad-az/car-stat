@@ -1,0 +1,90 @@
+[
+  {
+    "id": 22381,
+    "automobile_id": 5682,
+    "name": "1.3L 5MT FWD (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1332 Cm3",
+        "Power:": "70 Kw @ 5750 Rpm\r\n95 Hp @ 5750 Rpm\r\n94 Bhp @ 5750 Rpm",
+        "Torque:": "89 Lb-Ft @ 4000 Rpm\r\n121 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed, Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R13"
+      },
+      "Dimensions": {
+        "Length:": "168.4 In (4277 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "56.9/56.9 In (1,445/1,445 Mm)",
+        "Wheelbase:": "97 In (2464 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2242 Lbs (1017 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 22382,
+    "automobile_id": 5682,
+    "name": "1.3L CVT FWD (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1332 Cm3",
+        "Power:": "70 Kw @ 5750 Rpm\r\n95 Hp @ 5750 Rpm\r\n94 Bhp @ 5750 Rpm",
+        "Torque:": "89 Lb-Ft @ 4000 Rpm\r\n121 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6 Speed Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R13"
+      },
+      "Dimensions": {
+        "Length:": "168.4 In (4277 Mm)",
+        "Width:": "66.1 In (1679 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "56.9/56.9 In (1,445/1,445 Mm)",
+        "Wheelbase:": "97 In (2464 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2326 Lbs (1055 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39.2 Mpg Us (6 L/100Km)"
+      }
+    }
+  }
+]

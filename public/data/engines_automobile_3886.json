@@ -1,0 +1,102 @@
+[
+  {
+    "id": 15427,
+    "automobile_id": 3886,
+    "name": "2.0i",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "85 Kw @ 5500 Rpm\r\n115 Hp @ 5500 Rpm\r\n114 Bhp @ 5500 Rpm",
+        "Torque:": "127 Lb-Ft @ 4500 Rpm\r\n172 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65 R14H"
+      },
+      "Dimensions": {
+        "Length:": "181.7 In (4615 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "59.1/59.1 In (1,501/1,501 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2599 Lbs (1179 Kg)",
+        "Gross Weight Limit:": "3328.9 Lbs (1510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions:": "190 G/Km"
+      }
+    }
+  },
+  {
+    "id": 15428,
+    "automobile_id": 3886,
+    "name": "2.5i V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2497 Cm3",
+        "Power:": "121 Kw @ 5600 Rpm\r\n165 Hp @ 5600 Rpm\r\n162 Bhp @ 5600 Rpm",
+        "Torque:": "160 Lb-Ft @ 4800 Rpm\r\n217 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55 R15V"
+      },
+      "Dimensions": {
+        "Length:": "181.7 In (4615 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "59.1/59.1 In (1,501/1,501 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "14.3 Cuft (405 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2635 Lbs (1195 Kg)",
+        "Gross Weight Limit:": "3516.4 Lbs (1595 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.1 Mpg Us (13 L/100Km)",
+        "Highway:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "233 G/Km"
+      }
+    }
+  }
+]

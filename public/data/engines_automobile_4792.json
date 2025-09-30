@@ -1,0 +1,71 @@
+[
+  {
+    "id": 18919,
+    "automobile_id": 4792,
+    "name": "2.5L AWD CVT (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "127 Kw @ 6000 Rpm\r\n173 Hp @ 6000 Rpm\r\n170 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4400 Rpm\r\n237 Nm @ 4400 Rpm",
+        "Fuel System:": "Sequential Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Continuously Variable Transmission (Cvt)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "67.5 In (1715 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Aerodynamics (Cd):": "0.33"
+      }
+    }
+  },
+  {
+    "id": 18920,
+    "automobile_id": 4792,
+    "name": "2.5L FWD CVT (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "127 Kw @ 6000 Rpm\r\n173 Hp @ 6000 Rpm\r\n170 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4400 Rpm\r\n237 Nm @ 4400 Rpm",
+        "Fuel System:": "Sequential Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Continuously Variable Transmission (Cvt)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "67.5 In (1715 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Fuel Economy (Nedc)": {
+        "Highway:": "33 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  }
+]

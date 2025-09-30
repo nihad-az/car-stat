@@ -1,0 +1,155 @@
+[
+  {
+    "id": 14687,
+    "automobile_id": 3646,
+    "name": "3.5L V6 EcoBoost 6AT AWD (355 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3490 Cm3",
+        "Power:": "265 Kw @ 5700 Rpm\r\n360 Hp @ 5700 Rpm\r\n355 Bhp @ 5700 Rpm",
+        "Torque:": "350 Lb-Ft @ 1500-5250 Rpm\r\n475 Nm @ 1500-5250 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P255/45 R20"
+      },
+      "Dimensions": {
+        "Length:": "207.6 In (5273 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "65.4/65.3 In (1,661/1,659 Mm)",
+        "Wheelbase:": "117.9 In (2995 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "17.9 Cuft (507 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "40.7 Ft (12.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4923 Lbs (2233 Kg)",
+        "Gross Weight Limit:": "6030 Lbs (2735 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14688,
+    "automobile_id": 3646,
+    "name": "3.7L V6 AWD 6AT (270 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3726 Cm3",
+        "Power:": "201.5 Kw @ 6250 Rpm\r\n274 Hp @ 6250 Rpm\r\n270 Bhp @ 6250 Rpm",
+        "Torque:": "270 Lb-Ft @ 4250 Rpm\r\n366 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "207.6 In (5273 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "65.4/65.3 In (1,661/1,659 Mm)",
+        "Wheelbase:": "117.9 In (2995 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "17.9 Cuft (507 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "40.7 Ft (12.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4857 Lbs (2203 Kg)",
+        "Gross Weight Limit:": "5952 Lbs (2700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14689,
+    "automobile_id": 3646,
+    "name": "3.7L V6 FWD 6AT (270 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3726 Cm3",
+        "Power:": "201.5 Kw @ 6250 Rpm\r\n274 Hp @ 6250 Rpm\r\n270 Bhp @ 6250 Rpm",
+        "Torque:": "267 Lb-Ft @ 4250 Rpm\r\n362 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "190 Mph (306 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "207.6 In (5273 Mm)",
+        "Width:": "79.9 In (2029 Mm)",
+        "Height:": "67.4 In (1712 Mm)",
+        "Front/Rear Track:": "65.4/65.3 In (1,661/1,659 Mm)",
+        "Wheelbase:": "117.9 In (2995 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "17.9 Cuft (507 L)",
+        "Aerodynamics (Cd):": "0.33",
+        "Turning Circle:": "40.7 Ft (12.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4680 Lbs (2123 Kg)",
+        "Gross Weight Limit:": "5787 Lbs (2625 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  }
+]

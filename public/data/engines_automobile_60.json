@@ -1,0 +1,52 @@
+[
+  {
+    "id": 116,
+    "automobile_id": 60,
+    "name": "3.2 V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3206 Cm3",
+        "Power:": "150 Kw @ 5500 Rpm\r\n202 Hp @ 5500 Rpm\r\n201 Bhp @ 5500 Rpm",
+        "Torque:": "210 Lb-Ft @ 4500 Rpm\r\n285 Nm @ 4500 Rpm",
+        "Fuel System:": "Electronic Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140.4 Mph (226 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "192.5 In (4890 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "53.5 In (1359 Mm)",
+        "Front/Rear Track:": "61/60.6 In (1,549/1,539 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "6 In (152 Mm)",
+        "Cargo Volume:": "15.1 Cuft (428 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3455 Lbs (1567 Kg)",
+        "Gross Weight Limit:": "4739.9 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "233 G/Km"
+      }
+    }
+  }
+]

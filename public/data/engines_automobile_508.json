@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1844,
+    "automobile_id": 508,
+    "name": "4.2L V8 Quattro 6AT AWD (344 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4163 Cm3",
+        "Power:": "253 Kw @ 7000 Rpm\r\n344 Hp @ 7000 Rpm\r\n339 Bhp @ 7000 Rpm",
+        "Torque:": "302 Lb-Ft @ 3500 Rpm\r\n410 Nm @ 3500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6 Speed Automatic Triptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 R18Y"
+      },
+      "Dimensions": {
+        "Length:": "180 In (4572 Mm)",
+        "Width:": "70 In (1778 Mm)",
+        "Height:": "54.8 In (1392 Mm)",
+        "Front/Rear Track:": "59.9/59.8 In (1,521/1,519 Mm)",
+        "Wheelbase:": "104.5 In (2654 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "8.7 Cuft (246 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4178 Lbs (1895 Kg)",
+        "Gross Weight Limit:": "5104.6 Lbs (2315 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "331 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1845,
+    "automobile_id": 508,
+    "name": "4.2L V8 Quattro 6MT AWD (344 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4163 Cm3",
+        "Power:": "253 Kw @ 7000 Rpm\r\n344 Hp @ 7000 Rpm\r\n339 Bhp @ 7000 Rpm",
+        "Torque:": "302 Lb-Ft @ 3500 Rpm\r\n410 Nm @ 3500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Manual, 6 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 R18Y"
+      },
+      "Dimensions": {
+        "Length:": "180 In (4572 Mm)",
+        "Width:": "70 In (1778 Mm)",
+        "Height:": "54.8 In (1392 Mm)",
+        "Front/Rear Track:": "59.9/59.8 In (1,521/1,519 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "8.7 Cuft (246 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "11.8 Mpg Us (19.9 L/100Km)",
+        "Highway:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)",
+        "Co2 Emissions:": "331 G/Km"
+      }
+    }
+  }
+]

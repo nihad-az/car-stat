@@ -1,0 +1,50 @@
+[
+  {
+    "id": 25787,
+    "automobile_id": 6351,
+    "name": "1.5L 4AT",
+    "specs": {
+      "Engine Specs": {
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "156.9 In (3985 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "67.7 In (1720 Mm)",
+        "Wheelbase:": "102 In (2591 Mm)"
+      }
+    }
+  },
+  {
+    "id": 25788,
+    "automobile_id": 6351,
+    "name": "1.5L 5MT",
+    "specs": {
+      "Engine Specs": {
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "156.9 In (3985 Mm)",
+        "Width:": "64.8 In (1646 Mm)",
+        "Height:": "67.7 In (1720 Mm)",
+        "Wheelbase:": "102 In (2591 Mm)"
+      }
+    }
+  }
+]

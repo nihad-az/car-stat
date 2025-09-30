@@ -1,0 +1,94 @@
+[
+  {
+    "id": 20750,
+    "automobile_id": 5132,
+    "name": "1.1L 4MT (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1078 Cm3",
+        "Power:": "44 Kw @ 5200 Rpm\r\n60 Hp @ 5200 Rpm\r\n59 Bhp @ 5200 Rpm",
+        "Torque:": "63 Lb-Ft @ 3800 Rpm\r\n85 Nm @ 3800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98 Mph (158 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "17.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155 Sr13"
+      },
+      "Dimensions": {
+        "Length:": "161.9 In (4112 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "48.2 In (1224 Mm)",
+        "Front/Rear Track:": "49.4/50.3 In (1,255/1,278 Mm)",
+        "Wheelbase:": "95.7 In (2431 Mm)",
+        "Ground Clearance:": "4.8 In (122 Mm)",
+        "Cargo Volume:": "3.9 Cuft (110 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1863 Lbs (845 Kg)",
+        "Gross Weight Limit:": "2326 Lbs (1055 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 20751,
+    "automobile_id": 5132,
+    "name": "1.9L 4MT (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1897 Cm3",
+        "Power:": "66 Kw @ 5100 Rpm\r\n90 Hp @ 5100 Rpm\r\n89 Bhp @ 5100 Rpm",
+        "Torque:": "110 Lb-Ft @ 2500 Rpm\r\n149 Nm @ 2500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "116 Mph (187 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "165 Hr13"
+      },
+      "Dimensions": {
+        "Length:": "161.9 In (4112 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "48.2 In (1224 Mm)",
+        "Front/Rear Track:": "49.4/50.3 In (1,255/1,278 Mm)",
+        "Wheelbase:": "95.7 In (2431 Mm)",
+        "Ground Clearance:": "4.8 In (122 Mm)",
+        "Cargo Volume:": "3.6 Cuft (102 L)",
+        "Aerodynamics (Cd):": "0.39"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2138 Lbs (970 Kg)"
+      }
+    }
+  }
+]

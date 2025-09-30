@@ -1,0 +1,461 @@
+[
+  {
+    "id": 23040,
+    "automobile_id": 5817,
+    "name": "2.0L 6AT (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "125 Kw @ 5000 Rpm\r\n170 Hp @ 5000 Rpm\r\n168 Bhp @ 5000 Rpm",
+        "Torque:": "199 Lb-Ft @ 3250 Rpm\r\n270 Nm @ 3250 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3262.8 Lbs (1480 Kg)",
+        "Gross Weight Limit:": "4299 Lbs (1950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "36.1 Mpg Us (6.5 L/100Km)",
+        "Combined:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Co2 Emissions:": "207 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23041,
+    "automobile_id": 5817,
+    "name": "2.0L 6MT (205 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "150 Kw @ 5000 Rpm\r\n204 Hp @ 5000 Rpm\r\n201 Bhp @ 5000 Rpm",
+        "Torque:": "221 Lb-Ft @ 3000 Rpm\r\n300 Nm @ 3000 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144.1 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3148.2 Lbs (1428 Kg)",
+        "Gross Weight Limit:": "4239.4 Lbs (1923 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.4 Mpg Us (11.5 L/100Km)",
+        "Highway:": "36.1 Mpg Us (6.5 L/100Km)",
+        "Combined:": "28.6 Mpg Us (8.2 L/100Km)",
+        "Co2 Emissions:": "194 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23042,
+    "automobile_id": 5817,
+    "name": "3.5L V6 6AT (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "176.5 Kw @ 6000 Rpm\r\n240 Hp @ 6000 Rpm\r\n237 Bhp @ 6000 Rpm",
+        "Torque:": "243 Lb-Ft @ 4400 Rpm\r\n330 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "151.6 Mph (244 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3355.4 Lbs (1522 Kg)",
+        "Gross Weight Limit:": "4303.4 Lbs (1952 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.6 Mpg Us (15.1 L/100Km)",
+        "Highway:": "31.7 Mpg Us (7.4 L/100Km)",
+        "Combined:": "23.5 Mpg Us (10 L/100Km)",
+        "Co2 Emissions:": "238 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23043,
+    "automobile_id": 5817,
+    "name": "1.5L dCi 6MT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1461 Cm3",
+        "Power:": "81 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n109 Bhp @ 4000 Rpm",
+        "Torque:": "177 Lb-Ft @ 1750 Rpm\r\n240 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3082 Lbs (1398 Kg)",
+        "Gross Weight Limit:": "4268 Lbs (1936 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "48 Mpg Us (4.9 L/100Km)",
+        "Highway:": "64 Mpg Us (3.7 L/100Km)",
+        "Combined:": "56 Mpg Us (4.2 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23044,
+    "automobile_id": 5817,
+    "name": "2.0L dCi 6MT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 2000 Rpm\r\n340 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130.4 Mph (210 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R 17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3276 Lbs (1486 Kg)",
+        "Gross Weight Limit:": "4158 Lbs (1886 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Co2 Emissions:": "144 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23045,
+    "automobile_id": 5817,
+    "name": "2.0L dCi 6MT (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "131 Kw @ 3750 Rpm\r\n178 Hp @ 3750 Rpm\r\n176 Bhp @ 3750 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000 Rpm\r\n400 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3393 Lbs (1539 Kg)",
+        "Gross Weight Limit:": "4403 Lbs (1997 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "172 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23046,
+    "automobile_id": 5817,
+    "name": "2.0L dCi FAP 6AT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 2000 Rpm\r\n340 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131 Mph (211 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R 17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3393 Lbs (1539 Kg)",
+        "Gross Weight Limit:": "4403 Lbs (1997 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions:": "180 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23047,
+    "automobile_id": 5817,
+    "name": "2.0L dCi FAP 6MT (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "110 Kw @ 4000 Rpm\r\n150 Hp @ 4000 Rpm\r\n148 Bhp @ 4000 Rpm",
+        "Torque:": "251 Lb-Ft @ 2000 Rpm\r\n340 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3322 Lbs (1507 Kg)",
+        "Gross Weight Limit:": "4348 Lbs (1972 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 23048,
+    "automobile_id": 5817,
+    "name": "3.0L V6 dCi 6AT (235 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2993 Cm3",
+        "Power:": "173 Kw @ 3750 Rpm\r\n235 Hp @ 3750 Rpm\r\n232 Bhp @ 3750 Rpm",
+        "Torque:": "332 Lb-Ft @ 1500 Rpm\r\n450 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.4 Gallons (65.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "150 Mph (241 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/50 R 17"
+      },
+      "Dimensions": {
+        "Length:": "182.7 In (4641 Mm)",
+        "Width:": "71.3 In (1811 Mm)",
+        "Height:": "55 In (1397 Mm)",
+        "Front/Rear Track:": "60.9/60.7 In (1,547/1,542 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "14.9 Cuft (422 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3593.5 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4519.4 Lbs (2050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "32.7 Mpg Us (7.2 L/100Km)",
+        "Co2 Emissions:": "192 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 577,
+    "automobile_id": 207,
+    "name": "6.0L V12 7AT (603 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5935 Cm3",
+        "Power:": "443.5 Kw @ 7000 Rpm\r\n603 Hp @ 7000 Rpm\r\n595 Bhp @ 7000 Rpm",
+        "Torque:": "465 Lb-Ft @ 5500 Rpm\r\n630 Nm @ 5500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "205 Mph (330 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "172.6 In (4384 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "49.2 In (1250 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3847 Lbs (1745 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.5 Mpg Us (22.4 L/100Km)",
+        "Highway:": "23.1 Mpg Us (10.2 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)",
+        "Co2 Emissions:": "343 G/Km"
+      }
+    }
+  },
+  {
+    "id": 578,
+    "automobile_id": 207,
+    "name": "6.0L V12 7MT (603 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5935 Cm3",
+        "Power:": "443.5 Kw @ 7000 Rpm\r\n603 Hp @ 7000 Rpm\r\n595 Bhp @ 7000 Rpm",
+        "Torque:": "465 Lb-Ft @ 5500 Rpm\r\n630 Nm @ 5500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "205 Mph (330 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "172.6 In (4384 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "49.2 In (1250 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)",
+        "Cargo Volume:": "10.6 Cuft (300 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3847 Lbs (1745 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "9.2 Mpg Us (25.6 L/100Km)",
+        "Highway:": "19.4 Mpg Us (12.1 L/100Km)",
+        "Combined:": "13.8 Mpg Us (17 L/100Km)",
+        "Co2 Emissions:": "395 G/Km"
+      }
+    }
+  }
+]

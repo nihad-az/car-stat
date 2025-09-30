@@ -1,0 +1,136 @@
+[
+  {
+    "id": 5262,
+    "automobile_id": 1030,
+    "name": "3.8L V6 4AT FWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3791 Cm3",
+        "Power:": "147 Kw @ 5200 Rpm\r\n200 Hp @ 5200 Rpm\r\n197 Bhp @ 5200 Rpm",
+        "Torque:": "227 Lb-Ft @ 3800 Rpm\r\n308 Nm @ 3800 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "203.2 In (5161 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "62.6/62.1 In (1,590/1,577 Mm)",
+        "Wheelbase:": "115.6 In (2936 Mm)",
+        "Cargo Volume:": "16.8 Cuft (476 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3763.9 Lbs (1707 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Co2 Emissions:": "221 G/Km"
+      }
+    }
+  },
+  {
+    "id": 5263,
+    "automobile_id": 1030,
+    "name": "3.9L V6 4AT FWD (227 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3880 Cm3",
+        "Power:": "169 Kw @ 5700 Rpm\r\n230 Hp @ 5700 Rpm\r\n227 Bhp @ 5700 Rpm",
+        "Torque:": "237 Lb-Ft @ 3200 Rpm\r\n321 Nm @ 3200 Rpm",
+        "Fuel System:": "Sequential Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "203.2 In (5161 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "62.6/62.1 In (1,590/1,577 Mm)",
+        "Wheelbase:": "115.6 In (2936 Mm)",
+        "Cargo Volume:": "17 Cuft (481 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4013.1 Lbs (1820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "23.5 Mpg Us (10 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5264,
+    "automobile_id": 1030,
+    "name": "4.6L V8 4AT FWD (209 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4565 Cm3",
+        "Power:": "205 Kw @ 5600 Rpm\r\n279 Hp @ 5600 Rpm\r\n275 Bhp @ 5600 Rpm",
+        "Torque:": "300 Lb-Ft @ 4400 Rpm\r\n407 Nm @ 4400 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/50 R18"
+      },
+      "Dimensions": {
+        "Length:": "203.2 In (5161 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "62.6/62.1 In (1,590/1,577 Mm)",
+        "Wheelbase:": "115.6 In (2936 Mm)",
+        "Cargo Volume:": "16.8 Cuft (476 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4013.1 Lbs (1820 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "23.5 Mpg Us (10 L/100Km)",
+        "Co2 Emissions:": "238 G/Km"
+      }
+    }
+  }
+]

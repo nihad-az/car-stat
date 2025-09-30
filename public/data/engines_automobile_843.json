@@ -1,0 +1,101 @@
+[
+  {
+    "id": 4344,
+    "automobile_id": 843,
+    "name": "3.0L si 6AT RWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "195 Kw @ 6600 Rpm\r\n265 Hp @ 6600 Rpm\r\n261 Bhp @ 6600 Rpm",
+        "Torque:": "232 Lb-Ft @ 2750–4000 Rpm\r\n315 Nm @ 2750–4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W"
+      },
+      "Dimensions": {
+        "Length:": "161.1 In (4092 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "51.1 In (1298 Mm)",
+        "Front/Rear Track:": "58/60 In (1,473/1,524 Mm)",
+        "Wheelbase:": "98.2 In (2494 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2921 Lbs (1325 Kg)",
+        "Gross Weight Limit:": "3638 Lbs (1650 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4345,
+    "automobile_id": 843,
+    "name": "3.0L si 6MT RWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "195 Kw @ 6600 Rpm\r\n265 Hp @ 6600 Rpm\r\n261 Bhp @ 6600 Rpm",
+        "Torque:": "232 Lb-Ft @ 2750–4000 Rpm\r\n315 Nm @ 2750–4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/45 R17 91W"
+      },
+      "Dimensions": {
+        "Length:": "161.1 In (4092 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "51.1 In (1298 Mm)",
+        "Front/Rear Track:": "58/60 In (1,473/1,524 Mm)",
+        "Wheelbase:": "98.2 In (2494 Mm)",
+        "Ground Clearance:": "4.3 In (109 Mm)",
+        "Cargo Volume:": "10.1 Cuft (286 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3053.9 Lbs (1385 Kg)",
+        "Gross Weight Limit:": "3550.1 Lbs (1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.7 Mpg Us (12.6 L/100Km)",
+        "Highway:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Combined:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Co2 Emissions:": "207 G/Km"
+      }
+    }
+  }
+]

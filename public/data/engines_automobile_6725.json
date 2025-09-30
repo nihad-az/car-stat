@@ -1,0 +1,94 @@
+[
+  {
+    "id": 27115,
+    "automobile_id": 6725,
+    "name": "2.8L 4AT FWD (145 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2759 Cm3",
+        "Power:": "107 Kw @ 5000 Rpm\r\n145 Hp @ 5000 Rpm\r\n143 Bhp @ 5000 Rpm",
+        "Torque:": "167 Lb-Ft @ 4000 Rpm\r\n226 Nm @ 4000 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121.2 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70Hr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "67.7 In (1720 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "56.3/55.1 In (1,430/1,400 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3179.1 Lbs (1442 Kg)",
+        "Gross Weight Limit:": "4188.8 Lbs (1900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "261.8 G/Km"
+      }
+    }
+  },
+  {
+    "id": 27116,
+    "automobile_id": 6725,
+    "name": "2.2L d 4MT FWD (66 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2188 Cm3",
+        "Power:": "49 Kw @ 4200 Rpm\r\n67 Hp @ 4200 Rpm\r\n66 Bhp @ 4200 Rpm",
+        "Torque:": "97 Lb-Ft @ 2400 Rpm\r\n132 Nm @ 2400 Rpm",
+        "Fuel System:": "Indirect Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "87 Mph (140 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "24 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185Sr14"
+      },
+      "Dimensions": {
+        "Length:": "191.3 In (4859 Mm)",
+        "Width:": "67.7 In (1720 Mm)",
+        "Height:": "56.3 In (1430 Mm)",
+        "Front/Rear Track:": "56.3/55.1 In (1,430/1,400 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "7.1 In (180 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3130.6 Lbs (1420 Kg)",
+        "Gross Weight Limit:": "4188.8 Lbs (1900 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Co2 Emissions:": "243.8 G/Km"
+      }
+    }
+  }
+]

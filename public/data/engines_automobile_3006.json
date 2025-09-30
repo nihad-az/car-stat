@@ -1,0 +1,82 @@
+[
+  {
+    "id": 12585,
+    "automobile_id": 3006,
+    "name": "2.0L 7AT AWD (208 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "153 Kw @ 5500 Rpm\r\n208 Hp @ 5500 Rpm\r\n205 Bhp @ 5500 Rpm",
+        "Torque:": "258 Lb-Ft @ 4000 Rpm\r\n350 Nm @ 4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/50R18"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "58.9 In (1496 Mm)",
+        "Front/Rear Track:": "61.9/61.9 In (1,572/1,572 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "8 In (203 Mm)",
+        "Cargo Volume:": "13 Cuft (368 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3475 Lbs (1576 Kg)",
+        "Gross Weight Limit:": "4387 Lbs (1990 Kg)"
+      }
+    }
+  },
+  {
+    "id": 12586,
+    "automobile_id": 3006,
+    "name": "2.0L 7AT RWD (208 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "153 Kw @ 5500 Rpm\r\n208 Hp @ 5500 Rpm\r\n205 Bhp @ 5500 Rpm",
+        "Torque:": "258 Lb-Ft @ 4000 Rpm\r\n350 Nm @ 4000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/50R18"
+      },
+      "Dimensions": {
+        "Length:": "174.2 In (4425 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "58.9 In (1496 Mm)",
+        "Front/Rear Track:": "61.9/61.9 In (1,572/1,572 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Cargo Volume:": "13 Cuft (368 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3280 Lbs (1488 Kg)",
+        "Gross Weight Limit:": "4277 Lbs (1940 Kg)"
+      }
+    }
+  }
+]

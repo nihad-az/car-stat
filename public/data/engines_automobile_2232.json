@@ -1,0 +1,80 @@
+[
+  {
+    "id": 9513,
+    "automobile_id": 2232,
+    "name": "3.5L V6 EcoBoost 6AT (4x2)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "268 Kw @ 5000 Rpm\r\n365 Hp @ 5000 Rpm\r\n359 Bhp @ 5000 Rpm",
+        "Torque:": "420 Lb-Ft @ 2500 Rpm\r\n569 Nm @ 2500 Rpm",
+        "Fuel System:": "High Pressure Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "231.9 In (5890 Mm)",
+        "Width:": "79.2 In (2012 Mm)",
+        "Height:": "75.2 In (1910 Mm)",
+        "Front/Rear Track:": "67/67 In (1,702/1,702 Mm)",
+        "Wheelbase:": "144.5 In (3670 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5203 Lbs (2360 Kg)",
+        "Gross Weight Limit:": "7050 Lbs (3198 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16 Mpg Us (14.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 9514,
+    "automobile_id": 2232,
+    "name": "3.5L V6 EcoBoost 6AT (4x4)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "268 Kw @ 5000 Rpm\r\n365 Hp @ 5000 Rpm\r\n359 Bhp @ 5000 Rpm",
+        "Torque:": "420 Lb-Ft @ 2500 Rpm\r\n569 Nm @ 2500 Rpm",
+        "Fuel System:": "High Pressure Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "231.9 In (5890 Mm)",
+        "Width:": "79.2 In (2012 Mm)",
+        "Height:": "75.2 In (1910 Mm)",
+        "Front/Rear Track:": "67/67 In (1,702/1,702 Mm)",
+        "Wheelbase:": "144.5 In (3670 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5476 Lbs (2484 Kg)",
+        "Gross Weight Limit:": "7200 Lbs (3266 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "id": 5556,
+    "automobile_id": 1162,
+    "name": "5.3L V8 VVT 10AT AWD (355 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "261.1 Kw @ 5600 Rpm\r\n355 Hp @ 5600 Rpm\r\n350 Bhp @ 5600 Rpm",
+        "Torque:": "383 Lb-Ft @ 4100 Rpm\r\n519 Nm @ 4100 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "31 Gallons (117.3 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P265/65R18"
+      },
+      "Dimensions": {
+        "Length:": "224.4 In (5700 Mm)",
+        "Width:": "80.5 In (2045 Mm)",
+        "Height:": "74.4 In (1890 Mm)",
+        "Front/Rear Track:": "68.5/68.6 In (1,740/1,742 Mm)",
+        "Wheelbase:": "130 In (3302 Mm)",
+        "Ground Clearance:": "7.91 In (201 Mm)",
+        "Cargo Volume:": "39.3 Cuft (1113 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5586 Lbs (2534 Kg)",
+        "Gross Weight Limit:": "7300 Lbs (3311 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5557,
+    "automobile_id": 1162,
+    "name": "5.3L V8 VVT 6AT (355 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "261.1 Kw @ 5600 Rpm\r\n355 Hp @ 5600 Rpm\r\n350 Bhp @ 5600 Rpm",
+        "Torque:": "383 Lb-Ft @ 4100 Rpm\r\n519 Nm @ 4100 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "31 Gallons (117.3 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P265/65R18"
+      },
+      "Dimensions": {
+        "Length:": "224.4 In (5700 Mm)",
+        "Width:": "80.5 In (2045 Mm)",
+        "Height:": "74.4 In (1890 Mm)",
+        "Front/Rear Track:": "68.5/68.6 In (1,740/1,742 Mm)",
+        "Wheelbase:": "130 In (3302 Mm)",
+        "Ground Clearance:": "7.91 In (201 Mm)",
+        "Cargo Volume:": "39.3 Cuft (1113 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5586 Lbs (2534 Kg)",
+        "Gross Weight Limit:": "7300 Lbs (3311 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "18 Mpg Us (13.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5558,
+    "automobile_id": 1162,
+    "name": "6.2L V8 VVT 10AT (420 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "308.9 Kw @ 5600 Rpm\r\n420 Hp @ 5600 Rpm\r\n414 Bhp @ 5600 Rpm",
+        "Torque:": "460 Lb-Ft @ 4100 Rpm\r\n623 Nm @ 4100 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "31 Gallons (117.3 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P265/65R18"
+      },
+      "Dimensions": {
+        "Length:": "225.7 In (5733 Mm)",
+        "Width:": "81.1 In (2060 Mm)",
+        "Height:": "75.7 In (1923 Mm)",
+        "Front/Rear Track:": "68.5/68.6 In (1,740/1,742 Mm)",
+        "Wheelbase:": "130 In (3302 Mm)",
+        "Cargo Volume:": "39.3 Cuft (1113 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5559,
+    "automobile_id": 1162,
+    "name": "3.0L 10AT (277 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Power:": "203.7 Kw @ - Rpm\r\n277 Hp @ - Rpm\r\n273 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "31 Gallons (117.3 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P265/65R18"
+      },
+      "Dimensions": {
+        "Length:": "225.7 In (5733 Mm)",
+        "Width:": "81.1 In (2060 Mm)",
+        "Height:": "75.7 In (1923 Mm)",
+        "Front/Rear Track:": "68.5/68.6 In (1,740/1,742 Mm)",
+        "Wheelbase:": "134.1 In (3406 Mm)",
+        "Cargo Volume:": "41.1 Cuft (1164 L)"
+      }
+    }
+  }
+]

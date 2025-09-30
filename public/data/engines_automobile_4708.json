@@ -1,0 +1,68 @@
+[
+  {
+    "id": 18728,
+    "automobile_id": 4708,
+    "name": "2.0L 6MT (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "190.2 Kw @ 5500 Rpm\r\n258.5 Hp @ 5500 Rpm\r\n255 Bhp @ 5500 Rpm",
+        "Torque:": "258 Lb-Ft @ 1000-5000 Rpm\r\n350 Nm @ 1000-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2273 Lbs (1031 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "165 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18729,
+    "automobile_id": 4708,
+    "name": "2.0L 8AT (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "190.2 Kw @ 4400 Rpm\r\n259 Hp @ 4400 Rpm\r\n255 Bhp @ 4400 Rpm",
+        "Torque:": "295 Lb-Ft @ 1000-4300 Rpm\r\n400 Nm @ 1000-4300 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2224 Lbs (1009 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "33.6 Mpg Us (7 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  }
+]

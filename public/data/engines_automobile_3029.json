@@ -1,0 +1,84 @@
+[
+  {
+    "id": 12659,
+    "automobile_id": 3029,
+    "name": "2.5L RWD V6 (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4",
+        "Displacement:": "2496 Cm3",
+        "Power:": "160 Kw @ 6400 Rpm\r\n218 Hp @ 6400 Rpm\r\n215 Bhp @ 6400 Rpm",
+        "Torque:": "187 Lb-Ft @ 4800 Rpm\r\n254 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic W/Ds Mode And Downshift Rev Matching"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "187.9 In (4773 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "59.8/60.2 In (1,519/1,529 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "13.5 Cuft (382 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)",
+        "Gross Weight Limit:": "4674 Lbs (2120 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12660,
+    "automobile_id": 3029,
+    "name": "2.5L V6 AWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4",
+        "Displacement:": "2496 Cm3",
+        "Power:": "160 Kw @ 6400 Rpm\r\n218 Hp @ 6400 Rpm\r\n215 Bhp @ 6400 Rpm",
+        "Torque:": "187 Lb-Ft @ 4800 Rpm\r\n254 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic W/Ds Mode And Downshift Rev Matching"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "187.9 In (4773 Mm)",
+        "Width:": "69.8 In (1773 Mm)",
+        "Height:": "57.2 In (1453 Mm)",
+        "Front/Rear Track:": "59.8/60.2 In (1,519/1,529 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "13.5 Cuft (382 L)",
+        "Aerodynamics (Cd):": "0.29"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "8272 Lbs (3752 Kg)",
+        "Gross Weight Limit:": "4795 Lbs (2175 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)"
+      }
+    }
+  }
+]

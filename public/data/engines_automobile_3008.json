@@ -1,0 +1,96 @@
+[
+  {
+    "id": 12589,
+    "automobile_id": 3008,
+    "name": "3.7L V6 7AT AWD (325 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "242.4 Kw @ 7000 Rpm\r\n330 Hp @ 7000 Rpm\r\n325 Bhp @ 7000 Rpm",
+        "Torque:": "267 Lb-Ft @ 5200 Rpm\r\n362 Nm @ 5200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55R18"
+      },
+      "Dimensions": {
+        "Length:": "186.8 In (4745 Mm)",
+        "Width:": "71 In (1803 Mm)",
+        "Height:": "62.7 In (1593 Mm)",
+        "Front/Rear Track:": "60.4/61 In (1,534/1,549 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Cargo Volume:": "18.6 Cuft (527 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4020 Lbs (1823 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 12590,
+    "automobile_id": 3008,
+    "name": "3.7L V6 7AT RWD (325 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3696 Cm3",
+        "Power:": "242.4 Kw @ 7000 Rpm\r\n330 Hp @ 7000 Rpm\r\n325 Bhp @ 7000 Rpm",
+        "Torque:": "267 Lb-Ft @ 5200 Rpm\r\n362 Nm @ 5200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.1 Gallons (79.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "7-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55R18"
+      },
+      "Dimensions": {
+        "Length:": "186.8 In (4745 Mm)",
+        "Width:": "71 In (1803 Mm)",
+        "Height:": "62.7 In (1593 Mm)",
+        "Front/Rear Track:": "60.4/61 In (1,534/1,549 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Cargo Volume:": "18.6 Cuft (527 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3855 Lbs (1749 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  }
+]

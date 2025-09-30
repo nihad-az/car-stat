@@ -1,0 +1,81 @@
+[
+  {
+    "id": 8854,
+    "automobile_id": 2044,
+    "name": "2.0",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "1987 Cm3",
+        "Power:": "119 Kw @ 7200 Rpm\r\n162 Hp @ 7200 Rpm\r\n160 Bhp @ 7200 Rpm",
+        "Torque:": "127 Lb-Ft @ 6000 Rpm\r\n172 Nm @ 6000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "177.7 In (4514 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "51.9 In (1318 Mm)",
+        "Front/Rear Track:": "54.5/53.3 In (1,384/1,354 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2690 Lbs (1220 Kg)"
+      }
+    }
+  },
+  {
+    "id": 8855,
+    "automobile_id": 2044,
+    "name": "2.4",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2419 Cm3",
+        "Power:": "134 Kw @ 6600 Rpm\r\n182 Hp @ 6600 Rpm\r\n180 Bhp @ 6600 Rpm",
+        "Torque:": "159 Lb-Ft @ 4600 Rpm\r\n216 Nm @ 4600 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "820X80-120 (Front) - 910X90"
+      },
+      "Dimensions": {
+        "Length:": "177.7 In (4514 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "51.9 In (1318 Mm)",
+        "Front/Rear Track:": "54.5/53.3 In (1,384/1,354 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3086 Lbs (1400 Kg)"
+      }
+    }
+  }
+]

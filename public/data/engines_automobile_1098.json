@@ -1,0 +1,104 @@
+[
+  {
+    "id": 5396,
+    "automobile_id": 1098,
+    "name": "6.2L V8 6AT (550 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "404.5 Kw @ 6100 Rpm\r\n550 Hp @ 6100 Rpm\r\n542 Bhp @ 6100 Rpm",
+        "Torque:": "550 Lb-Ft @ 3800 Rpm\r\n745 Nm @ 3800 Rpm",
+        "Fuel System:": "Supercharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "175 Mph (282 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 Zr19 || 285/35 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "191.6 In (4867 Mm)",
+        "Width:": "72.5 In (1842 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "113.4 In (2880 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4281 Lbs (1942 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.8 Mpg Us (21.8 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)",
+        "Co2 Emissions:": "350 G/Km"
+      }
+    }
+  },
+  {
+    "id": 5397,
+    "automobile_id": 1098,
+    "name": "6.2L V8 6MT (550 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6162 Cm3",
+        "Power:": "404.5 Kw @ 6100 Rpm\r\n550 Hp @ 6100 Rpm\r\n542 Bhp @ 6100 Rpm",
+        "Torque:": "550 Lb-Ft @ 3800 Rpm\r\n745 Nm @ 3800 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18 Gallons (68.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "191 Mph (307 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/40 Zr19 || 285/35 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "191.6 In (4867 Mm)",
+        "Width:": "72.5 In (1842 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Front/Rear Track:": "61.8/62 In (1,570/1,575 Mm)",
+        "Wheelbase:": "113.4 In (2880 Mm)",
+        "Ground Clearance:": "5 In (127 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4251 Lbs (1928 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.8 Mpg Us (21.8 L/100Km)",
+        "Highway:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Combined:": "15.4 Mpg Us (15.3 L/100Km)",
+        "Co2 Emissions:": "365 G/Km"
+      }
+    }
+  }
+]

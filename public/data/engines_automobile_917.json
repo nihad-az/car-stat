@@ -1,0 +1,693 @@
+[
+  {
+    "id": 5071,
+    "automobile_id": 917,
+    "name": "518 3AT RWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1776 Cm3",
+        "Power:": "66 Kw @ 5800 Rpm\r\n90 Hp @ 5800 Rpm\r\n89 Bhp @ 5800 Rpm",
+        "Torque:": "105 Lb-Ft @ 3700 Rpm\r\n142 Nm @ 3700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Sr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2734 Lbs (1240 Kg)",
+        "Gross Weight Limit:": "3748 Lbs (1700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.6 Mpg Us (12 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5072,
+    "automobile_id": 917,
+    "name": "518 4MT RWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1776 Cm3",
+        "Power:": "66 Kw @ 5800 Rpm\r\n90 Hp @ 5800 Rpm\r\n89 Bhp @ 5800 Rpm",
+        "Torque:": "105 Lb-Ft @ 3700 Rpm\r\n142 Nm @ 3700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99.4 Mph (160 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Sr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2733.7 Lbs (1240 Kg)",
+        "Gross Weight Limit:": "3747.8 Lbs (1700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.8 Mpg Us (9.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5073,
+    "automobile_id": 917,
+    "name": "520 3AT RWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "1990 Cm3",
+        "Power:": "84.6 Kw @ 5800 Rpm\r\n115 Hp @ 5800 Rpm\r\n113 Bhp @ 5800 Rpm",
+        "Torque:": "120 Lb-Ft @ 3700 Rpm\r\n162 Nm @ 3700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2778 Lbs (1260 Kg)",
+        "Gross Weight Limit:": "3902 Lbs (1770 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "16.8 Mpg Us (14 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5074,
+    "automobile_id": 917,
+    "name": "520 4MT RWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "1990 Cm3",
+        "Power:": "84.6 Kw @ 5800 Rpm\r\n115 Hp @ 5800 Rpm\r\n113 Bhp @ 5800 Rpm",
+        "Torque:": "120 Lb-Ft @ 3700 Rpm\r\n162 Nm @ 3700 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2888.1 Lbs (1310 Kg)",
+        "Gross Weight Limit:": "3902.2 Lbs (1770 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5075,
+    "automobile_id": 917,
+    "name": "520i 3AT RWD (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1990 Cm3",
+        "Power:": "95.6 Kw @ 5800 Rpm\r\n130 Hp @ 5800 Rpm\r\n128 Bhp @ 5800 Rpm",
+        "Torque:": "131 Lb-Ft @ 4500 Rpm\r\n178 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2778 Lbs (1260 Kg)",
+        "Gross Weight Limit:": "3748 Lbs (1700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5076,
+    "automobile_id": 917,
+    "name": "520i 4MT RWD (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1990 Cm3",
+        "Power:": "95.6 Kw @ 5800 Rpm\r\n130 Hp @ 5800 Rpm\r\n128 Bhp @ 5800 Rpm",
+        "Torque:": "131 Lb-Ft @ 4500 Rpm\r\n178 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2756 Lbs (1250 Kg)",
+        "Gross Weight Limit:": "3748 Lbs (1700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5077,
+    "automobile_id": 917,
+    "name": "525 3AT RWD (145 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2494 Cm3",
+        "Power:": "106.6 Kw @ 5800 Rpm\r\n145 Hp @ 5800 Rpm\r\n143 Bhp @ 5800 Rpm",
+        "Torque:": "153 Lb-Ft @ 4000 Rpm\r\n208 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3020 Lbs (1370 Kg)",
+        "Gross Weight Limit:": "3990 Lbs (1810 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.6 Mpg Us (12 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5078,
+    "automobile_id": 917,
+    "name": "525 4MT RWD (145 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2494 Cm3",
+        "Power:": "106.6 Kw @ 5800 Rpm\r\n145 Hp @ 5800 Rpm\r\n143 Bhp @ 5800 Rpm",
+        "Torque:": "153 Lb-Ft @ 4000 Rpm\r\n208 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2976.2 Lbs (1350 Kg)",
+        "Gross Weight Limit:": "3990.4 Lbs (1810 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5079,
+    "automobile_id": 917,
+    "name": "528 3AT RWD (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "121.3 Kw @ 5800 Rpm\r\n165 Hp @ 5800 Rpm\r\n163 Bhp @ 5800 Rpm",
+        "Torque:": "172 Lb-Ft @ 4000 Rpm\r\n233 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3097 Lbs (1405 Kg)",
+        "Gross Weight Limit:": "4057 Lbs (1840 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.1 Mpg Us (13 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5080,
+    "automobile_id": 917,
+    "name": "528 4MT RWD (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "121.3 Kw @ 5800 Rpm\r\n165 Hp @ 5800 Rpm\r\n163 Bhp @ 5800 Rpm",
+        "Torque:": "172 Lb-Ft @ 4000 Rpm\r\n233 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3053 Lbs (1385 Kg)",
+        "Gross Weight Limit:": "4057 Lbs (1840 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5081,
+    "automobile_id": 917,
+    "name": "528i 3AT RWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "130.2 Kw @ 5800 Rpm\r\n177 Hp @ 5800 Rpm\r\n175 Bhp @ 5800 Rpm",
+        "Torque:": "173 Lb-Ft @ 4300 Rpm\r\n235 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3153 Lbs (1430 Kg)",
+        "Gross Weight Limit:": "4123 Lbs (1870 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.6 Mpg Us (16.1 L/100Km)",
+        "Highway:": "20.8 Mpg Us (11.3 L/100Km)",
+        "Combined:": "19.3 Mpg Us (12.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5082,
+    "automobile_id": 917,
+    "name": "528i 4MT RWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2788 Cm3",
+        "Power:": "130.2 Kw @ 5800 Rpm\r\n177 Hp @ 5800 Rpm\r\n175 Bhp @ 5800 Rpm",
+        "Torque:": "173 Lb-Ft @ 4300 Rpm\r\n235 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "129.2 Mph (208 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/70 Vr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3108.5 Lbs (1410 Kg)",
+        "Gross Weight Limit:": "4122.6 Lbs (1870 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.2 Mpg Us (10.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5083,
+    "automobile_id": 917,
+    "name": "530i 3AT RWD (178 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2986 Cm3",
+        "Power:": "130.9 Kw @ 5500 Rpm\r\n178 Hp @ 5500 Rpm\r\n176 Bhp @ 5500 Rpm",
+        "Torque:": "185 Lb-Ft @ 4500 Rpm\r\n251 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Sr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3142 Lbs (1425 Kg)",
+        "Gross Weight Limit:": "3748 Lbs (1700 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "21 Mpg Us (11.2 L/100Km)",
+        "Combined:": "16 Mpg Us (14.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5084,
+    "automobile_id": 917,
+    "name": "530i 4MT RWD (178 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2986 Cm3",
+        "Power:": "130.9 Kw @ 5500 Rpm\r\n178 Hp @ 5500 Rpm\r\n176 Bhp @ 5500 Rpm",
+        "Torque:": "185 Lb-Ft @ 4500 Rpm\r\n251 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175 Sr14"
+      },
+      "Dimensions": {
+        "Length:": "181.8 In (4618 Mm)",
+        "Width:": "66.5 In (1689 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "55.9/57.9 In (1,420/1,471 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "21.9 Cuft (620 L)",
+        "Aerodynamics (Cd):": "0.43",
+        "Turning Circle:": "34.4 Ft (10.5 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3439 Lbs (1560 Kg)",
+        "Gross Weight Limit:": "4339 Lbs (1968 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13 Mpg Us (18.1 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  }
+]

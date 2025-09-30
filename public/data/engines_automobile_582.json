@@ -1,0 +1,414 @@
+[
+  {
+    "id": 2620,
+    "automobile_id": 582,
+    "name": "1.8L GT 3AT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1781 Cm3",
+        "Power:": "66 Kw @ 5500 Rpm\r\n90 Hp @ 5500 Rpm\r\n89 Bhp @ 5500 Rpm",
+        "Torque:": "101 Lb-Ft @ 3250 Rpm\r\n137 Nm @ 3250 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2180 Lbs (989 Kg)",
+        "Gross Weight Limit:": "3174.6 Lbs (1440 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 2621,
+    "automobile_id": 582,
+    "name": "1.8L GT 5MT FWD (90 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1781 Cm3",
+        "Power:": "66 Kw @ 5500 Rpm\r\n90 Hp @ 5500 Rpm\r\n89 Bhp @ 5500 Rpm",
+        "Torque:": "101 Lb-Ft @ 3250 Rpm\r\n137 Nm @ 3250 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106.9 Mph (172 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2161 Lbs (980 Kg)",
+        "Gross Weight Limit:": "3174.6 Lbs (1440 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Co2 Emissions:": "198 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2622,
+    "automobile_id": 582,
+    "name": "2.0L 3AT FWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "1994 Cm3",
+        "Power:": "85 Kw @ 5400 Rpm\r\n115 Hp @ 5400 Rpm\r\n114 Bhp @ 5400 Rpm",
+        "Torque:": "122 Lb-Ft @ 3200 Rpm\r\n165 Nm @ 3200 Rpm",
+        "Fuel System:": "Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2337 Lbs (1060 Kg)",
+        "Gross Weight Limit:": "3329 Lbs (1510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 2623,
+    "automobile_id": 582,
+    "name": "2.0L 5MT FWD (115 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "1994 Cm3",
+        "Power:": "85 Kw @ 5400 Rpm\r\n115 Hp @ 5400 Rpm\r\n114 Bhp @ 5400 Rpm",
+        "Torque:": "122 Lb-Ft @ 3200 Rpm\r\n165 Nm @ 3200 Rpm",
+        "Fuel System:": "Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115.6 Mph (186 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2314.9 Lbs (1050 Kg)",
+        "Gross Weight Limit:": "3329 Lbs (1510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "202 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2624,
+    "automobile_id": 582,
+    "name": "2.1L 3AT FWD (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2144 Cm3",
+        "Power:": "96 Kw @ 5900 Rpm\r\n130 Hp @ 5900 Rpm\r\n129 Bhp @ 5900 Rpm",
+        "Torque:": "126 Lb-Ft @ 4800 Rpm\r\n171 Nm @ 4800 Rpm",
+        "Fuel System:": "Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2524 Lbs (1145 Kg)",
+        "Gross Weight Limit:": "3329 Lbs (1510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 2625,
+    "automobile_id": 582,
+    "name": "2.1L 5MT FWD (130 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2144 Cm3",
+        "Power:": "96 Kw @ 5900 Rpm\r\n130 Hp @ 5900 Rpm\r\n129 Bhp @ 5900 Rpm",
+        "Torque:": "126 Lb-Ft @ 4800 Rpm\r\n171 Nm @ 4800 Rpm",
+        "Fuel System:": "Fuel Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121.8 Mph (196 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2507 Lbs (1137 Kg)",
+        "Gross Weight Limit:": "3329 Lbs (1510 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "33 Mpg Us (7.1 L/100Km)",
+        "Combined:": "24.6 Mpg Us (9.6 L/100Km)",
+        "Co2 Emissions:": "227 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2626,
+    "automobile_id": 582,
+    "name": "2.2L GT 3AT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2226 Cm3",
+        "Power:": "100 Kw @ 5700 Rpm\r\n136 Hp @ 5700 Rpm\r\n134 Bhp @ 5700 Rpm",
+        "Torque:": "137 Lb-Ft @ 3500 Rpm\r\n186 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2663 Lbs (1208 Kg)",
+        "Gross Weight Limit:": "3660 Lbs (1660 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "24.5 Mpg Us (9.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 2627,
+    "automobile_id": 582,
+    "name": "2.2L GT 5MT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2226 Cm3",
+        "Power:": "100 Kw @ 5700 Rpm\r\n136 Hp @ 5700 Rpm\r\n134 Bhp @ 5700 Rpm",
+        "Torque:": "137 Lb-Ft @ 3500 Rpm\r\n186 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2646 Lbs (1200 Kg)",
+        "Gross Weight Limit:": "3660 Lbs (1660 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "25 Mpg Us (9.4 L/100Km)",
+        "Co2 Emissions:": "224 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2628,
+    "automobile_id": 582,
+    "name": "2.2L quattro 5MT FWD (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2226 Cm3",
+        "Power:": "100 Kw @ 5700 Rpm\r\n136 Hp @ 5700 Rpm\r\n134 Bhp @ 5700 Rpm",
+        "Torque:": "137 Lb-Ft @ 3500 Rpm\r\n186 Nm @ 3500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 Hr14"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "53.1 In (1349 Mm)",
+        "Front/Rear Track:": "55.1/55.9 In (1,400/1,420 Mm)",
+        "Wheelbase:": "99.8 In (2535 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "15.7 Cuft (445 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2645.5 Lbs (1200 Kg)",
+        "Gross Weight Limit:": "3659.7 Lbs (1660 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Co2 Emissions:": "245 G/Km"
+      }
+    }
+  }
+]

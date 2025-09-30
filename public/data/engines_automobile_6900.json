@@ -1,0 +1,174 @@
+[
+  {
+    "id": 27860,
+    "automobile_id": 6900,
+    "name": "1.0L 5MT (76 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "55.9 Kw @ 6200 Rpm\r\n76 Hp @ 6200 Rpm\r\n75 Bhp @ 6200 Rpm",
+        "Torque:": "70 Lb-Ft @ 3000-4300 Rpm\r\n95 Nm @ 3000-4300 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drum"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.2 In (1681 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "57.5/57.3 In (1,461/1,455 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2264 - 2315 Lbs (1027 - 1050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19.4 Mpg Us (12.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 27861,
+    "automobile_id": 6900,
+    "name": "1.2L 5MT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1198 Cm3",
+        "Power:": "55.2 Kw @ 5400 Rpm\r\n75 Hp @ 5400 Rpm\r\n74 Bhp @ 5400 Rpm",
+        "Torque:": "81 Lb-Ft @ 3750 Rpm\r\n110 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drum"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.2 In (1681 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "57.5/57.3 In (1,461/1,455 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2302 - 2357 Lbs (1044 - 1069 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "17.8 Mpg Us (13.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 27862,
+    "automobile_id": 6900,
+    "name": "1.5L TDI 5MT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "80.9 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n108 Bhp @ 4000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3000 Rpm\r\n250 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drum"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.2 In (1681 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "57.5/57.3 In (1,461/1,455 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2509 - 2564 Lbs (1138 - 1163 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.6 Mpg Us (10.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 27863,
+    "automobile_id": 6900,
+    "name": "1.5L TDI 7AT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "80.9 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n108 Bhp @ 4000 Rpm",
+        "Torque:": "184 Lb-Ft @ 1500-3000 Rpm\r\n250 Nm @ 1500-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dsg"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drum"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70 R14"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.2 In (1681 Mm)",
+        "Height:": "58.4 In (1483 Mm)",
+        "Front/Rear Track:": "57.5/57.3 In (1,461/1,455 Mm)",
+        "Wheelbase:": "97.2 In (2469 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2588 - 2610 Lbs (1174 - 1184 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)"
+      }
+    }
+  }
+]

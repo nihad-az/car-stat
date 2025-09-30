@@ -1,0 +1,86 @@
+[
+  {
+    "id": 160,
+    "automobile_id": 78,
+    "name": "2.0L Q4 8AT AWD (280 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "206 Kw @ 5250 Rpm\r\n280 Hp @ 5250 Rpm\r\n276 Bhp @ 5250 Rpm",
+        "Torque:": "295 Lb-Ft @ 2250 Rpm\r\n400 Nm @ 2250 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "79.7 In (2024 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3538 Lbs (1605 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Highway:": "48 Mpg Us (4.9 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "152 G/Km"
+      }
+    }
+  },
+  {
+    "id": 161,
+    "automobile_id": 78,
+    "name": "2.2L Q4 8AT AWD (210 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2143 Cm3",
+        "Power:": "154.4 Kw @ 3500 Rpm\r\n210 Hp @ 3500 Rpm\r\n207 Bhp @ 3500 Rpm",
+        "Torque:": "347 Lb-Ft @ 1750 Rpm\r\n470 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "182.8 In (4643 Mm)",
+        "Width:": "79.7 In (2024 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Wheelbase:": "111 In (2819 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3549 Lbs (1610 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "50 Mpg Us (4.7 L/100Km)",
+        "Co2 Emissions:": "122 G/Km"
+      }
+    }
+  }
+]

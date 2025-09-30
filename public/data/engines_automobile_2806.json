@@ -1,0 +1,171 @@
+[
+  {
+    "id": 11769,
+    "automobile_id": 2806,
+    "name": "1.3L 2AT FWD (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1335 Cm3",
+        "Power:": "44 Kw @ 5000 Rpm\r\n60 Hp @ 5000 Rpm\r\n59 Bhp @ 5000 Rpm",
+        "Torque:": "69 Lb-Ft @ 3500 Rpm\r\n94 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "2-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr12"
+      },
+      "Dimensions": {
+        "Length:": "148 In (3759 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "53.5/53.9 In (1,359/1,369 Mm)",
+        "Wheelbase:": "88.6 In (2250 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)",
+        "Aerodynamics (Cd):": "0.42"
+      }
+    }
+  },
+  {
+    "id": 11770,
+    "automobile_id": 2806,
+    "name": "1.3L 4MT FWD (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1335 Cm3",
+        "Power:": "44 Kw @ 5000 Rpm\r\n60 Hp @ 5000 Rpm\r\n59 Bhp @ 5000 Rpm",
+        "Torque:": "69 Lb-Ft @ 3500 Rpm\r\n94 Nm @ 3500 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "93 Mph (150 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr12"
+      },
+      "Dimensions": {
+        "Length:": "148 In (3759 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "53.5/53.9 In (1,359/1,369 Mm)",
+        "Wheelbase:": "88.6 In (2250 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1620.4 Lbs (735 Kg)",
+        "Gross Weight Limit:": "2579.4 Lbs (1170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11771,
+    "automobile_id": 2806,
+    "name": "1.5L 2AT FWD (76 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1488 Cm3",
+        "Power:": "55.9 Kw @ 5500 Rpm\r\n76 Hp @ 5500 Rpm\r\n75 Bhp @ 5500 Rpm",
+        "Torque:": "80 Lb-Ft @ 3000 Rpm\r\n109 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "2-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr12"
+      },
+      "Dimensions": {
+        "Length:": "148 In (3759 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "53.5/53.9 In (1,359/1,369 Mm)",
+        "Wheelbase:": "88.6 In (2250 Mm)",
+        "Ground Clearance:": "6.7 In (170 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1687 Lbs (765 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11772,
+    "automobile_id": 2806,
+    "name": "1.5L 5MT FWD (76 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1488 Cm3",
+        "Power:": "55.9 Kw @ 5500 Rpm\r\n76 Hp @ 5500 Rpm\r\n75 Bhp @ 5500 Rpm",
+        "Torque:": "80 Lb-Ft @ 3000 Rpm\r\n109 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "155Sr12"
+      },
+      "Dimensions": {
+        "Length:": "148 In (3759 Mm)",
+        "Width:": "62.2 In (1580 Mm)",
+        "Height:": "52.8 In (1341 Mm)",
+        "Front/Rear Track:": "53.5/53.9 In (1,359/1,369 Mm)",
+        "Wheelbase:": "88.6 In (2250 Mm)",
+        "Ground Clearance:": "6.7 In (170 Mm)",
+        "Cargo Volume:": "8.3 Cuft (235 L)",
+        "Aerodynamics (Cd):": "0.42"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1687 Lbs (765 Kg)"
+      }
+    }
+  }
+]

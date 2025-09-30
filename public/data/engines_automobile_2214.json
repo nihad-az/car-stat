@@ -1,0 +1,100 @@
+[
+  {
+    "id": 9414,
+    "automobile_id": 2214,
+    "name": "2.0L EcoBoost 6MT FWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "184 Kw @ 5500 Rpm\r\n250 Hp @ 5500 Rpm\r\n247 Bhp @ 5500 Rpm",
+        "Torque:": "251 Lb-Ft @ 2000-4500 Rpm\r\n340 Nm @ 2000-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "154 Mph (248 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 R18"
+      },
+      "Dimensions": {
+        "Length:": "171.7 In (4361 Mm)",
+        "Width:": "71.8 In (1824 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "61.4/60.8 In (1,560/1,544 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Cargo Volume:": "11.2 Cuft (317 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3168 Lbs (1437 Kg)",
+        "Gross Weight Limit:": "4464 Lbs (2025 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.7 Mpg Us (8.8 L/100Km)",
+        "Highway:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Combined:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9415,
+    "automobile_id": 2214,
+    "name": "2.0L TDCi 6MT FWD (185 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "136 Kw @ 3500 Rpm\r\n185 Hp @ 3500 Rpm\r\n182 Bhp @ 3500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-2750 Rpm\r\n400 Nm @ 2000-2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/40 R18"
+      },
+      "Dimensions": {
+        "Length:": "171.7 In (4361 Mm)",
+        "Width:": "71.8 In (1824 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "61.4/60.8 In (1,560/1,544 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Cargo Volume:": "11.2 Cuft (317 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3228 Lbs (1464 Kg)",
+        "Gross Weight Limit:": "4464 Lbs (2025 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "47 Mpg Us (5 L/100Km)",
+        "Highway:": "61.9 Mpg Us (3.8 L/100Km)",
+        "Combined:": "56 Mpg Us (4.2 L/100Km)",
+        "Co2 Emissions:": "110 G/Km"
+      }
+    }
+  }
+]

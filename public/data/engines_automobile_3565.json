@@ -1,0 +1,134 @@
+[
+  {
+    "id": 14465,
+    "automobile_id": 3565,
+    "name": "200 2.0L CVT FWD (169 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1987 Cm3",
+        "Power:": "124.3 Kw @ 6000 Rpm\r\n169 Hp @ 6000 Rpm\r\n167 Bhp @ 6000 Rpm",
+        "Torque:": "151 Lb-Ft @ 4800 Rpm\r\n205 Nm @ 4800 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50Rf18"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3307 Lbs (1500 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "37 Mpg Us (6.4 L/100Km)",
+        "Combined:": "33 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14466,
+    "automobile_id": 3565,
+    "name": "250h 2.0L CVT AWD (181 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1987 Cm3",
+        "Power:": "133.1 Kw @ 6000 Rpm\r\n181 Hp @ 6000 Rpm\r\n178 Bhp @ 6000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "110 Mph (177 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50Rf18"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3605 Lbs (1635 Kg)",
+        "Gross Weight Limit:": "4872 Lbs (2210 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "37 Mpg Us (6.4 L/100Km)",
+        "Combined:": "33 Mpg Us (7.1 L/100Km)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Nickel-Metal Hydrid (Ni-Mh)",
+        "Maximum Capacity:": "24 Kwh"
+      }
+    }
+  },
+  {
+    "id": 14467,
+    "automobile_id": 3565,
+    "name": "300e 150 Kw (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "150 Kw @ - Rpm\r\n203.9 Hp @ - Rpm\r\n201 Bhp @ - Rpm",
+        "Torque:": "221 Lb-Ft @ - Rpm\r\n300 Nm @ - Rpm",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "177 In (4496 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "61/61 In (1,549/1,549 Mm)",
+        "Wheelbase:": "103.9 In (2639 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium Ion",
+        "Maximum Capacity:": "54.3 Kwh",
+        "Range:": "249 Miles (400.7 Km)"
+      }
+    }
+  }
+]

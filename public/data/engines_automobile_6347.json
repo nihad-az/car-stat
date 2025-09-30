@@ -1,0 +1,89 @@
+[
+  {
+    "id": 25781,
+    "automobile_id": 6347,
+    "name": "0.7L 4MT FWD (37 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L2",
+        "Displacement:": "665 Cm3",
+        "Power:": "27 Kw @ 6000 Rpm\r\n37 Hp @ 6000 Rpm\r\n36 Bhp @ 6000 Rpm",
+        "Torque:": "40 Lb-Ft @ 3000 Rpm\r\n54 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "80.77 Mph (130 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "20.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145/70Sr12"
+      },
+      "Dimensions": {
+        "Length:": "126 In (3200 Mm)",
+        "Width:": "55.1 In (1400 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "48/48 In (1,219/1,219 Mm)",
+        "Wheelbase:": "90.5 In (2299 Mm)",
+        "Cargo Volume:": "7.1 Cuft (201 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1261 Lbs (572 Kg)",
+        "Gross Weight Limit:": "2226.7 Lbs (1010 Kg)"
+      }
+    }
+  },
+  {
+    "id": 25782,
+    "automobile_id": 6347,
+    "name": "0.8L 5MT FWD (42 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "758 Cm3",
+        "Power:": "31 Kw @ 6000 Rpm\r\n42 Hp @ 6000 Rpm\r\n42 Bhp @ 6000 Rpm",
+        "Torque:": "44 Lb-Ft @ 3600 Rpm\r\n59 Nm @ 3600 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "84.5 Mph (136 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "17 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "145/70Sr12"
+      },
+      "Dimensions": {
+        "Length:": "126 In (3200 Mm)",
+        "Width:": "55.1 In (1400 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "48/48 In (1,219/1,219 Mm)",
+        "Wheelbase:": "90.5 In (2299 Mm)",
+        "Cargo Volume:": "7.1 Cuft (201 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1377.9 Lbs (625 Kg)",
+        "Gross Weight Limit:": "2226.7 Lbs (1010 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)"
+      }
+    }
+  }
+]

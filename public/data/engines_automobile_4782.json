@@ -1,0 +1,136 @@
+[
+  {
+    "id": 18890,
+    "automobile_id": 4782,
+    "name": "3.5L V6 DOHC CVT AWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "194 Kw @ 6000 Rpm\r\n264 Hp @ 6000 Rpm\r\n260 Bhp @ 6000 Rpm",
+        "Torque:": "240 Lb-Ft @ 4400 Rpm\r\n325 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65R18"
+      },
+      "Dimensions": {
+        "Length:": "192.4 In (4887 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66.6 In (1692 Mm)",
+        "Front/Rear Track:": "64.6/64.6 In (1,641/1,641 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "39.6 Cuft (1121 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3920 Lbs (1778 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18891,
+    "automobile_id": 4782,
+    "name": "3.5L V6 DOHC CVT FWD (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "194 Kw @ 6000 Rpm\r\n264 Hp @ 6000 Rpm\r\n260 Bhp @ 6000 Rpm",
+        "Torque:": "240 Lb-Ft @ 4400 Rpm\r\n325 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65R18"
+      },
+      "Dimensions": {
+        "Length:": "192.4 In (4887 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66.6 In (1692 Mm)",
+        "Front/Rear Track:": "64.6/64.6 In (1,641/1,641 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "39.6 Cuft (1121 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3790 Lbs (1719 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18892,
+    "automobile_id": 4782,
+    "name": "2.5L CVT AWD (250 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Torque:": "243 Lb-Ft @ 3600 Rpm\r\n329 Nm @ 3600 Rpm",
+        "Electrical Motor Power:": "14.7 Kw (20 Hp)",
+        "Total Maximum Power:": "183.9 Kw (250 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P235/65R18"
+      },
+      "Dimensions": {
+        "Length:": "192.4 In (4887 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "66.6 In (1692 Mm)",
+        "Front/Rear Track:": "64.6/64.6 In (1,641/1,641 Mm)",
+        "Wheelbase:": "111.2 In (2824 Mm)",
+        "Cargo Volume:": "39.6 Cuft (1121 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.1 Mpg Us (9 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  }
+]

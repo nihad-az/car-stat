@@ -1,0 +1,104 @@
+[
+  {
+    "id": 9710,
+    "automobile_id": 2269,
+    "name": "1.2L 5MT (69 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1242 Cm3",
+        "Power:": "51 Kw @ 5500 Rpm\r\n69 Hp @ 5500 Rpm\r\n68 Bhp @ 5500 Rpm",
+        "Torque:": "75 Lb-Ft @ 3000 Rpm\r\n102 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "98.7 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50 R15"
+      },
+      "Dimensions": {
+        "Length:": "142.5 In (3620 Mm)",
+        "Width:": "65.2 In (1656 Mm)",
+        "Height:": "59.2 In (1504 Mm)",
+        "Front/Rear Track:": "55.6/55.4 In (1,412/1,407 Mm)",
+        "Wheelbase:": "90.5 In (2299 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "7.9 Cuft (224 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1851.8 Lbs (840 Kg)",
+        "Gross Weight Limit:": "2910.1 Lbs (1320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Highway:": "53.4 Mpg Us (4.4 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "119 G/Km"
+      }
+    }
+  },
+  {
+    "id": 9711,
+    "automobile_id": 2269,
+    "name": "1.3L TDCi 5MT (75 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1248 Cm3",
+        "Power:": "55 Kw @ 4000 Rpm\r\n75 Hp @ 4000 Rpm\r\n74 Bhp @ 4000 Rpm",
+        "Torque:": "107 Lb-Ft @ 1500 Rpm\r\n145 Nm @ 1500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "100 Mph (161 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/50 R15"
+      },
+      "Dimensions": {
+        "Length:": "142.5 In (3620 Mm)",
+        "Width:": "65.2 In (1656 Mm)",
+        "Height:": "59.2 In (1504 Mm)",
+        "Front/Rear Track:": "55.6/55.4 In (1,412/1,407 Mm)",
+        "Wheelbase:": "90.5 In (2299 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "7.9 Cuft (224 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2105.4 Lbs (955 Kg)",
+        "Gross Weight Limit:": "3119.5 Lbs (1415 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Highway:": "63.5 Mpg Us (3.7 L/100Km)",
+        "Combined:": "56 Mpg Us (4.2 L/100Km)",
+        "Co2 Emissions:": "112 G/Km"
+      }
+    }
+  }
+]

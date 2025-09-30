@@ -1,0 +1,104 @@
+[
+  {
+    "id": 20190,
+    "automobile_id": 5065,
+    "name": "2.0L 16V Turbo 5MT (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "147 Kw @ 5500 Rpm\r\n200 Hp @ 5500 Rpm\r\n197 Bhp @ 5500 Rpm",
+        "Torque:": "184 Lb-Ft @ 1950 Rpm\r\n249 Nm @ 1950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.5 Gallons (36.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "151 Mph (243 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/55 R17V (Front) - 225/45 R17V (Rear)"
+      },
+      "Dimensions": {
+        "Length:": "149.2 In (3790 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "44.1 In (1120 Mm)",
+        "Front/Rear Track:": "57.1/58.7 In (1,450/1,491 Mm)",
+        "Wheelbase:": "91.7 In (2329 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.38"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2050.3 Lbs (930 Kg)",
+        "Gross Weight Limit:": "2535.3 Lbs (1150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.8 Mpg Us (11.9 L/100Km)",
+        "Highway:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "202 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20191,
+    "automobile_id": 5065,
+    "name": "2.2L 16V 5MT (147 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "108 Kw @ 5800 Rpm\r\n147 Hp @ 5800 Rpm\r\n145 Bhp @ 5800 Rpm",
+        "Torque:": "150 Lb-Ft @ 4000 Rpm\r\n203 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.5 Gallons (36.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134.8 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/55 R17V // 225/45 R17V"
+      },
+      "Dimensions": {
+        "Length:": "149.2 In (3790 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "44.1 In (1120 Mm)",
+        "Front/Rear Track:": "57.1/58.7 In (1,450/1,491 Mm)",
+        "Wheelbase:": "91.7 In (2329 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "7.3 Cuft (207 L)",
+        "Aerodynamics (Cd):": "0.38"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1918 Lbs (870 Kg)",
+        "Gross Weight Limit:": "2535.3 Lbs (1150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Highway:": "36.7 Mpg Us (6.4 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "205 G/Km"
+      }
+    }
+  }
+]

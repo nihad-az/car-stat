@@ -1,0 +1,905 @@
+[
+  {
+    "id": 4828,
+    "automobile_id": 890,
+    "name": "728i 5AT RWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2793 Cm3",
+        "Power:": "142 Kw @ 5300 Rpm\r\n193 Hp @ 5300 Rpm\r\n190 Bhp @ 5300 Rpm",
+        "Torque:": "207 Lb-Ft @ 3950 Rpm\r\n280 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3748 Lbs (1700 Kg)",
+        "Gross Weight Limit:": "4927 Lbs (2235 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.7 Mpg Us (16 L/100Km)",
+        "Highway:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4829,
+    "automobile_id": 890,
+    "name": "728i 5MT RWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2793 Cm3",
+        "Power:": "142 Kw @ 5300 Rpm\r\n193 Hp @ 5300 Rpm\r\n190 Bhp @ 5300 Rpm",
+        "Torque:": "207 Lb-Ft @ 3950 Rpm\r\n280 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "141 Mph (227 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3681.7 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4861.2 Lbs (2205 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.2 Mpg Us (14.5 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Co2 Emissions:": "184 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4830,
+    "automobile_id": 890,
+    "name": "728iL 5AT RWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2793 Cm3",
+        "Power:": "142 Kw @ 5300 Rpm\r\n193 Hp @ 5300 Rpm\r\n190 Bhp @ 5300 Rpm",
+        "Torque:": "207 Lb-Ft @ 3950 Rpm\r\n280 Nm @ 3950 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr16"
+      },
+      "Dimensions": {
+        "Length:": "201.7 In (5123 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3803 Lbs (1725 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.7 Mpg Us (16 L/100Km)",
+        "Highway:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Combined:": "21.2 Mpg Us (11.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4831,
+    "automobile_id": 890,
+    "name": "730i 5AT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "2997 Cm3",
+        "Power:": "160 Kw @ 5800 Rpm\r\n218 Hp @ 5800 Rpm\r\n215 Bhp @ 5800 Rpm",
+        "Torque:": "214 Lb-Ft @ 4500 Rpm\r\n290 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3869 Lbs (1755 Kg)",
+        "Gross Weight Limit:": "5049 Lbs (2290 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.6 Mpg Us (15.1 L/100Km)",
+        "Highway:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4832,
+    "automobile_id": 890,
+    "name": "730i 5MT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "2997 Cm3",
+        "Power:": "160 Kw @ 5800 Rpm\r\n218 Hp @ 5800 Rpm\r\n215 Bhp @ 5800 Rpm",
+        "Torque:": "214 Lb-Ft @ 4500 Rpm\r\n290 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3803 Lbs (1725 Kg)",
+        "Gross Weight Limit:": "4982.4 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.8 Mpg Us (14.9 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Co2 Emissions:": "181 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4833,
+    "automobile_id": 890,
+    "name": "730iL 5AT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "2997 Cm3",
+        "Power:": "160 Kw @ 5800 Rpm\r\n218 Hp @ 5800 Rpm\r\n215 Bhp @ 5800 Rpm",
+        "Torque:": "214 Lb-Ft @ 4500 Rpm\r\n290 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "145 Mph (233 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "201.7 In (5123 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3924 Lbs (1780 Kg)",
+        "Gross Weight Limit:": "5104 Lbs (2315 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4834,
+    "automobile_id": 890,
+    "name": "730iL 5MT RWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "2997 Cm3",
+        "Power:": "160 Kw @ 5800 Rpm\r\n218 Hp @ 5800 Rpm\r\n215 Bhp @ 5800 Rpm",
+        "Torque:": "214 Lb-Ft @ 4500 Rpm\r\n290 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "201.7 In (5123 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3858 Lbs (1750 Kg)",
+        "Gross Weight Limit:": "5038 Lbs (2285 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.8 Mpg Us (14.9 L/100Km)",
+        "Highway:": "29.4 Mpg Us (8 L/100Km)",
+        "Combined:": "21.8 Mpg Us (10.8 L/100Km)",
+        "Co2 Emissions:": "181 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4835,
+    "automobile_id": 890,
+    "name": "735i 5AT RWD (235 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3498 Cm3",
+        "Power:": "173 Kw @ 5700 Rpm\r\n235 Hp @ 5700 Rpm\r\n232 Bhp @ 5700 Rpm",
+        "Torque:": "236 Lb-Ft @ 3300 Rpm\r\n320 Nm @ 3300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3946 Lbs (1790 Kg)",
+        "Gross Weight Limit:": "5126 Lbs (2325 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.7 Mpg Us (18.5 L/100Km)",
+        "Highway:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Combined:": "18.7 Mpg Us (12.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4836,
+    "automobile_id": 890,
+    "name": "735i 5MT RWD (235 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3498 Cm3",
+        "Power:": "173 Kw @ 5700 Rpm\r\n235 Hp @ 5700 Rpm\r\n232 Bhp @ 5700 Rpm",
+        "Torque:": "236 Lb-Ft @ 3300 Rpm\r\n320 Nm @ 3300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "151.6 Mph (244 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3847 Lbs (1745 Kg)",
+        "Gross Weight Limit:": "5026.5 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.1 Mpg Us (18 L/100Km)",
+        "Highway:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Combined:": "19.1 Mpg Us (12.3 L/100Km)",
+        "Co2 Emissions:": "181 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4837,
+    "automobile_id": 890,
+    "name": "735iL 5AT RWD (235 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3498 Cm3",
+        "Power:": "173 Kw @ 5700 Rpm\r\n235 Hp @ 5700 Rpm\r\n232 Bhp @ 5700 Rpm",
+        "Torque:": "236 Lb-Ft @ 3300 Rpm\r\n320 Nm @ 3300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "149 Mph (240 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "201.7 In (5123 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4023 Lbs (1825 Kg)",
+        "Gross Weight Limit:": "5203 Lbs (2360 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.7 Mpg Us (18.5 L/100Km)",
+        "Highway:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Combined:": "18.7 Mpg Us (12.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4838,
+    "automobile_id": 890,
+    "name": "740i 5AT RWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3982 Cm3",
+        "Power:": "210 Kw @ 5800 Rpm\r\n286 Hp @ 5800 Rpm\r\n282 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 4500 Rpm\r\n400 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3924 Lbs (1780 Kg)",
+        "Gross Weight Limit:": "5104 Lbs (2315 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.4 Mpg Us (16.3 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4839,
+    "automobile_id": 890,
+    "name": "740i 5MT RWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3982 Cm3",
+        "Power:": "210 Kw @ 5800 Rpm\r\n286 Hp @ 5800 Rpm\r\n282 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 4500 Rpm\r\n400 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3946.3 Lbs (1790 Kg)",
+        "Gross Weight Limit:": "5125.7 Lbs (2325 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13.8 Mpg Us (17 L/100Km)",
+        "Highway:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Combined:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Co2 Emissions:": "180 G/Km"
+      }
+    }
+  },
+  {
+    "id": 4840,
+    "automobile_id": 890,
+    "name": "740iL 5AT RWD (286 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "3982 Cm3",
+        "Power:": "210 Kw @ 5800 Rpm\r\n286 Hp @ 5800 Rpm\r\n282 Bhp @ 5800 Rpm",
+        "Torque:": "295 Lb-Ft @ 4500 Rpm\r\n400 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "201.7 In (5123 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4112 Lbs (1865 Kg)",
+        "Gross Weight Limit:": "5291 Lbs (2400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14.4 Mpg Us (16.3 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "20.5 Mpg Us (11.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4841,
+    "automobile_id": 890,
+    "name": "750i 4AT RWD (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5379 Cm3",
+        "Power:": "240 Kw @ 5000 Rpm\r\n326 Hp @ 5000 Rpm\r\n322 Bhp @ 5000 Rpm",
+        "Torque:": "361 Lb-Ft @ 3900 Rpm\r\n490 Nm @ 3900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4321 Lbs (1960 Kg)",
+        "Gross Weight Limit:": "5500.5 Lbs (2495 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "27.4 Mpg Us (8.6 L/100Km)",
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4842,
+    "automobile_id": 890,
+    "name": "750i 5AT RWD (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5379 Cm3",
+        "Power:": "240 Kw @ 5000 Rpm\r\n326 Hp @ 5000 Rpm\r\n322 Bhp @ 5000 Rpm",
+        "Torque:": "361 Lb-Ft @ 3900 Rpm\r\n490 Nm @ 3900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4321 Lbs (1960 Kg)",
+        "Gross Weight Limit:": "5501 Lbs (2495 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4843,
+    "automobile_id": 890,
+    "name": "750iL 5AT RWD (326 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5379 Cm3",
+        "Power:": "240 Kw @ 5000 Rpm\r\n326 Hp @ 5000 Rpm\r\n322 Bhp @ 5000 Rpm",
+        "Torque:": "361 Lb-Ft @ 3900 Rpm\r\n490 Nm @ 3900 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 Wr16"
+      },
+      "Dimensions": {
+        "Length:": "201.7 In (5123 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "120.9 In (3071 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4398 Lbs (1995 Kg)",
+        "Gross Weight Limit:": "5578 Lbs (2530 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "14 Mpg Us (16.8 L/100Km)",
+        "Highway:": "22.8 Mpg Us (10.3 L/100Km)",
+        "Combined:": "19.8 Mpg Us (11.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4844,
+    "automobile_id": 890,
+    "name": "725 tds 5AT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2498 Cm3",
+        "Power:": "105 Kw @ 4600 Rpm\r\n143 Hp @ 4600 Rpm\r\n141 Bhp @ 4600 Rpm",
+        "Torque:": "207 Lb-Ft @ 2200 Rpm\r\n280 Nm @ 2200 Rpm",
+        "Fuel System:": "Turbocharged Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic (Steptronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3814 Lbs (1730 Kg)",
+        "Gross Weight Limit:": "4993 Lbs (2265 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "26.1 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 4845,
+    "automobile_id": 890,
+    "name": "725 tds 5MT RWD (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2498 Cm3",
+        "Power:": "105 Kw @ 4600 Rpm\r\n143 Hp @ 4600 Rpm\r\n141 Bhp @ 4600 Rpm",
+        "Torque:": "207 Lb-Ft @ 2200 Rpm\r\n280 Nm @ 2200 Rpm",
+        "Fuel System:": "Turbocharged Indirect Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "25.1 Gallons (95.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "128 Mph (206 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/65 Vr16"
+      },
+      "Dimensions": {
+        "Length:": "196.1 In (4981 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "55.9 In (1420 Mm)",
+        "Front/Rear Track:": "61/61.8 In (1,549/1,570 Mm)",
+        "Wheelbase:": "115.4 In (2931 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "17.7 Cuft (501 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3769.9 Lbs (1710 Kg)",
+        "Gross Weight Limit:": "4949.4 Lbs (2245 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21.4 Mpg Us (11 L/100Km)",
+        "Highway:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Combined:": "29.7 Mpg Us (7.9 L/100Km)"
+      }
+    }
+  }
+]

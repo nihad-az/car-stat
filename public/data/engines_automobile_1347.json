@@ -1,0 +1,107 @@
+[
+  {
+    "id": 6197,
+    "automobile_id": 1347,
+    "name": "5.7L V8 4AT AWD (253 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5735 Cm3",
+        "Power:": "186.1 Kw @ - Rpm\r\n253 Hp @ - Rpm\r\n250 Bhp @ - Rpm",
+        "Torque:": "330 Lb-Ft @ - Rpm\r\n447 Nm @ - Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "30.1 Gallons (113.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Dimensions": {
+        "Length:": "199.1 In (5057 Mm)",
+        "Width:": "76.4 In (1941 Mm)",
+        "Height:": "70.2 In (1783 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Cargo Volume:": "122.9 Cuft (3480 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "13 Mpg Us (18.1 L/100Km)",
+        "Highway:": "17 Mpg Us (13.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6198,
+    "automobile_id": 1347,
+    "name": "5.7L V8 5MT AWD (213 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5735 Cm3",
+        "Power:": "156.7 Kw @ - Rpm\r\n213 Hp @ - Rpm\r\n210 Bhp @ - Rpm",
+        "Torque:": "300 Lb-Ft @ - Rpm\r\n407 Nm @ - Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "30.1 Gallons (113.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Dimensions": {
+        "Length:": "199.1 In (5057 Mm)",
+        "Width:": "76.4 In (1941 Mm)",
+        "Height:": "70.2 In (1783 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Cargo Volume:": "122.9 Cuft (3480 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5134 Lbs (2329 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12 Mpg Us (19.6 L/100Km)",
+        "Highway:": "15 Mpg Us (15.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6199,
+    "automobile_id": 1347,
+    "name": "6.5L V8 4AT AWD (182 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6554 Cm3",
+        "Power:": "133.9 Kw @ 1700 Rpm\r\n182 Hp @ 1700 Rpm\r\n180 Bhp @ 1700 Rpm",
+        "Torque:": "360 Lb-Ft @ - Rpm\r\n488 Nm @ - Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "30.1 Gallons (113.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "96 Mph (154 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "199.1 In (5057 Mm)",
+        "Width:": "76.4 In (1941 Mm)",
+        "Height:": "70.2 In (1783 Mm)",
+        "Wheelbase:": "117.5 In (2985 Mm)",
+        "Cargo Volume:": "122.9 Cuft (3480 L)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15 Mpg Us (15.7 L/100Km)",
+        "Highway:": "18 Mpg Us (13.1 L/100Km)",
+        "Combined:": "12.7 Mpg Us (18.5 L/100Km)"
+      }
+    }
+  }
+]

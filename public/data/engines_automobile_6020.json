@@ -1,0 +1,124 @@
+[
+  {
+    "id": 24125,
+    "automobile_id": 6020,
+    "name": "2.2L 5AT FWD (141 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2384 Cm3",
+        "Power:": "126 Kw @ 6200 Rpm\r\n171 Hp @ 6200 Rpm\r\n169 Bhp @ 6200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.4 In (1458 Mm)",
+        "Front/Rear Track:": "58.8/58.4 In (1,494/1,483 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Cargo Volume:": "14.7 Cuft (416 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2692 Lbs (1221 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 24126,
+    "automobile_id": 6020,
+    "name": "2.2L 5MT FWD (141 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2198 Cm3",
+        "Power:": "104.4 Kw @ 5600 Rpm\r\n141.9 Hp @ 5600 Rpm\r\n140 Bhp @ 5600 Rpm",
+        "Torque:": "145 Lb-Ft @ 4000 Rpm\r\n197 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.4 In (1458 Mm)",
+        "Front/Rear Track:": "58.8/58.4 In (1,494/1,483 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Cargo Volume:": "14.7 Cuft (416 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2752 Lbs (1248 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26 Mpg Us (9 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "192.8 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24127,
+    "automobile_id": 6020,
+    "name": "2.4L 5MT FWD (171 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2384 Cm3",
+        "Power:": "126 Kw @ 6200 Rpm\r\n171 Hp @ 6200 Rpm\r\n169 Bhp @ 6200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "67.2 In (1707 Mm)",
+        "Height:": "57.4 In (1458 Mm)",
+        "Front/Rear Track:": "58.8/58.4 In (1,494/1,483 Mm)",
+        "Wheelbase:": "103.2 In (2621 Mm)",
+        "Cargo Volume:": "14.7 Cuft (416 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2799 Lbs (1270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "id": 14310,
+    "automobile_id": 3518,
+    "name": "3.0L V6 SC 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "250 Kw @ 6500 Rpm\r\n340 Hp @ 6500 Rpm\r\n335 Bhp @ 6500 Rpm",
+        "Torque:": "332 Lb-Ft @ 3500-5000 Rpm\r\n450 Nm @ 3500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "350Mm Ventilated Disc",
+        "Rear:": "350Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4727 Lbs (2144 Kg)",
+        "Gross Weight Limit:": "6504 Lbs (2950 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "19 Mpg Us (12.4 L/100Km)",
+        "Co2 Emissions:": "249 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14311,
+    "automobile_id": 3518,
+    "name": "5.0L SC V8 8AT AWD (510 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4999 Cm3",
+        "Power:": "375 Kw @ 6000-6500 Rpm\r\n510 Hp @ 6000-6500 Rpm\r\n503 Bhp @ 6000-6500 Rpm",
+        "Torque:": "461 Lb-Ft @ 2500-5500 Rpm\r\n625 Nm @ 2500-5500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "380Mm Ventilated Disc",
+        "Rear:": "365Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5093 Lbs (2310 Kg)",
+        "Gross Weight Limit:": "6724 Lbs (3050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "15.4 Mpg Us (15.3 L/100Km)",
+        "Highway:": "29.1 Mpg Us (8.1 L/100Km)",
+        "Combined:": "22.1 Mpg Us (10.6 L/100Km)",
+        "Co2 Emissions:": "298 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14312,
+    "automobile_id": 3518,
+    "name": "5.0L SVR V8 8AT AWD (550 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4999 Cm3",
+        "Power:": "405 Kw @ 6000-6500 Rpm\r\n551 Hp @ 6000-6500 Rpm\r\n543 Bhp @ 6000-6500 Rpm",
+        "Torque:": "502 Lb-Ft @ 2500-5500 Rpm\r\n681 Nm @ 2500-5500 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "162 Mph (261 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "380Mm Ventilated Disc",
+        "Rear:": "365Mm  Ventilated Disc"
+      },
+      "Tires Specs": {
+        "Tire Size:": "295/40 R22"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.38"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5093 Lbs (2310 Kg)",
+        "Gross Weight Limit:": "6724 Lbs (3050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.9 Mpg Us (18.2 L/100Km)",
+        "Highway:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Combined:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Co2 Emissions:": "298 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14313,
+    "automobile_id": 3518,
+    "name": "3.0L SDV6 8AT AWD (292 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "215 Kw @ - Rpm\r\n292 Hp @ - Rpm\r\n288 Bhp @ - Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "380Mm Ventilated Disc",
+        "Rear:": "365Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4663 Lbs (2115 Kg)",
+        "Gross Weight Limit:": "6616 Lbs (3001 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27 Mpg Us (8.7 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14314,
+    "automobile_id": 3518,
+    "name": "3.0L SDV6 8AT AWD (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "225 Kw @ 4000 Rpm\r\n306 Hp @ 4000 Rpm\r\n302 Bhp @ 4000 Rpm",
+        "Torque:": "516 Lb-Ft @ 1500-1750 Rpm\r\n700 Nm @ 1500-1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "380Mm Ventilated Disc",
+        "Rear:": "365Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4663 Lbs (2115 Kg)",
+        "Gross Weight Limit:": "6616 Lbs (3001 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "33.6 Mpg Us (7 L/100Km)",
+        "Co2 Emissions:": "185 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14315,
+    "automobile_id": 3518,
+    "name": "3.0L TDV6 8AT AWD (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "190 Kw @ 4000 Rpm\r\n258 Hp @ 4000 Rpm\r\n255 Bhp @ 4000 Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "350Mm Ventilated Disc",
+        "Rear:": "350Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4663 Lbs (2115 Kg)",
+        "Gross Weight Limit:": "6614 Lbs (3000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "182 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14316,
+    "automobile_id": 3518,
+    "name": "3.0L TDV6 8AT AWD (258 HP) biturbo",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "190 Kw @ 4000 Rpm\r\n258 Hp @ 4000 Rpm\r\n255 Bhp @ 4000 Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "350Mm Ventilated Disc",
+        "Rear:": "350Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4663 Lbs (2115 Kg)",
+        "Gross Weight Limit:": "6614 Lbs (3000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Highway:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Combined:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Co2 Emissions:": "194 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14317,
+    "automobile_id": 3518,
+    "name": "4.4L TDV8 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4367 Cm3",
+        "Power:": "250 Kw @ 3500 Rpm\r\n340 Hp @ 3500 Rpm\r\n335 Bhp @ 3500 Rpm",
+        "Torque:": "516 Lb-Ft @ 1750-3000 Rpm\r\n700 Nm @ 1750-3000 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "380Mm Ventilated Disc",
+        "Rear:": "365Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5287 Lbs (2398 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Co2 Emissions:": "229 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14318,
+    "automobile_id": 3518,
+    "name": "3.0L Hybrid 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "215 Kw @ 4000 Rpm\r\n292 Hp @ 4000 Rpm\r\n288 Bhp @ 4000 Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Electrical Motor Power:": "35 Kw (48 Hp)",
+        "Electrical Motor Torque:": "170 Lb-Ft (230 Nm)",
+        "Total Maximum Power:": "250.1 Kw (340 Hp)",
+        "Total Maximum Torque:": "516.3 Lb-Ft (700 Nm)",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "380Mm Ventilated Disc",
+        "Rear:": "365Mm  Ventilated Disc"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "81.6 In (2073 Mm)",
+        "Height:": "70.1 In (1781 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "115.1 In (2924 Mm)",
+        "Ground Clearance:": "10.4 In (264 Mm)",
+        "Cargo Volume:": "27.7 Cuft (784 L)",
+        "Aerodynamics (Cd):": "0.34"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5229 Lbs (2372 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  }
+]

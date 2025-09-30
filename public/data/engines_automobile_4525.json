@@ -1,0 +1,131 @@
+[
+  {
+    "id": 17996,
+    "automobile_id": 4525,
+    "name": "2.3L 16V 4AT (155 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2261 Cm3",
+        "Power:": "114 Kw @ 5800 Rpm\r\n155 Hp @ 5800 Rpm\r\n153 Bhp @ 5800 Rpm",
+        "Torque:": "152 Lb-Ft @ 4250 Rpm\r\n206 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70/R16"
+      },
+      "Dimensions": {
+        "Length:": "175.2 In (4450 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Front/Rear Track:": "61.1/60.4 In (1,552/1,534 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)",
+        "Cargo Volume:": "29.3 Cuft (830 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3341 Lbs (1515 Kg)",
+        "Gross Weight Limit:": "4400 Lbs (1996 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17997,
+    "automobile_id": 4525,
+    "name": "3.0L V6 4AT (202 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "149 Kw @ 6000 Rpm\r\n203 Hp @ 6000 Rpm\r\n200 Bhp @ 6000 Rpm",
+        "Torque:": "193 Lb-Ft @ 4850 Rpm\r\n262 Nm @ 4850 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.4 Gallons (62.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70/R16"
+      },
+      "Dimensions": {
+        "Length:": "175.2 In (4450 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Front/Rear Track:": "6.1/60.4 In (155/1,534 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "8.4 In (213 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3385 Lbs (1535 Kg)",
+        "Gross Weight Limit:": "4500 Lbs (2041 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 17998,
+    "automobile_id": 4525,
+    "name": "2.3L Hybrid 4AT (135 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2261 Cm3",
+        "Power:": "99 Kw @ 6000 Rpm\r\n135 Hp @ 6000 Rpm\r\n133 Bhp @ 6000 Rpm",
+        "Torque:": "124 Lb-Ft @ 4250 Rpm\r\n168 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "15.1 Gallons (57.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/70/R16"
+      },
+      "Dimensions": {
+        "Length:": "175.2 In (4450 Mm)",
+        "Width:": "71.1 In (1806 Mm)",
+        "Height:": "68 In (1727 Mm)",
+        "Wheelbase:": "103.1 In (2619 Mm)",
+        "Ground Clearance:": "8.6 In (218 Mm)",
+        "Cargo Volume:": "29.3 Cuft (830 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3638.2 Lbs (1650 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)"
+      }
+    }
+  }
+]

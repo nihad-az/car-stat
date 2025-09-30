@@ -1,0 +1,92 @@
+[
+  {
+    "id": 14761,
+    "automobile_id": 3677,
+    "name": "3.5L V6 6AT (416 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "306 Kw @ - Rpm\r\n416 Hp @ - Rpm\r\n410 Bhp @ - Rpm",
+        "Torque:": "310 Lb-Ft @ - Rpm\r\n420 Nm @ - Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "171 Mph (275 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 R19 || 285/30 R20"
+      },
+      "Dimensions": {
+        "Length:": "173 In (4394 Mm)",
+        "Width:": "77.6 In (1971 Mm)",
+        "Height:": "48.1 In (1222 Mm)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2934 Lbs (1331 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Combined:": "21.4 Mpg Us (11 L/100Km)",
+        "Co2 Emissions:": "248 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14762,
+    "automobile_id": 3677,
+    "name": "3.5L V6 6MT (416 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "306 Kw @ - Rpm\r\n416 Hp @ - Rpm\r\n410 Bhp @ - Rpm",
+        "Torque:": "310 Lb-Ft @ - Rpm\r\n420 Nm @ - Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "190 Mph (306 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/35 R19 || 285/30 R20"
+      },
+      "Dimensions": {
+        "Length:": "173 In (4394 Mm)",
+        "Width:": "77.6 In (1971 Mm)",
+        "Height:": "48.1 In (1222 Mm)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2910 Lbs (1320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Highway:": "24.8 Mpg Us (9.5 L/100Km)",
+        "Combined:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Co2 Emissions:": "239 G/Km"
+      }
+    }
+  }
+]

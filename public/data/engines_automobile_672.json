@@ -1,0 +1,100 @@
+[
+  {
+    "id": 2838,
+    "automobile_id": 672,
+    "name": "eDrive20 66.5 KWh FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "150 Kw (204 Hp)",
+        "Total Maximum Torque:": "184.4 Lb-Ft (250 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "106 Mph (171 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Single-Piston Floating-Calliper Disc Brakes",
+        "Rear:": "Single-Piston Floating-Calliper Disc Brakes"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R17 100Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "179.3 In (4554 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "66/66.1 In (1,676/1,679 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "6.6 In (168 Mm)",
+        "Cargo Volume:": "18.5 Cuft (524 L)",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "39 Ft (11.9 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4156 Lbs (1885 Kg)",
+        "Gross Weight Limit:": "5423 Lbs (2460 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "64.7 Kwh",
+        "Maximum Capacity:": "66.5 Kwh",
+        "Range:": "272.8 Miles (439.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 2839,
+    "automobile_id": 672,
+    "name": "xDrive30 66.5 KWh AWD (313 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "230.2 Kw (313 Hp)",
+        "Total Maximum Torque:": "364.4 Lb-Ft (494 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed (Electrical):": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "1-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Single-Piston Floating-Calliper Disc Brakes",
+        "Rear:": "Single-Piston Floating-Calliper Disc Brakes"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/65 R17 100Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "179.3 In (4554 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "61.4 In (1560 Mm)",
+        "Front/Rear Track:": "66/66.1 In (1,676/1,679 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "6.6 In (168 Mm)",
+        "Cargo Volume:": "18.5 Cuft (524 L)",
+        "Aerodynamics (Cd):": "0.25",
+        "Turning Circle:": "39 Ft (11.9 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4619 Lbs (2095 Kg)",
+        "Gross Weight Limit:": "5743 Lbs (2605 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "64.7 Kwh",
+        "Maximum Capacity:": "66.5 Kwh",
+        "Range:": "259.1 Miles (417.0 Km)"
+      }
+    }
+  }
+]

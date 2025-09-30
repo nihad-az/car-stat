@@ -1,0 +1,88 @@
+[
+  {
+    "id": 10811,
+    "automobile_id": 2525,
+    "name": "6.0 V8 6AT (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5967 Cm3",
+        "Power:": "268 Kw @ 5400 Rpm\r\n360 Hp @ 5400 Rpm\r\n359 Bhp @ 5400 Rpm",
+        "Torque:": "380 Lb-Ft @ 4200 Rpm\r\n515 Nm @ 4200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Lt265/75R16"
+      },
+      "Dimensions": {
+        "Length:": "249.2 In (6330 Mm)",
+        "Width:": "95.9 In (2436 Mm)",
+        "Height:": "76 In (1930 Mm)",
+        "Front/Rear Track:": "68.6/66 In (1,742/1,676 Mm)",
+        "Wheelbase:": "157.5 In (4001 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "76.6 Cuft (2169 L)",
+        "Aerodynamics (Cd):": "0.41"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5896 Lbs (2674 Kg)",
+        "Gross Weight Limit:": "9700 Lbs (4400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "13.5 Mpg Us (17.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10812,
+    "automobile_id": 2525,
+    "name": "6.6 V8 6AT (365 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6599 Cm3",
+        "Power:": "272 Kw @ 3200 Rpm\r\n370 Hp @ 3200 Rpm\r\n365 Bhp @ 3200 Rpm",
+        "Torque:": "660 Lb-Ft @ 1600 Rpm\r\n895 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "Lt265/75R16"
+      },
+      "Dimensions": {
+        "Length:": "249.2 In (6330 Mm)",
+        "Width:": "95.9 In (2436 Mm)",
+        "Height:": "76 In (1930 Mm)",
+        "Front/Rear Track:": "68.6/66 In (1,742/1,676 Mm)",
+        "Wheelbase:": "157.5 In (4001 Mm)",
+        "Ground Clearance:": "9.1 In (231 Mm)",
+        "Cargo Volume:": "76.6 Cuft (2169 L)",
+        "Aerodynamics (Cd):": "0.41"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "6543 Lbs (2968 Kg)",
+        "Gross Weight Limit:": "9700 Lbs (4400 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "14 Mpg Us (16.8 L/100Km)"
+      }
+    }
+  }
+]

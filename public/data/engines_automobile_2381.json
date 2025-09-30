@@ -1,0 +1,98 @@
+[
+  {
+    "id": 10285,
+    "automobile_id": 2381,
+    "name": "2.0L 5MT (116 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1991 Cm3",
+        "Power:": "85 Kw @ 5500 Rpm\r\n116 Hp @ 5500 Rpm\r\n114 Bhp @ 5500 Rpm",
+        "Torque:": "125 Lb-Ft @ 4500 Rpm\r\n170 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126.8 Mph (204 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55Vr15"
+      },
+      "Dimensions": {
+        "Length:": "180.3 In (4580 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "59.4/59.4 In (1,509/1,509 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "12.7 Cuft (360 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2689.6 Lbs (1220 Kg)",
+        "Gross Weight Limit:": "3571.5 Lbs (1620 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Co2 Emissions:": "186 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10286,
+    "automobile_id": 2381,
+    "name": "2.5L V6 5MT (162 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2497 Cm3",
+        "Power:": "119 Kw @ 5500 Rpm\r\n162 Hp @ 5500 Rpm\r\n160 Bhp @ 5500 Rpm",
+        "Torque:": "156 Lb-Ft @ 4800 Rpm\r\n212 Nm @ 4800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50Vr16"
+      },
+      "Dimensions": {
+        "Length:": "180.3 In (4580 Mm)",
+        "Width:": "70.1 In (1781 Mm)",
+        "Height:": "51.6 In (1311 Mm)",
+        "Front/Rear Track:": "59.4/59.4 In (1,509/1,509 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Ground Clearance:": "6.5 In (165 Mm)",
+        "Cargo Volume:": "12.7 Cuft (360 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2821.9 Lbs (1280 Kg)",
+        "Gross Weight Limit:": "3725.8 Lbs (1690 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "23.3 Mpg Us (10.1 L/100Km)",
+        "Co2 Emissions:": "240 G/Km"
+      }
+    }
+  }
+]

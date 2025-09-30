@@ -1,0 +1,86 @@
+[
+  {
+    "id": 19053,
+    "automobile_id": 4837,
+    "name": "2.5L CVT AWD (173 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "127 Kw @ 6000 Rpm\r\n173 Hp @ 6000 Rpm\r\n170 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4400 Rpm\r\n237 Nm @ 4400 Rpm",
+        "Fuel System:": "Sequential Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "182.9 In (4646 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "65.3 In (1659 Mm)",
+        "Front/Rear Track:": "60.6/61 In (1,539/1,549 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Cargo Volume:": "28.9 Cuft (818 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3446 Lbs (1563 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 19054,
+    "automobile_id": 4837,
+    "name": "2.5L CVT FWD (173 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "127 Kw @ 6000 Rpm\r\n173 Hp @ 6000 Rpm\r\n170 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4400 Rpm\r\n237 Nm @ 4400 Rpm",
+        "Fuel System:": "Sequential Fuel Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Automatic, Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "182.9 In (4646 Mm)",
+        "Width:": "70.9 In (1801 Mm)",
+        "Height:": "65.3 In (1659 Mm)",
+        "Front/Rear Track:": "60.6/61 In (1,539/1,549 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Cargo Volume:": "28.9 Cuft (818 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3292 Lbs (1493 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  }
+]

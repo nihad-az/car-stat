@@ -1,0 +1,91 @@
+[
+  {
+    "id": 15,
+    "automobile_id": 11,
+    "name": "3.5L V6 10AT (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "213.3 Kw @ 6200 Rpm\r\n290 Hp @ 6200 Rpm\r\n286 Bhp @ 6200 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255 / 55R-19"
+      },
+      "Dimensions": {
+        "Length:": "198.4 In (5039 Mm)",
+        "Width:": "78.7 In (1999 Mm)",
+        "Height:": "67.1 In (1704 Mm)",
+        "Front/Rear Track:": "67.7X67.7 In (1720 Mm)",
+        "Wheelbase:": "113.8 In (2891 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "16.3 Cuft (462 L)",
+        "Aerodynamics (Cd):": "67.7X67.7",
+        "Turning Circle (Curb To Curb):": "40.5 Ft (12.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4271 Lbs (1937 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "automobile_id": 11,
+    "name": "3.5L V6 10AT AWD (290 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "213.3 Kw @ 6200 Rpm\r\n290 Hp @ 6200 Rpm\r\n286 Bhp @ 6200 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "18.5 Gallons (70.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255 / 55R-19"
+      },
+      "Dimensions": {
+        "Length:": "198.4 In (5039 Mm)",
+        "Width:": "78.7 In (1999 Mm)",
+        "Height:": "67.1 In (1704 Mm)",
+        "Front/Rear Track:": "67.7X67.7 In (1720 Mm)",
+        "Wheelbase:": "113.8 In (2891 Mm)",
+        "Ground Clearance:": "7.3 In (185 Mm)",
+        "Cargo Volume:": "16.3 Cuft (462 L)",
+        "Turning Circle (Curb To Curb):": "40.5 Ft (12.3 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4503 Lbs (2043 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

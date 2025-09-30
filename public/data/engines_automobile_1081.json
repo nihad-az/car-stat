@@ -1,0 +1,183 @@
+[
+  {
+    "id": 5344,
+    "automobile_id": 1081,
+    "name": "2.0L 8AT RWD (269 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "197.8 Kw @ 5500 Rpm\r\n269 Hp @ 5500 Rpm\r\n265 Bhp @ 5500 Rpm",
+        "Torque:": "295 Lb-Ft @ 3000-4500 Rpm\r\n400 Nm @ 3000-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P255/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "204 In (5182 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Wheelbase:": "122.3 In (3106 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "40 Ft (12.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3657 Lbs (1659 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5345,
+    "automobile_id": 1081,
+    "name": "3.0L V6 8AT AWD (409 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2990 Cm3",
+        "Power:": "300.8 Kw @ 5700 Rpm\r\n409 Hp @ 5700 Rpm\r\n403 Bhp @ 5700 Rpm",
+        "Torque:": "400 Lb-Ft @ 2500-5100 Rpm\r\n542 Nm @ 2500-5100 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P255/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "204 In (5182 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Wheelbase:": "122.3 In (3106 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4085 Lbs (1853 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5346,
+    "automobile_id": 1081,
+    "name": "3.6L V6 8AT AWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3654 Cm3",
+        "Power:": "250.1 Kw @ 6800 Rpm\r\n340 Hp @ 6800 Rpm\r\n335 Bhp @ 6800 Rpm",
+        "Torque:": "284 Lb-Ft @ 5300 Rpm\r\n385 Nm @ 5300 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19.5 Gallons (73.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P255/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "204 In (5182 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Wheelbase:": "122.3 In (3106 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3926 Lbs (1781 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 5347,
+    "automobile_id": 1081,
+    "name": "2.0T LTG EVT RWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "203 Kw @ 5300 Rpm\r\n276 Hp @ 5300 Rpm\r\n272 Bhp @ 5300 Rpm",
+        "Torque:": "295 Lb-Ft @ 3000-4300 Rpm\r\n400 Nm @ 3000-4300 Rpm",
+        "Electrical Motor Power:": "92.7 Kw (126 Hp)",
+        "Electrical Motor Torque:": "199.1 Lb-Ft (270 Nm)",
+        "Total Maximum Power:": "250.1 Kw (340 Hp)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "15.6 Gallons (59.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic Transmission Evt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P255/35 R19"
+      },
+      "Dimensions": {
+        "Length:": "204 In (5182 Mm)",
+        "Width:": "74 In (1880 Mm)",
+        "Height:": "58 In (1473 Mm)",
+        "Wheelbase:": "122.3 In (3106 Mm)",
+        "Cargo Volume:": "15.3 Cuft (433 L)",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle:": "40 Ft (12.2 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity:": "18.4 Kwh",
+        "Range:": "49.7 Miles (80.0 Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 22091,
+    "automobile_id": 5505,
+    "name": "3.8L 7AT AWD (430 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3800 Cm3",
+        "Power:": "316 Kw @ 7500 Rpm\r\n430 Hp @ 7500 Rpm\r\n424 Bhp @ 7500 Rpm",
+        "Torque:": "325 Lb-Ft @ 5750 Rpm\r\n441 Nm @ 5750 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "187 Mph (301 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Pdk"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 Zr 20 || 305/30 Zr 20"
+      },
+      "Dimensions": {
+        "Length:": "59.4 In (1509 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "50.9 In (1293 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3605 Lbs (1635 Kg)",
+        "Gross Weight Limit:": "4310 Lbs (1955 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Highway:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Co2 Emissions:": "214 G/Km"
+      }
+    }
+  },
+  {
+    "id": 22092,
+    "automobile_id": 5505,
+    "name": "3.8L 7MT AWD (430 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "H6",
+        "Displacement:": "3800 Cm3",
+        "Power:": "316 Kw @ 7500 Rpm\r\n430 Hp @ 7500 Rpm\r\n424 Bhp @ 7500 Rpm",
+        "Torque:": "325 Lb-Ft @ 5750 Rpm\r\n441 Nm @ 5750 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "188 Mph (303 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 Zr 20 || 305/30 Zr 20"
+      },
+      "Dimensions": {
+        "Length:": "59.4 In (1509 Mm)",
+        "Width:": "72.9 In (1852 Mm)",
+        "Height:": "50.9 In (1293 Mm)",
+        "Wheelbase:": "96.5 In (2451 Mm)",
+        "Ground Clearance:": "4.2 In (107 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3560 Lbs (1615 Kg)",
+        "Gross Weight Limit:": "4266 Lbs (1935 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "16.9 Mpg Us (13.9 L/100Km)",
+        "Highway:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Combined:": "23.5 Mpg Us (10 L/100Km)",
+        "Co2 Emissions:": "235 G/Km"
+      }
+    }
+  }
+]

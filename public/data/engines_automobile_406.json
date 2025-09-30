@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1115,
+    "automobile_id": 406,
+    "name": "2.0L TFSI 6AT (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "228 Kw @ 5800-6200 Rpm\r\n310 Hp @ 5800-6200 Rpm\r\n306 Bhp @ 5800-6200 Rpm",
+        "Torque:": "280 Lb-Ft @ 1800-5700 Rpm\r\n380 Nm @ 1800-5700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs 338",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 R18"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "53.3 In (1354 Mm)",
+        "Wheelbase:": "98.6 In (2504 Mm)",
+        "Cargo Volume:": "10.8 Cuft (306 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3219 Lbs (1460 Kg)",
+        "Gross Weight Limit:": "3935 Lbs (1785 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.3 Mpg Us (8.3 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "6.8 Mpg Us (34.6 L/100Km)",
+        "Co2 Emissions:": "157 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1116,
+    "automobile_id": 406,
+    "name": "2.0L TFSI 6MT (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "228 Kw @ 4500-6200 Rpm\r\n310 Hp @ 4500-6200 Rpm\r\n306 Bhp @ 4500-6200 Rpm",
+        "Torque:": "280 Lb-Ft @ 1800-5700 Rpm\r\n380 Nm @ 1800-5700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs 338",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 R18"
+      },
+      "Dimensions": {
+        "Length:": "164.6 In (4181 Mm)",
+        "Width:": "72.1 In (1831 Mm)",
+        "Height:": "53.3 In (1354 Mm)",
+        "Wheelbase:": "98.6 In (2504 Mm)",
+        "Cargo Volume:": "10.8 Cuft (306 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3175 Lbs (1440 Kg)",
+        "Gross Weight Limit:": "3891 Lbs (1765 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Highway:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "164 G/Km"
+      }
+    }
+  }
+]

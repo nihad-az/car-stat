@@ -1,0 +1,80 @@
+[
+  {
+    "id": 10892,
+    "automobile_id": 2554,
+    "name": "1.8L 5MT FWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "103 Kw @ 6300 Rpm\r\n140 Hp @ 6300 Rpm\r\n138 Bhp @ 6300 Rpm",
+        "Torque:": "129 Lb-Ft @ 3800 Rpm\r\n175 Nm @ 3800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "167.2 In (4247 Mm)",
+        "Width:": "69.5 In (1765 Mm)",
+        "Height:": "65.9 In (1674 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "100.6 In (2555 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3023 Lbs (1371 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "33.6 Mpg Us (7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10893,
+    "automobile_id": 2554,
+    "name": "1.4L Turbo 6AT FWD (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "103 Kw @ 3000 Rpm\r\n140 Hp @ 3000 Rpm\r\n138 Bhp @ 3000 Rpm",
+        "Torque:": "148 Lb-Ft @ 1850 Rpm\r\n200 Nm @ 1850 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/70 R16"
+      },
+      "Dimensions": {
+        "Length:": "167.2 In (4247 Mm)",
+        "Width:": "69.5 In (1765 Mm)",
+        "Height:": "65.9 In (1674 Mm)",
+        "Front/Rear Track:": "60.6/60.6 In (1,539/1,539 Mm)",
+        "Wheelbase:": "100.6 In (2555 Mm)",
+        "Ground Clearance:": "6.2 In (157 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3023 Lbs (1371 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)"
+      }
+    }
+  }
+]

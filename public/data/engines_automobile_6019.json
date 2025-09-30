@@ -1,0 +1,85 @@
+[
+  {
+    "id": 24123,
+    "automobile_id": 6019,
+    "name": "3.5 V6 4AT (201 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3498 Cm3",
+        "Power:": "150 Kw @ 5600 Rpm\r\n201 Hp @ 5600 Rpm\r\n201 Bhp @ 5600 Rpm",
+        "Torque:": "216 Lb-Ft @ 4000 Rpm\r\n293 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "204.9 In (5204 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "68.6 In (1742 Mm)",
+        "Front/Rear Track:": "62.4/62.6 In (1,585/1,590 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4231 Lbs (1919 Kg)",
+        "Gross Weight Limit:": "5626 Lbs (2552 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "266.6 G/Km"
+      }
+    }
+  },
+  {
+    "id": 24124,
+    "automobile_id": 6019,
+    "name": "3.9 V6 4AT (240 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3880 Cm3",
+        "Power:": "179 Kw @ 6000 Rpm\r\n240 Hp @ 6000 Rpm\r\n240 Bhp @ 6000 Rpm",
+        "Torque:": "240 Lb-Ft @ 4400 Rpm\r\n325 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "204.9 In (5204 Mm)",
+        "Width:": "72 In (1829 Mm)",
+        "Height:": "72.1 In (1831 Mm)",
+        "Front/Rear Track:": "62.4/62.6 In (1,585/1,590 Mm)",
+        "Wheelbase:": "121.1 In (3076 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "26.9 Cuft (762 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4312 Lbs (1956 Kg)",
+        "Gross Weight Limit:": "5626 Lbs (2552 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "23 Mpg Us (10.2 L/100Km)",
+        "Combined:": "19.4 Mpg Us (12.1 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 25390,
+    "automobile_id": 6218,
+    "name": "1.0L 5AT (71 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "999 Cm3",
+        "Power:": "52.2 Kw @ 5800 Rpm\r\n71 Hp @ 5800 Rpm\r\n70 Bhp @ 5800 Rpm",
+        "Torque:": "68 Lb-Ft @ 2800 Rpm\r\n92 Nm @ 2800 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "90 Mph (145 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/55R15 || 195/50R15"
+      },
+      "Dimensions": {
+        "Length:": "106.1 In (2695 Mm)",
+        "Width:": "61.4 In (1560 Mm)",
+        "Height:": "61.6 In (1565 Mm)",
+        "Front/Rear Track:": "50.5/54.5 In (1,283/1,384 Mm)",
+        "Wheelbase:": "73.5 In (1867 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "7.8 Cuft (221 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1742 Lbs (790 Kg)",
+        "Gross Weight Limit:": "2249 Lbs (1020 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "50 Mpg Us (4.7 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Co2 Emissions:": "100 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25391,
+    "automobile_id": 6218,
+    "name": "0.8L CDI 5AT (54 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "799 Cm3",
+        "Power:": "39.7 Kw @ 3800 Rpm\r\n54 Hp @ 3800 Rpm\r\n53 Bhp @ 3800 Rpm",
+        "Torque:": "96 Lb-Ft @ 2100 Rpm\r\n130 Nm @ 2100 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "84 Mph (135 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "16.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/55R15 || 195/50R15"
+      },
+      "Dimensions": {
+        "Length:": "106.1 In (2695 Mm)",
+        "Width:": "61.4 In (1560 Mm)",
+        "Height:": "61.6 In (1565 Mm)",
+        "Front/Rear Track:": "50.5/54.5 In (1,283/1,384 Mm)",
+        "Wheelbase:": "73.5 In (1867 Mm)",
+        "Ground Clearance:": "5.3 In (135 Mm)",
+        "Cargo Volume:": "7.8 Cuft (221 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1764 Lbs (800 Kg)",
+        "Gross Weight Limit:": "2315 Lbs (1050 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "69.2 Mpg Us (3.4 L/100Km)",
+        "Highway:": "71.3 Mpg Us (3.3 L/100Km)",
+        "Combined:": "71.3 Mpg Us (3.3 L/100Km)",
+        "Co2 Emissions:": "87 G/Km"
+      }
+    }
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 12329,
+    "automobile_id": 2936,
+    "name": "2.7i 5MT FWD  (179 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2656 Cm3",
+        "Power:": "141 Kw @ 6000 Rpm\r\n192 Hp @ 6000 Rpm\r\n189 Bhp @ 6000 Rpm",
+        "Torque:": "184 Lb-Ft @ 4200 Rpm\r\n250 Nm @ 4200 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65R16"
+      },
+      "Dimensions": {
+        "Length:": "184.1 In (4676 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "67.9 In (1725 Mm)",
+        "Front/Rear Track:": "63.6/63.8 In (1,615/1,621 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "18.6 Cuft (527 L)",
+        "Aerodynamics (Cd):": "0.37"
+      }
+    }
+  },
+  {
+    "id": 12330,
+    "automobile_id": 2936,
+    "name": "3.3i V6 5AT FWD (234 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3342 Cm3",
+        "Power:": "172 Kw @ 6000 Rpm\r\n234 Hp @ 6000 Rpm\r\n231 Bhp @ 6000 Rpm",
+        "Torque:": "224 Lb-Ft @ 3500 Rpm\r\n304 Nm @ 3500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65R17"
+      },
+      "Dimensions": {
+        "Length:": "184.1 In (4676 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "67.9 In (1725 Mm)",
+        "Front/Rear Track:": "63.6/63.8 In (1,615/1,621 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "18.6 Cuft (527 L)",
+        "Aerodynamics (Cd):": "0.37"
+      }
+    }
+  },
+  {
+    "id": 12331,
+    "automobile_id": 2936,
+    "name": "2.2L CRDi 5MT FWD (154 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2188 Cm3",
+        "Power:": "113 Kw @ 4000 Rpm\r\n154 Hp @ 4000 Rpm\r\n152 Bhp @ 4000 Rpm",
+        "Torque:": "247 Lb-Ft @ 2000 Rpm\r\n335 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "111 Mph (179 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.1 In (4676 Mm)",
+        "Width:": "74.4 In (1890 Mm)",
+        "Height:": "67.9 In (1725 Mm)",
+        "Front/Rear Track:": "63.6/63.8 In (1,615/1,621 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "18.6 Cuft (527 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3944.7 Lbs (1789 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "183 G/Km"
+      }
+    }
+  }
+]

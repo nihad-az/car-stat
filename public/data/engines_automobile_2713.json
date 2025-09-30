@@ -1,0 +1,142 @@
+[
+  {
+    "id": 11462,
+    "automobile_id": 2713,
+    "name": "1.6L 5AT (125 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1589 Cm3",
+        "Power:": "92 Kw @ 6500 Rpm\r\n125 Hp @ 6500 Rpm\r\n123 Bhp @ 6500 Rpm",
+        "Torque:": "112 Lb-Ft @ 4200 Rpm\r\n152 Nm @ 4200 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119.3 Mph (192 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65R15"
+      },
+      "Dimensions": {
+        "Length:": "178.7 In (4539 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "59.1/60 In (1,501/1,524 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2588.7 Lbs (1174 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "159 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11463,
+    "automobile_id": 2713,
+    "name": "1.8L i-VTEC 5AT (140 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1799 Cm3",
+        "Power:": "103 Kw @ 6300 Rpm\r\n140 Hp @ 6300 Rpm\r\n138 Bhp @ 6300 Rpm",
+        "Torque:": "128 Lb-Ft @ 4300 Rpm\r\n174 Nm @ 4300 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/55R16"
+      },
+      "Dimensions": {
+        "Length:": "178.7 In (4539 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "59.1/60 In (1,501/1,524 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2712.2 Lbs (1230 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "140 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11464,
+    "automobile_id": 2713,
+    "name": "1.3L 5AT (95 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1339 Cm3",
+        "Power:": "70 Kw @ 6000 Rpm\r\n95 Hp @ 6000 Rpm\r\n94 Bhp @ 6000 Rpm",
+        "Torque:": "91 Lb-Ft @ 4600 Rpm\r\n123 Nm @ 4600 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Performance Specs": {
+        "Top Speed:": "115 Mph (185 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/65R15"
+      },
+      "Dimensions": {
+        "Length:": "178.7 In (4539 Mm)",
+        "Width:": "68.9 In (1750 Mm)",
+        "Height:": "56.5 In (1435 Mm)",
+        "Front/Rear Track:": "59.1/60 In (1,501/1,524 Mm)",
+        "Wheelbase:": "106.4 In (2703 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "13.6 Cuft (385 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2778.3 Lbs (1260 Kg)",
+        "Gross Weight Limit:": "3791.9 Lbs (1720 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "48 Mpg Us (4.9 L/100Km)",
+        "Highway:": "47 Mpg Us (5 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "109 G/Km"
+      }
+    }
+  }
+]

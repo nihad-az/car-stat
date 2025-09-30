@@ -1,0 +1,92 @@
+[
+  {
+    "id": 49,
+    "automobile_id": 27,
+    "name": "3.5L V6 AWD 6AT (273 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "201 Kw @ 6200 Rpm\r\n273 Hp @ 6200 Rpm\r\n270 Bhp @ 6200 Rpm",
+        "Torque:": "251 Lb-Ft @ 5000 Rpm\r\n340 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "183.5 In (4661 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "63.1/63.4 In (1,603/1,610 Mm)",
+        "Wheelbase:": "105.7 In (2685 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "26.1 Cuft (739 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3838 Lbs (1741 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19 Mpg Us (12.4 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "22 Mpg Us (10.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "automobile_id": 27,
+    "name": "3.5L V6 FWD 6AT (273 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3500 Cm3",
+        "Power:": "201 Kw @ 6200 Rpm\r\n273 Hp @ 6200 Rpm\r\n270 Bhp @ 6200 Rpm",
+        "Torque:": "251 Lb-Ft @ 5000 Rpm\r\n340 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "183.5 In (4661 Mm)",
+        "Width:": "73.7 In (1872 Mm)",
+        "Height:": "66.1 In (1679 Mm)",
+        "Front/Rear Track:": "63.1/63.4 In (1,603/1,610 Mm)",
+        "Wheelbase:": "105.7 In (2685 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "26.1 Cuft (739 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3717 Lbs (1686 Kg)",
+        "Gross Weight Limit:": "4850 Lbs (2200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20 Mpg Us (11.8 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  }
+]

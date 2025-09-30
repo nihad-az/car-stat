@@ -1,0 +1,50 @@
+[
+  {
+    "id": 14449,
+    "automobile_id": 3559,
+    "name": "3.5L V6 10AT (409 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "300.8 Kw @ - Rpm\r\n409 Hp @ - Rpm\r\n403 Bhp @ - Rpm",
+        "Torque:": "479 Lb-Ft @ 3600 Rpm\r\n649 Nm @ 3600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Wheelbase:": "112 In (2845 Mm)"
+      }
+    }
+  },
+  {
+    "id": 14450,
+    "automobile_id": 3559,
+    "name": "3.3L V6 10AT (295 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "217 Kw @ - Rpm\r\n295 Hp @ - Rpm\r\n291 Bhp @ - Rpm",
+        "Torque:": "516 Lb-Ft @ 3600 Rpm\r\n700 Nm @ 3600 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Wheelbase:": "112 In (2845 Mm)"
+      }
+    }
+  }
+]

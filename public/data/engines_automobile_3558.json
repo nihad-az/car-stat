@@ -1,0 +1,129 @@
+[
+  {
+    "id": 14444,
+    "automobile_id": 3558,
+    "name": "250 2.5L 8AT (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "149.3 Kw @ - Rpm\r\n203 Hp @ - Rpm\r\n200 Bhp @ - Rpm",
+        "Torque:": "184 Lb-Ft @ - Rpm\r\n249 Nm @ - Rpm",
+        "Fuel System:": "Naturally Aspirated Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 14445,
+    "automobile_id": 3558,
+    "name": "250 2.5L 8AT AWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "149.3 Kw @ - Rpm\r\n203 Hp @ - Rpm\r\n200 Bhp @ - Rpm",
+        "Torque:": "184 Lb-Ft @ - Rpm\r\n249 Nm @ - Rpm",
+        "Fuel System:": "Naturally Aspirated Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 14446,
+    "automobile_id": 3558,
+    "name": "350 2.4L 8AT AWD (275 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "202.3 Kw @ - Rpm\r\n275 Hp @ - Rpm\r\n271 Bhp @ - Rpm",
+        "Torque:": "317 Lb-Ft @ - Rpm\r\n430 Nm @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      }
+    }
+  },
+  {
+    "id": 14447,
+    "automobile_id": 3558,
+    "name": "350h 2.5L CVT (239 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "175.8 Kw @ - Rpm\r\n239 Hp @ - Rpm\r\n236 Bhp @ - Rpm",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Range:": "36 Miles (57.9 Km)"
+      }
+    }
+  },
+  {
+    "id": 14448,
+    "automobile_id": 3558,
+    "name": "450h+ 2.5L CVT (302 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "222.1 Kw @ - Rpm\r\n302 Hp @ - Rpm\r\n298 Bhp @ - Rpm",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Performance Specs": {
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Range:": "36 Miles (57.9 Km)"
+      }
+    }
+  }
+]

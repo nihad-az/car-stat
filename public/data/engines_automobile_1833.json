@@ -1,0 +1,102 @@
+[
+  {
+    "id": 8081,
+    "automobile_id": 1833,
+    "name": "5.7L V12 6AT RWD (540 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5748 Cm3",
+        "Power:": "397 Kw @ 7250 Rpm\r\n540 Hp @ 7250 Rpm\r\n532 Bhp @ 7250 Rpm",
+        "Torque:": "434 Lb-Ft @ 5250 Rpm\r\n588 Nm @ 5250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "199 Mph (320 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 Zr18 || 285/40 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "193 In (4902 Mm)",
+        "Width:": "77 In (1956 Mm)",
+        "Height:": "52.9 In (1344 Mm)",
+        "Front/Rear Track:": "66.5/64.6 In (1,689/1,641 Mm)",
+        "Wheelbase:": "116.1 In (2949 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "8.5 Cuft (241 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4134 Lbs (1875 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "7.3 Mpg Us (32.2 L/100Km)",
+        "Highway:": "16.8 Mpg Us (14 L/100Km)",
+        "Combined:": "11.4 Mpg Us (20.6 L/100Km)",
+        "Co2 Emissions:": "468 G/Km"
+      }
+    }
+  },
+  {
+    "id": 8082,
+    "automobile_id": 1833,
+    "name": "5.7L V12 6MT RWD (540 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V12",
+        "Displacement:": "5748 Cm3",
+        "Power:": "397 Kw @ 7250 Rpm\r\n540 Hp @ 7250 Rpm\r\n532 Bhp @ 7250 Rpm",
+        "Torque:": "434 Lb-Ft @ 5250 Rpm\r\n588 Nm @ 5250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "199 Mph (320 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/45 Zr18 || 285/40 Zr19"
+      },
+      "Dimensions": {
+        "Length:": "193 In (4902 Mm)",
+        "Width:": "77 In (1956 Mm)",
+        "Height:": "52.9 In (1344 Mm)",
+        "Front/Rear Track:": "66.5/64.6 In (1,689/1,641 Mm)",
+        "Wheelbase:": "116.1 In (2949 Mm)",
+        "Ground Clearance:": "3.9 In (99 Mm)",
+        "Cargo Volume:": "8.5 Cuft (241 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4134 Lbs (1875 Kg)",
+        "Gross Weight Limit:": "4960 Lbs (2250 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "7.3 Mpg Us (32.2 L/100Km)",
+        "Highway:": "16.8 Mpg Us (14 L/100Km)",
+        "Combined:": "11.4 Mpg Us (20.6 L/100Km)",
+        "Co2 Emissions:": "470 G/Km"
+      }
+    }
+  }
+]

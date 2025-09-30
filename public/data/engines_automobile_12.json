@@ -1,0 +1,92 @@
+[
+  {
+    "id": 17,
+    "automobile_id": 12,
+    "name": "2.0L VTEC 10AT (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "200.1 Kw @ 6500 Rpm\r\n272 Hp @ 6500 Rpm\r\n268 Bhp @ 6500 Rpm",
+        "Torque:": "280 Lb-Ft @ 1600-4500 Rpm\r\n380 Nm @ 1600-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "187.4 In (4760 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "65.7 In (1669 Mm)",
+        "Front/Rear Track:": "64.2/64.7 In (1,631/1,643 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "29.5 Cuft (835 L)",
+        "Turning Circle:": "39 Ft (11.9 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3788 Lbs (1718 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "automobile_id": 12,
+    "name": "2.0L VTEC 10AT AWD (272 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1996 Cm3",
+        "Power:": "200.1 Kw @ 6500 Rpm\r\n272 Hp @ 6500 Rpm\r\n268 Bhp @ 6500 Rpm",
+        "Torque:": "280 Lb-Ft @ 1600-4500 Rpm\r\n380 Nm @ 1600-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/55 R19"
+      },
+      "Dimensions": {
+        "Length:": "187.4 In (4760 Mm)",
+        "Width:": "74.8 In (1900 Mm)",
+        "Height:": "65.7 In (1669 Mm)",
+        "Front/Rear Track:": "64.2/64.7 In (1,631/1,643 Mm)",
+        "Wheelbase:": "108.3 In (2751 Mm)",
+        "Ground Clearance:": "8.2 In (208 Mm)",
+        "Cargo Volume:": "29.5 Cuft (835 L)",
+        "Turning Circle:": "39 Ft (11.9 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4026 Lbs (1826 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "23.1 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": 10147,
+    "automobile_id": 2350,
+    "name": "2.0 5MT (97 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "71 Kw @ 4800 Rpm\r\n97 Hp @ 4800 Rpm\r\n95 Bhp @ 4800 Rpm",
+        "Torque:": "114 Lb-Ft @ 2500 Rpm\r\n155 Nm @ 2500 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/80R15 103/101L Lt"
+      },
+      "Dimensions": {
+        "Length:": "184.6 In (4689 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "78 In (1981 Mm)",
+        "Front/Rear Track:": "57.1/51.4 In (1,450/1,306 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3373.7 Lbs (1530 Kg)",
+        "Gross Weight Limit:": "6306.3 Lbs (2860 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 10148,
+    "automobile_id": 2350,
+    "name": "2.0 TD 5MT (86 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "63 Kw @ 3500 Rpm\r\n86 Hp @ 3500 Rpm\r\n84 Bhp @ 3500 Rpm",
+        "Torque:": "131 Lb-Ft @ 2000 Rpm\r\n178 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195-80-R15/103-101- Lt"
+      },
+      "Dimensions": {
+        "Length:": "184.6 In (4689 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "78 In (1981 Mm)",
+        "Front/Rear Track:": "57.1/51.4 In (1,450/1,306 Mm)",
+        "Wheelbase:": "102.4 In (2601 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594.2 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "6526.8 Lbs (2961 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "138 G/Km"
+      }
+    }
+  }
+]

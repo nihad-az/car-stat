@@ -1,0 +1,137 @@
+[
+  {
+    "id": 14684,
+    "automobile_id": 3645,
+    "name": "3.5 AWD 6AT (263 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3497 Cm3",
+        "Power:": "196 Kw @ 6250 Rpm\r\n263 Hp @ 6250 Rpm\r\n263 Bhp @ 6250 Rpm",
+        "Torque:": "249 Lb-Ft @ 4500 Rpm\r\n338 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/50V R17"
+      },
+      "Dimensions": {
+        "Length:": "189.8 In (4821 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "61.3/61 In (1,557/1,549 Mm)",
+        "Wheelbase:": "107.4 In (2728 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "16.5 Cuft (467 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3796 Lbs (1722 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "24 Mpg Us (9.8 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14685,
+    "automobile_id": 3645,
+    "name": "3.5 FWD 6AT (263 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3497 Cm3",
+        "Power:": "196 Kw @ 6250 Rpm\r\n263 Hp @ 6250 Rpm\r\n263 Bhp @ 6250 Rpm",
+        "Torque:": "249 Lb-Ft @ 4500 Rpm\r\n338 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/50V R17"
+      },
+      "Dimensions": {
+        "Length:": "189.8 In (4821 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "61.3/61 In (1,557/1,549 Mm)",
+        "Wheelbase:": "107.4 In (2728 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "16.5 Cuft (467 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3598 Lbs (1632 Kg)",
+        "Gross Weight Limit:": "4590 Lbs (2082 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "27 Mpg Us (8.7 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14686,
+    "automobile_id": 3645,
+    "name": "2.5 FWD CVT (191 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "115 Kw @ 6000 Rpm\r\n156 Hp @ 6000 Rpm\r\n154 Bhp @ 6000 Rpm",
+        "Torque:": "135 Lb-Ft @ 2250 Rpm\r\n183 Nm @ 2250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Vented Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/50V R17"
+      },
+      "Dimensions": {
+        "Length:": "189.8 In (4821 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "61.3/61 In (1,557/1,549 Mm)",
+        "Wheelbase:": "107.4 In (2728 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "11.8 Cuft (334 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3757 Lbs (1704 Kg)",
+        "Gross Weight Limit:": "4749 Lbs (2154 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41 Mpg Us (5.7 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "39 Mpg Us (6 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 6288,
+    "automobile_id": 1377,
+    "name": "3.6L V6 9AT FWD (287 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Power:": "214 Kw @ - Rpm\r\n291 Hp @ - Rpm\r\n287 Bhp @ - Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6289,
+    "automobile_id": 1377,
+    "name": "3.6L V6 eCVT FWD (287 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3604 Cm3",
+        "Power:": "211.1 Kw @ 6400 Rpm\r\n287 Hp @ 6400 Rpm\r\n283 Bhp @ 6400 Rpm",
+        "Torque:": "262 Lb-Ft @ 4000 Rpm\r\n355 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "19 Gallons (71.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142 Mph (229 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "9-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "203.8 In (5177 Mm)",
+        "Width:": "79.6 In (2022 Mm)",
+        "Height:": "69.9 In (1775 Mm)",
+        "Front/Rear Track:": "68.3/68.3 In (1,735/1,735 Mm)",
+        "Wheelbase:": "121.6 In (3089 Mm)",
+        "Ground Clearance:": "5.2 In (132 Mm)",
+        "Cargo Volume:": "32.3 Cuft (915 L)",
+        "Aerodynamics (Frontal Area):": "2.98 M2",
+        "Aerodynamics (Cd):": "0.3",
+        "Turning Circle (Curb To Curb):": "39.7 Ft (12.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4330 Lbs (1964 Kg)",
+        "Gross Weight Limit:": "6056 Lbs (2747 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "16 Kwh",
+        "Range:": "31.1 Miles (50.1 Km)"
+      }
+    }
+  }
+]

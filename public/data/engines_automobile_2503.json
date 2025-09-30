@@ -1,0 +1,177 @@
+[
+  {
+    "id": 10718,
+    "automobile_id": 2503,
+    "name": "2.4L 6AT AWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2458 Cm3",
+        "Power:": "142 Kw @ 6300 Rpm\r\n193 Hp @ 6300 Rpm\r\n190 Bhp @ 6300 Rpm",
+        "Torque:": "188 Lb-Ft @ 4400 Rpm\r\n255 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "68.7 In (1745 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "6001 Lbs (2722 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10719,
+    "automobile_id": 2503,
+    "name": "2.4L 6AT FWD (193 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2458 Cm3",
+        "Power:": "142 Kw @ 6300 Rpm\r\n193 Hp @ 6300 Rpm\r\n190 Bhp @ 6300 Rpm",
+        "Torque:": "188 Lb-Ft @ 4400 Rpm\r\n255 Nm @ 4400 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "68.7 In (1745 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "6001 Lbs (2722 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "23 Mpg Us (10.2 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10720,
+    "automobile_id": 2503,
+    "name": "3.6L V6 6AT AWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3654 Cm3",
+        "Power:": "231.2 Kw @ 6600 Rpm\r\n314 Hp @ 6600 Rpm\r\n310 Bhp @ 6600 Rpm",
+        "Torque:": "271 Lb-Ft @ 5000 Rpm\r\n367 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "68.7 In (1745 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "6001 Lbs (2722 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "20 Mpg Us (11.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 10721,
+    "automobile_id": 2503,
+    "name": "3.6L V6 6AT FWD (310 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3654 Cm3",
+        "Power:": "231.2 Kw @ 6600 Rpm\r\n314 Hp @ 6600 Rpm\r\n310 Bhp @ 6600 Rpm",
+        "Torque:": "271 Lb-Ft @ 5000 Rpm\r\n367 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "21.9 Gallons (82.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P245/65R17"
+      },
+      "Dimensions": {
+        "Length:": "193.6 In (4917 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "68.7 In (1745 Mm)",
+        "Front/Rear Track:": "64.5/64.5 In (1,638/1,638 Mm)",
+        "Wheelbase:": "112.5 In (2858 Mm)",
+        "Cargo Volume:": "12.8 Cuft (362 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Gross Weight Limit:": "6001 Lbs (2722 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "25 Mpg Us (9.4 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)"
+      }
+    }
+  }
+]

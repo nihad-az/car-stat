@@ -1,0 +1,664 @@
+[
+  {
+    "id": 18321,
+    "automobile_id": 4589,
+    "name": "Cooper 1.6L 6AT (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "88 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "118 Lb-Ft @ 4250 Rpm\r\n160 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "119 Mph (192 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "146.2 In (3713 Mm)",
+        "Width:": "66.2 In (1681 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "57.2/57.5 In (1,453/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2601 Lbs (1180 Kg)",
+        "Gross Weight Limit:": "3605 Lbs (1635 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Highway:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Combined:": "35.1 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "161 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18322,
+    "automobile_id": 4589,
+    "name": "Cooper 1.6L 6MT (120 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "88 Kw @ 6000 Rpm\r\n120 Hp @ 6000 Rpm\r\n118 Bhp @ 6000 Rpm",
+        "Torque:": "118 Lb-Ft @ 4250 Rpm\r\n160 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "123 Mph (198 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R16"
+      },
+      "Dimensions": {
+        "Length:": "146.2 In (3713 Mm)",
+        "Width:": "66.2 In (1681 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "57.2/57.5 In (1,453/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2513 Lbs (1140 Kg)",
+        "Gross Weight Limit:": "3516 Lbs (1595 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "137 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18323,
+    "automobile_id": 4589,
+    "name": "Cooper S 1.6 6MT (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "135.3 Kw @ 5500 Rpm\r\n184 Hp @ 5500 Rpm\r\n181 Bhp @ 5500 Rpm",
+        "Torque:": "192 Lb-Ft @ 1600 Rpm\r\n260 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R 16 87V"
+      },
+      "Dimensions": {
+        "Length:": "146.8 In (3729 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.2/57.5 In (1,453/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2657 Lbs (1205 Kg)",
+        "Gross Weight Limit:": "3660 Lbs (1660 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "39.2 Mpg Us (6 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18324,
+    "automobile_id": 4589,
+    "name": "Cooper S 1.6L 6AT (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "128.7 Kw @ 5500 Rpm\r\n175 Hp @ 5500 Rpm\r\n173 Bhp @ 5500 Rpm",
+        "Torque:": "177 Lb-Ft @ 1600 Rpm\r\n240 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R16 87V"
+      },
+      "Dimensions": {
+        "Length:": "146.8 In (3729 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.2/57.5 In (1,453/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2712 Lbs (1230 Kg)",
+        "Gross Weight Limit:": "3715 Lbs (1685 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23.8 Mpg Us (9.9 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "170 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18325,
+    "automobile_id": 4589,
+    "name": "Cooper S 1.6L 6AT (184 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "135.3 Kw @ 5500 Rpm\r\n184 Hp @ 5500 Rpm\r\n181 Bhp @ 5500 Rpm",
+        "Torque:": "192 Lb-Ft @ 1600 Rpm\r\n260 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "137 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R16 87V"
+      },
+      "Dimensions": {
+        "Length:": "146.8 In (3729 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.2/57.5 In (1,453/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2712 Lbs (1230 Kg)",
+        "Gross Weight Limit:": "3715 Lbs (1685 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.8 Mpg Us (9.1 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "153 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18326,
+    "automobile_id": 4589,
+    "name": "Cooper S 1.6L 6MT (175 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "128.7 Kw @ 5500 Rpm\r\n175 Hp @ 5500 Rpm\r\n173 Bhp @ 5500 Rpm",
+        "Torque:": "177 Lb-Ft @ 1600 Rpm\r\n240 Nm @ 1600 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R 16 87V"
+      },
+      "Dimensions": {
+        "Length:": "146.8 In (3729 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.2/57.5 In (1,453/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2657 Lbs (1205 Kg)",
+        "Gross Weight Limit:": "3660 Lbs (1660 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Co2 Emissions:": "153 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18327,
+    "automobile_id": 4589,
+    "name": "John Cooper Works 1.6L 6MT (211 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "155 Kw @ 6000 Rpm\r\n211 Hp @ 6000 Rpm\r\n208 Bhp @ 6000 Rpm",
+        "Torque:": "207 Lb-Ft @ 1850 Rpm\r\n280 Nm @ 1850 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "146 Mph (235 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/45 R17 84W"
+      },
+      "Dimensions": {
+        "Length:": "146.2 In (3713 Mm)",
+        "Width:": "66.2 In (1681 Mm)",
+        "Height:": "55.6 In (1412 Mm)",
+        "Front/Rear Track:": "57.2/57.5 In (1,453/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2657 Lbs (1205 Kg)",
+        "Gross Weight Limit:": "3660 Lbs (1660 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Highway:": "40.6 Mpg Us (5.8 L/100Km)",
+        "Combined:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18328,
+    "automobile_id": 4589,
+    "name": "One 1.6L 6AT (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "72 Kw @ 6000 Rpm\r\n98 Hp @ 6000 Rpm\r\n97 Bhp @ 6000 Rpm",
+        "Torque:": "113 Lb-Ft @ 3000 Rpm\r\n153 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "108 Mph (174 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "13.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R 15 84H"
+      },
+      "Dimensions": {
+        "Length:": "146.6 In (3724 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.4/57.8 In (1,458/1,468 Mm)",
+        "Wheelbase:": "97.5 In (2477 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2590 Lbs (1175 Kg)",
+        "Gross Weight Limit:": "3594 Lbs (1630 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18329,
+    "automobile_id": 4589,
+    "name": "One 1.6L 6MT (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "72 Kw @ 6000 Rpm\r\n98 Hp @ 6000 Rpm\r\n97 Bhp @ 6000 Rpm",
+        "Torque:": "113 Lb-Ft @ 3000 Rpm\r\n153 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R 15 84H"
+      },
+      "Dimensions": {
+        "Length:": "146.6 In (3724 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.4/57.8 In (1,458/1,468 Mm)",
+        "Wheelbase:": "97.5 In (2477 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2502 Lbs (1135 Kg)",
+        "Gross Weight Limit:": "3505 Lbs (1590 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Highway:": "51.1 Mpg Us (4.6 L/100Km)",
+        "Combined:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "133 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18330,
+    "automobile_id": 4589,
+    "name": "Cooper D 1.6L 6AT (112 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "82 Kw @ 4000 Rpm\r\n111 Hp @ 4000 Rpm\r\n110 Bhp @ 4000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1750-2250 Rpm\r\n270 Nm @ 1750-2250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R15 84H"
+      },
+      "Dimensions": {
+        "Length:": "146.6 In (3724 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.4/0.6 In (1,458/15 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2646 Lbs (1200 Kg)",
+        "Gross Weight Limit:": "3649 Lbs (1655 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.6 Mpg Us (7 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "140 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18331,
+    "automobile_id": 4589,
+    "name": "Cooper D 1.6L 6MT (112 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1598 Cm3",
+        "Power:": "82 Kw @ 4000 Rpm\r\n111 Hp @ 4000 Rpm\r\n110 Bhp @ 4000 Rpm",
+        "Torque:": "199 Lb-Ft @ 1750-2250 Rpm\r\n270 Nm @ 1750-2250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "121 Mph (195 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/65 R15 84H"
+      },
+      "Dimensions": {
+        "Length:": "146.6 In (3724 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.4/0.6 In (1,458/15 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2590 Lbs (1175 Kg)",
+        "Gross Weight Limit:": "3594 Lbs (1630 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "58.8 Mpg Us (4 L/100Km)",
+        "Co2 Emissions:": "105 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18332,
+    "automobile_id": 4589,
+    "name": "Cooper SD 2.0L 6AT (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "105 Kw @ 4000 Rpm\r\n143 Hp @ 4000 Rpm\r\n141 Bhp @ 4000 Rpm",
+        "Torque:": "225 Lb-Ft @ 1750-2700 Rpm\r\n305 Nm @ 1750-2700 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "126 Mph (203 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R16 87V"
+      },
+      "Dimensions": {
+        "Length:": "146.8 In (3729 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.1/57.5 In (1,450/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2734 Lbs (1240 Kg)",
+        "Gross Weight Limit:": "3737 Lbs (1695 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33.1 Mpg Us (7.1 L/100Km)",
+        "Highway:": "53.5 Mpg Us (4.4 L/100Km)",
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "143 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18333,
+    "automobile_id": 4589,
+    "name": "Cooper SD 2.0L 6MT (143 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "105 Kw @ 4000 Rpm\r\n143 Hp @ 4000 Rpm\r\n141 Bhp @ 4000 Rpm",
+        "Torque:": "225 Lb-Ft @ 1750-2700 Rpm\r\n305 Nm @ 1750-2700 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/55 R16 87V"
+      },
+      "Dimensions": {
+        "Length:": "146.8 In (3729 Mm)",
+        "Width:": "66.3 In (1684 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Front/Rear Track:": "57.1/57.5 In (1,450/1,461 Mm)",
+        "Wheelbase:": "97.1 In (2466 Mm)",
+        "Ground Clearance:": "5.5 In (140 Mm)",
+        "Cargo Volume:": "4.4 Cuft (125 L)",
+        "Aerodynamics (Cd):": "0.37"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2701 Lbs (1225 Kg)",
+        "Gross Weight Limit:": "3704 Lbs (1680 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Highway:": "58.8 Mpg Us (4 L/100Km)",
+        "Combined:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Co2 Emissions:": "118 G/Km"
+      }
+    }
+  }
+]

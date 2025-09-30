@@ -1,0 +1,70 @@
+[
+  {
+    "id": 13315,
+    "automobile_id": 3215,
+    "name": "1.2L 5MT (84 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1248 Cm3",
+        "Power:": "61.8 Kw @ 6000 Rpm\r\n84 Hp @ 6000 Rpm\r\n83 Bhp @ 6000 Rpm",
+        "Torque:": "90 Lb-Ft @ 4000 Rpm\r\n122 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "160 In (4064 Mm)",
+        "Width:": "67.9 In (1725 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "59.8/60 In (1,519/1,524 Mm)",
+        "Wheelbase:": "101.6 In (2581 Mm)"
+      }
+    }
+  },
+  {
+    "id": 13316,
+    "automobile_id": 3215,
+    "name": "1.0L T-GDi 6MT (100 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "998 Cm3",
+        "Power:": "73.5 Kw @ - Rpm\r\n100 Hp @ - Rpm\r\n99 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/65 R15"
+      },
+      "Dimensions": {
+        "Length:": "160 In (4064 Mm)",
+        "Width:": "67.9 In (1725 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "59.8/60 In (1,519/1,524 Mm)",
+        "Wheelbase:": "101.6 In (2581 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 10008,
+    "automobile_id": 2322,
+    "name": "1.6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1597 Cm3",
+        "Power:": "70 Kw @ 5500 Rpm\r\n95 Hp @ 5500 Rpm\r\n94 Bhp @ 5500 Rpm",
+        "Torque:": "100 Lb-Ft @ 4250 Rpm\r\n135 Nm @ 4250 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "107.5 Mph (173 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "12.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/45 R 16"
+      },
+      "Dimensions": {
+        "Length:": "143.7 In (3650 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "52.6 In (1336 Mm)",
+        "Front/Rear Track:": "55.8/57.2 In (1,417/1,453 Mm)",
+        "Wheelbase:": "96.4 In (2449 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "7.5 Cuft (212 L)",
+        "Aerodynamics (Cd):": "0.4"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2339.5 Lbs (1061 Kg)",
+        "Gross Weight Limit:": "2833.4 Lbs (1285 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.2 Mpg Us (10.6 L/100Km)",
+        "Highway:": "36.8 Mpg Us (6.4 L/100Km)",
+        "Combined:": "29.8 Mpg Us (7.9 L/100Km)",
+        "Co2 Emissions:": "189 G/Km"
+      }
+    }
+  }
+]

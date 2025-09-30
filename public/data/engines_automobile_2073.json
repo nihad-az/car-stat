@@ -1,0 +1,94 @@
+[
+  {
+    "id": 8899,
+    "automobile_id": 2073,
+    "name": "1.4L 4MT (44 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1395 Cm3",
+        "Power:": "32 Kw @ 4400 Rpm\r\n44 Hp @ 4400 Rpm\r\n43 Bhp @ 4400 Rpm",
+        "Torque:": "67 Lb-Ft @ 3000 Rpm\r\n91 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "68 Mph (109 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "43 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.90 X 14"
+      },
+      "Dimensions": {
+        "Length:": "166.9 In (4239 Mm)",
+        "Width:": "65.2 In (1656 Mm)",
+        "Height:": "61 In (1549 Mm)",
+        "Front/Rear Track:": "51.5/52 In (1,308/1,321 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Aerodynamics (Cd):": "0.47"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2690 Lbs (1220 Kg)",
+        "Gross Weight Limit:": "3186 Lbs (1445 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.4 Mpg Us (10.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 8900,
+    "automobile_id": 2073,
+    "name": "1.9L 5MT (63 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1901 Cm3",
+        "Power:": "46.3 Kw @ 4900 Rpm\r\n63 Hp @ 4900 Rpm\r\n62 Bhp @ 4900 Rpm",
+        "Torque:": "96 Lb-Ft @ 3000 Rpm\r\n130 Nm @ 3000 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "84 Mph (135 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "24.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Drums",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "5.90 X 14"
+      },
+      "Dimensions": {
+        "Length:": "166.9 In (4239 Mm)",
+        "Width:": "65.2 In (1656 Mm)",
+        "Height:": "61 In (1549 Mm)",
+        "Front/Rear Track:": "51.5/52 In (1,308/1,321 Mm)",
+        "Wheelbase:": "104.3 In (2649 Mm)",
+        "Ground Clearance:": "6.3 In (160 Mm)",
+        "Aerodynamics (Cd):": "0.47"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2844 Lbs (1290 Kg)",
+        "Gross Weight Limit:": "3340 Lbs (1515 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "20.8 Mpg Us (11.3 L/100Km)"
+      }
+    }
+  }
+]

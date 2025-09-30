@@ -1,0 +1,130 @@
+[
+  {
+    "id": 14293,
+    "automobile_id": 3514,
+    "name": "5.0L SC V8 8AT AWD (510 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "5000 Cm3",
+        "Power:": "375 Kw @ 3500 Rpm\r\n510 Hp @ 3500 Rpm\r\n503 Bhp @ 3500 Rpm",
+        "Torque:": "461 Lb-Ft @ 1300-3000 Rpm\r\n625 Nm @ 1300-3000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "27.7 Gallons (104.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "140 Mph (225 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission With Terrain Response"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "207.7 In (5276 Mm)",
+        "Width:": "187.4 In (4760 Mm)",
+        "Height:": "72.4 In (1839 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "122.8 In (3119 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)",
+        "Aerodynamics (Cd):": "0.36"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5320 Lbs (2413 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "12.9 Mpg Us (18.2 L/100Km)",
+        "Highway:": "24.2 Mpg Us (9.7 L/100Km)",
+        "Combined:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Co2 Emissions:": "299 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14294,
+    "automobile_id": 3514,
+    "name": "3.0L TDV6 8AT AWD (258 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2993 Cm3",
+        "Power:": "190 Kw @ 4000 Rpm\r\n258 Hp @ 4000 Rpm\r\n255 Bhp @ 4000 Rpm",
+        "Torque:": "443 Lb-Ft @ 2000 Rpm\r\n601 Nm @ 2000 Rpm",
+        "Fuel System:": "Common Rail Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "210 Mph (338 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission With Terrain Response"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "207.7 In (5276 Mm)",
+        "Width:": "187.4 In (4760 Mm)",
+        "Height:": "72.4 In (1839 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "122.8 In (3119 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Highway:": "33.6 Mpg Us (7 L/100Km)",
+        "Combined:": "31.4 Mpg Us (7.5 L/100Km)",
+        "Co2 Emissions:": "196 G/Km"
+      }
+    }
+  },
+  {
+    "id": 14295,
+    "automobile_id": 3514,
+    "name": "4.4L SDV8 8AT AWD (339 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4367 Cm3",
+        "Power:": "250 Kw @ 3500 Rpm\r\n340 Hp @ 3500 Rpm\r\n335 Bhp @ 3500 Rpm",
+        "Torque:": "516 Lb-Ft @ 1300-3000 Rpm\r\n700 Nm @ 1300-3000 Rpm",
+        "Fuel System:": "Common Rail Direct Injection",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Transmission With Terrain Response"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Dimensions": {
+        "Length:": "207.7 In (5276 Mm)",
+        "Width:": "187.4 In (4760 Mm)",
+        "Height:": "72.4 In (1839 Mm)",
+        "Front/Rear Track:": "66.5/66.3 In (1,689/1,684 Mm)",
+        "Wheelbase:": "122.8 In (3119 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "20.5 Mpg Us (11.5 L/100Km)",
+        "Highway:": "30.9 Mpg Us (7.6 L/100Km)",
+        "Combined:": "27 Mpg Us (8.7 L/100Km)",
+        "Co2 Emissions:": "229 G/Km"
+      }
+    }
+  }
+]

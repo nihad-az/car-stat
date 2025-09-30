@@ -1,0 +1,86 @@
+[
+  {
+    "id": 18516,
+    "automobile_id": 4644,
+    "name": "2.4 16v 5MT (165 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2378 Cm3",
+        "Power:": "121 Kw @ 6000 Rpm\r\n165 Hp @ 6000 Rpm\r\n162 Bhp @ 6000 Rpm",
+        "Torque:": "162 Lb-Ft @ 4000 Rpm\r\n220 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "179.7 In (4564 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "53.5 In (1359 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3274.4 Lbs (1485 Kg)",
+        "Gross Weight Limit:": "4068.2 Lbs (1845 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18 Mpg Us (13.1 L/100Km)",
+        "Highway:": "26 Mpg Us (9 L/100Km)",
+        "Combined:": "21 Mpg Us (11.2 L/100Km)",
+        "Co2 Emissions:": "267 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18517,
+    "automobile_id": 4644,
+    "name": "3.8 V6 6MT (260 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3828 Cm3",
+        "Power:": "191 Kw @ 5750 Rpm\r\n260 Hp @ 5750 Rpm\r\n256 Bhp @ 5750 Rpm",
+        "Torque:": "260 Lb-Ft @ 4500 Rpm\r\n353 Nm @ 4500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "179.7 In (4564 Mm)",
+        "Width:": "72.2 In (1834 Mm)",
+        "Height:": "53.5 In (1359 Mm)",
+        "Front/Rear Track:": "61.8/61.8 In (1,570/1,570 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Ground Clearance:": "5.8 In (147 Mm)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3472.9 Lbs (1575 Kg)",
+        "Gross Weight Limit:": "4288.7 Lbs (1945 Kg)"
+      }
+    }
+  }
+]

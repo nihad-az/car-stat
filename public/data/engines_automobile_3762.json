@@ -1,0 +1,80 @@
+[
+  {
+    "id": 14942,
+    "automobile_id": 3762,
+    "name": "4.7 V8",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4719 Cm3",
+        "Power:": "243 Kw @ 5500 Rpm\r\n330 Hp @ 5500 Rpm\r\n326 Bhp @ 5500 Rpm",
+        "Torque:": "290 Lb-Ft @ 4000 Rpm\r\n393 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetors",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "154 Mph (248 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Dimensions": {
+        "Length:": "180.4 In (4582 Mm)",
+        "Width:": "70.4 In (1788 Mm)",
+        "Height:": "45.6 In (1158 Mm)",
+        "Front/Rear Track:": "56.6/55.4 In (1,438/1,407 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3351 Lbs (1520 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14943,
+    "automobile_id": 3762,
+    "name": "4.9 V8 SS",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4930 Cm3",
+        "Power:": "246 Kw @ 5500 Rpm\r\n335 Hp @ 5500 Rpm\r\n330 Bhp @ 5500 Rpm",
+        "Torque:": "354 Lb-Ft @ 4000 Rpm\r\n480 Nm @ 4000 Rpm",
+        "Fuel System:": "Carburetors",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "160 Mph (257 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/70 Vr15"
+      },
+      "Dimensions": {
+        "Length:": "184.4 In (4684 Mm)",
+        "Width:": "70.5 In (1791 Mm)",
+        "Height:": "45.7 In (1161 Mm)",
+        "Front/Rear Track:": "56.7/55.9 In (1,440/1,420 Mm)",
+        "Wheelbase:": "100.4 In (2550 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Aerodynamics (Cd):": "0.35"
+      }
+    }
+  }
+]

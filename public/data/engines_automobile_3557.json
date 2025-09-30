@@ -1,0 +1,158 @@
+[
+  {
+    "id": 14441,
+    "automobile_id": 3557,
+    "name": "250 8AT AWD (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2487 Cm3",
+        "Power:": "149.3 Kw @ 6500 Rpm\r\n203 Hp @ 6500 Rpm\r\n200 Bhp @ 6500 Rpm",
+        "Torque:": "184 Lb-Ft @ 4000-5000 Rpm\r\n249 Nm @ 4000-5000 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131 Mph (211 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "62.5/0 In (1,588/0 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.26",
+        "Turning Circle:": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3781 Lbs (1715 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14442,
+    "automobile_id": 3557,
+    "name": "350 V6 8AT FWD (306 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "225.2 Kw @ 6600 Rpm\r\n306.2 Hp @ 6600 Rpm\r\n302 Bhp @ 6600 Rpm",
+        "Torque:": "267 Lb-Ft @ 4700 Rpm\r\n362 Nm @ 4700 Rpm",
+        "Fuel System:": "Multipoint Injection Naturally Aspirated",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "15.9 Gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "131 Mph (211 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "8-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "62.5/63 In (1,588/1,600 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.26",
+        "Turning Circle:": "38.1 Ft (11.6 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3649 Lbs (1655 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Combined:": "23.8 Mpg Us (9.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 14443,
+    "automobile_id": 3557,
+    "name": "300h e-CVT FWD (215 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2487 Cm3",
+        "Power:": "129.4 Kw @ 5700 Rpm\r\n176 Hp @ 5700 Rpm\r\n174 Bhp @ 5700 Rpm",
+        "Torque:": "163 Lb-Ft @ 3600-5200 Rpm\r\n221 Nm @ 3600-5200 Rpm",
+        "Electrical Motor Power:": "88.3 Kw (120 Hp)",
+        "Electrical Motor Torque:": "149 Lb-Ft (202 Nm)",
+        "Total Maximum Power:": "158.1 Kw (215 Hp)",
+        "Fuel System:": "Multi-Point Indirect Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "13.2 Gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "E-Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "195.9 In (4976 Mm)",
+        "Width:": "73.4 In (1864 Mm)",
+        "Height:": "56.9 In (1445 Mm)",
+        "Front/Rear Track:": "63/63.4 In (1,600/1,610 Mm)",
+        "Wheelbase:": "113 In (2870 Mm)",
+        "Cargo Volume:": "13.9 Cuft (394 L)",
+        "Aerodynamics (Cd):": "0.26",
+        "Turning Circle:": "38.7 Ft (11.8 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3682 Lbs (1670 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Highway:": "44.4 Mpg Us (5.3 L/100Km)",
+        "Combined:": "44.4 Mpg Us (5.3 L/100Km)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion"
+      }
+    }
+  }
+]

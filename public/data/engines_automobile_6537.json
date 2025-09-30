@@ -1,0 +1,127 @@
+[
+  {
+    "id": 26377,
+    "automobile_id": 6537,
+    "name": "2.5L 6AT FWD (178 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2494 Cm3",
+        "Power:": "130.9 Kw @ 6000 Rpm\r\n178 Hp @ 6000 Rpm\r\n176 Bhp @ 6000 Rpm",
+        "Torque:": "170 Lb-Ft @ 4100 Rpm\r\n230 Nm @ 4100 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "62.8/62.4 In (1,595/1,585 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "15.4 Cuft (436 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3241 Lbs (1470 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)",
+        "Combined:": "28 Mpg Us (8.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26378,
+    "automobile_id": 6537,
+    "name": "3.5L V6 6AT FWD (268 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "200 Kw @ 6200 Rpm\r\n272 Hp @ 6200 Rpm\r\n268 Bhp @ 6200 Rpm",
+        "Torque:": "248 Lb-Ft @ 4700 Rpm\r\n336 Nm @ 4700 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "62.8/62.4 In (1,595/1,585 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "15.4 Cuft (436 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3480 Lbs (1579 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "21 Mpg Us (11.2 L/100Km)",
+        "Highway:": "31 Mpg Us (7.6 L/100Km)",
+        "Combined:": "25 Mpg Us (9.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 26379,
+    "automobile_id": 6537,
+    "name": "2.5L ECVT FWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2494 Cm3",
+        "Power:": "149 Kw @ 6200 Rpm\r\n203 Hp @ 6200 Rpm\r\n200 Bhp @ 6200 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "16.9 Gallons (64.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "E-Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "190.9 In (4849 Mm)",
+        "Width:": "71.7 In (1821 Mm)",
+        "Height:": "57.9 In (1471 Mm)",
+        "Front/Rear Track:": "62.8/62.4 In (1,595/1,585 Mm)",
+        "Wheelbase:": "109.3 In (2776 Mm)",
+        "Ground Clearance:": "6.1 In (155 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)",
+        "Aerodynamics (Cd):": "0.27"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3485 Lbs (1581 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "43 Mpg Us (5.5 L/100Km)",
+        "Highway:": "39 Mpg Us (6 L/100Km)",
+        "Combined:": "41 Mpg Us (5.7 L/100Km)"
+      }
+    }
+  }
+]

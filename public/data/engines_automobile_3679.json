@@ -1,0 +1,89 @@
+[
+  {
+    "id": 14764,
+    "automobile_id": 3679,
+    "name": "3.5L V6 6AT RWD (436 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "320.7 Kw @ 7000 Rpm\r\n436 Hp @ 7000 Rpm\r\n430 Bhp @ 7000 Rpm",
+        "Torque:": "332 Lb-Ft @ 4500 Rpm\r\n450 Nm @ 4500 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "174 Mph (280 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 R19 || 295/30R20"
+      },
+      "Dimensions": {
+        "Length:": "173 In (4394 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "48.4 In (1229 Mm)",
+        "Front/Rear Track:": "61.6/62 In (1,565/1,575 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Cargo Volume:": "5.7 Cuft (161 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2888 Lbs (1310 Kg)"
+      }
+    }
+  },
+  {
+    "id": 14765,
+    "automobile_id": 3679,
+    "name": "3.5L V6 6MT RWD (436 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3456 Cm3",
+        "Power:": "320.7 Kw @ 7000 Rpm\r\n436 Hp @ 7000 Rpm\r\n430 Bhp @ 7000 Rpm",
+        "Torque:": "325 Lb-Ft @ 4500 Rpm\r\n440 Nm @ 4500 Rpm",
+        "Fuel System:": "Supercharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "190 Mph (306 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "3.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/35 R19 || 295/30R20"
+      },
+      "Dimensions": {
+        "Length:": "173 In (4394 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "48.4 In (1229 Mm)",
+        "Front/Rear Track:": "61.6/62 In (1,565/1,575 Mm)",
+        "Wheelbase:": "101.4 In (2576 Mm)",
+        "Cargo Volume:": "5.7 Cuft (161 L)",
+        "Aerodynamics (Cd):": "0.35"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2864 Lbs (1299 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Co2 Emissions:": "234 G/Km"
+      }
+    }
+  }
+]

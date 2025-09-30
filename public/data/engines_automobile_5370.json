@@ -1,0 +1,80 @@
+[
+  {
+    "id": 21904,
+    "automobile_id": 5370,
+    "name": "3.8L L6 4MT RWD (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "3770 Cm3",
+        "Power:": "160 Kw @ 5200 Rpm\r\n220 Hp @ 5200 Rpm\r\n215 Bhp @ 5200 Rpm",
+        "Torque:": "240 Lb-Ft @ 3800 Rpm\r\n325 Nm @ 3800 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "114 Mph (183 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "4-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "E70-14"
+      },
+      "Dimensions": {
+        "Length:": "188.8 In (4796 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "51.5 In (1308 Mm)",
+        "Front/Rear Track:": "59/60 In (1,499/1,524 Mm)",
+        "Wheelbase:": "108.1 In (2746 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3280 Lbs (1488 Kg)"
+      }
+    }
+  },
+  {
+    "id": 21905,
+    "automobile_id": 5370,
+    "name": "6.6L V8 3AT RWD (340 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "6548 Cm3",
+        "Power:": "250 Kw @ 5000 Rpm\r\n340 Hp @ 5000 Rpm\r\n335 Bhp @ 5000 Rpm",
+        "Torque:": "430 Lb-Ft @ 3400 Rpm\r\n583 Nm @ 3400 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "3-Speed  Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "F70-14"
+      },
+      "Dimensions": {
+        "Length:": "188.8 In (4796 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "51.5 In (1308 Mm)",
+        "Front/Rear Track:": "59/60 In (1,499/1,524 Mm)",
+        "Wheelbase:": "108.1 In (2746 Mm)",
+        "Ground Clearance:": "7 In (178 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3527 Lbs (1600 Kg)"
+      }
+    }
+  }
+]

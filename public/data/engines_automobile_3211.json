@@ -1,0 +1,107 @@
+[
+  {
+    "id": 13299,
+    "automobile_id": 3211,
+    "name": "1.5L T-GDi 6MT (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "117.7 Kw @ - Rpm\r\n160 Hp @ - Rpm\r\n158 Bhp @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 13300,
+    "automobile_id": 3211,
+    "name": "1.5L T-GDi 7AT (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "117.7 Kw @ - Rpm\r\n160 Hp @ - Rpm\r\n158 Bhp @ - Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 13301,
+    "automobile_id": 3211,
+    "name": "GT 1.6L T-GDi 7AT (203 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "149.9 Kw @ - Rpm\r\n203.8 Hp @ - Rpm\r\n201 Bhp @ - Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 13302,
+    "automobile_id": 3211,
+    "name": "1.6L 67AT (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "99.9 Kw @ - Rpm\r\n136 Hp @ - Rpm\r\n134 Bhp @ - Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Mild Hybrid Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  },
+  {
+    "id": 13303,
+    "automobile_id": 3211,
+    "name": "1.6L 6iMT (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "99.9 Kw @ - Rpm\r\n135.9 Hp @ - Rpm\r\n134 Bhp @ - Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Mild Hybrid Diesel"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Intelligent Manual Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      }
+    }
+  }
+]

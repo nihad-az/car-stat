@@ -1,0 +1,101 @@
+[
+  {
+    "id": 6864,
+    "automobile_id": 1494,
+    "name": "1.6L 5MT (122 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1587 Cm3",
+        "Power:": "90 Kw @ 6500 Rpm\r\n122 Hp @ 6500 Rpm\r\n121 Bhp @ 6500 Rpm",
+        "Torque:": "106 Lb-Ft @ 3750 Rpm\r\n143 Nm @ 3750 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "125.5 Mph (202 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/45 R16"
+      },
+      "Dimensions": {
+        "Length:": "144.3 In (3665 Mm)",
+        "Width:": "65.3 In (1659 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "56.7/56.7 In (1,440/1,440 Mm)",
+        "Wheelbase:": "91.1 In (2314 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "5.9 Cuft (167 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2390.2 Lbs (1084 Kg)",
+        "Gross Weight Limit:": "3120.1 Lbs (1415 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25.3 Mpg Us (9.3 L/100Km)",
+        "Highway:": "43.6 Mpg Us (5.4 L/100Km)",
+        "Combined:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Co2 Emissions:": "163 G/Km"
+      }
+    }
+  },
+  {
+    "id": 6865,
+    "automobile_id": 1494,
+    "name": "1.6L HDi 5MT (110 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1560 Cm3",
+        "Power:": "80.9 Kw @ 4000 Rpm\r\n110 Hp @ 4000 Rpm\r\n108 Bhp @ 4000 Rpm",
+        "Torque:": "192 Lb-Ft @ 1750 Rpm\r\n260 Nm @ 1750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "120 Mph (193 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "195/45 R16"
+      },
+      "Dimensions": {
+        "Length:": "144.3 In (3665 Mm)",
+        "Width:": "65.3 In (1659 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "56.7/56.7 In (1,440/1,440 Mm)",
+        "Wheelbase:": "91.1 In (2314 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "5.9 Cuft (167 L)",
+        "Aerodynamics (Cd):": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2474 Lbs (1122 Kg)",
+        "Gross Weight Limit:": "3252 Lbs (1475 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "41.3 Mpg Us (5.7 L/100Km)",
+        "Highway:": "63.6 Mpg Us (3.7 L/100Km)",
+        "Combined:": "53.5 Mpg Us (4.4 L/100Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 18379,
+    "automobile_id": 4597,
+    "name": "1.0L 5MT ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.2 Kwh"
+      }
+    }
+  },
+  {
+    "id": 18380,
+    "automobile_id": 4597,
+    "name": "1.0L 6MT ",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.2 Kwh"
+      }
+    }
+  },
+  {
+    "id": 18381,
+    "automobile_id": 4597,
+    "name": "1.6L Hybrid",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.2 Kwh"
+      }
+    }
+  }
+]

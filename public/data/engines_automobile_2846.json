@@ -1,0 +1,71 @@
+[
+  {
+    "id": 11854,
+    "automobile_id": 2846,
+    "name": "2.0L MPI IVT (147 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1999 Cm3",
+        "Power:": "108.1 Kw @ 6200 Rpm\r\n147 Hp @ 6200 Rpm\r\n145 Bhp @ 6200 Rpm",
+        "Torque:": "132 Lb-Ft @ 4500 Rpm\r\n179 Nm @ 4500 Rpm",
+        "Electrical Motor Power:": "32 Kw (44 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Intelligent Variable Transmission"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "184.1 In (4676 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.32 Kwh"
+      }
+    }
+  },
+  {
+    "id": 11855,
+    "automobile_id": 2846,
+    "name": "1.6L GDI 6AT (139 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Power:": "102.2 Kw @ - Rpm\r\n139 Hp @ - Rpm\r\n137 Bhp @ - Rpm",
+        "Torque:": "144 Lb-Ft @ - Rpm\r\n195 Nm @ - Rpm",
+        "Electrical Motor Power:": "32 Kw (44 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Automatic Dct"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "184.1 In (4676 Mm)",
+        "Width:": "71.9 In (1826 Mm)",
+        "Height:": "55.7 In (1415 Mm)",
+        "Wheelbase:": "107.1 In (2720 Mm)",
+        "Cargo Volume:": "14.2 Cuft (402 L)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "1.32 Kwh"
+      }
+    }
+  }
+]

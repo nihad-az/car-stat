@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1701,
+    "automobile_id": 490,
+    "name": "2.0 TFSI 6AT AWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "195 Kw @ 6000 Rpm\r\n265 Hp @ 6000 Rpm\r\n261 Bhp @ 6000 Rpm",
+        "Torque:": "258 Lb-Ft @ 2500-5000 Rpm\r\n350 Nm @ 2500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R18 92Y"
+      },
+      "Dimensions": {
+        "Length:": "166.5 In (4229 Mm)",
+        "Width:": "69.5 In (1765 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "59.9/59.3 In (1,521/1,506 Mm)",
+        "Wheelbase:": "101.5 In (2578 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "9.92 Cuft (281 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3207.7 Lbs (1455 Kg)",
+        "Gross Weight Limit:": "4442.3 Lbs (2015 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 1702,
+    "automobile_id": 490,
+    "name": "2.0 TFSI 6MT AWD (265 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "195 Kw @ 6000 Rpm\r\n265 Hp @ 6000 Rpm\r\n261 Bhp @ 6000 Rpm",
+        "Torque:": "258 Lb-Ft @ 2500-5000 Rpm\r\n350 Nm @ 2500-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155.3 (E.l.) Mph (250 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.7 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/40 R18 92Y"
+      },
+      "Dimensions": {
+        "Length:": "166.5 In (4229 Mm)",
+        "Width:": "69.5 In (1765 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "59.9/59.3 In (1,521/1,506 Mm)",
+        "Wheelbase:": "101.5 In (2578 Mm)",
+        "Ground Clearance:": "4.7 In (119 Mm)",
+        "Cargo Volume:": "9.92 Cuft (281 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3207.7 Lbs (1455 Kg)",
+        "Gross Weight Limit:": "4442.3 Lbs (2015 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "19.9 Mpg Us (11.8 L/100Km)",
+        "Highway:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Combined:": "27.7 Mpg Us (8.5 L/100Km)",
+        "Co2 Emissions:": "199 G/Km"
+      }
+    }
+  }
+]

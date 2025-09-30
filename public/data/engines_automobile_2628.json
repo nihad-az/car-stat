@@ -1,0 +1,66 @@
+[
+  {
+    "id": 11201,
+    "automobile_id": 2628,
+    "name": "1.5L CVT (192 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1498 Cm3",
+        "Power:": "141.2 Kw @ 6000 Rpm\r\n0192 Hp @ 6000 Rpm\r\n189 Bhp @ 6000 Rpm",
+        "Torque:": "192 Lb-Ft @ 1700-5000 Rpm\r\n260 Nm @ 1700-5000 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "63.6/62.6 In (1,615/1,590 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)"
+      }
+    }
+  },
+  {
+    "id": 11202,
+    "automobile_id": 2628,
+    "name": "2.0L Atkinson (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1993 Cm3",
+        "Total Maximum Power:": "150 Kw (204 Hp)",
+        "Total Maximum Torque:": "247 Lb-Ft (335 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/50 R17"
+      },
+      "Dimensions": {
+        "Length:": "195.7 In (4971 Mm)",
+        "Width:": "73.3 In (1862 Mm)",
+        "Height:": "57.1 In (1450 Mm)",
+        "Front/Rear Track:": "63.6/62.6 In (1,615/1,590 Mm)",
+        "Wheelbase:": "111.4 In (2830 Mm)"
+      }
+    }
+  }
+]

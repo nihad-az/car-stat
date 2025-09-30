@@ -1,0 +1,58 @@
+[
+  {
+    "id": 10495,
+    "automobile_id": 2422,
+    "name": "7.0",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7031 Cm3",
+        "Power:": "160.3 Kw @ 4400 Rpm\r\n215 Hp @ 4400 Rpm\r\n215 Bhp @ 4400 Rpm",
+        "Torque:": "327 Lb-Ft @ 2600 Rpm\r\n443 Nm @ 2600 Rpm",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Automatic, 3 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Dimensions": {
+        "Length:": "216 In (5486 Mm)",
+        "Width:": "79.3 In (2014 Mm)",
+        "Height:": "52.1 In (1323 Mm)",
+        "Front/Rear Track:": "63/63.1 In (1,600/1,603 Mm)",
+        "Wheelbase:": "120.4 In (3058 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4597 Lbs (2085 Kg)"
+      }
+    }
+  },
+  {
+    "id": 10496,
+    "automobile_id": 2422,
+    "name": "7.5",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "7538 Cm3",
+        "Fuel System:": "Carburetor",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      }
+    }
+  }
+]

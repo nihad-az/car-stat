@@ -1,0 +1,79 @@
+[
+  {
+    "id": 5516,
+    "automobile_id": 1151,
+    "name": "5.3L V8 10AT AWD (360 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "264.7 Kw @ 5600 Rpm\r\n359.9 Hp @ 5600 Rpm\r\n355 Bhp @ 5600 Rpm",
+        "Torque:": "383 Lb-Ft @ 4100 Rpm\r\n519 Nm @ 4100 Rpm",
+        "Fuel System:": "Direct High-Pressure Fuel Injection With Dynamic Fuel Management",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5706 Lbs (2588 Kg)",
+        "Gross Weight Limit:": "8199 Lbs (3719 Kg)"
+      }
+    }
+  },
+  {
+    "id": 5517,
+    "automobile_id": 1151,
+    "name": "6.2L V8 10 AT AWD (426 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Power:": "313.2 Kw @ 5600 Rpm\r\n426 Hp @ 5600 Rpm\r\n420 Bhp @ 5600 Rpm",
+        "Torque:": "460 Lb-Ft @ 4100 Rpm\r\n623 Nm @ 4100 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5681 Lbs (2577 Kg)",
+        "Gross Weight Limit:": "8100 Lbs (3674 Kg)"
+      }
+    }
+  },
+  {
+    "id": 5518,
+    "automobile_id": 1151,
+    "name": "3.0L V8 10AT AWD (309 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Power:": "227.4 Kw @ 3750 Rpm\r\n309.2 Hp @ 3750 Rpm\r\n305 Bhp @ 3750 Rpm",
+        "Torque:": "495 Lb-Ft @ 2750 Rpm\r\n671 Nm @ 2750 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "24 Gallons (90.8 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "10-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Solid Discs"
+      }
+    }
+  }
+]

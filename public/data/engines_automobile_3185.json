@@ -1,0 +1,157 @@
+[
+  {
+    "id": 13212,
+    "automobile_id": 3185,
+    "name": "4.0L V6 4AT AWD (190 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "3960 Cm3",
+        "Power:": "140 Kw @ 5000 Rpm\r\n190 Hp @ 5000 Rpm\r\n188 Bhp @ 5000 Rpm",
+        "Torque:": "218 Lb-Ft @ 3000 Rpm\r\n295 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.6 Gallons (78.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112.46 Mph (181 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "4-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65Hr17"
+      },
+      "Dimensions": {
+        "Length:": "181.49 In (4610 Mm)",
+        "Width:": "73.22 In (1860 Mm)",
+        "Height:": "70.86 In (1800 Mm)",
+        "Front/Rear Track:": "59.44/59.44 In (1,510/1,510 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)",
+        "Cargo Volume:": "19.5 Cuft (552 L)",
+        "Aerodynamics (Cd):": "0.45",
+        "Turning Circle:": "36.4 Ft (11.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3926.43 Lbs (1781 Kg)",
+        "Gross Weight Limit:": "5346.2 Lbs (2425 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.74 Mpg Us (21.9 L/100Km)",
+        "Highway:": "19.6 Mpg Us (12 L/100Km)",
+        "Combined:": "14.98 Mpg Us (15.7 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 13213,
+    "automobile_id": 3185,
+    "name": "4.7L V8 5AT AWD (225 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V8",
+        "Displacement:": "4701 Cm3",
+        "Power:": "164 Kw @ 4600 Rpm\r\n223 Hp @ 4600 Rpm\r\n220 Bhp @ 4600 Rpm",
+        "Torque:": "295 Lb-Ft @ 3200 Rpm\r\n400 Nm @ 3200 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "20.6 Gallons (78.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124.27 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/65/Hr17"
+      },
+      "Dimensions": {
+        "Length:": "181.49 In (4610 Mm)",
+        "Width:": "73.22 In (1860 Mm)",
+        "Height:": "70.86 In (1800 Mm)",
+        "Front/Rear Track:": "59.44/59.44 In (1,510/1,510 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)",
+        "Cargo Volume:": "19.5 Cuft (552 L)",
+        "Aerodynamics (Cd):": "0.45",
+        "Turning Circle:": "36.4 Ft (11.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4025.6 Lbs (1826 Kg)",
+        "Gross Weight Limit:": "5500.5 Lbs (2495 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "10.7 Mpg Us (22 L/100Km)",
+        "Highway:": "18.4 Mpg Us (12.8 L/100Km)",
+        "Combined:": "14.5 Mpg Us (16.2 L/100Km)",
+        "Co2 Emissions:": "380 G/Km"
+      }
+    }
+  },
+  {
+    "id": 13214,
+    "automobile_id": 3185,
+    "name": "2.7L CRD 5AT AWD (163 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L5",
+        "Displacement:": "2685 Cm3",
+        "Power:": "120 Kw @ 4000 Rpm\r\n163 Hp @ 4000 Rpm\r\n161 Bhp @ 4000 Rpm",
+        "Torque:": "295 Lb-Ft @ 1800 Rpm\r\n400 Nm @ 1800 Rpm",
+        "Fuel System:": "Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "20.6 Gallons (78.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118.06 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "11.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "5-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/75R16"
+      },
+      "Dimensions": {
+        "Length:": "181.49 In (4610 Mm)",
+        "Width:": "73.22 In (1860 Mm)",
+        "Height:": "70.86 In (1800 Mm)",
+        "Front/Rear Track:": "59.44/59.44 In (1,510/1,510 Mm)",
+        "Wheelbase:": "105.9 In (2690 Mm)",
+        "Ground Clearance:": "8.7 In (221 Mm)",
+        "Cargo Volume:": "19.5 Cuft (552 L)",
+        "Aerodynamics (Cd):": "0.45",
+        "Turning Circle:": "36.4 Ft (11.1 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4310 Lbs (1955 Kg)",
+        "Gross Weight Limit:": "5524.8 Lbs (2506 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Highway:": "29 Mpg Us (8.1 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)",
+        "Co2 Emissions:": "257 G/Km"
+      }
+    }
+  }
+]

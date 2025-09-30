@@ -1,0 +1,178 @@
+[
+  {
+    "id": 18869,
+    "automobile_id": 4775,
+    "name": "2.5L CVT AWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "126.8 Kw @ 6000 Rpm\r\n172 Hp @ 6000 Rpm\r\n170 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4400 Rpm\r\n237 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "68.1 In (1730 Mm)",
+        "Front/Rear Track:": "62.8/62.8 In (1,595/1,595 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Cargo Volume:": "39.3 Cuft (1113 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3554 Lbs (1612 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "25 Mpg Us (9.4 L/100Km)",
+        "Highway:": "32 Mpg Us (7.4 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18870,
+    "automobile_id": 4775,
+    "name": "2.5L CVT FWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2488 Cm3",
+        "Power:": "126.8 Kw @ 6000 Rpm\r\n172 Hp @ 6000 Rpm\r\n170 Bhp @ 6000 Rpm",
+        "Torque:": "175 Lb-Ft @ 4400 Rpm\r\n237 Nm @ 4400 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "68.1 In (1730 Mm)",
+        "Front/Rear Track:": "62.8/62.8 In (1,595/1,595 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Cargo Volume:": "39.3 Cuft (1113 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3424 Lbs (1553 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "26 Mpg Us (9 L/100Km)",
+        "Highway:": "33 Mpg Us (7.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18871,
+    "automobile_id": 4775,
+    "name": "2.0L CVT AWD (176 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "105.1 Kw @ 6000 Rpm\r\n143 Hp @ 6000 Rpm\r\n141 Bhp @ 6000 Rpm",
+        "Torque:": "144 Lb-Ft @ 3600 Rpm\r\n195 Nm @ 3600 Rpm",
+        "Electrical Motor Power:": "29.4 Kw (40 Hp)",
+        "Total Maximum Power:": "129.4 Kw (176 Hp)",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65R17"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "68.1 In (1730 Mm)",
+        "Front/Rear Track:": "62.8/62.8 In (1,595/1,595 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Cargo Volume:": "27.3 Cuft (773 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3746 Lbs (1699 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "31 Mpg Us (7.6 L/100Km)",
+        "Highway:": "34 Mpg Us (6.9 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 18872,
+    "automobile_id": 4775,
+    "name": "2.0L CVT FWD (176 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1997 Cm3",
+        "Power:": "105.1 Kw @ 6000 Rpm\r\n143 Hp @ 6000 Rpm\r\n141 Bhp @ 6000 Rpm",
+        "Torque:": "144 Lb-Ft @ 3600 Rpm\r\n195 Nm @ 3600 Rpm",
+        "Electrical Motor Power:": "29.4 Kw (40 Hp)",
+        "Total Maximum Power:": "129.4 Kw (176 Hp)",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Hybrid Gasoline",
+        "Fuel Capacity:": "14.5 Gallons (54.9 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "P225/65 R17"
+      },
+      "Dimensions": {
+        "Length:": "184.5 In (4686 Mm)",
+        "Width:": "72.4 In (1839 Mm)",
+        "Height:": "68.1 In (1730 Mm)",
+        "Front/Rear Track:": "62.8/62.8 In (1,595/1,595 Mm)",
+        "Wheelbase:": "106.5 In (2705 Mm)",
+        "Cargo Volume:": "27.3 Cuft (773 L)",
+        "Aerodynamics (Cd):": "0.33"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3624 Lbs (1644 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33 Mpg Us (7.1 L/100Km)",
+        "Highway:": "35 Mpg Us (6.7 L/100Km)"
+      }
+    }
+  }
+]

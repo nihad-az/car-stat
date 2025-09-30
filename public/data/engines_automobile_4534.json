@@ -1,0 +1,92 @@
+[
+  {
+    "id": 18012,
+    "automobile_id": 4534,
+    "name": "2.0 16V",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2008 Cm3",
+        "Power:": "93 Kw @ 5500 Rpm\r\n126 Hp @ 5500 Rpm\r\n125 Bhp @ 5500 Rpm",
+        "Torque:": "131 Lb-Ft @ 4000 Rpm\r\n177 Nm @ 4000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130.5 Mph (210 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "10 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60R15"
+      },
+      "Dimensions": {
+        "Length:": "185 In (4699 Mm)",
+        "Width:": "69.7 In (1770 Mm)",
+        "Height:": "52 In (1321 Mm)",
+        "Front/Rear Track:": "59.3/58.7 In (1,506/1,491 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2862.1 Lbs (1298 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24 Mpg Us (9.8 L/100Km)",
+        "Highway:": "34.1 Mpg Us (6.9 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "176 G/Km"
+      }
+    }
+  },
+  {
+    "id": 18013,
+    "automobile_id": 4534,
+    "name": "2.5 V6",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2544 Cm3",
+        "Power:": "126 Kw @ 6250 Rpm\r\n172 Hp @ 6250 Rpm\r\n169 Bhp @ 6250 Rpm",
+        "Torque:": "165 Lb-Ft @ 4250 Rpm\r\n224 Nm @ 4250 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/60R15"
+      },
+      "Dimensions": {
+        "Length:": "185 In (4699 Mm)",
+        "Width:": "69.7 In (1770 Mm)",
+        "Height:": "52 In (1321 Mm)",
+        "Front/Rear Track:": "59.3/58.7 In (1,506/1,491 Mm)",
+        "Wheelbase:": "106.3 In (2700 Mm)",
+        "Cargo Volume:": "12.4 Cuft (351 L)",
+        "Aerodynamics (Cd):": "0.32"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3020.8 Lbs (1370 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "22.6 Mpg Us (10.4 L/100Km)",
+        "Co2 Emissions:": "247 G/Km"
+      }
+    }
+  }
+]

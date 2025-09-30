@@ -1,0 +1,88 @@
+[
+  {
+    "id": 6160,
+    "automobile_id": 1335,
+    "name": "2.2",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "2189 Cm3",
+        "Power:": "89 Kw @ 5000 Rpm\r\n121 Hp @ 5000 Rpm\r\n119 Bhp @ 5000 Rpm",
+        "Torque:": "140 Lb-Ft @ 3600 Rpm\r\n190 Nm @ 3600 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/75 R15"
+      },
+      "Dimensions": {
+        "Length:": "206.1 In (5235 Mm)",
+        "Width:": "67.9 In (1725 Mm)",
+        "Height:": "62.9 In (1598 Mm)",
+        "Front/Rear Track:": "54.9/54.6 In (1,394/1,387 Mm)",
+        "Wheelbase:": "117.9 In (2995 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3188.4 Lbs (1446 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "28 Mpg Us (8.4 L/100Km)",
+        "Combined:": "24 Mpg Us (9.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 6161,
+    "automobile_id": 1335,
+    "name": "4.3",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "4293 Cm3",
+        "Power:": "134 Kw @ 4400 Rpm\r\n182 Hp @ 4400 Rpm\r\n180 Bhp @ 4400 Rpm",
+        "Torque:": "245 Lb-Ft @ 2800 Rpm\r\n332 Nm @ 2800 Rpm",
+        "Fuel System:": "Electronic Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 5 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "205/75 R15"
+      },
+      "Dimensions": {
+        "Length:": "206.1 In (5235 Mm)",
+        "Width:": "67.9 In (1725 Mm)",
+        "Height:": "62.9 In (1598 Mm)",
+        "Front/Rear Track:": "54.9/54.6 In (1,394/1,387 Mm)",
+        "Wheelbase:": "117.9 In (2995 Mm)",
+        "Ground Clearance:": "6.7 In (170 Mm)",
+        "Aerodynamics (Cd):": "0.5"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3188.4 Lbs (1446 Kg)",
+        "Gross Weight Limit:": "4650 Lbs (2109 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17 Mpg Us (13.8 L/100Km)",
+        "Highway:": "22 Mpg Us (10.7 L/100Km)",
+        "Combined:": "19 Mpg Us (12.4 L/100Km)"
+      }
+    }
+  }
+]

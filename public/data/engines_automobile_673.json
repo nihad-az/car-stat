@@ -1,0 +1,156 @@
+[
+  {
+    "id": 2840,
+    "automobile_id": 673,
+    "name": "M35i xDrive 7AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "220.6 Kw @ 5750-6500 Rpm\r\n300 Hp @ 5750-6500 Rpm\r\n296 Bhp @ 5750-6500 Rpm",
+        "Torque:": "295 Lb-Ft @ 2000-4500 Rpm\r\n400 Nm @ 2000-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "14.3 Gallons (54.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "245/40 R20 99Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "179.8 In (4567 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "62 In (1575 Mm)",
+        "Front/Rear Track:": "66/66.1 In (1,676/1,679 Mm)",
+        "Wheelbase:": "66.6 In (1692 Mm)",
+        "Ground Clearance:": "7.5 In (191 Mm)",
+        "Cargo Volume:": "19.8 Cuft (561 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "38.4 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3902 Lbs (1770 Kg)",
+        "Gross Weight Limit:": "5004 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "29.4 Mpg Us (8 L/100Km)",
+        "Co2 Emissions (Combined):": "181 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2841,
+    "automobile_id": 673,
+    "name": "sDrive18d 7AT FWD (150 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1995 Cm3",
+        "Power:": "110.3 Kw @ 3750-4000 Rpm\r\n150 Hp @ 3750-4000 Rpm\r\n148 Bhp @ 3750-4000 Rpm",
+        "Torque:": "266 Lb-Ft @ 1500-2500 Rpm\r\n360 Nm @ 1500-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Single-Piston Floating-Calliper Disc Brakes",
+        "Rear:": "Single-Piston Floating-Calliper Disc Brakes"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R18 102Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "179.3 In (4554 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "66.5 In (1689 Mm)",
+        "Front/Rear Track:": "65.9/65.9 In (1,674/1,674 Mm)",
+        "Wheelbase:": "66.6 In (1692 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "19.8 Cuft (561 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "38.4 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3693 Lbs (1675 Kg)",
+        "Gross Weight Limit:": "4784 Lbs (2170 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Co2 Emissions (Combined):": "145 G/Km"
+      }
+    }
+  },
+  {
+    "id": 2842,
+    "automobile_id": 673,
+    "name": "sDrive20i 7AT FWD (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "1499 Cm3",
+        "Power:": "114.7 Kw @ 4700-6500 Rpm\r\n156 Hp @ 4700-6500 Rpm\r\n154 Bhp @ 4700-6500 Rpm",
+        "Torque:": "177 Lb-Ft @ 1500-4400 Rpm\r\n240 Nm @ 1500-4400 Rpm",
+        "Electrical Motor Power:": "14 Kw (19 Hp)",
+        "Electrical Motor Torque:": "40.6 Lb-Ft (55 Nm)",
+        "Total Maximum Power:": "125 Kw (170 Hp)",
+        "Total Maximum Torque:": "206.5 Lb-Ft (280 Nm)",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Mild Hybrid",
+        "Fuel Capacity:": "11.9 Gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "132 Mph (212 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "7-Speed Automatic Steptronic"
+      },
+      "Brakes Specs": {
+        "Front:": "Single-Piston Floating-Calliper Disc Brakes",
+        "Rear:": "Single-Piston Floating-Calliper Disc Brakes"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R18 102Y Xl"
+      },
+      "Dimensions": {
+        "Length:": "179.3 In (4554 Mm)",
+        "Width:": "72.6 In (1844 Mm)",
+        "Height:": "62.6 In (1590 Mm)",
+        "Front/Rear Track:": "65.9/65.9 In (1,674/1,674 Mm)",
+        "Wheelbase:": "106 In (2692 Mm)",
+        "Ground Clearance:": "8.1 In (206 Mm)",
+        "Cargo Volume:": "18.2 Cuft (515 L)",
+        "Aerodynamics (Cd):": "0.27",
+        "Turning Circle:": "38.4 Ft (11.7 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3627 Lbs (1645 Kg)",
+        "Gross Weight Limit:": "4740 Lbs (2150 Kg)"
+      },
+      "Fuel Economy (Wltp)": {
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions (Combined):": "148 G/Km"
+      }
+    }
+  }
+]

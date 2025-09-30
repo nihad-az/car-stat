@@ -1,0 +1,132 @@
+[
+  {
+    "id": 11653,
+    "automobile_id": 2773,
+    "name": "1.3L 3AT FWD (65 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1343 Cm3",
+        "Power:": "48 Kw @ 5000 Rpm\r\n65 Hp @ 5000 Rpm\r\n64 Bhp @ 5000 Rpm",
+        "Torque:": "80 Lb-Ft @ 2500 Rpm\r\n108 Nm @ 2500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "3-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70/R13"
+      },
+      "Dimensions": {
+        "Length:": "148.8 In (3780 Mm)",
+        "Width:": "64.6 In (1641 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "55.9/55.1 In (1,420/1,400 Mm)",
+        "Wheelbase:": "92.9 In (2360 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "8.1 Cuft (229 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1957.7 Lbs (888 Kg)",
+        "Gross Weight Limit:": "3009.3 Lbs (1365 Kg)"
+      }
+    }
+  },
+  {
+    "id": 11654,
+    "automobile_id": 2773,
+    "name": "1.3L 5MT FWD (65 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1343 Cm3",
+        "Power:": "48 Kw @ 5000 Rpm\r\n65 Hp @ 5000 Rpm\r\n64 Bhp @ 5000 Rpm",
+        "Torque:": "80 Lb-Ft @ 2500 Rpm\r\n108 Nm @ 2500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "94.4 Mph (152 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70/R13"
+      },
+      "Dimensions": {
+        "Length:": "148.8 In (3780 Mm)",
+        "Width:": "64.6 In (1641 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "55.9/55.1 In (1,420/1,400 Mm)",
+        "Wheelbase:": "92.9 In (2360 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "8.1 Cuft (229 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1957.7 Lbs (888 Kg)",
+        "Gross Weight Limit:": "3009.3 Lbs (1365 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "30.2 Mpg Us (7.8 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Co2 Emissions:": "150 G/Km"
+      }
+    }
+  },
+  {
+    "id": 11655,
+    "automobile_id": 2773,
+    "name": "1.3L CVT AWD (65 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1343 Cm3",
+        "Power:": "48 Kw @ 5000 Rpm\r\n65 Hp @ 5000 Rpm\r\n64 Bhp @ 5000 Rpm",
+        "Torque:": "80 Lb-Ft @ 2500 Rpm\r\n108 Nm @ 2500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "175/70/R13"
+      },
+      "Dimensions": {
+        "Length:": "148.8 In (3780 Mm)",
+        "Width:": "64.6 In (1641 Mm)",
+        "Height:": "59.8 In (1519 Mm)",
+        "Front/Rear Track:": "55.9/55.1 In (1,420/1,400 Mm)",
+        "Wheelbase:": "92.9 In (2360 Mm)",
+        "Ground Clearance:": "5.9 In (150 Mm)",
+        "Cargo Volume:": "8.1 Cuft (229 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2293 Lbs (1040 Kg)",
+        "Gross Weight Limit:": "3009.3 Lbs (1365 Kg)"
+      }
+    }
+  }
+]

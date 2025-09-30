@@ -1,0 +1,135 @@
+[
+  {
+    "id": 807,
+    "automobile_id": 340,
+    "name": "50 quattro 230 KW (312 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Power:": "230 Kw @ - Rpm\r\n313 Hp @ - Rpm\r\n308 Bhp @ - Rpm",
+        "Torque:": "398 Lb-Ft @ - Rpm\r\n540 Nm @ - Rpm",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "118 Mph (190 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.8 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R 19 111 H Xl"
+      },
+      "Dimensions": {
+        "Length:": "193 In (4902 Mm)",
+        "Width:": "76.2 In (1935 Mm)",
+        "Height:": "63.6 In (1615 Mm)",
+        "Front/Rear Track:": "65.2/65.2 In (1,656/1,656 Mm)",
+        "Wheelbase:": "115.3 In (2929 Mm)",
+        "Ground Clearance:": "6.8 In (173 Mm)",
+        "Cargo Volume:": "21.7 Cuft (614 L)",
+        "Aerodynamics (Cd):": "0.25"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5225 Lbs (2370 Kg)",
+        "Gross Weight Limit:": "6702 Lbs (3040 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "86.4 Kwh",
+        "Maximum Capacity:": "95 Kwh",
+        "Range:": "215 Miles (346.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 808,
+    "automobile_id": 340,
+    "name": "55 quattro 265 KW (350 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "124 Mph (200 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Single Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R 19 111 H Xl"
+      },
+      "Dimensions": {
+        "Length:": "193 In (4902 Mm)",
+        "Width:": "76.2 In (1935 Mm)",
+        "Height:": "63.6 In (1615 Mm)",
+        "Front/Rear Track:": "65.2/65.2 In (1,656/1,656 Mm)",
+        "Wheelbase:": "115.3 In (2929 Mm)",
+        "Ground Clearance:": "6.8 In (173 Mm)",
+        "Cargo Volume:": "21.7 Cuft (614 L)",
+        "Aerodynamics (Cd):": "0.28"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "5490 Lbs (2490 Kg)",
+        "Gross Weight Limit:": "6900 Lbs (3130 Kg)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity:": "86.4 Kwh",
+        "Maximum Capacity:": "95 Kwh",
+        "Range:": "270.9 Miles (436.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 809,
+    "automobile_id": 340,
+    "name": "S 370 KW (503 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "272.1 Kw (370 Hp)",
+        "Total Maximum Torque:": "717.6 Lb-Ft (973 Nm)",
+        "Fuel:": "Electric"
+      },
+      "Performance Specs": {
+        "Top Speed:": "130 Mph (209 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "4.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "255/55 R 19 111 H Xl"
+      },
+      "Dimensions": {
+        "Length:": "193 In (4902 Mm)",
+        "Width:": "76.2 In (1935 Mm)",
+        "Height:": "63.6 In (1615 Mm)",
+        "Front/Rear Track:": "65.2/65.2 In (1,656/1,656 Mm)",
+        "Wheelbase:": "115.3 In (2929 Mm)",
+        "Ground Clearance:": "6.8 In (173 Mm)",
+        "Cargo Volume:": "21.7 Cuft (614 L)",
+        "Aerodynamics (Cd):": "0.25"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "86.4 Kwh",
+        "Maximum Capacity:": "95 Kwh",
+        "Range:": "215 Miles (346.0 Km)"
+      }
+    }
+  }
+]

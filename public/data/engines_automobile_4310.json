@@ -1,0 +1,92 @@
+[
+  {
+    "id": 17683,
+    "automobile_id": 4310,
+    "name": "300 S",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "110 Kw @ 5000 Rpm\r\n150 Hp @ 5000 Rpm\r\n148 Bhp @ 5000 Rpm",
+        "Torque:": "170 Lb-Ft @ 3800 Rpm\r\n230 Nm @ 3800 Rpm",
+        "Fuel System:": "Carburetors",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Drums",
+        "Rear:": "Ventilated Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70-15"
+      },
+      "Dimensions": {
+        "Length:": "186.2 In (4729 Mm)",
+        "Width:": "75.2 In (1910 Mm)",
+        "Height:": "59.5 In (1511 Mm)",
+        "Front/Rear Track:": "58.3/60 In (1,481/1,524 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3836 Lbs (1740 Kg)",
+        "Gross Weight Limit:": "4409 Lbs (2000 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "17 Mpg Us (13.8 L/100Km)",
+        "Co2 Emissions:": "329 G/Km"
+      }
+    }
+  },
+  {
+    "id": 17684,
+    "automobile_id": 4310,
+    "name": "300 Sc",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L6",
+        "Displacement:": "2996 Cm3",
+        "Power:": "129 Kw @ 5400 Rpm\r\n175 Hp @ 5400 Rpm\r\n173 Bhp @ 5400 Rpm",
+        "Torque:": "188 Lb-Ft @ 4300 Rpm\r\n255 Nm @ 4300 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "112 Mph (180 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "14 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "Manual, 4 Speed"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Drums",
+        "Rear:": "Ventilated Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "6.70-15"
+      },
+      "Dimensions": {
+        "Length:": "185 In (4699 Mm)",
+        "Width:": "75.4 In (1915 Mm)",
+        "Height:": "59.5 In (1511 Mm)",
+        "Front/Rear Track:": "58.3/60 In (1,481/1,524 Mm)",
+        "Wheelbase:": "114.2 In (2901 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3924 Lbs (1780 Kg)",
+        "Gross Weight Limit:": "4497 Lbs (2040 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Co2 Emissions:": "298 G/Km"
+      }
+    }
+  }
+]

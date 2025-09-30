@@ -1,0 +1,57 @@
+[
+  {
+    "id": 22563,
+    "automobile_id": 5724,
+    "name": "60 KWh (170 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "125 Kw (170 Hp)",
+        "Total Maximum Torque:": "206.5 Lb-Ft (280 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "176 In (4470 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "61.8 In (1570 Mm)",
+        "Wheelbase:": "109.4 In (2779 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "60 Kwh",
+        "Range:": "260 Miles (418.4 Km)"
+      }
+    }
+  },
+  {
+    "id": 22564,
+    "automobile_id": 5724,
+    "name": "87 KWh (220 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "161.8 Kw (220 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Dimensions": {
+        "Length:": "176 In (4470 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "61.8 In (1570 Mm)",
+        "Wheelbase:": "109.4 In (2779 Mm)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "87 Kwh",
+        "Range:": "379 Miles (609.9 Km)"
+      }
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 25543,
+    "automobile_id": 6272,
+    "name": "71.4 KWh AWD (218 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Electrical Motor Power:": "80.2 Kw (109 Hp)",
+        "Total Maximum Power:": "160.3 Kw (218 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "184.6 In (4689 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)",
+        "Turning Circle:": "37.4 Ft (11.4 M)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4453 Lbs (2020 Kg)",
+        "Gross Weight Limit:": "5060 Lbs (2295 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "71.4 Kwh",
+        "Range:": "285.8 Miles (459.9 Km)"
+      }
+    }
+  },
+  {
+    "id": 25544,
+    "automobile_id": 6272,
+    "name": "71.4 KWh FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "150 Kw (204 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "235/60 R18"
+      },
+      "Dimensions": {
+        "Length:": "184.6 In (4689 Mm)",
+        "Width:": "73.2 In (1859 Mm)",
+        "Height:": "65 In (1651 Mm)",
+        "Wheelbase:": "112.2 In (2850 Mm)",
+        "Ground Clearance:": "8.3 In (211 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4255 Lbs (1930 Kg)",
+        "Gross Weight Limit:": "4861 Lbs (2205 Kg)"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Nominal Capacity:": "71.4 Kwh",
+        "Range:": "329.3 Miles (530.0 Km)"
+      }
+    }
+  }
+]

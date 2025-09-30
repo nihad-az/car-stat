@@ -1,0 +1,102 @@
+[
+  {
+    "id": 20223,
+    "automobile_id": 5072,
+    "name": "2.0L 16V 5MT FWD (160 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "118 Kw @ 6500 Rpm\r\n160 Hp @ 6500 Rpm\r\n158 Bhp @ 6500 Rpm",
+        "Torque:": "139 Lb-Ft @ 4300 Rpm\r\n188 Nm @ 4300 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "136.7 Mph (220 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "161.8 In (4110 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "58.7/58.3 In (1,491/1,481 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2667.6 Lbs (1210 Kg)",
+        "Gross Weight Limit:": "3714.8 Lbs (1685 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "17.8 Mpg Us (13.2 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "25.6 Mpg Us (9.2 L/100Km)",
+        "Co2 Emissions:": "222 G/Km"
+      }
+    }
+  },
+  {
+    "id": 20224,
+    "automobile_id": 5072,
+    "name": "2.0L 16V Turbo 5MT FWD (200 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1998 Cm3",
+        "Power:": "147 Kw @ 5600 Rpm\r\n200 Hp @ 5600 Rpm\r\n197 Bhp @ 5600 Rpm",
+        "Torque:": "184 Lb-Ft @ 1950 Rpm\r\n250 Nm @ 1950 Rpm",
+        "Fuel System:": "Turbocharged Multipoint Injection",
+        "Fuel:": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed:": "142.1 Mph (229 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "5-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "215/40 R17"
+      },
+      "Dimensions": {
+        "Length:": "161.8 In (4110 Mm)",
+        "Width:": "67.3 In (1709 Mm)",
+        "Height:": "55.1 In (1400 Mm)",
+        "Front/Rear Track:": "58.3/57.9 In (1,481/1,471 Mm)",
+        "Wheelbase:": "102.8 In (2611 Mm)",
+        "Ground Clearance:": "5.1 In (130 Mm)",
+        "Cargo Volume:": "13.1 Cuft (371 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2755.8 Lbs (1250 Kg)",
+        "Gross Weight Limit:": "3902.2 Lbs (1770 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "18.8 Mpg Us (12.5 L/100Km)",
+        "Highway:": "34.6 Mpg Us (6.8 L/100Km)",
+        "Combined:": "26.4 Mpg Us (8.9 L/100Km)",
+        "Co2 Emissions:": "214 G/Km"
+      }
+    }
+  }
+]

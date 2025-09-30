@@ -1,0 +1,100 @@
+[
+  {
+    "id": 25425,
+    "automobile_id": 6234,
+    "name": "0.7L 6MT RWD (60 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "698 Cm3",
+        "Power:": "45 Kw @ 5250 Rpm\r\n61 Hp @ 5250 Rpm\r\n60 Bhp @ 5250 Rpm",
+        "Torque:": "70 Lb-Ft @ 2500 Rpm\r\n95 Nm @ 2500 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "99 Mph (159 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/55 R15"
+      },
+      "Dimensions": {
+        "Length:": "134.9 In (3426 Mm)",
+        "Width:": "63.6 In (1615 Mm)",
+        "Height:": "46.9 In (1191 Mm)",
+        "Front/Rear Track:": "53.4/54.8 In (1,356/1,392 Mm)",
+        "Wheelbase:": "92.9 In (2360 Mm)",
+        "Cargo Volume:": "4.6 Cuft (130 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1742 Lbs (790 Kg)",
+        "Gross Weight Limit:": "2271 Lbs (1030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.9 Mpg Us (6.2 L/100Km)",
+        "Highway:": "57.4 Mpg Us (4.1 L/100Km)",
+        "Combined:": "48 Mpg Us (4.9 L/100Km)",
+        "Co2 Emissions:": "117 G/Km"
+      }
+    }
+  },
+  {
+    "id": 25426,
+    "automobile_id": 6234,
+    "name": "0.7L 6MT RWD (80 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L3",
+        "Displacement:": "698 Cm3",
+        "Power:": "60 Kw @ 5250 Rpm\r\n82 Hp @ 5250 Rpm\r\n80 Bhp @ 5250 Rpm",
+        "Torque:": "81 Lb-Ft @ 3000 Rpm\r\n110 Nm @ 3000 Rpm",
+        "Fuel System:": "Multipoint Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "9.2 Gallons (34.8 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "109 Mph (175 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "15.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Rear Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/55 R15"
+      },
+      "Dimensions": {
+        "Length:": "134.9 In (3426 Mm)",
+        "Width:": "63.6 In (1615 Mm)",
+        "Height:": "46.9 In (1191 Mm)",
+        "Front/Rear Track:": "53.4/54.8 In (1,356/1,392 Mm)",
+        "Wheelbase:": "92.9 In (2360 Mm)",
+        "Cargo Volume:": "4.6 Cuft (130 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "1742 Lbs (790 Kg)",
+        "Gross Weight Limit:": "2271 Lbs (1030 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37.3 Mpg Us (6.3 L/100Km)",
+        "Highway:": "54.7 Mpg Us (4.3 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "122 G/Km"
+      }
+    }
+  }
+]

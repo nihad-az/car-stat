@@ -1,0 +1,164 @@
+[
+  {
+    "id": 11214,
+    "automobile_id": 2636,
+    "name": "1.3L CVT (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1317 Cm3",
+        "Power:": "72.1 Kw @ 6000 Rpm\r\n98 Hp @ 6000 Rpm\r\n97 Bhp @ 6000 Rpm",
+        "Torque:": "87 Lb-Ft @ 5000 Rpm\r\n118 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "60.6 In (1539 Mm)",
+        "Front/Rear Track:": "58.5/58.1 In (1,486/1,476 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2359 - 2425 Lbs (1070 - 1100 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "57.4 Mpg Us (4.1 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11215,
+    "automobile_id": 2636,
+    "name": "1.3L CVT AWD (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1317 Cm3",
+        "Power:": "72.1 Kw @ 6000 Rpm\r\n98 Hp @ 6000 Rpm\r\n97 Bhp @ 6000 Rpm",
+        "Torque:": "87 Lb-Ft @ 5000 Rpm\r\n118 Nm @ 5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "60.6 In (1539 Mm)",
+        "Front/Rear Track:": "58.5/58.1 In (1,486/1,476 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2557 - 2601 Lbs (1160 - 1180 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "49 Mpg Us (4.8 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11216,
+    "automobile_id": 2636,
+    "name": "1.5L (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1496 Cm3",
+        "Power:": "72.1 Kw @ 5600-6400 Rpm\r\n98 Hp @ 5600-6400 Rpm\r\n97 Bhp @ 5600-6400 Rpm",
+        "Torque:": "94 Lb-Ft @ 4500-5000 Rpm\r\n127 Nm @ 4500-5000 Rpm",
+        "Electrical Motor Power:": "807.6 Kw (1098 Hp)",
+        "Electrical Motor Torque:": "186.6 Lb-Ft (253 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "60.6 In (1539 Mm)",
+        "Front/Rear Track:": "58.5/58.1 In (1,486/1,476 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2601 - 2646 Lbs (1180 - 1200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "90.5 Mpg Us (2.6 L/100Km)"
+      }
+    }
+  },
+  {
+    "id": 11217,
+    "automobile_id": 2636,
+    "name": "1.5L AWD (98 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1496 Cm3",
+        "Power:": "72.1 Kw @ 5600-6400 Rpm\r\n98 Hp @ 5600-6400 Rpm\r\n97 Bhp @ 5600-6400 Rpm",
+        "Torque:": "94 Lb-Ft @ 4500-5000 Rpm\r\n127 Nm @ 4500-5000 Rpm",
+        "Electrical Motor Power:": "807.6 Kw (1098 Hp)",
+        "Electrical Motor Torque:": "186.6 Lb-Ft (253 Nm)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid",
+        "Fuel Capacity:": "10.6 Gallons (40.1 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "185/60 R15"
+      },
+      "Dimensions": {
+        "Length:": "157.3 In (3995 Mm)",
+        "Width:": "66.7 In (1694 Mm)",
+        "Height:": "60.6 In (1539 Mm)",
+        "Front/Rear Track:": "58.5/58.1 In (1,486/1,476 Mm)",
+        "Wheelbase:": "99.6 In (2530 Mm)"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "2601 - 2646 Lbs (1180 - 1200 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "Combined:": "90.5 Mpg Us (2.6 L/100Km)"
+      }
+    }
+  }
+]

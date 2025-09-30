@@ -1,0 +1,71 @@
+[
+  {
+    "id": 19475,
+    "automobile_id": 4972,
+    "name": "(136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "100 Kw (136 Hp)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Range:": "221.8 Miles (357.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 19476,
+    "automobile_id": 4972,
+    "name": "(156 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "114.7 Kw (156 Hp)",
+        "Total Maximum Torque:": "191.8 Lb-Ft (260 Nm)",
+        "Fuel System:": "Electric",
+        "Fuel:": "Electric"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      },
+      "Power System Specs": {
+        "Power Pack:": "Lithium-Ion",
+        "Range:": "249.8 Miles (402.0 Km)"
+      }
+    }
+  },
+  {
+    "id": 19477,
+    "automobile_id": 4972,
+    "name": "48V (100 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "73.5 Kw (100 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      }
+    }
+  },
+  {
+    "id": 19478,
+    "automobile_id": 4972,
+    "name": "48V (136 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Total Maximum Power:": "100 Kw (136 Hp)",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Hybrid Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive"
+      }
+    }
+  }
+]

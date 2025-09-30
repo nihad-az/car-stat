@@ -1,0 +1,715 @@
+[
+  {
+    "id": 1440,
+    "automobile_id": 459,
+    "name": "2.0L TFSI 6MT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "132 Kw @ 4000 Rpm\r\n179 Hp @ 4000 Rpm\r\n177 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1500-3900 Rpm\r\n320 Nm @ 1500-3900 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "139 Mph (224 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3704 Lbs (1680 Kg)",
+        "Gross Weight Limit:": "4927 Lbs (2235 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28 Mpg Us (8.4 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "35.6 Mpg Us (6.6 L/100Km)",
+        "Co2 Emissions:": "154 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1441,
+    "automobile_id": 459,
+    "name": "2.0L TFSI CVT FWD (180 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1984 Cm3",
+        "Power:": "132 Kw @ 4000 Rpm\r\n179 Hp @ 4000 Rpm\r\n177 Bhp @ 4000 Rpm",
+        "Torque:": "236 Lb-Ft @ 1500-3900 Rpm\r\n320 Nm @ 1500-3900 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "135 Mph (217 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "28.7 Mpg Us (8.2 L/100Km)",
+        "Highway:": "42.8 Mpg Us (5.5 L/100Km)",
+        "Combined:": "36.2 Mpg Us (6.5 L/100Km)",
+        "Co2 Emissions:": "152 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1442,
+    "automobile_id": 459,
+    "name": "2.8L FSI 6MT FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2773 Cm3",
+        "Power:": "150 Kw @ 5250-6250 Rpm\r\n204 Hp @ 5250-6250 Rpm\r\n201 Bhp @ 5250-6250 Rpm",
+        "Torque:": "207 Lb-Ft @ 3000-5000 Rpm\r\n281 Nm @ 3000-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.1 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3594 Lbs (1630 Kg)",
+        "Gross Weight Limit:": "4982 Lbs (2260 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22.4 Mpg Us (10.5 L/100Km)",
+        "Highway:": "39.2 Mpg Us (6 L/100Km)",
+        "Combined:": "30.5 Mpg Us (7.7 L/100Km)",
+        "Co2 Emissions:": "177 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1443,
+    "automobile_id": 459,
+    "name": "2.8L FSI CVT FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2773 Cm3",
+        "Power:": "150 Kw @ 5250-6250 Rpm\r\n204 Hp @ 5250-6250 Rpm\r\n201 Bhp @ 5250-6250 Rpm",
+        "Torque:": "207 Lb-Ft @ 3000-5000 Rpm\r\n281 Nm @ 3000-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3660 Lbs (1660 Kg)",
+        "Gross Weight Limit:": "5049 Lbs (2290 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "24.5 Mpg Us (9.6 L/100Km)",
+        "Highway:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Combined:": "31.8 Mpg Us (7.4 L/100Km)",
+        "Co2 Emissions:": "172 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1444,
+    "automobile_id": 459,
+    "name": "2.8L FSI Quattro 7AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2773 Cm3",
+        "Power:": "150 Kw @ 5250 Rpm\r\n204 Hp @ 5250 Rpm\r\n201 Bhp @ 5250 Rpm",
+        "Torque:": "207 Lb-Ft @ 3000-5000 Rpm\r\n281 Nm @ 3000-5000 Rpm",
+        "Fuel System:": "Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/60 R16"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3979 Lbs (1805 Kg)",
+        "Gross Weight Limit:": "5203 Lbs (2360 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "22 Mpg Us (10.7 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "187 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1445,
+    "automobile_id": 459,
+    "name": "3.0L TFSI Quattro 7AT AWD (300 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2995 Cm3",
+        "Power:": "220 Kw @ 5250 Rpm\r\n299 Hp @ 5250 Rpm\r\n295 Bhp @ 5250 Rpm",
+        "Torque:": "325 Lb-Ft @ 2900-4500 Rpm\r\n441 Nm @ 2900-4500 Rpm",
+        "Fuel System:": "Turbocharged Direct Injection",
+        "Fuel:": "Gasoline",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.6 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4112 Lbs (1865 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "23 Mpg Us (10.2 L/100Km)",
+        "Highway:": "36 Mpg Us (6.5 L/100Km)",
+        "Combined:": "29 Mpg Us (8.1 L/100Km)",
+        "Co2 Emissions:": "190 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1446,
+    "automobile_id": 459,
+    "name": "2.0L TDI 6MT FWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "130 Kw @ 4200 Rpm\r\n177 Hp @ 4200 Rpm\r\n174 Bhp @ 4200 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750-2500 Rpm\r\n380 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "138 Mph (222 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3616 Lbs (1640 Kg)",
+        "Gross Weight Limit:": "5004 Lbs (2270 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Highway:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Combined:": "47 Mpg Us (5 L/100Km)",
+        "Co2 Emissions:": "132 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1447,
+    "automobile_id": 459,
+    "name": "2.0L TDI CVT FWD (177 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "L4",
+        "Displacement:": "1968 Cm3",
+        "Power:": "130 Kw @ 4200 Rpm\r\n177 Hp @ 4200 Rpm\r\n174 Bhp @ 4200 Rpm",
+        "Torque:": "280 Lb-Ft @ 1750-2500 Rpm\r\n380 Nm @ 1750-2500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "134 Mph (216 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "8.5 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3638 Lbs (1650 Kg)",
+        "Gross Weight Limit:": "5027 Lbs (2280 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "38.6 Mpg Us (6.1 L/100Km)",
+        "Highway:": "52.3 Mpg Us (4.5 L/100Km)",
+        "Combined:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Co2 Emissions:": "135 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1448,
+    "automobile_id": 459,
+    "name": "3.0L BiTDI Quattro 8AT AWD (313 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "230 Kw @ 3900-4500 Rpm\r\n313 Hp @ 3900-4500 Rpm\r\n308 Bhp @ 3900-4500 Rpm",
+        "Torque:": "479 Lb-Ft @ 1450-2800 Rpm\r\n649 Nm @ 1450-2800 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed:": "155 Mph (249 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "5.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "8-Speed Automatic"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4255 Lbs (1930 Kg)",
+        "Gross Weight Limit:": "5478 Lbs (2485 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "29 Mpg Us (8.1 L/100Km)",
+        "Highway:": "44 Mpg Us (5.3 L/100Km)",
+        "Combined:": "35 Mpg Us (6.7 L/100Km)",
+        "Co2 Emissions:": "169 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1449,
+    "automobile_id": 459,
+    "name": "3.0L TDI 6MT FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "150 Kw @ 3250-4500 Rpm\r\n204 Hp @ 3250-4500 Rpm\r\n201 Bhp @ 3250-4500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1250-3500 Rpm\r\n400 Nm @ 1250-3500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "144 Mph (232 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.9 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "6-Speed Manual"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3891 Lbs (1765 Kg)",
+        "Gross Weight Limit:": "5115 Lbs (2320 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "37 Mpg Us (6.4 L/100Km)",
+        "Highway:": "53 Mpg Us (4.4 L/100Km)",
+        "Combined:": "44 Mpg Us (5.3 L/100Km)",
+        "Co2 Emissions:": "139 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1450,
+    "automobile_id": 459,
+    "name": "3.0L TDI CVT FWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "150 Kw @ 3250-4500 Rpm\r\n204 Hp @ 3250-4500 Rpm\r\n201 Bhp @ 3250-4500 Rpm",
+        "Torque:": "295 Lb-Ft @ 1250-3500 Rpm\r\n400 Nm @ 1250-3500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "Front Wheel Drive",
+        "Gearbox:": "Cvt"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "3759 Lbs (1705 Kg)",
+        "Gross Weight Limit:": "5148 Lbs (2335 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Highway:": "50 Mpg Us (4.7 L/100Km)",
+        "Combined:": "45.2 Mpg Us (5.2 L/100Km)",
+        "Co2 Emissions:": "136 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1451,
+    "automobile_id": 459,
+    "name": "3.0L TDI Quattro 7AT AWD (204 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "150 Kw @ 3250-4500 Rpm\r\n204 Hp @ 3250-4500 Rpm\r\n201 Bhp @ 3250-4500 Rpm",
+        "Torque:": "332 Lb-Ft @ 1250-3500 Rpm\r\n450 Nm @ 1250-3500 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "143 Mph (230 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "7.2 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4112 Lbs (1865 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "35 Mpg Us (6.7 L/100Km)",
+        "Highway:": "46 Mpg Us (5.1 L/100Km)",
+        "Combined:": "41 Mpg Us (5.7 L/100Km)",
+        "Co2 Emissions:": "152 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1452,
+    "automobile_id": 459,
+    "name": "3.0L TDI Quattro 7AT AWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "180 Kw @ 4000-4500 Rpm\r\n245 Hp @ 4000-4500 Rpm\r\n241 Bhp @ 4000-4500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1400-3250 Rpm\r\n500 Nm @ 1400-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "151 Mph (243 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.3 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4112 Lbs (1865 Kg)",
+        "Gross Weight Limit:": "5335 Lbs (2420 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "33 Mpg Us (7.1 L/100Km)",
+        "Highway:": "45 Mpg Us (5.2 L/100Km)",
+        "Combined:": "40 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "156 G/Km"
+      }
+    }
+  },
+  {
+    "id": 1453,
+    "automobile_id": 459,
+    "name": "3.0L TDI Quattro 7AT Clean Diesel AWD (245 HP)",
+    "specs": {
+      "Engine Specs": {
+        "Cylinders:": "V6",
+        "Displacement:": "2967 Cm3",
+        "Power:": "180 Kw @ 4000-4500 Rpm\r\n245 Hp @ 4000-4500 Rpm\r\n241 Bhp @ 4000-4500 Rpm",
+        "Torque:": "369 Lb-Ft @ 1400-3250 Rpm\r\n500 Nm @ 1400-3250 Rpm",
+        "Fuel System:": "Turbocharged Common Rail",
+        "Fuel:": "Diesel",
+        "Fuel Capacity:": "17.2 Gallons (65.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed:": "151 Mph (243 Km/H)",
+        "Acceleration 0-62 Mph (0-100 Kph):": "6.4 S"
+      },
+      "Transmission Specs": {
+        "Drive Type:": "All Wheel Drive",
+        "Gearbox:": "7-Speed Automatic (S Tronic)"
+      },
+      "Brakes Specs": {
+        "Front:": "Ventilated Discs",
+        "Rear:": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size:": "225/55 R17"
+      },
+      "Dimensions": {
+        "Length:": "193.9 In (4925 Mm)",
+        "Width:": "73.8 In (1875 Mm)",
+        "Height:": "57.5 In (1461 Mm)",
+        "Front/Rear Track:": "64.1/63.7 In (1,628/1,618 Mm)",
+        "Wheelbase:": "114.6 In (2911 Mm)",
+        "Ground Clearance:": "4.6 In (117 Mm)",
+        "Cargo Volume:": "20 Cuft (566 L)",
+        "Aerodynamics (Cd):": "0.3"
+      },
+      "Weight Specs": {
+        "Unladen Weight:": "4023 Lbs (1825 Kg)",
+        "Gross Weight Limit:": "5412 Lbs (2455 Kg)"
+      },
+      "Fuel Economy (Nedc)": {
+        "City:": "32.2 Mpg Us (7.3 L/100Km)",
+        "Highway:": "46.1 Mpg Us (5.1 L/100Km)",
+        "Combined:": "39.9 Mpg Us (5.9 L/100Km)",
+        "Co2 Emissions:": "156 G/Km"
+      }
+    }
+  }
+]

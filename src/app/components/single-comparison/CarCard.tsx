@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { CarData } from "./types";
 
 interface CarCardProps {
@@ -8,18 +8,49 @@ interface CarCardProps {
 }
 
 const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  useEffect(() => {
+    setIsDarkMode(document.documentElement.classList.contains("dark"));
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (mutation.attributeName === "class") {
+          setIsDarkMode(document.documentElement.classList.contains("dark"));
+        }
+      });
+    });
+    observer.observe(document.documentElement, { attributes: true });
+    return () => observer.disconnect();
+  }, []);
+
   if (!carData || !carData.brand || !carData.automobile) {
     return (
-      <div className="border-2 border-dashed border-gray-300 rounded-xl p-6 bg-gray-50 hover:bg-gray-100 transition-all duration-200 h-full flex flex-col justify-between">
+      <div
+        className={`border-2 border-dashed rounded-xl p-6 transition-all duration-200 h-full flex flex-col justify-between theme-transition ${
+          isDarkMode
+            ? "border-gray-600 bg-gray-800 hover:bg-gray-700"
+            : "border-gray-300 bg-gray-50 hover:bg-gray-100"
+        }`}
+      >
         <div>
-          <h3 className="text-lg font-semibold text-gray-700 mb-2">
+          <h3
+            className={`text-lg font-semibold mb-2 theme-transition ${
+              isDarkMode ? "text-gray-300" : "text-gray-700"
+            }`}
+          >
             Car {index + 1}
           </h3>
-          <p className="text-gray-500">No car selected</p>
+          <p className={isDarkMode ? "text-gray-400" : "text-gray-500"}>
+            No car selected
+          </p>
         </div>
         <button
           onClick={onEdit}
-          className="mt-4 bg-[#5e45cd] hover:bg-[#4d36b8] text-white px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-[#5e45cd] focus:ring-offset-2"
+          className={`mt-4 px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition ${
+            isDarkMode
+              ? "bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500"
+              : "bg-[#5e45cd] hover:bg-[#4d36b8] text-white focus:ring-[#5e45cd]"
+          }`}
         >
           Select Car
         </button>
@@ -61,16 +92,38 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
     : "";
 
   return (
-    <div className="border border-gray-200 rounded-xl p-6 bg-white shadow-sm hover:shadow-md transition-all duration-200 h-full flex flex-col justify-between">
+    <div
+      className={`border rounded-xl p-6 shadow-sm hover:shadow-md transition-all duration-200 h-full flex flex-col justify-between theme-transition ${
+        isDarkMode
+          ? "border-gray-700 bg-gray-800 shadow-gray-900/50"
+          : "border-gray-200 bg-white shadow-sm"
+      }`}
+    >
       <div>
         <div className="flex items-center justify-between mb-4">
           <div>
-            <h3 className="text-xl font-bold text-gray-900">
+            <h3
+              className={`text-xl font-bold theme-transition ${
+                isDarkMode ? "text-white" : "text-gray-900"
+              }`}
+            >
               {carData.brand.name}
             </h3>
-            <p className="text-gray-600 text-sm mt-1">{cleanName}</p>
+            <p
+              className={`text-sm mt-1 theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-600"
+              }`}
+            >
+              {cleanName}
+            </p>
             {year !== "N/A" && (
-              <p className="text-gray-500 text-xs mt-1">Year: {year}</p>
+              <p
+                className={`text-xs mt-1 theme-transition ${
+                  isDarkMode ? "text-gray-400" : "text-gray-500"
+                }`}
+              >
+                Year: {year}
+              </p>
             )}
           </div>
           {carData.brand.logo && (
@@ -83,9 +136,27 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
         </div>
 
         {carData.engine && (
-          <div className="mb-4 p-3 bg-gray-50 rounded-lg border border-gray-100">
-            <h4 className="font-semibold text-gray-800 mb-2">Engine</h4>
-            <p className="text-sm text-gray-600">{cleanEngine}</p>
+          <div
+            className={`mb-4 p-3 rounded-lg border theme-transition ${
+              isDarkMode
+                ? "bg-gray-700 border-gray-600"
+                : "bg-gray-50 border-gray-100"
+            }`}
+          >
+            <h4
+              className={`font-semibold mb-2 theme-transition ${
+                isDarkMode ? "text-gray-200" : "text-gray-800"
+              }`}
+            >
+              Engine
+            </h4>
+            <p
+              className={`text-sm theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-600"
+              }`}
+            >
+              {cleanEngine}
+            </p>
           </div>
         )}
 
@@ -102,7 +173,11 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
 
       <button
         onClick={onEdit}
-        className="bg-[#5e45cd] hover:bg-[#4d36b8] text-white px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-[#5e45cd] focus:ring-offset-2"
+        className={`px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition ${
+          isDarkMode
+            ? "bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500"
+            : "bg-[#5e45cd] hover:bg-[#4d36b8] text-white focus:ring-[#5e45cd]"
+        }`}
       >
         Change Car
       </button>

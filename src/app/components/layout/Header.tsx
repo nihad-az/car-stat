@@ -6,9 +6,9 @@ import Link from "next/link";
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isDarkMode, setIsDarkMode] = useState(false);
+  const [isTransitioning, setIsTransitioning] = useState(false);
 
   useEffect(() => {
-    // Check for saved theme preference
     const savedTheme = localStorage.getItem("theme");
 
     if (savedTheme === "dark") {
@@ -18,7 +18,6 @@ const Header = () => {
       document.documentElement.classList.remove("dark");
       setIsDarkMode(false);
     } else {
-      // No saved preference, use system preference
       const systemPrefersDark = window.matchMedia(
         "(prefers-color-scheme: dark)"
       ).matches;
@@ -32,7 +31,13 @@ const Header = () => {
     }
   }, []);
 
-  const toggleTheme = () => {
+  const toggleTheme = async () => {
+    // Start transition
+    setIsTransitioning(true);
+
+    // Add a small delay to show the animation
+    await new Promise((resolve) => setTimeout(resolve, 150));
+
     if (document.documentElement.classList.contains("dark")) {
       document.documentElement.classList.remove("dark");
       localStorage.setItem("theme", "light");
@@ -42,6 +47,11 @@ const Header = () => {
       localStorage.setItem("theme", "dark");
       setIsDarkMode(true);
     }
+
+    // End transition after animation completes
+    setTimeout(() => {
+      setIsTransitioning(false);
+    }, 350);
   };
 
   const toggleMenu = () => {
@@ -54,15 +64,15 @@ const Header = () => {
 
   return (
     <header
-      className={`sticky top-0 z-50 shadow-sm border-b ${
+      className={`sticky top-0 z-50 shadow-sm border-b theme-transition ${
         isDarkMode ? "bg-gray-900 border-gray-700" : "bg-white border-gray-200"
-      }`}
+      } ${isTransitioning ? "opacity-90" : "opacity-100"}`}
     >
       <nav className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           {/* Logo */}
           <h1
-            className={`text-2xl font-bold ${
+            className={`text-2xl font-bold transition-colors duration-500 ${
               isDarkMode ? "text-purple-400" : "text-[#5e45cd]"
             }`}
           >
@@ -74,7 +84,7 @@ const Header = () => {
             <li>
               <Link
                 href="/"
-                className={`transition-colors duration-200 hover:text-[#5e45cd] ${
+                className={`transition-all duration-500 hover:text-[#5e45cd] ${
                   isDarkMode
                     ? "text-gray-300 hover:text-purple-400"
                     : "text-gray-700"
@@ -86,7 +96,7 @@ const Header = () => {
             <li>
               <Link
                 href="/single-comparison"
-                className={`transition-colors duration-200 hover:text-[#5e45cd] ${
+                className={`transition-all duration-500 hover:text-[#5e45cd] ${
                   isDarkMode
                     ? "text-gray-300 hover:text-purple-400"
                     : "text-gray-700"
@@ -98,7 +108,7 @@ const Header = () => {
             <li>
               <Link
                 href="/bulk-comparison"
-                className={`transition-colors duration-200 hover:text-[#5e45cd] ${
+                className={`transition-all duration-500 hover:text-[#5e45cd] ${
                   isDarkMode
                     ? "text-gray-300 hover:text-purple-400"
                     : "text-gray-700"
@@ -111,22 +121,27 @@ const Header = () => {
 
           {/* Right side icons */}
           <div className="flex items-center gap-4">
-            {/* Theme Toggle */}
+            {/* Theme Toggle with enhanced animation */}
             <button
               onClick={toggleTheme}
-              className={`p-2 rounded-lg transition-colors duration-200 ${
+              className={`theme-toggle p-2 rounded-lg transition-all duration-500 ${
                 isDarkMode
                   ? "bg-gray-800 hover:bg-gray-700"
                   : "bg-gray-100 hover:bg-gray-200"
-              }`}
+              } ${isTransitioning ? "scale-110" : "scale-100"}`}
               aria-label={
                 isDarkMode ? "Switch to light mode" : "Switch to dark mode"
               }
+              disabled={isTransitioning}
             >
               {isDarkMode ? (
-                // Sun icon for light mode
+                // Sun icon with animation
                 <svg
-                  className="w-5 h-5 text-yellow-500"
+                  className={`w-5 h-5 text-yellow-500 transition-all duration-500 ${
+                    isTransitioning
+                      ? "rotate-180 scale-110"
+                      : "rotate-0 scale-100"
+                  }`}
                   fill="currentColor"
                   viewBox="0 0 20 20"
                 >
@@ -137,9 +152,13 @@ const Header = () => {
                   />
                 </svg>
               ) : (
-                // Moon icon for dark mode
+                // Moon icon with animation
                 <svg
-                  className="w-5 h-5 text-gray-700"
+                  className={`w-5 h-5 text-gray-700 transition-all duration-500 ${
+                    isTransitioning
+                      ? "rotate-180 scale-110"
+                      : "rotate-0 scale-100"
+                  }`}
                   fill="currentColor"
                   viewBox="0 0 20 20"
                 >
@@ -151,7 +170,7 @@ const Header = () => {
             {/* Mobile Menu Button */}
             <button
               onClick={toggleMenu}
-              className={`md:hidden p-2 rounded-lg transition-colors duration-200 ${
+              className={`md:hidden p-2 rounded-lg transition-all duration-300 ${
                 isDarkMode
                   ? "bg-gray-800 hover:bg-gray-700"
                   : "bg-gray-100 hover:bg-gray-200"
@@ -186,14 +205,14 @@ const Header = () => {
           }`}
         >
           <ul
-            className={`flex flex-col gap-4 pb-4 pt-4 border-t ${
+            className={`flex flex-col gap-4 pb-4 pt-4 border-t transition-colors duration-500 ${
               isDarkMode ? "border-gray-700" : "border-gray-200"
             }`}
           >
             <li>
               <Link
                 href="/"
-                className={`block py-2 px-4 rounded-lg transition-colors duration-200 hover:text-[#5e45cd] ${
+                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] ${
                   isDarkMode
                     ? "text-gray-300 hover:bg-gray-800 hover:text-purple-400"
                     : "text-gray-700 hover:bg-gray-100"
@@ -206,7 +225,7 @@ const Header = () => {
             <li>
               <Link
                 href="/single-comparison"
-                className={`block py-2 px-4 rounded-lg transition-colors duration-200 hover:text-[#5e45cd] ${
+                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] ${
                   isDarkMode
                     ? "text-gray-300 hover:bg-gray-800 hover:text-purple-400"
                     : "text-gray-700 hover:bg-gray-100"
@@ -219,7 +238,7 @@ const Header = () => {
             <li>
               <Link
                 href="/bulk-comparison"
-                className={`block py-2 px-4 rounded-lg transition-colors duration-200 hover:text-[#5e45cd] ${
+                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] ${
                   isDarkMode
                     ? "text-gray-300 hover:bg-gray-800 hover:text-purple-400"
                     : "text-gray-700 hover:bg-gray-100"

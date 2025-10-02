@@ -1,10 +1,8 @@
 "use client";
 
 import React, { useState, useEffect, useRef, forwardRef } from "react";
-import CarCard from "./CarCard";
-import ComparisonPanel from "./ComparisonPanel";
-import { Brand, Automobile, Engine, CarData } from "./types";
-import { CarComparator, ComparisonResult } from "../utils/comparison";
+import { Brand, Automobile, Engine, CarData } from "../single-comparison/types";
+import CarCard from "../single-comparison/CarCard";
 
 // Custom Select Component with Search
 interface CustomSelectProps {
@@ -278,29 +276,493 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
 
 CustomSelect.displayName = "CustomSelect";
 
-const CardSection: React.FC = () => {
+// Enhanced Car Details Component with proper data structure
+interface CarDetailsProps {
+  carData: CarData | null;
+  isDarkMode: boolean;
+}
+
+const CarDetails: React.FC<CarDetailsProps> = ({ carData, isDarkMode }) => {
+  if (!carData || !carData.brand || !carData.automobile || !carData.engine) {
+    return (
+      <div
+        className={`text-center py-4 theme-transition ${
+          isDarkMode ? "text-gray-400" : "text-gray-500"
+        }`}
+      >
+        No car selected
+      </div>
+    );
+  }
+
+  // Extract year from the automobile name
+  const extractYear = (name: string): string => {
+    const yearMatch = name.match(/(19|20)\d{2}/);
+    return yearMatch ? yearMatch[0] : "N/A";
+  };
+
+  // Clean up the model name
+  const cleanModelName = (name: string): string => {
+    return name
+      .replace(/Photos, engines &amp; full specs/g, "")
+      .replace(/(19|20)\d{2}[-–]\d{4}/g, "")
+      .replace(/(19|20)\d{2}/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  };
+
+  // Extract specifications from engine data
+  const getEngineSpecs = () => {
+    if (!carData?.engine?.specs) return null;
+
+    const engineSpecs = carData.engine.specs["Engine Specs"];
+    if (!engineSpecs) return null;
+
+    return {
+      cylinders: engineSpecs["Cylinders:"] || "N/A",
+      displacement: engineSpecs["Displacement:"] || "N/A",
+      power: engineSpecs["Power:"]
+        ? engineSpecs["Power:"].split("\r\n")[0]
+        : "N/A", // Take first line
+      torque: engineSpecs["Torque:"]
+        ? engineSpecs["Torque:"].split("\r\n")[0]
+        : "N/A", // Take first line
+      fuelSystem: engineSpecs["Fuel System:"] || "N/A",
+      fuel: engineSpecs["Fuel:"] || "N/A",
+    };
+  };
+
+  const getPerformanceSpecs = () => {
+    if (!carData?.engine?.specs) return null;
+
+    const perfSpecs = carData.engine.specs["Performance Specs"];
+    if (!perfSpecs) return null;
+
+    return {
+      topSpeed: perfSpecs["Top Speed:"] || "N/A",
+      acceleration: perfSpecs["Acceleration 0-62 Mph (0-100 Kph):"] || "N/A",
+    };
+  };
+
+  const getTransmissionSpecs = () => {
+    if (!carData?.engine?.specs) return null;
+
+    const transSpecs = carData.engine.specs["Transmission Specs"];
+    if (!transSpecs) return null;
+
+    return {
+      driveType: transSpecs["Drive Type:"] || "N/A",
+      gearbox: transSpecs["Gearbox:"] || "N/A",
+    };
+  };
+
+  const getDimensions = () => {
+    if (!carData?.engine?.specs) return null;
+
+    const dimSpecs = carData.engine.specs["Dimensions"];
+    if (!dimSpecs) return null;
+
+    return {
+      length: dimSpecs["Length:"] || "N/A",
+      width: dimSpecs["Width:"] || "N/A",
+      height: dimSpecs["Height:"] || "N/A",
+      wheelbase: dimSpecs["Wheelbase:"] || "N/A",
+    };
+  };
+
+  const getWeight = () => {
+    if (!carData?.engine?.specs) return null;
+
+    const weightSpecs = carData.engine.specs["Weight Specs"];
+    if (!weightSpecs) return null;
+
+    return weightSpecs["Unladen Weight:"] || "N/A";
+  };
+
+  const year = extractYear(carData.automobile.name);
+  const cleanName = cleanModelName(carData.automobile.name);
+  const engineSpecs = getEngineSpecs();
+  const performanceSpecs = getPerformanceSpecs();
+  const transmissionSpecs = getTransmissionSpecs();
+  const dimensions = getDimensions();
+  const weight = getWeight();
+
+  return (
+    <div
+      className={`mt-4 p-4 rounded-lg border theme-transition ${
+        isDarkMode
+          ? "bg-gray-800 border-gray-700"
+          : "bg-gray-50 border-gray-200"
+      }`}
+    >
+      <h4
+        className={`font-semibold mb-3 theme-transition ${
+          isDarkMode ? "text-white" : "text-gray-900"
+        }`}
+      >
+        Vehicle Details
+      </h4>
+
+      <div className="space-y-4">
+        {/* Basic Information */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
+          <div>
+            <span
+              className={`font-medium theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-700"
+              }`}
+            >
+              Brand:
+            </span>
+            <span
+              className={`ml-2 theme-transition ${
+                isDarkMode ? "text-gray-400" : "text-gray-600"
+              }`}
+            >
+              {carData.brand.name}
+            </span>
+          </div>
+
+          <div>
+            <span
+              className={`font-medium theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-700"
+              }`}
+            >
+              Model:
+            </span>
+            <span
+              className={`ml-2 theme-transition ${
+                isDarkMode ? "text-gray-400" : "text-gray-600"
+              }`}
+            >
+              {cleanName}
+            </span>
+          </div>
+
+          {year !== "N/A" && (
+            <div>
+              <span
+                className={`font-medium theme-transition ${
+                  isDarkMode ? "text-gray-300" : "text-gray-700"
+                }`}
+              >
+                Year:
+              </span>
+              <span
+                className={`ml-2 theme-transition ${
+                  isDarkMode ? "text-gray-400" : "text-gray-600"
+                }`}
+              >
+                {year}
+              </span>
+            </div>
+          )}
+
+          <div>
+            <span
+              className={`font-medium theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-700"
+              }`}
+            >
+              Engine:
+            </span>
+            <span
+              className={`ml-2 theme-transition ${
+                isDarkMode ? "text-gray-400" : "text-gray-600"
+              }`}
+            >
+              {carData.engine.name}
+            </span>
+          </div>
+        </div>
+
+        {/* Engine Specifications */}
+        {engineSpecs && (
+          <div>
+            <h5
+              className={`font-medium mb-2 text-sm theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-700"
+              }`}
+            >
+              Engine Specifications
+            </h5>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm">
+              <div>
+                <span
+                  className={`theme-transition ${
+                    isDarkMode ? "text-gray-400" : "text-gray-600"
+                  }`}
+                >
+                  Cylinders:
+                </span>
+                <span
+                  className={`ml-2 theme-transition ${
+                    isDarkMode ? "text-gray-300" : "text-gray-800"
+                  }`}
+                >
+                  {engineSpecs.cylinders}
+                </span>
+              </div>
+              <div>
+                <span
+                  className={`theme-transition ${
+                    isDarkMode ? "text-gray-400" : "text-gray-600"
+                  }`}
+                >
+                  Displacement:
+                </span>
+                <span
+                  className={`ml-2 theme-transition ${
+                    isDarkMode ? "text-gray-300" : "text-gray-800"
+                  }`}
+                >
+                  {engineSpecs.displacement}
+                </span>
+              </div>
+              <div>
+                <span
+                  className={`theme-transition ${
+                    isDarkMode ? "text-gray-400" : "text-gray-600"
+                  }`}
+                >
+                  Power:
+                </span>
+                <span
+                  className={`ml-2 theme-transition ${
+                    isDarkMode ? "text-gray-300" : "text-gray-800"
+                  }`}
+                >
+                  {engineSpecs.power}
+                </span>
+              </div>
+              <div>
+                <span
+                  className={`theme-transition ${
+                    isDarkMode ? "text-gray-400" : "text-gray-600"
+                  }`}
+                >
+                  Torque:
+                </span>
+                <span
+                  className={`ml-2 theme-transition ${
+                    isDarkMode ? "text-gray-300" : "text-gray-800"
+                  }`}
+                >
+                  {engineSpecs.torque}
+                </span>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Performance */}
+        {performanceSpecs && (
+          <div>
+            <h5
+              className={`font-medium mb-2 text-sm theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-700"
+              }`}
+            >
+              Performance
+            </h5>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm">
+              {performanceSpecs.topSpeed !== "N/A" && (
+                <div>
+                  <span
+                    className={`theme-transition ${
+                      isDarkMode ? "text-gray-400" : "text-gray-600"
+                    }`}
+                  >
+                    Top Speed:
+                  </span>
+                  <span
+                    className={`ml-2 theme-transition ${
+                      isDarkMode ? "text-gray-300" : "text-gray-800"
+                    }`}
+                  >
+                    {performanceSpecs.topSpeed}
+                  </span>
+                </div>
+              )}
+              {performanceSpecs.acceleration !== "N/A" && (
+                <div>
+                  <span
+                    className={`theme-transition ${
+                      isDarkMode ? "text-gray-400" : "text-gray-600"
+                    }`}
+                  >
+                    0-62 mph:
+                  </span>
+                  <span
+                    className={`ml-2 theme-transition ${
+                      isDarkMode ? "text-gray-300" : "text-gray-800"
+                    }`}
+                  >
+                    {performanceSpecs.acceleration}
+                  </span>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        {/* Transmission */}
+        {transmissionSpecs && (
+          <div>
+            <h5
+              className={`font-medium mb-2 text-sm theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-700"
+              }`}
+            >
+              Transmission
+            </h5>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm">
+              <div>
+                <span
+                  className={`theme-transition ${
+                    isDarkMode ? "text-gray-400" : "text-gray-600"
+                  }`}
+                >
+                  Drive Type:
+                </span>
+                <span
+                  className={`ml-2 theme-transition ${
+                    isDarkMode ? "text-gray-300" : "text-gray-800"
+                  }`}
+                >
+                  {transmissionSpecs.driveType}
+                </span>
+              </div>
+              <div>
+                <span
+                  className={`theme-transition ${
+                    isDarkMode ? "text-gray-400" : "text-gray-600"
+                  }`}
+                >
+                  Gearbox:
+                </span>
+                <span
+                  className={`ml-2 theme-transition ${
+                    isDarkMode ? "text-gray-300" : "text-gray-800"
+                  }`}
+                >
+                  {transmissionSpecs.gearbox}
+                </span>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Dimensions & Weight */}
+        {(dimensions || weight) && (
+          <div>
+            <h5
+              className={`font-medium mb-2 text-sm theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-700"
+              }`}
+            >
+              Dimensions & Weight
+            </h5>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm">
+              {dimensions?.length !== "N/A" && (
+                <div>
+                  <span
+                    className={`theme-transition ${
+                      isDarkMode ? "text-gray-400" : "text-gray-600"
+                    }`}
+                  >
+                    Length:
+                  </span>
+                  <span
+                    className={`ml-2 theme-transition ${
+                      isDarkMode ? "text-gray-300" : "text-gray-800"
+                    }`}
+                  >
+                    {dimensions?.length}
+                  </span>
+                </div>
+              )}
+              {dimensions?.width !== "N/A" && (
+                <div>
+                  <span
+                    className={`theme-transition ${
+                      isDarkMode ? "text-gray-400" : "text-gray-600"
+                    }`}
+                  >
+                    Width:
+                  </span>
+                  <span
+                    className={`ml-2 theme-transition ${
+                      isDarkMode ? "text-gray-300" : "text-gray-800"
+                    }`}
+                  >
+                    {dimensions?.width}
+                  </span>
+                </div>
+              )}
+              {weight && weight !== "N/A" && (
+                <div>
+                  <span
+                    className={`theme-transition ${
+                      isDarkMode ? "text-gray-400" : "text-gray-600"
+                    }`}
+                  >
+                    Weight:
+                  </span>
+                  <span
+                    className={`ml-2 theme-transition ${
+                      isDarkMode ? "text-gray-300" : "text-gray-800"
+                    }`}
+                  >
+                    {weight}
+                  </span>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        {/* Photo Count */}
+        {carData.automobile.photos && carData.automobile.photos.length > 0 && (
+          <div className="text-sm">
+            <span
+              className={`theme-transition ${
+                isDarkMode ? "text-gray-400" : "text-gray-600"
+              }`}
+            >
+              Available Photos:{" "}
+            </span>
+            <span
+              className={`font-medium theme-transition ${
+                isDarkMode ? "text-gray-300" : "text-gray-800"
+              }`}
+            >
+              {carData.automobile.photos.length}
+            </span>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+};
+
+const BulkComparison: React.FC = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
-  const [cars, setCars] = useState<[CarData | null, CarData | null]>([
-    null,
-    null,
-  ]);
+  const [cars, setCars] = useState<
+    [CarData | null, CarData | null, CarData | null, CarData | null]
+  >([null, null, null, null]);
   const [brands, setBrands] = useState<Brand[]>([]);
   const [automobiles, setAutomobiles] = useState<Automobile[]>([]);
   const [engines, setEngines] = useState<Engine[]>([]);
 
-  const [selectedCarIndex, setSelectedCarIndex] = useState<number>(0);
+  const [selectedCarIndex, setSelectedCarIndex] = useState<number | null>(null);
   const [selectedBrand, setSelectedBrand] = useState<string>("");
   const [selectedAutomobile, setSelectedAutomobile] = useState<string>("");
   const [selectedEngine, setSelectedEngine] = useState<string>("");
-  const [isSelecting, setIsSelecting] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(false);
-  const [comparisonResult, setComparisonResult] =
-    useState<ComparisonResult | null>(null);
 
-  // Refs for auto-focus and scrolling
   const selectionPanelRef = useRef<HTMLDivElement>(null);
-  const cardRefs = useRef<(HTMLDivElement | null)[]>([]);
-  const brandSelectRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     setIsDarkMode(document.documentElement.classList.contains("dark"));
@@ -320,28 +782,17 @@ const CardSection: React.FC = () => {
     loadBrands();
   }, []);
 
-  // Auto-focus and scroll when selection panel opens
+  // Scroll to selection panel when it opens
   useEffect(() => {
-    if (isSelecting && selectionPanelRef.current) {
-      selectionPanelRef.current.scrollIntoView({
-        behavior: "smooth",
-        block: "nearest",
-      });
-
+    if (selectedCarIndex !== null && selectionPanelRef.current) {
       setTimeout(() => {
-        // Focus the brand select button instead of the search input
-        if (brandSelectRef.current) {
-          const button = brandSelectRef.current.querySelector("button");
-          if (button) button.focus();
-        }
-      }, 300);
+        selectionPanelRef.current?.scrollIntoView({
+          behavior: "smooth",
+          block: "nearest",
+        });
+      }, 100);
     }
-  }, [isSelecting]);
-
-  // Reset comparison whenever cars change
-  useEffect(() => {
-    setComparisonResult(null);
-  }, [cars]);
+  }, [selectedCarIndex]);
 
   const loadBrands = async () => {
     setLoading(true);
@@ -393,7 +844,6 @@ const CardSection: React.FC = () => {
     setSelectedEngine("");
     setAutomobiles([]);
     setEngines([]);
-    setIsSelecting(true);
   };
 
   const handleBrandChange = (brandId: string) => {
@@ -423,7 +873,12 @@ const CardSection: React.FC = () => {
   };
 
   const handleConfirmSelection = () => {
-    if (selectedBrand && selectedAutomobile && selectedEngine) {
+    if (
+      selectedCarIndex !== null &&
+      selectedBrand &&
+      selectedAutomobile &&
+      selectedEngine
+    ) {
       const selectedBrandData = brands.find(
         (brand) => brand.id === parseInt(selectedBrand)
       );
@@ -435,7 +890,12 @@ const CardSection: React.FC = () => {
       );
 
       if (selectedBrandData && selectedAutomobileData && selectedEngineData) {
-        const newCars = [...cars] as [CarData | null, CarData | null];
+        const newCars = [...cars] as [
+          CarData | null,
+          CarData | null,
+          CarData | null,
+          CarData | null
+        ];
         newCars[selectedCarIndex] = {
           brand: selectedBrandData,
           automobile: selectedAutomobileData,
@@ -446,16 +906,7 @@ const CardSection: React.FC = () => {
         setSelectedBrand("");
         setSelectedAutomobile("");
         setSelectedEngine("");
-        setIsSelecting(false);
-
-        setTimeout(() => {
-          if (cardRefs.current[selectedCarIndex]) {
-            cardRefs.current[selectedCarIndex]?.scrollIntoView({
-              behavior: "smooth",
-              block: "nearest",
-            });
-          }
-        }, 100);
+        setSelectedCarIndex(null);
       }
     }
   };
@@ -464,49 +915,8 @@ const CardSection: React.FC = () => {
     setSelectedBrand("");
     setSelectedAutomobile("");
     setSelectedEngine("");
-    setIsSelecting(false);
-
-    setTimeout(() => {
-      if (cardRefs.current[selectedCarIndex]) {
-        cardRefs.current[selectedCarIndex]?.scrollIntoView({
-          behavior: "smooth",
-          block: "nearest",
-        });
-      }
-    }, 100);
+    setSelectedCarIndex(null);
   };
-
-  const handleCompare = () => {
-    if (
-      cars[0] &&
-      cars[1] &&
-      cars[0].automobile &&
-      cars[1].automobile &&
-      cars[0].engine &&
-      cars[1].engine
-    ) {
-      const result = CarComparator.compareCars(cars[0], cars[1]);
-      setComparisonResult(result);
-
-      setTimeout(() => {
-        const comparisonElement = document.getElementById("comparison-results");
-        if (comparisonElement) {
-          comparisonElement.scrollIntoView({
-            behavior: "smooth",
-            block: "start",
-          });
-        }
-      }, 100);
-    }
-  };
-
-  const assignCardRef = (index: number) => (el: HTMLDivElement | null) => {
-    cardRefs.current[index] = el;
-  };
-
-  // Check if both cars are selected
-  const bothCarsSelected =
-    cars[0] && cars[1] && cars[0].automobile && cars[1].automobile;
 
   return (
     <div
@@ -520,54 +930,38 @@ const CardSection: React.FC = () => {
             isDarkMode ? "text-white" : "text-gray-900"
           }`}
         >
-          Compare Cars
+          Bulk Car Comparison
         </h1>
         <p
           className={`text-lg theme-transition ${
             isDarkMode ? "text-gray-300" : "text-gray-600"
           }`}
         >
-          Select two cars to compare their specifications
+          Compare up to 4 cars side by side
         </p>
       </div>
 
-      {/* Cards Section */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto mb-8">
+      {/* Cards Section with Horizontal Scroll on Mobile */}
+      <div className="flex space-x-6 overflow-x-auto pb-6 px-2 -mx-2">
         {cars.map((car, index) => (
-          <div key={index} ref={assignCardRef(index)}>
+          <div key={index} className="flex-none w-full sm:w-80">
             <CarCard
               carData={car}
               index={index}
               onEdit={() => handleCardEdit(index)}
             />
+
+            {/* Car Details Display */}
+            <CarDetails carData={car} isDarkMode={isDarkMode} />
           </div>
         ))}
       </div>
 
-      {/* Compare Button - Only shows when both cars are selected and no comparison is active */}
-      {bothCarsSelected && !comparisonResult && (
-        <div className="text-center mt-8">
-          <button
-            onClick={handleCompare}
-            className="px-8 py-4 text-xl font-bold rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105 theme-transition bg-green-600 hover:bg-green-700 text-white"
-          >
-            🏁 Compare Cars
-          </button>
-          <p
-            className={`mt-2 theme-transition ${
-              isDarkMode ? "text-gray-400" : "text-gray-500"
-            }`}
-          >
-            Click to see detailed comparison and find out which car wins!
-          </p>
-        </div>
-      )}
-
-      {/* Selection Panel - Shows below cards when selecting */}
-      {isSelecting && (
+      {/* Selection Panel - Shows as a regular div when editing a car */}
+      {selectedCarIndex !== null && (
         <div
           ref={selectionPanelRef}
-          className={`max-w-2xl mx-auto rounded-lg shadow-lg border p-6 transition-all duration-300 theme-transition ${
+          className={`mt-8 max-w-4xl mx-auto rounded-lg shadow-lg border p-6 transition-all duration-300 theme-transition ${
             isDarkMode
               ? "bg-gray-800 border-gray-700 shadow-gray-900/50"
               : "bg-white border-gray-200"
@@ -601,7 +995,6 @@ const CardSection: React.FC = () => {
                 Brand
               </label>
               <CustomSelect
-                ref={brandSelectRef}
                 value={selectedBrand}
                 onChange={handleBrandChange}
                 options={brands.map((brand) => ({
@@ -723,43 +1116,8 @@ const CardSection: React.FC = () => {
           </div>
         </div>
       )}
-
-      {/* Comparison Results Panel */}
-      <div id="comparison-results">
-        {comparisonResult && (
-          <ComparisonPanel
-            car1={cars[0]!}
-            car2={cars[1]!}
-            comparisonResult={comparisonResult}
-            onClose={() => setComparisonResult(null)}
-          />
-        )}
-      </div>
-
-      {/* Reset Comparison Button - Only show when comparison is active */}
-      {comparisonResult && (
-        <div className="text-center mt-6">
-          <button
-            onClick={() => setComparisonResult(null)}
-            className={`px-6 py-2 rounded-lg transition-colors duration-200 font-medium theme-transition ${
-              isDarkMode
-                ? "bg-gray-600 hover:bg-gray-700 text-white"
-                : "bg-gray-600 hover:bg-gray-700 text-white"
-            }`}
-          >
-            Reset Comparison
-          </button>
-          <p
-            className={`text-sm mt-2 theme-transition ${
-              isDarkMode ? "text-gray-400" : "text-gray-500"
-            }`}
-          >
-            Change any vehicle to automatically reset the comparison
-          </p>
-        </div>
-      )}
     </div>
   );
 };
 
-export default CardSection;
+export default BulkComparison;

@@ -22,6 +22,26 @@ export function HeroSection() {
     return () => observer.disconnect();
   }, []);
 
+  const scrollToCTA = () => {
+    const ctaSection = document.getElementById("cta-section");
+    if (ctaSection) {
+      ctaSection.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    }
+  };
+
+  const scrollToFeatures = () => {
+    const featuresSection = document.getElementById("features-section");
+    if (featuresSection) {
+      featuresSection.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    }
+  };
+
   return (
     <section
       className={`relative py-20 px-4 sm:px-6 lg:px-8 overflow-hidden theme-transition ${
@@ -73,7 +93,8 @@ export function HeroSection() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <button
-            className={`h-12 px-8 font-semibold rounded-lg transition-all duration-300 flex items-center justify-center theme-transition ${
+            onClick={scrollToCTA}
+            className={`h-12 px-8 font-semibold rounded-lg transition-all duration-300 flex items-center justify-center cursor-pointer theme-transition ${
               isDarkMode
                 ? "bg-purple-600 hover:bg-purple-700 text-white"
                 : "bg-[#5e45cd] hover:bg-[#4b38a8] text-white"
@@ -82,7 +103,8 @@ export function HeroSection() {
             Start Comparing Now
           </button>
           <button
-            className={`h-12 px-8 font-semibold border rounded-lg transition-all duration-300 flex items-center justify-center theme-transition ${
+            onClick={scrollToFeatures}
+            className={`h-12 px-8 font-semibold border rounded-lg transition-all duration-300 flex items-center justify-center cursor-pointer theme-transition ${
               isDarkMode
                 ? "bg-gray-700 hover:bg-gray-600 text-white border-gray-600"
                 : "bg-white hover:bg-gray-100 text-gray-900 border-gray-300"

@@ -30,6 +30,7 @@ export function CtaSection() {
 
   return (
     <section
+      id="cta-section"
       className={`py-20 px-4 sm:px-6 lg:px-8 theme-transition ${
         isDarkMode ? "bg-gray-800" : "bg-gray-50"
       }`}

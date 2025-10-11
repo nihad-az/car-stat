@@ -530,13 +530,13 @@ const CardSection: React.FC = () => {
 
   return (
     <div
-      className={`container mx-auto px-3 sm:px-4 py-6 sm:py-8 theme-transition ${
+      className={`container mx-auto mt-15 mb-30 px-3 sm:px-4 py-12 sm:py-16 theme-transition ${
         isDarkMode ? "bg-gray-900" : "bg-white"
       }`}
     >
-      <div className="text-center mb-6 sm:mb-8">
+      <div className="text-center mb-8 sm:mb-12">
         <h1
-          className={`text-2xl sm:text-4xl font-bold mb-3 theme-transition ${
+          className={`text-2xl sm:text-4xl font-bold mb-4 theme-transition ${
             isDarkMode ? "text-white" : "text-gray-900"
           }`}
         >
@@ -552,7 +552,7 @@ const CardSection: React.FC = () => {
       </div>
 
       {/* Cards Section */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-8 max-w-6xl mx-auto mb-6 sm:mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-10 max-w-6xl mx-auto mb-8 sm:mb-12">
         {cars.map((car, index) => (
           <div key={index} ref={assignCardRef(index)}>
             <CarCard
@@ -566,7 +566,7 @@ const CardSection: React.FC = () => {
 
       {/* Compare Button */}
       {bothCarsSelected && !comparisonResult && (
-        <div className="text-center mt-6 sm:mt-8">
+        <div className="text-center mt-8 sm:mt-12">
           <button
             onClick={handleCompare}
             className="px-6 sm:px-8 py-3 sm:py-4 text-lg sm:text-xl font-bold rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105 theme-transition bg-green-600 hover:bg-green-700 text-white w-full sm:w-auto"
@@ -574,7 +574,7 @@ const CardSection: React.FC = () => {
             🏁 Compare Cars
           </button>
           <p
-            className={`mt-2 text-sm theme-transition ${
+            className={`mt-3 text-sm theme-transition ${
               isDarkMode ? "text-gray-400" : "text-gray-500"
             }`}
           >
@@ -587,7 +587,7 @@ const CardSection: React.FC = () => {
       {isSelecting && (
         <div
           ref={selectionPanelRef}
-          className={`max-w-2xl mx-auto rounded-lg shadow-lg border p-4 sm:p-6 transition-all duration-300 theme-transition ${
+          className={`max-w-2xl mx-auto rounded-lg shadow-lg border p-4 sm:p-6 transition-all duration-300 theme-transition my-8 ${
             isDarkMode
               ? "bg-gray-800 border-gray-700 shadow-gray-900/50"
               : "bg-white border-gray-200"
@@ -745,7 +745,7 @@ const CardSection: React.FC = () => {
       )}
 
       {/* Comparison Results Panel */}
-      <div id="comparison-results">
+      <div id="comparison-results" className="my-8">
         {comparisonResult && (
           <ComparisonPanel
             car1={cars[0]!}
@@ -758,7 +758,7 @@ const CardSection: React.FC = () => {
 
       {/* Reset Comparison Button */}
       {comparisonResult && (
-        <div className="text-center mt-4 sm:mt-6">
+        <div className="text-center mt-6 sm:mt-8">
           <button
             onClick={() => setComparisonResult(null)}
             className={`px-4 sm:px-6 py-2 rounded-lg transition-colors duration-200 font-medium theme-transition w-full sm:w-auto ${

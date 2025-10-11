@@ -1,9 +1,11 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 
 export function CtaSection() {
   const [isDarkMode, setIsDarkMode] = useState(false);
+  const router = useRouter();
 
   useEffect(() => {
     setIsDarkMode(document.documentElement.classList.contains("dark"));
@@ -17,6 +19,14 @@ export function CtaSection() {
     observer.observe(document.documentElement, { attributes: true });
     return () => observer.disconnect();
   }, []);
+
+  const handleSingleComparison = () => {
+    router.push("/single-comparison");
+  };
+
+  const handleBulkComparison = () => {
+    router.push("/bulk-comparison");
+  };
 
   return (
     <section
@@ -64,7 +74,8 @@ export function CtaSection() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button
-                className={`h-12 px-8 font-semibold text-white rounded-lg transition-all duration-300 flex items-center justify-center theme-transition ${
+                onClick={handleSingleComparison}
+                className={`h-12 px-8 font-semibold text-white rounded-lg transition-all duration-300 flex items-center justify-center cursor-pointer theme-transition ${
                   isDarkMode
                     ? "bg-purple-600 hover:bg-purple-700"
                     : "bg-[#5e45cd] hover:bg-[#4b38a8]"
@@ -74,7 +85,8 @@ export function CtaSection() {
               </button>
 
               <button
-                className={`h-12 px-8 font-semibold text-white rounded-lg transition-all duration-300 flex items-center justify-center theme-transition ${
+                onClick={handleBulkComparison}
+                className={`h-12 px-8 font-semibold text-white rounded-lg transition-all duration-300 flex items-center justify-center cursor-pointer theme-transition ${
                   isDarkMode
                     ? "bg-purple-600 hover:bg-purple-700"
                     : "bg-[#5e45cd] hover:bg-[#4b38a8]"

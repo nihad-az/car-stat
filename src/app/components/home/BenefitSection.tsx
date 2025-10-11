@@ -5,12 +5,12 @@ import { useEffect, useState } from "react";
 export function BenefitsSection() {
   const [isDarkMode, setIsDarkMode] = useState(false);
   const benefits = [
-    "Compare up to 4 cars side-by-side with detailed specifications",
-    "Access real-time pricing data from multiple dealerships",
-    "Get personalized recommendations based on your preferences",
-    "Save and share your favorite comparisons with friends",
-    "Track price changes and get alerts for your dream car",
-    "Access expert reviews and user ratings for every model",
+    "Compare two cars head-to-head with detailed stats and visuals",
+    "See which car wins automatically through our built-in calculator",
+    "Explore in-depth comparisons of performance, design, and efficiency",
+    "Compare up to four cars at once with our bulk comparison tool",
+    "Quickly identify strengths and weaknesses across multiple models",
+    "Share or revisit your latest comparisons anytime on CarStat",
   ];
 
   useEffect(() => {

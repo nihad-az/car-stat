@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 
 const Footer = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -18,6 +19,26 @@ const Footer = () => {
     return () => observer.disconnect();
   }, []);
 
+  const scrollToSection = (sectionId: string) => {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    }
+  };
+
+  const handleEmailClick = (subject: string = "CarStat Inquiry") => {
+    const email = "hello@nihad.az";
+    const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}`;
+    window.location.href = mailtoLink;
+  };
+
+  const openExternalLink = (url: string) => {
+    window.open(url, "_blank", "noopener,noreferrer");
+  };
+
   return (
     <footer
       className={`border-t theme-transition ${
@@ -27,9 +48,9 @@ const Footer = () => {
       }`}
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left">
           {/* Brand */}
-          <div>
+          <div className="md:col-span-2">
             <h3
               className={`text-2xl font-bold mb-4 theme-transition ${
                 isDarkMode ? "text-purple-400" : "text-[#5e45cd]"
@@ -47,30 +68,52 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Quick Links */}
+          {/* Socials */}
           <div>
             <h4
               className={`font-semibold mb-4 theme-transition ${
                 isDarkMode ? "text-white" : "text-gray-900"
               }`}
             >
-              Quick Links
+              Socials
             </h4>
             <ul className="space-y-2">
-              {["Compare Cars", "Car Reviews", "Brand Directory"].map(
-                (link) => (
-                  <li key={link}>
-                    <a
-                      href="#"
-                      className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 ${
-                        isDarkMode ? "text-gray-300" : "text-gray-900"
-                      }`}
-                    >
-                      {link}
-                    </a>
-                  </li>
-                )
-              )}
+              <li>
+                <button
+                  onClick={() =>
+                    openExternalLink(
+                      "https://www.linkedin.com/in/nihad-ibrahimli/"
+                    )
+                  }
+                  className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 cursor-pointer ${
+                    isDarkMode ? "text-gray-300" : "text-gray-900"
+                  }`}
+                >
+                  LinkedIn
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() =>
+                    openExternalLink("https://github.com/nihad-az")
+                  }
+                  className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 cursor-pointer ${
+                    isDarkMode ? "text-gray-300" : "text-gray-900"
+                  }`}
+                >
+                  GitHub
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() => openExternalLink("https://nihad.az/")}
+                  className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 cursor-pointer ${
+                    isDarkMode ? "text-gray-300" : "text-gray-900"
+                  }`}
+                >
+                  Portfolio
+                </button>
+              </li>
             </ul>
           </div>
 
@@ -84,18 +127,38 @@ const Footer = () => {
               Support
             </h4>
             <ul className="space-y-2">
-              {["Help Center", "Contact Us", "Privacy Policy"].map((link) => (
-                <li key={link}>
-                  <a
-                    href="#"
-                    className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 ${
-                      isDarkMode ? "text-gray-300" : "text-gray-900"
-                    }`}
-                  >
-                    {link}
-                  </a>
-                </li>
-              ))}
+              <li>
+                <button
+                  onClick={() => handleEmailClick("CarStat Contact")}
+                  className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 cursor-pointer ${
+                    isDarkMode ? "text-gray-300" : "text-gray-900"
+                  }`}
+                >
+                  Contact Us
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() => handleEmailClick("CarStat Issue Report")}
+                  className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 cursor-pointer ${
+                    isDarkMode ? "text-gray-300" : "text-gray-900"
+                  }`}
+                >
+                  Report Issue
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() =>
+                    openExternalLink("https://github.com/nihad-az/car-stat")
+                  }
+                  className={`theme-transition hover:text-[#5e45cd] dark:hover:text-purple-400 cursor-pointer ${
+                    isDarkMode ? "text-gray-300" : "text-gray-900"
+                  }`}
+                >
+                  View Source Code
+                </button>
+              </li>
             </ul>
           </div>
         </div>

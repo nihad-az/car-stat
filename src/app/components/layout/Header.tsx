@@ -71,13 +71,15 @@ const Header = () => {
       <nav className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           {/* Logo */}
-          <h1
-            className={`text-2xl font-bold transition-colors duration-500 ${
-              isDarkMode ? "text-purple-400" : "text-[#5e45cd]"
-            }`}
-          >
-            CarStat
-          </h1>
+          <Link href="/" className="cursor-pointer">
+            <h1
+              className={`text-2xl font-bold transition-colors duration-500 ${
+                isDarkMode ? "text-purple-400" : "text-[#5e45cd]"
+              }`}
+            >
+              CarStat
+            </h1>
+          </Link>
 
           {/* Desktop Navigation */}
           <ul className="hidden md:flex justify-center items-center gap-8">
@@ -121,26 +123,26 @@ const Header = () => {
 
           {/* Right side icons */}
           <div className="flex items-center gap-4">
-            {/* Theme Toggle with enhanced animation */}
+            {/* Theme Toggle with simplified animation */}
             <button
               onClick={toggleTheme}
-              className={`theme-toggle p-2 rounded-lg transition-all duration-500 ${
+              className={`p-2 rounded-lg transition-all duration-300 cursor-pointer ${
                 isDarkMode
                   ? "bg-gray-800 hover:bg-gray-700"
                   : "bg-gray-100 hover:bg-gray-200"
-              } ${isTransitioning ? "scale-110" : "scale-100"}`}
+              } ${isTransitioning ? "scale-95" : "scale-100"}`}
               aria-label={
                 isDarkMode ? "Switch to light mode" : "Switch to dark mode"
               }
               disabled={isTransitioning}
             >
               {isDarkMode ? (
-                // Sun icon with animation
+                // Sun icon with simple fade animation
                 <svg
-                  className={`w-5 h-5 text-yellow-500 transition-all duration-500 ${
+                  className={`w-5 h-5 text-yellow-500 transition-all duration-300 ${
                     isTransitioning
-                      ? "rotate-180 scale-110"
-                      : "rotate-0 scale-100"
+                      ? "opacity-0 scale-75"
+                      : "opacity-100 scale-100"
                   }`}
                   fill="currentColor"
                   viewBox="0 0 20 20"
@@ -152,12 +154,12 @@ const Header = () => {
                   />
                 </svg>
               ) : (
-                // Moon icon with animation
+                // Moon icon with simple fade animation
                 <svg
-                  className={`w-5 h-5 text-gray-700 transition-all duration-500 ${
+                  className={`w-5 h-5 text-gray-700 transition-all duration-300 ${
                     isTransitioning
-                      ? "rotate-180 scale-110"
-                      : "rotate-0 scale-100"
+                      ? "opacity-0 scale-75"
+                      : "opacity-100 scale-100"
                   }`}
                   fill="currentColor"
                   viewBox="0 0 20 20"
@@ -170,7 +172,7 @@ const Header = () => {
             {/* Mobile Menu Button */}
             <button
               onClick={toggleMenu}
-              className={`md:hidden p-2 rounded-lg transition-all duration-300 ${
+              className={`md:hidden p-2 rounded-lg transition-all duration-300 cursor-pointer ${
                 isDarkMode
                   ? "bg-gray-800 hover:bg-gray-700"
                   : "bg-gray-100 hover:bg-gray-200"
@@ -212,7 +214,7 @@ const Header = () => {
             <li>
               <Link
                 href="/"
-                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] ${
+                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] cursor-pointer ${
                   isDarkMode
                     ? "text-gray-300 hover:bg-gray-800 hover:text-purple-400"
                     : "text-gray-700 hover:bg-gray-100"
@@ -225,7 +227,7 @@ const Header = () => {
             <li>
               <Link
                 href="/single-comparison"
-                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] ${
+                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] cursor-pointer ${
                   isDarkMode
                     ? "text-gray-300 hover:bg-gray-800 hover:text-purple-400"
                     : "text-gray-700 hover:bg-gray-100"
@@ -238,7 +240,7 @@ const Header = () => {
             <li>
               <Link
                 href="/bulk-comparison"
-                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] ${
+                className={`block py-2 px-4 rounded-lg transition-all duration-500 hover:text-[#5e45cd] cursor-pointer ${
                   isDarkMode
                     ? "text-gray-300 hover:bg-gray-800 hover:text-purple-400"
                     : "text-gray-700 hover:bg-gray-100"

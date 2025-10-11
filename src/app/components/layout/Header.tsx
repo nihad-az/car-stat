@@ -71,13 +71,15 @@ const Header = () => {
       <nav className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           {/* Logo */}
-          <h1
-            className={`text-2xl font-bold transition-colors duration-500 ${
-              isDarkMode ? "text-purple-400" : "text-[#5e45cd]"
-            }`}
-          >
-            CarStat
-          </h1>
+          <Link href="/" className="cursor-pointer">
+            <h1
+              className={`text-2xl font-bold transition-colors duration-500 ${
+                isDarkMode ? "text-purple-400" : "text-[#5e45cd]"
+              }`}
+            >
+              CarStat
+            </h1>
+          </Link>
 
           {/* Desktop Navigation */}
           <ul className="hidden md:flex justify-center items-center gap-8">

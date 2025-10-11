@@ -21,7 +21,7 @@ export default function CarComparison() {
       className={`theme-transition ${isDarkMode ? "bg-gray-900" : "bg-white"}`}
     >
       {/* Hero Section with Gradient */}
-      <section className="relative py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
+      <section className="relative py-12 sm:py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div
           className={`absolute inset-0 theme-transition ${
             isDarkMode
@@ -38,7 +38,7 @@ export default function CarComparison() {
         ></div>
         <div className="relative container mx-auto max-w-6xl text-center">
           <h1
-            className={`text-4xl sm:text-5xl lg:text-6xl font-bold text-balance mb-6 theme-transition ${
+            className={`text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-balance mb-4 sm:mb-6 theme-transition ${
               isDarkMode ? "text-white" : "text-gray-900"
             }`}
           >
@@ -52,7 +52,7 @@ export default function CarComparison() {
             </span>
           </h1>
           <p
-            className={`text-xl text-pretty max-w-2xl mx-auto mb-8 theme-transition ${
+            className={`text-lg sm:text-xl text-pretty max-w-2xl mx-auto mb-6 sm:mb-8 theme-transition ${
               isDarkMode ? "text-gray-300" : "text-gray-600"
             }`}
           >

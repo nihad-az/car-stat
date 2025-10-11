@@ -73,7 +73,9 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
     // Focus search input when dropdown opens
     useEffect(() => {
       if (isOpen && searchInputRef.current) {
-        searchInputRef.current.focus();
+        setTimeout(() => {
+          searchInputRef.current?.focus();
+        }, 100);
       }
     }, [isOpen]);
 
@@ -138,7 +140,7 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
           onClick={() => !disabled && !loading && setIsOpen(!isOpen)}
           disabled={disabled || loading}
           className={`
-            w-full p-3 border rounded-lg transition-colors duration-200 
+            w-full p-3 text-sm sm:text-base border rounded-lg transition-colors duration-200 
             text-left flex items-center justify-between
             focus:outline-none focus:ring-2 focus:border-transparent
             theme-transition
@@ -151,7 +153,7 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
             ${loading ? "opacity-70 cursor-wait" : ""}
           `}
         >
-          <span className={selectedOption ? "" : "text-gray-500"}>
+          <span className={`truncate ${selectedOption ? "" : "text-gray-500"}`}>
             {loading
               ? "Loading..."
               : selectedOption
@@ -159,7 +161,7 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
               : placeholder}
           </span>
           <svg
-            className={`w-5 h-5 transition-transform duration-200 ${
+            className={`w-4 h-4 sm:w-5 sm:h-5 transition-transform duration-200 flex-shrink-0 ml-2 ${
               isOpen ? "rotate-180" : ""
             } ${isDarkMode ? "text-gray-300" : "text-gray-500"}`}
             fill="none"
@@ -179,8 +181,8 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
         {isOpen && (
           <div
             className={`
-            absolute top-full left-0 right-0 z-50 mt-1 max-h-60 overflow-auto
-            border rounded-lg shadow-lg
+            fixed sm:absolute top-auto sm:top-full bottom-0 sm:bottom-auto left-0 sm:left-0 right-0 sm:right-0 z-50 mt-1 sm:mt-1 max-h-60 overflow-auto
+            border rounded-t-xl sm:rounded-lg shadow-lg
             theme-transition
             ${
               isDarkMode
@@ -188,9 +190,14 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
                 : "bg-white border-gray-200 shadow-lg"
             }
           `}
+            style={{
+              maxHeight: "60vh",
+              top: "auto",
+              bottom: 0,
+            }}
           >
             {/* Search Bar */}
-            <div className="p-2 border-b theme-transition border-gray-200 dark:border-gray-600">
+            <div className="p-2 border-b theme-transition border-gray-200 dark:border-gray-600 sticky top-0 bg-inherit">
               <input
                 ref={searchInputRef}
                 type="text"
@@ -260,7 +267,7 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
             {/* Results Count */}
             {searchTerm && (
               <div
-                className={`px-3 py-1 text-xs border-t theme-transition ${
+                className={`px-3 py-2 text-xs border-t theme-transition sticky bottom-0 bg-inherit ${
                   isDarkMode
                     ? "border-gray-600 text-gray-400"
                     : "border-gray-200 text-gray-500"
@@ -269,6 +276,20 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
                 {filteredOptions.length} of {options.length} results
               </div>
             )}
+
+            {/* Close button for mobile */}
+            <div className="sm:hidden p-2 border-t theme-transition border-gray-200 dark:border-gray-600">
+              <button
+                onClick={() => setIsOpen(false)}
+                className={`w-full py-2 text-sm font-medium rounded-lg theme-transition ${
+                  isDarkMode
+                    ? "bg-gray-700 text-white hover:bg-gray-600"
+                    : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+                }`}
+              >
+                Close
+              </button>
+            </div>
           </div>
         )}
       </div>
@@ -329,7 +350,6 @@ const CardSection: React.FC = () => {
       });
 
       setTimeout(() => {
-        // Focus the brand select button instead of the search input
         if (brandSelectRef.current) {
           const button = brandSelectRef.current.querySelector("button");
           if (button) button.focus();
@@ -510,20 +530,20 @@ const CardSection: React.FC = () => {
 
   return (
     <div
-      className={`container mx-auto px-4 py-8 theme-transition ${
+      className={`container mx-auto px-3 sm:px-4 py-6 sm:py-8 theme-transition ${
         isDarkMode ? "bg-gray-900" : "bg-white"
       }`}
     >
-      <div className="text-center mb-8">
+      <div className="text-center mb-6 sm:mb-8">
         <h1
-          className={`text-4xl font-bold mb-3 theme-transition ${
+          className={`text-2xl sm:text-4xl font-bold mb-3 theme-transition ${
             isDarkMode ? "text-white" : "text-gray-900"
           }`}
         >
           Compare Cars
         </h1>
         <p
-          className={`text-lg theme-transition ${
+          className={`text-base sm:text-lg theme-transition ${
             isDarkMode ? "text-gray-300" : "text-gray-600"
           }`}
         >
@@ -532,7 +552,7 @@ const CardSection: React.FC = () => {
       </div>
 
       {/* Cards Section */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-8 max-w-6xl mx-auto mb-6 sm:mb-8">
         {cars.map((car, index) => (
           <div key={index} ref={assignCardRef(index)}>
             <CarCard
@@ -544,17 +564,17 @@ const CardSection: React.FC = () => {
         ))}
       </div>
 
-      {/* Compare Button - Only shows when both cars are selected and no comparison is active */}
+      {/* Compare Button */}
       {bothCarsSelected && !comparisonResult && (
-        <div className="text-center mt-8">
+        <div className="text-center mt-6 sm:mt-8">
           <button
             onClick={handleCompare}
-            className="px-8 py-4 text-xl font-bold rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105 theme-transition bg-green-600 hover:bg-green-700 text-white"
+            className="px-6 sm:px-8 py-3 sm:py-4 text-lg sm:text-xl font-bold rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105 theme-transition bg-green-600 hover:bg-green-700 text-white w-full sm:w-auto"
           >
             🏁 Compare Cars
           </button>
           <p
-            className={`mt-2 theme-transition ${
+            className={`mt-2 text-sm theme-transition ${
               isDarkMode ? "text-gray-400" : "text-gray-500"
             }`}
           >
@@ -563,26 +583,26 @@ const CardSection: React.FC = () => {
         </div>
       )}
 
-      {/* Selection Panel - Shows below cards when selecting */}
+      {/* Selection Panel */}
       {isSelecting && (
         <div
           ref={selectionPanelRef}
-          className={`max-w-2xl mx-auto rounded-lg shadow-lg border p-6 transition-all duration-300 theme-transition ${
+          className={`max-w-2xl mx-auto rounded-lg shadow-lg border p-4 sm:p-6 transition-all duration-300 theme-transition ${
             isDarkMode
               ? "bg-gray-800 border-gray-700 shadow-gray-900/50"
               : "bg-white border-gray-200"
           }`}
         >
-          <div className="text-center mb-6">
+          <div className="text-center mb-4 sm:mb-6">
             <h2
-              className={`text-2xl font-bold theme-transition ${
+              className={`text-xl sm:text-2xl font-bold theme-transition ${
                 isDarkMode ? "text-white" : "text-gray-900"
               }`}
             >
               Selecting Car {selectedCarIndex + 1}
             </h2>
             <p
-              className={`mt-2 theme-transition ${
+              className={`mt-2 text-sm sm:text-base theme-transition ${
                 isDarkMode ? "text-gray-300" : "text-gray-600"
               }`}
             >
@@ -590,7 +610,7 @@ const CardSection: React.FC = () => {
             </p>
           </div>
 
-          <div className="space-y-6">
+          <div className="space-y-4 sm:space-y-6">
             {/* Brand Selection */}
             <div>
               <label
@@ -692,10 +712,10 @@ const CardSection: React.FC = () => {
             </div>
 
             {/* Action Buttons */}
-            <div className="flex justify-end gap-3 pt-4">
+            <div className="flex flex-col sm:flex-row justify-end gap-3 pt-4">
               <button
                 onClick={handleCancelSelection}
-                className={`px-6 py-2 font-medium transition-colors duration-200 border rounded-lg focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition ${
+                className={`px-4 sm:px-6 py-2 font-medium transition-colors duration-200 border rounded-lg focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition order-2 sm:order-1 ${
                   isDarkMode
                     ? "text-gray-300 hover:text-white border-gray-600 hover:bg-gray-700 focus:ring-purple-500"
                     : "text-gray-600 hover:text-gray-800 border-gray-300 hover:bg-gray-50 focus:ring-[#5e45cd]"
@@ -711,7 +731,7 @@ const CardSection: React.FC = () => {
                   !selectedEngine ||
                   loading
                 }
-                className={`px-6 py-2 rounded-lg transition-colors duration-200 font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition ${
+                className={`px-4 sm:px-6 py-2 rounded-lg transition-colors duration-200 font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition order-1 sm:order-2 ${
                   isDarkMode
                     ? "bg-purple-600 text-white hover:bg-purple-700 focus:ring-purple-500 disabled:bg-gray-600"
                     : "bg-[#5e45cd] text-white hover:bg-[#4d36b8] focus:ring-[#5e45cd] disabled:bg-gray-400"
@@ -736,12 +756,12 @@ const CardSection: React.FC = () => {
         )}
       </div>
 
-      {/* Reset Comparison Button - Only show when comparison is active */}
+      {/* Reset Comparison Button */}
       {comparisonResult && (
-        <div className="text-center mt-6">
+        <div className="text-center mt-4 sm:mt-6">
           <button
             onClick={() => setComparisonResult(null)}
-            className={`px-6 py-2 rounded-lg transition-colors duration-200 font-medium theme-transition ${
+            className={`px-4 sm:px-6 py-2 rounded-lg transition-colors duration-200 font-medium theme-transition w-full sm:w-auto ${
               isDarkMode
                 ? "bg-gray-600 hover:bg-gray-700 text-white"
                 : "bg-gray-600 hover:bg-gray-700 text-white"
@@ -750,7 +770,7 @@ const CardSection: React.FC = () => {
             Reset Comparison
           </button>
           <p
-            className={`text-sm mt-2 theme-transition ${
+            className={`text-xs sm:text-sm mt-2 theme-transition ${
               isDarkMode ? "text-gray-400" : "text-gray-500"
             }`}
           >

@@ -26,7 +26,7 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
   if (!carData || !carData.brand || !carData.automobile) {
     return (
       <div
-        className={`border-2 border-dashed rounded-xl p-6 transition-all duration-200 h-full flex flex-col justify-between theme-transition ${
+        className={`border-2 border-dashed rounded-xl p-4 sm:p-6 transition-all duration-200 h-full flex flex-col justify-between theme-transition ${
           isDarkMode
             ? "border-gray-600 bg-gray-800 hover:bg-gray-700"
             : "border-gray-300 bg-gray-50 hover:bg-gray-100"
@@ -34,19 +34,23 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
       >
         <div>
           <h3
-            className={`text-lg font-semibold mb-2 theme-transition ${
+            className={`text-base sm:text-lg font-semibold mb-2 theme-transition ${
               isDarkMode ? "text-gray-300" : "text-gray-700"
             }`}
           >
             Car {index + 1}
           </h3>
-          <p className={isDarkMode ? "text-gray-400" : "text-gray-500"}>
+          <p
+            className={`text-sm ${
+              isDarkMode ? "text-gray-400" : "text-gray-500"
+            }`}
+          >
             No car selected
           </p>
         </div>
         <button
           onClick={onEdit}
-          className={`mt-4 px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition ${
+          className={`mt-4 px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition text-sm sm:text-base ${
             isDarkMode
               ? "bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500"
               : "bg-[#5e45cd] hover:bg-[#4d36b8] text-white focus:ring-[#5e45cd]"
@@ -93,24 +97,24 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
 
   return (
     <div
-      className={`border rounded-xl p-6 shadow-sm hover:shadow-md transition-all duration-200 h-full flex flex-col justify-between theme-transition ${
+      className={`border rounded-xl p-4 sm:p-6 shadow-sm hover:shadow-md transition-all duration-200 h-full flex flex-col justify-between theme-transition ${
         isDarkMode
           ? "border-gray-700 bg-gray-800 shadow-gray-900/50"
           : "border-gray-200 bg-white shadow-sm"
       }`}
     >
       <div>
-        <div className="flex items-center justify-between mb-4">
-          <div>
+        <div className="flex items-start sm:items-center justify-between mb-4 gap-3">
+          <div className="flex-1 min-w-0">
             <h3
-              className={`text-xl font-bold theme-transition ${
+              className={`text-lg sm:text-xl font-bold theme-transition truncate ${
                 isDarkMode ? "text-white" : "text-gray-900"
               }`}
             >
               {carData.brand.name}
             </h3>
             <p
-              className={`text-sm mt-1 theme-transition ${
+              className={`text-sm mt-1 theme-transition line-clamp-2 ${
                 isDarkMode ? "text-gray-300" : "text-gray-600"
               }`}
             >
@@ -130,7 +134,7 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
             <img
               src={carData.brand.logo}
               alt={`${carData.brand.name} logo`}
-              className="w-12 h-12 object-contain"
+              className="w-10 h-10 sm:w-12 sm:h-12 object-contain flex-shrink-0"
             />
           )}
         </div>
@@ -144,14 +148,14 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
             }`}
           >
             <h4
-              className={`font-semibold mb-2 theme-transition ${
+              className={`font-semibold mb-2 text-sm sm:text-base theme-transition ${
                 isDarkMode ? "text-gray-200" : "text-gray-800"
               }`}
             >
               Engine
             </h4>
             <p
-              className={`text-sm theme-transition ${
+              className={`text-xs sm:text-sm theme-transition line-clamp-2 ${
                 isDarkMode ? "text-gray-300" : "text-gray-600"
               }`}
             >
@@ -165,7 +169,7 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
             <img
               src={carData.automobile.photos[0]}
               alt={carData.automobile.name}
-              className="w-full h-48 object-cover rounded-lg"
+              className="w-full h-32 sm:h-48 object-cover rounded-lg"
             />
           </div>
         )}
@@ -173,7 +177,7 @@ const CarCard: React.FC<CarCardProps> = ({ carData, onEdit, index }) => {
 
       <button
         onClick={onEdit}
-        className={`px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition ${
+        className={`px-4 py-3 rounded-lg transition-all duration-200 w-full font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition text-sm sm:text-base ${
           isDarkMode
             ? "bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500"
             : "bg-[#5e45cd] hover:bg-[#4d36b8] text-white focus:ring-[#5e45cd]"

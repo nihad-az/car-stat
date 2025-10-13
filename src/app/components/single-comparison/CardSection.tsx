@@ -6,7 +6,7 @@ import ComparisonPanel from "./ComparisonPanel";
 import { Brand, Automobile, Engine, CarData } from "./types";
 import { CarComparator, ComparisonResult } from "../utils/comparison";
 
-// Custom Select Component with Search
+// Enhanced Custom Select Component with improved styling
 interface CustomSelectProps {
   value: string;
   onChange: (value: string) => void;
@@ -38,6 +38,7 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
     const [highlightedIndex, setHighlightedIndex] = useState(-1);
     const dropdownRef = useRef<HTMLDivElement>(null);
     const searchInputRef = useRef<HTMLInputElement>(null);
+    const buttonRef = useRef<HTMLButtonElement>(null);
 
     useEffect(() => {
       setIsDarkMode(document.documentElement.classList.contains("dark"));
@@ -75,7 +76,7 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
       if (isOpen && searchInputRef.current) {
         setTimeout(() => {
           searchInputRef.current?.focus();
-        }, 100);
+        }, 150);
       }
     }, [isOpen]);
 
@@ -100,10 +101,17 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
           e.preventDefault();
           if (highlightedIndex >= 0 && filteredOptions[highlightedIndex]) {
             handleOptionSelect(filteredOptions[highlightedIndex].value);
+          } else if (filteredOptions.length === 1) {
+            handleOptionSelect(filteredOptions[0].value);
           }
           break;
         case "Escape":
           e.preventDefault();
+          setIsOpen(false);
+          setSearchTerm("");
+          setHighlightedIndex(-1);
+          break;
+        case "Tab":
           setIsOpen(false);
           setSearchTerm("");
           setHighlightedIndex(-1);
@@ -113,8 +121,9 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
 
     const getFilteredOptions = () => {
       if (!searchTerm) return options;
+      const term = searchTerm.toLowerCase();
       return options.filter((option) =>
-        option.label.toLowerCase().includes(searchTerm.toLowerCase())
+        option.label.toLowerCase().includes(term)
       );
     };
 
@@ -134,162 +143,274 @@ const CustomSelect = forwardRef<HTMLDivElement, CustomSelectProps>(
         className={`relative ${className}`}
         onKeyDown={handleKeyDown}
       >
-        {/* Select Button */}
+        {/* Enhanced Select Button */}
         <button
+          ref={buttonRef}
           type="button"
           onClick={() => !disabled && !loading && setIsOpen(!isOpen)}
           disabled={disabled || loading}
           className={`
-            w-full p-3 text-sm sm:text-base border rounded-lg transition-colors duration-200 
-            text-left flex items-center justify-between
-            focus:outline-none focus:ring-2 focus:border-transparent
-            theme-transition
+            w-full p-3 sm:p-4 border-2 rounded-lg sm:rounded-xl transition-all duration-300 
+            text-left flex items-center justify-between group
+            focus:outline-none focus:ring-2 focus:ring-inset focus:border-transparent
+            hover:scale-[1.02] active:scale-[0.98]
+            theme-transition shadow-sm text-sm sm:text-base
             ${
               isDarkMode
-                ? "bg-gray-700 border-gray-600 text-white focus:ring-purple-500"
-                : "bg-white border-gray-300 text-gray-900 focus:ring-[#5e45cd] focus:border-[#5e45cd]"
+                ? "bg-gray-800 border-gray-600 text-white focus:ring-purple-500 hover:border-purple-400"
+                : "bg-white border-gray-300 text-gray-900 focus:ring-[#5e45cd] hover:border-[#5e45cd] hover:shadow-md"
             }
-            ${disabled ? "opacity-50 cursor-not-allowed" : "cursor-pointer"}
+            ${
+              disabled
+                ? "opacity-40 cursor-not-allowed hover:scale-100"
+                : "cursor-pointer"
+            }
             ${loading ? "opacity-70 cursor-wait" : ""}
+            ${
+              isOpen
+                ? isDarkMode
+                  ? "border-purple-400"
+                  : "border-[#5e45cd]"
+                : ""
+            }
           `}
         >
-          <span className={`truncate ${selectedOption ? "" : "text-gray-500"}`}>
-            {loading
-              ? "Loading..."
-              : selectedOption
-              ? selectedOption.label
-              : placeholder}
-          </span>
-          <svg
-            className={`w-4 h-4 sm:w-5 sm:h-5 transition-transform duration-200 flex-shrink-0 ml-2 ${
-              isOpen ? "rotate-180" : ""
-            } ${isDarkMode ? "text-gray-300" : "text-gray-500"}`}
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M19 9l-7 7-7-7"
-            />
-          </svg>
+          <div className="flex items-center min-w-0 flex-1">
+            {loading && (
+              <div
+                className={`mr-2 sm:mr-3 w-4 h-4 sm:w-5 sm:h-5 border-2 rounded-full animate-spin ${
+                  isDarkMode
+                    ? "border-purple-400 border-t-transparent"
+                    : "border-[#5e45cd] border-t-transparent"
+                }`}
+              />
+            )}
+            <span
+              className={`truncate ${selectedOption ? "" : "text-gray-500"} ${
+                loading ? "ml-0" : ""
+              }`}
+            >
+              {loading
+                ? "Loading options..."
+                : selectedOption
+                ? selectedOption.label
+                : placeholder}
+            </span>
+          </div>
+          <div className="flex items-center space-x-1 sm:space-x-2 ml-2 sm:ml-3 flex-shrink-0">
+            {value && !loading && (
+              <button
+                type="button"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  onChange("");
+                  setSearchTerm("");
+                }}
+                className={`p-1 rounded-full transition-colors ${
+                  isDarkMode
+                    ? "hover:bg-gray-700 text-gray-400 hover:text-gray-300"
+                    : "hover:bg-gray-200 text-gray-500 hover:text-gray-700"
+                }`}
+              >
+                <svg
+                  className="w-3 h-3 sm:w-4 sm:h-4"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M6 18L18 6M6 6l12 12"
+                  />
+                </svg>
+              </button>
+            )}
+            <svg
+              className={`w-4 h-4 sm:w-5 sm:h-5 transition-transform duration-300 flex-shrink-0 ${
+                isOpen ? "rotate-180 scale-110" : "group-hover:scale-110"
+              } ${isDarkMode ? "text-gray-300" : "text-gray-500"}`}
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M19 9l-7 7-7-7"
+              />
+            </svg>
+          </div>
         </button>
 
-        {/* Dropdown Menu */}
+        {/* Enhanced Dropdown Menu */}
         {isOpen && (
           <div
             className={`
-            fixed sm:absolute top-auto sm:top-full bottom-0 sm:bottom-auto left-0 sm:left-0 right-0 sm:right-0 z-50 mt-1 sm:mt-1 max-h-60 overflow-auto
-            border rounded-t-xl sm:rounded-lg shadow-lg
-            theme-transition
-            ${
-              isDarkMode
-                ? "bg-gray-800 border-gray-600 shadow-gray-900/50"
-                : "bg-white border-gray-200 shadow-lg"
-            }
-          `}
+              absolute top-full left-0 right-0 z-50 mt-1 sm:mt-2 max-h-60 sm:max-h-80 overflow-auto
+              border-2 rounded-lg sm:rounded-xl shadow-xl sm:shadow-2xl backdrop-blur-sm
+              theme-transition transform origin-top
+              ${
+                isDarkMode
+                  ? "bg-gray-800/95 border-gray-600"
+                  : "bg-white/95 border-gray-200"
+              }
+              animate-in fade-in-0 zoom-in-95 duration-200
+            `}
             style={{
-              maxHeight: "60vh",
-              top: "auto",
-              bottom: 0,
+              // Calculate max height to prevent going off-screen on mobile
+              maxHeight: "calc(100vh - 200px)",
             }}
           >
-            {/* Search Bar */}
-            <div className="p-2 border-b theme-transition border-gray-200 dark:border-gray-600 sticky top-0 bg-inherit">
-              <input
-                ref={searchInputRef}
-                type="text"
-                placeholder="Search..."
-                value={searchTerm}
-                onChange={(e) => {
-                  setSearchTerm(e.target.value);
-                  setHighlightedIndex(-1);
-                }}
-                className={`
-                  w-full p-2 text-sm border rounded
-                  focus:outline-none focus:ring-1
-                  theme-transition
-                  ${
-                    isDarkMode
-                      ? "bg-gray-700 border-gray-600 text-white focus:ring-purple-500 placeholder-gray-400"
-                      : "bg-white border-gray-300 text-gray-900 focus:ring-[#5e45cd] placeholder-gray-500"
-                  }
-                `}
-              />
+            {/* Enhanced Search Bar */}
+            <div className="p-2 sm:p-3 border-b theme-transition border-gray-200 dark:border-gray-600 sticky top-0 bg-inherit">
+              <div className="relative">
+                <svg
+                  className={`absolute left-2 sm:left-3 top-1/2 transform -translate-y-1/2 w-3 h-3 sm:w-4 sm:h-4 ${
+                    isDarkMode ? "text-gray-400" : "text-gray-500"
+                  }`}
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                  />
+                </svg>
+                <input
+                  ref={searchInputRef}
+                  type="text"
+                  placeholder="Type to search..."
+                  value={searchTerm}
+                  onChange={(e) => {
+                    setSearchTerm(e.target.value);
+                    setHighlightedIndex(0);
+                  }}
+                  className={`
+                    w-full pl-8 sm:pl-10 pr-3 sm:pr-4 py-2 sm:py-3 text-sm border-2 rounded-lg
+                    focus:outline-none focus:ring-1 focus:ring-inset transition-all
+                    theme-transition
+                    ${
+                      isDarkMode
+                        ? "bg-gray-700 border-gray-600 text-white focus:ring-purple-500 focus:border-purple-400 placeholder-gray-400"
+                        : "bg-white border-gray-300 text-gray-900 focus:ring-[#5e45cd] focus:border-[#5e45cd] placeholder-gray-500"
+                    }
+                  `}
+                />
+              </div>
             </div>
 
-            {/* Options List */}
-            <div className="py-1">
+            {/* Enhanced Options List */}
+            <div className="py-1 max-h-40 sm:max-h-56 overflow-auto">
               {filteredOptions.length === 0 ? (
                 <div
-                  className={`px-3 py-2 text-sm text-center theme-transition ${
+                  className={`px-3 sm:px-4 py-4 sm:py-6 text-center theme-transition ${
                     isDarkMode ? "text-gray-400" : "text-gray-500"
                   }`}
                 >
-                  No options found
+                  <svg
+                    className="w-8 h-8 sm:w-12 sm:h-12 mx-auto mb-2 opacity-50"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={1}
+                      d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                    />
+                  </svg>
+                  <div className="text-sm font-medium">No options found</div>
+                  <div className="text-xs mt-1">Try different search terms</div>
                 </div>
               ) : (
-                filteredOptions.map((option, index) => (
-                  <button
-                    key={option.value}
-                    type="button"
-                    onClick={() => handleOptionSelect(option.value)}
-                    className={`
-                      w-full px-3 py-2 text-left text-sm transition-colors duration-150
-                      focus:outline-none
-                      theme-transition
-                      ${
-                        option.value === value
-                          ? isDarkMode
-                            ? "bg-purple-600 text-white"
-                            : "bg-[#5e45cd] text-white"
-                          : isDarkMode
-                          ? "hover:bg-gray-700 text-white"
-                          : "hover:bg-gray-100 text-gray-900"
-                      }
-                      ${
-                        index === highlightedIndex && option.value !== value
-                          ? isDarkMode
-                            ? "bg-gray-700"
-                            : "bg-gray-100"
-                          : ""
-                      }
-                    `}
-                  >
-                    {option.label}
-                  </button>
-                ))
+                <div className="space-y-0 sm:space-y-1 p-1">
+                  {filteredOptions.map((option, index) => (
+                    <button
+                      key={option.value}
+                      type="button"
+                      onClick={() => handleOptionSelect(option.value)}
+                      className={`
+                        w-full px-3 sm:px-4 py-2 sm:py-3 text-left transition-all duration-200 rounded-lg
+                        focus:outline-none focus:ring-1 focus:ring-inset border border-transparent
+                        theme-transition group relative overflow-hidden text-sm sm:text-base
+                        ${
+                          option.value === value
+                            ? isDarkMode
+                              ? "bg-purple-600/20 text-white border-purple-400/50 focus:ring-purple-500"
+                              : "bg-[#5e45cd]/10 text-[#5e45cd] border-[#5e45cd]/30 focus:ring-[#5e45cd]"
+                            : isDarkMode
+                            ? "hover:bg-gray-700/80 text-white focus:ring-purple-500 hover:border-gray-500"
+                            : "hover:bg-gray-50 text-gray-900 focus:ring-[#5e45cd] hover:border-gray-300"
+                        }
+                        ${
+                          index === highlightedIndex && option.value !== value
+                            ? isDarkMode
+                              ? "bg-gray-700/60 border-gray-500"
+                              : "bg-gray-50 border-gray-300"
+                            : ""
+                        }
+                        transform hover:scale-[1.02] active:scale-[0.98]
+                      `}
+                    >
+                      <div className="flex items-center justify-between">
+                        <span className="font-medium truncate pr-2">
+                          {option.label}
+                        </span>
+                        {option.value === value && (
+                          <svg
+                            className="w-3 h-3 sm:w-4 sm:h-4 flex-shrink-0"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                          >
+                            <path
+                              fillRule="evenodd"
+                              d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                              clipRule="evenodd"
+                            />
+                          </svg>
+                        )}
+                      </div>
+                    </button>
+                  ))}
+                </div>
               )}
             </div>
 
-            {/* Results Count */}
-            {searchTerm && (
+            {/* Enhanced Results Count */}
+            {searchTerm && filteredOptions.length > 0 && (
               <div
-                className={`px-3 py-2 text-xs border-t theme-transition sticky bottom-0 bg-inherit ${
+                className={`px-3 sm:px-4 py-2 text-xs border-t theme-transition sticky bottom-0 bg-inherit backdrop-blur-sm ${
                   isDarkMode
-                    ? "border-gray-600 text-gray-400"
-                    : "border-gray-200 text-gray-500"
+                    ? "border-gray-600 text-gray-400 bg-gray-800/95"
+                    : "border-gray-200 text-gray-500 bg-white/95"
                 }`}
               >
-                {filteredOptions.length} of {options.length} results
+                <div className="flex justify-between items-center">
+                  <span>
+                    {filteredOptions.length} of {options.length}
+                  </span>
+                  <span
+                    className={`px-2 py-1 rounded-full text-xs ${
+                      isDarkMode
+                        ? "bg-gray-700 text-gray-300"
+                        : "bg-gray-200 text-gray-700"
+                    }`}
+                  >
+                    {Math.round(
+                      (filteredOptions.length / options.length) * 100
+                    )}
+                    %
+                  </span>
+                </div>
               </div>
             )}
-
-            {/* Close button for mobile */}
-            <div className="sm:hidden p-2 border-t theme-transition border-gray-200 dark:border-gray-600">
-              <button
-                onClick={() => setIsOpen(false)}
-                className={`w-full py-2 text-sm font-medium rounded-lg theme-transition ${
-                  isDarkMode
-                    ? "bg-gray-700 text-white hover:bg-gray-600"
-                    : "bg-gray-200 text-gray-700 hover:bg-gray-300"
-                }`}
-              >
-                Close
-              </button>
-            </div>
           </div>
         )}
       </div>
@@ -587,9 +708,9 @@ const CardSection: React.FC = () => {
       {isSelecting && (
         <div
           ref={selectionPanelRef}
-          className={`max-w-2xl mx-auto rounded-lg shadow-lg border p-4 sm:p-6 transition-all duration-300 theme-transition my-8 ${
+          className={`max-w-2xl mx-auto rounded-lg shadow-lg border-2 p-4 sm:p-6 transition-all duration-300 theme-transition my-8 ${
             isDarkMode
-              ? "bg-gray-800 border-gray-700 shadow-gray-900/50"
+              ? "bg-gray-800 border-gray-600 shadow-gray-900/50"
               : "bg-white border-gray-200"
           }`}
         >
@@ -715,7 +836,7 @@ const CardSection: React.FC = () => {
             <div className="flex flex-col sm:flex-row justify-end gap-3 pt-4">
               <button
                 onClick={handleCancelSelection}
-                className={`px-4 sm:px-6 py-2 font-medium transition-colors duration-200 border rounded-lg focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition order-2 sm:order-1 ${
+                className={`px-4 sm:px-6 py-2 font-medium transition-colors duration-200 border-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-offset-2 theme-transition order-2 sm:order-1 ${
                   isDarkMode
                     ? "text-gray-300 hover:text-white border-gray-600 hover:bg-gray-700 focus:ring-purple-500"
                     : "text-gray-600 hover:text-gray-800 border-gray-300 hover:bg-gray-50 focus:ring-[#5e45cd]"

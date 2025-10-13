@@ -2,7 +2,6 @@
 
 import React, { useState, useEffect, useRef, forwardRef } from "react";
 import { Brand, Automobile, Engine, CarData } from "../single-comparison/types";
-import CarCard from "../single-comparison/CarCard";
 
 // Custom Select Component with Enhanced UX
 interface CustomSelectProps {
@@ -762,6 +761,7 @@ const CarDetails: React.FC<CarDetailsProps> = ({ carData, isDarkMode }) => {
 };
 
 // Enhanced Card Container Component
+// Enhanced Card Container Component - UPDATED: Make entire card clickable when empty
 interface CardContainerProps {
   carData: CarData | null;
   index: number;
@@ -777,11 +777,12 @@ const CardContainer: React.FC<CardContainerProps> = ({
 }) => {
   return (
     <div
+      onClick={!carData ? onEdit : undefined}
       className={`relative rounded-xl border-2 transition-all duration-300 hover:shadow-lg ${
         isDarkMode
           ? "bg-gray-800 border-gray-700 hover:border-purple-500/50 hover:shadow-purple-500/10"
           : "bg-white border-gray-200 hover:border-[#5e45cd]/50 hover:shadow-gray-200"
-      }`}
+      } ${!carData ? "cursor-pointer" : ""}`}
     >
       {/* Card Header */}
       <div

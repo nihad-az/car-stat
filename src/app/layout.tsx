@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Footer from "./components/layout/Footer";
 import Header from "./components/layout/Header";
 import ScrollToTop from "./components/UI/ScrollToTop";
@@ -10,11 +11,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="flex flex-col min-h-screen antialiased">
-        <ScrollToTop />
+      <body className="flex flex-col min-h-screen antialiased bg-[#0a0a0a] text-gray-100">
         <Header />
-        <main className="flex-grow">{children}</main>
+        <main id="main-content" className="flex-grow">
+          {children}
+        </main>
         <Footer />
+        <ScrollToTop />
       </body>
     </html>
   );
